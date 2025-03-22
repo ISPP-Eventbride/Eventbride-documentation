@@ -49,6 +49,7 @@
 | 19/03/2025 | v5.1    | Análisis cuantitativo mitad Sprint 2                                         | Sprint 2 | María de la Salud Carrera Talaverón |
 | 19/03/2025 | v5.2    | Análisis cualitativo mitad Sprint 2, Reestimación del Sprint                 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 22/03/2025 | v5.3    | Actualización del documento para el Sprint 2                                 | Sprint 2 | María de la Salud Carrera Talaverón |
+| 22/03/2025 | v5.4    | Reestimación Sprint 2                                                        | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -158,36 +159,54 @@ La reestimación de la planificación del Sprint 2 se realizó el día 22/03/202
 
 Se reasignaron algunas de las tareas que estaban pendientes o sin empezar, pero la mayoría sufrieron pocos cambios. Aquellas que ya se habían empezado no fueron reasignadas. La nueva distribución de tareas se hizo teniendo en cuenta las horas de trabajo que llevaba cada desarrollador y los roles que desempeña cada uno, además de tener en mente equilibrar las tareas de documentación y de código por persona, para que no se descompense el ratio documentación-código, algo que ha ocurrido ruante la primera semana del Sprint. De esta forma, el nuevo Sprint Backlog quedó así (a día 22 de marzo de 2025):
 
-| Tarea | Tiempo estimado (horas) | Asignados |
-|-------|-------------------------|-----------|
-| [FEATURE] Registro de Servicios | 9 | Sergio Pons, Miguel Hernández y Gonzalo Navas |
-| [FEATURE] Pestaña “Mis Eventos” | 9 | Pablo Jesús Castellanos, Miguel Hernández y Francisco Avilés |
-| [FEATURE] Solicitud de reserva de contratación de servicios y página de detalles del servicio | 12 | Héctor Noguera, Sergio Pons, Natalia Olmo y Manuel Pérez |
-| [FEATURE] Editar servicios | 4 | David Godoy |
-| Análisis cuantitativo y cualitativo del equipo | 4 | María de la Salud Carrera y Miguel Hernández |
-| Controlar tiempos Clockify | 3 | Pablo Jesús Castellanos |
-| [CHANGE] Poner la UI acorde | 6 | Pablo Jesús Castellanos y Miguel Hernández |
-| Revisar documento Deliverable Failure Conditions | 4 | Francisco Avilés, María de la Salud Carrera, Pablo Jesús Castellanos y Natalia Olmo |
-| Elaborar presentación | 12 | Daniel Benito y Gonzalo Navas |
-| Revisar documentos | 9 | Manuel Pérez, Antonio Montero, Pablo Jesús Castellanos y María de la Salud Carrera |
-| [FEATURE] Cambiar modelos | 16 | Miguel Hernández, Pablo Jesús Castellanos, Fran Avilés y Andrés Pizzano |
-| Gestionar feedback de usuarios piloto Sprint 1 | 4 | Daniel Benito y Gonzalo Navas |
-| Pasar pdfs y words a markdown | 6 | Ignacio Blanquero, Sergio Pons, Daniel Benito, Manuel Pérez y María de la Salud Carrera |
-| Intro de la presentación | 12 | Natalia Olmo, Daniel Benito, David Godoy y Miguel Hernández |
-| Actualizar los documentos "Análisis de costes" y "Monetización de la aplicación" | 4 | Lorenzo Torralba y Antonio Montero |
-| Documento retrospectiva | 4 | David Godoy y Andrés Pizzano |
-| Manual de usuario | 12 | Fernando José de Celis y Antonio Montero |
-| Desplegar la aplicación | 4 | Lorenzo Torralba y Andrés Pizzano |
-| [DOC] Informe de Contribuciones al Knowledge Base | 3 | Fernando de Celis Hurtado y Sergio Pons |
-| [DOC] Commitment Agreement Usuarios Piloto | 4 | Daniel Benito y Gonzalo Navas |
-| [DOC] Evaluación usuarios piloto | 3 | Daniel Benito y Gonzalo Navas |
-| [FEATURE] Añadir usuario admin | 15 | Adrián Cabello, Gonzalo Navas, Natalia Olmo, Pablo Jesús Castellano, Miguel Hernández, Fernando José de Celis |
-| [DOC] Vídeo demo aplicación | 7 | Fernando José de Celis y Adrián Cabello |
-| [DOC] Pasar commitment agreements v3 a md | 4 | Ignacio Blanquero y Antonio Montero |
-| [DOC] Pasar informe de IA a md | 3 | María de la Salud Carrera |
-| [DOC] Time Effort Report | 3 | Ignacio Blanquero |
-| [DOC] Documento Performance Evaluation | 2 | Francisco Avilés |
-| [CHANGE] Problema con gitignore | 1 | Lorenzo Torralba |
+| Tarea                                                             | Tiempo estimado (horas) | Asignados                                                                          |
+|-------------------------------------------------------------------|-------------------------|------------------------------------------------------------------------------------|
+| [DOC] Modificar documento de métricas                             | 2                       | María de la Salud Carrera                                                          |
+| [FEATURE] Hacer release mitad de Sprint                           | 1                       | María de la Salud Carrera                                                          |
+| [FEATURE] Hacer release final de Sprint                           | 1                       | María de la Salud Carrera                                                          |
+| [DOC] Actualizar "Análisis cualitativo y cuantitativo"            | 2                       | María de la Salud Carrera                                                          |
+| [CHANGE] Mover todos los documentos a un repositorio aparte       | 3                       | María de la Salud Carrera, Pablo Jesús Castellanos, Sergio Pons                    |
+| [DOC] Documento cómo se hacen las revisiones de las tareas        | 4                       | María de la Salud Carrera, Manuel Pérez, Antonio Montero                           |
+| [FEATURE] Recibir notificaciones                                  | 6                       | María de la Salud Carrera, Manuel Pérez                                            |
+| [DOC] Revisar Deliverable Failure Conditions                      | 4                       | María de la Salud Carrera, Pablo Jesús Castellanos, Natalia Olmo, Francisco Avilés |
+| [DOC] Actualizar presentación                                     | 12                      | Pablo Jesús Castellanos, Francisco Avilés, Miguel Hernández, Daniel Benito         |
+| [FEATURE] Implementar plataforma de pago final                    | 6                       | Adrián Cabello, Gonzalo Navas                                                      |
+| [FEATURE] Poner la UI acorde                                      | 10                      | Gonzalo Navas, Andrés Pizzano                                                      |
+| [DOC] Time effort Report                                          | 2                       | Ignacio Blanquero                                                                  |
+| [MARKETING] Contenido a redes sociales semana 2 Sprint 2          | 12                      | Manuel Pérez, Antonio Montero, Natalia Olmo, Sergio Pons                           |
+| [DOC]: Calendario compartido                                      | 1                       | Manuel Pérez                                                                       |
+| [FEATURE] Eliminar servicio                                       | 6                       | Gonzalo Navas, Lorenzo Torralba                                                    |
+| [FEATURE] Cancelación del servicio                                | 8                       | Miguel Hernández, Lorenzo Torralba                                                 |
+| [DOC] Actualizar KBReport.md                                      | 2                       | Ignacio Blanquero                                                                  |
+| [FEATURE] Calificar servicios                                     | 6                       | Lorenzo Torralba, Héctor Noguera                                                   |
+| [FEATURE] Chat                                                    | 9                       | Héctor Noguera, David Godoy, Miguel Hernández                                      |
+| [DOC] Actualizar revision.md                                      | 4                       | Antonio Montero, Fernando José de Celis                                            |
+| [FEATURE] Controlar accesos rutas                                 | 8                       | Andrés Pizzano, Francisco Avilés                                                   |
+| [DOC] Customer agreement                                          | 1.5                     | Fernando José de Celis                                                             |
+| [DOC] Story board                                                 | 7                       | Pablo Jesús Castellanos, Natalia Olmo, Daniel Benito                               |
+| [MARKETING] Video Demo                                            | 4                       | Adrián Cabello, Fernando José de Celis                                             |
+| [DOC] Retrospectiva del Sprint 2                                  | 1.5                     | Sergio Pons                                                                        |
+| [MRKTN] Pensar intro para la presentación                         | 3                       | Natalia Olmo, David Godoy, Daniel Benito                                           |
+| [DOC] Actualizar documento de problemas encontrados               | 1.5                     | Héctor Noguera                                                                     |
+| [GESTIÓN] Gestión usuarios piloto                                 | 3                       | Daniel Benito                                                                      |
+| [DOC] Documento uso de la IA                                      | 1                       | Ignacio Blanquero                                                                  |
+| [FEATURE] Validez de formularios                                  | 4                       | Antonio Montero, Sergio Pons                                                       |
+| [FEATURE] Gestionar más de 1 evento con el mismo servicio         | 8                       | David Godoy, Adrián Cabello                                                        |
+| [DOC] Pasar feedback de esta semana a md                          | 1                       | Sergio Pons                                                                        |
+| [DOC] Corregir documentos                                         | 6                       | Pablo Jesús Castellanos, Francisco Avilés                                          |
+| [FEATURE] Añadir mapa                                             | 3                       | Ignacio Blanquero                                                                  |
+| [DOC] Changelog                                                   | 2                       | Ignacio Blanquero                                                                  |
+| [DOC] Actualizar términos y condiciones                           | 1.5                     | Fernando José de Celis                                                             |
+| [DOC] Pensar recompensas para los mejores trabajadores            | 1                       | Héctor Noguera                                                                     |
+| [FEATURE] Soporte técnico                                         | 8                       | Antonio Montero, Gonzalo Navas                                                     |
+| [FEATURE] Plan premium y plan freemium                            | 8                       | Miguel Hernández, Héctor Noguera                                                   |
+| [MRKTN] Eliminar etiquetados de la cuenta de Instagram            | 2                       | Manuel Pérez                                                                       |
+| [MRKTN] Vídeo presentación de la empresa                          | 8                       | Daniel Benito, Natalia Olmo, Fernando José de Celis, Manuel Pérez                  |
+| [MRKTN] Vídeo contexto historia Dani y David                      | 10                      | Daniel Benito, Natalia Olmo, Fernando José de Celis, David Godoy, Sergio Pons      |
+| [MRKTN] Subir posts e historias a Instagram                       | 2                       | Sergio Pons, Antonio Montero                                                       |
+| [FEATURE] Editar perfil                                           | 4                       | Francisco Avilés, David Godoy                                                      |
+| [FEATURE] Añadir sección preguntas frecuentes al footer de la web | 1                       | Lorenzo Torralba                                                                   |
+| [MRKTN] Vídeo presentación del equipo                             | 6                       | Natalia Olmo, Fernando José de Celis                                               |
 
 <div id='concl'></div>
 
