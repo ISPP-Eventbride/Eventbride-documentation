@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 22/03/2025
+### Fecha: 20/03/2025
 
 ### Entregable: Sprint 2
 
@@ -34,7 +34,7 @@
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 16/03/2025 | v1.0    | Creación del documento y estructura básica | Sprint 2 | Héctor Noguera González             |
-| 22/03/2025 | v1.1    | Corrección del índice de contenidos        | Sprint 2 | María de la Salud Carrera Talaverón |
+| 20/03/2025 | v1.1    | Modificación apartado 4 | Sprint 2 | Héctor Noguera González             |
 
 ---
 
@@ -78,7 +78,10 @@ Si después de esto aún no has encontrado una solución, investiga en la web e 
 
 Si estás realizando una tarea que está asignada a otra persona y esta no está cumpliendo con su parte del trabajo, primero intenta contactar con ella para pedirle que realice su parte o que trabaje en conjunto contigo.
 
-Si, a pesar de esto, la persona sigue sin cumplir con su tarea, habla con Héctor Noguera, el Policy Manager, quien se pondrá en contacto con el jefe del subgrupo al que pertenece para analizar la situación. Primero, se le dará un aviso a la persona que no está trabajando como se espera. Si, tras unos días, sigue sin cumplir con su parte, se informará a los jefes de los demás subgrupos y se tomarán las medidas necesarias.
+Si, a pesar de esto, la persona sigue sin cumplir con su tarea, habla con Héctor Noguera, el Policy Manager, quien se pondrá en contacto con el jefe del subgrupo al que pertenece para analizar la situación. Primero, se le dará un aviso a la persona que no está trabajando como se espera. Si, tras unos días, sigue sin cumplir con su parte, se informará a los jefes de los demás subgrupos y se reunirán. Los jefes del proyecto junto al Policy Manager verán la posibilidad de darle un Strike al miembro que no está trabajando, si en un mismo Sprint se le han dos Strikes o más Strikes se le bajará 1 punto de la nota del Sprint.
+
+Si se ve que a una persona ha recibido reiteradamente varios Strikes, se estudiará la posibilidad de la expulsión del proyecto.
+
 
 <div id='id4'></div>
 
