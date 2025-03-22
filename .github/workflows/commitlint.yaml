@@ -1,0 +1,17 @@
+name: Commit Message Linter
+
+on:
+  push:
+    branches:
+      - '**'
+
+jobs:
+  commitlint:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Validate commit messages
+        uses: wagoid/commitlint-github-action@baa1b236f990293a1b2d94c19e41c2313a85e749

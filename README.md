@@ -94,5 +94,3 @@ Puede ver la licencia de nuestro proyecto en el siguiente enlace: [Licencia](./d
 - Email: eventbride6@gmail.com   
 
 - [Instagram](https://www.instagram.com/eventbride_svq/)
-
-- [GitHub issues](https://github.com/ISPP-Eventbride/Eventbride/issues)
