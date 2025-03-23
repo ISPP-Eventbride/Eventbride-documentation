@@ -83,7 +83,7 @@ Con las siguientes credenciales deberías poder acceder al sistema correctamente
 
 Estos son todos los participantes de este proyecto. Gracias a ellos ha sido posible.
 
-[[Contribuidores](https://github.com/ISPP-Eventbride/Eventbride/graphs/contributors)].
+[![Contribuidores](https://contrib.rocks/image?repo=ISPP-Eventbride/Eventbride)](https://github.com/ISPP-Eventbride/Eventbride/graphs/contributors)
 
 ## Licencias
 
