@@ -37,6 +37,7 @@
 |12/02/2025 |v1.1|Correcciones ortográficas y de redacción| Sprint 1 |Gonzalo Navas Remmers|
 |12/02/2025 |v1.1|Cambios en los criterios de evaluación| Sprint 1 |Gonzalo Navas Remmers|
 |13/02/2025 |v2.0|Estudiantes calificados| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers|
+|25/03/2025 |v2.1|Estudiantes calificados| Sprint 2 | David Godoy Fernández y Daniel Benito Hidalgo|
 
 
 ## Contenido
