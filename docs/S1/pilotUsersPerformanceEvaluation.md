@@ -90,12 +90,21 @@ Una vez explicados los diferentes criterios y prácticas que rigen el proceso de
 
 |Alumno|Sprint|Nota asignada|Justificación|
 |---|---|---|---|
-|Alba Ramos Vargas |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
-|Felipe Solís Agudo |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
-|Hugo Borrero Ángulo |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
-|Jorge Muñoz Rodríguez |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
-|Luis Mellado Díaz |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
-|Ramón Vergara Garrido |Sprint 1| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
+|Alba Ramos Vargas |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
+|Felipe Solís Agudo |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
+|Hugo Borrero Ángulo |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
+|Jorge Muñoz Rodríguez |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación|
+|Luis Mellado Díaz |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación  |
+|Ramón Vergara Garrido |DP| 10 | Al no haberse declarado los criterios de evaluación al momento de aportarse el feedback, se ha tenido en cuenta que aportar feedback útil supone la máxima calificación|
+
+|Alumno|Sprint|Nota asignada|Justificación|
+|---|---|---|---|
+|Alba Ramos Vargas |Sprint 1| 0 | No se ha aportado feedback en esta entrega, aunque ha avisado de que no podria hacerlo |
+|Felipe Solís Agudo |Sprint 1| 10 | Ha seguido correctamente los criterios establecidos y el feedback útil y aporta soluciones |
+|Hugo Borrero Ángulo |Sprint 1| 8 | El feedback aportado es útil pero hay ocasiones en el que este esta poco detallado |
+|Jorge Muñoz Rodríguez |Sprint 1| 6 | Se ha aprotado feedback pero este es muy mejorable, no aporta soluciones y es algo escueto |
+|Luis Mellado Díaz |Sprint 1| 0 | No se ha aportado feedback en esta entrega, además no se ha comunicado con nosotros de ninguna forma  |
+|Ramón Vergara Garrido |Sprint 1| 5 | Ha aportado el feedback mínimo y necesario segun el criterio |
 
 
 <div id='bib'></div>
