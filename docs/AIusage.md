@@ -154,6 +154,9 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |18|Ayuda para generar una entidad nueva| Pablo Jesús Castellanos Compaña |15/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67d6b8bd-aa88-8008-84d5-33a5432950ab)| Sprint 2|
 |19|Ayuda para generar una entidad nueva| Pablo Jesús Castellanos Compaña |16/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67d7210b-dbd0-8008-998a-655981e7134f)| Sprint 2|
 |20|Implementar y resolver errores de sonarqube cloud| Daniel Benito Hidalgo |18/03/2025|[Chat con ChatGPT](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67dea91c-ae28-8008-a594-ded27ce9d3eb)| Sprint 2|
+|21|Tests unitarios para la clase EventService| Ignacio Blanquero Blanco |24/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67e1342c-4d98-8008-bdc8-b54bb9389724)| Sprint 2|
+|22|Tests unitarios para la clase EventPropertiesService| Ignacio Blanquero Blanco |24/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67e149f3-b8b4-8008-a84b-07b1b2af396e)| Sprint 2|
+
 
 <div id='id8'></div>
 
@@ -181,6 +184,9 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |18 |2 |Sí |No procede |15 minutos|
 |19 |1 |Sí |Sí |30 minutos|
 |20 |1 |Sí |Si |35 minutos|
+|21 |1 |Sí |Si |1 hora y 10 minutos|
+|22 |1 |Sí |Si |55 minutos|
+
 <div id='alucinaciones'></div>
 
 ## Alucinaciones de la IA
