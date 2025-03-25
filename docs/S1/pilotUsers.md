@@ -39,7 +39,8 @@
 | 27/02/2025 | v2.0     | Adición de información más concreta sobre el análisis de viabilidad | Sprint 1 | María de la Salud Carrera Talaverón y Sergio Pons López |
 | 11/03/2025 | v3.0     | Redacción del documento en formato markdown | Sprint 1 | Ignacio Blanquero Blanco |
 |12/03/2025|v4.0|Reestructuración documento| Sprint 1 | María de la Salud Carrera Talaverón |
-|13/03/2025|v5.0|Resultados de la encuesta de feedback del S1| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
+|13/03/2025|v5.0|Resultados de la encuesta de feedback del DP| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
+|25/03/2025|v5.1|Resultados de la encuesta de feedback del S1| Sprint 2 | David Godoy Fernández |
 
 ## Contenido
 1. [Introducción](#intro)
