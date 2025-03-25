@@ -1,7 +1,33 @@
-[Conversación de chatgpt usada en el desarrollo de este documento](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67c5b514-0e60-8008-8764-70efc40ab355 )
+# <center>Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Curso 2024-2025</center>
+## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
+<center><img src="..\..\img\Eventbride.png"></center>
 
-**Version: 2.0**
-# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Curso 2024-2025
+### Grupo 3: Eventbride
+
+### Miembros:
+- Francisco Avilés Carrera
+- Daniel Benito Hidalgo
+- Ignacio Blanquero Blanco
+- Adrián Cabello Martín
+- María de la Salud Carrera Talaverón
+- Pablo Jesús Castellanos Compaña
+- Fernando José de Celis Hurtado
+- David Godoy Fernández
+- Miguel Hernández Sánchez
+- Antonio Montero López
+- Gonzalo Navas Remmers
+- Héctor Noguera González
+- Natalia Olmo Villegas
+- Manuel Pérez Vélez
+- Andrés Pizzano Cerrillos
+- Sergio Pons López
+- Lorenzo Torralba Lanzas
+
+### Fecha: 25/03/2025
+
+### Entregable: Sprint 2
+
+### Versión :2.0
 
 **Nombre del Usuario:** **Hugo Borrego Ángulo**
 
