@@ -50,6 +50,7 @@
 | 19/03/2025 | v5.2    | Análisis cualitativo mitad Sprint 2, Reestimación del Sprint                 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 22/03/2025 | v5.3    | Actualización del documento para el Sprint 2                                 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 22/03/2025 | v5.4    | Reestimación Sprint 2                                                        | Sprint 2 | María de la Salud Carrera Talaverón |
+| 25/03/2025 | v5.5    | Análisis cuantitativo (LdC)                                                  | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -70,27 +71,27 @@ El presente documento tiene como objetivo realizar un análisis tanto cuantitati
 
 ## Análisis cuantitativo
 
-El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 10 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas, 5 tests y 150 horas. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`. La finalización del Sprint 2 supone aproximadamente el 57% del tiempo del proyecto. Por tanto, se espera que para el jueves día 20 de marzo de 2025 se lleven alrededor de 285 LdC, 6 commits, 8 issues completadas, 3 PR revisadas, 3 tests y 85.5 horas por persona. Si alguna de estas métricas aún no se ha cumplido, hay margen para compensarlas en sprints futuros (especialmente los tests, ya que no se han contemplado en la planificación aún). En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 26 de marzo de 2025 (al mediodía)[^2]:
+El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 10 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas, 5 tests y 150 horas. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`. La finalización del Sprint 2 supone aproximadamente el 57% del tiempo del proyecto. Por tanto, se espera que para el jueves día 27 de marzo de 2025 se lleven alrededor de 285 LdC, 6 commits, 8 issues completadas, 3 PR revisadas, 3 tests y 85.5 horas por persona. Si alguna de estas métricas aún no se ha cumplido, hay margen para compensarlas en sprints futuros (especialmente los tests, ya que no se han contemplado en la planificación aún). En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 26 de marzo de 2025 (al mediodía)[^2]:
 
 | Desarrollador/a                     | LdC             | Commits | Issues completadas | PR revisadas | Tests | Horas     |
 |-------------------------------------|-----------------|---------|--------------------|--------------|-------|-----------|
-| Francisco Avilés Carrera            | 6768++ 9036--   | 14      | 15                 | 7            | 0     | 75:53:30  |
-| Daniel Benito Hidalgo               | 2260++ 291--    | 14      | 15                 | 4            | 0     | 92:14:26  |
-| Ignacio Blanquero Blanco            | 4520++ 582--    | 66      | 11                 | 1            | 0     | 96:13:19  |
-| Adrián Cabello Martín               | 416127++ 424--  | 25      | 13                 | 3            | 0     | 73:14:34  |
-| María de la Salud Carrera Talaverón | 10650++ 9634--  | 33      | 18                 | 9            | 0     | 74:33:36  |
-| Pablo Jesús Castellanos Compaña     | 2551++ 1372--   | 54      | 27                 | 14           | 0     | 119:54:18 |
-| Fernando José de Celis Hurtado      | 925++ 506--     | 9       | 10                 | 2            | 0     | 67:11:49  |
+| Francisco Avilés Carrera            | 7024++ 9121--   | 14      | 15                 | 7            | 0     | 75:53:30  |
+| Daniel Benito Hidalgo               | 2354++ 315--    | 14      | 15                 | 4            | 0     | 92:14:26  |
+| Ignacio Blanquero Blanco            | 4536++ 590--    | 66      | 11                 | 1            | 0     | 96:13:19  |
+| Adrián Cabello Martín               | 416498++ 502--  | 25      | 13                 | 3            | 0     | 73:14:34  |
+| María de la Salud Carrera Talaverón | 12463++ 9796--  | 33      | 18                 | 9            | 0     | 74:33:36  |
+| Pablo Jesús Castellanos Compaña     | 3576++ 1812--   | 54      | 27                 | 14           | 0     | 119:54:18 |
+| Fernando José de Celis Hurtado      | 1082++ 507--    | 9       | 10                 | 2            | 0     | 67:11:49  |
 | David Godoy Fernández               | 1010++ 391--    | 13      | 15                 | 4            | 0     | 73:47:39  |
-| Miguel Hernández Sánchez            | 1202++ 533--    | 22      | 16                 | 3            | 0     | 75:10:51  |
+| Miguel Hernández Sánchez            | 1290++ 572--    | 22      | 16                 | 3            | 0     | 75:10:51  |
 | Antonio Montero López               | 118++ 86--      | 6       | 9                  | 4            | 0     | 79:50:40  |
-| Gonzalo Navas Remmers               | 1512++ 888--    | 15      | 16                 | 0            | 0     | 80:38:19  |
-| Héctor Noguera González             | 16++ 4--        | 2       | 10                 | 4            | 0     | 71:29:43  |
-| Natalia Olmo Villegas               | 537++ 168--     | 8       | 21                 | 3            | 0     | 106:42:21 |
-| Manuel Pérez Vélez[^3]              | 1188++ 606--    | 4       | 13                 | 1            | 0     | 82:28:10  |
-| Andrés Pizzano Cerrillos            | 1476++ 597--    | 19      | 13                 | 4            | 0     | 68:51:51  |
-| Sergio Pons López                   | 1432++ 34--     | 14      | 9                  | 1            | 0     | 82:35:03  |
-| Lorenzo Torralba Lanzas             | 554++ 136--     | 10      | 14                 | 2            | 0     | 58:18:14  |
+| Gonzalo Navas Remmers               | 1733++ 929--    | 15      | 16                 | 0            | 0     | 80:38:19  |
+| Héctor Noguera González             | 376++ 37--      | 2       | 10                 | 4            | 0     | 71:29:43  |
+| Natalia Olmo Villegas               | 1267++ 491--    | 8       | 21                 | 3            | 0     | 106:42:21 |
+| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 4       | 13                 | 1            | 0     | 82:28:10  |
+| Andrés Pizzano Cerrillos            | 3391++ 1136--   | 19      | 13                 | 4            | 0     | 68:51:51  |
+| Sergio Pons López                   | 1958++ 141--    | 14      | 9                  | 1            | 0     | 82:35:03  |
+| Lorenzo Torralba Lanzas             | 595++ 139--     | 10      | 14                 | 2            | 0     | 58:18:14  |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
