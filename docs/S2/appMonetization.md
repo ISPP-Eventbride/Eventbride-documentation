@@ -95,7 +95,7 @@ Esto es importante para servicios como el catering, que suele cobrarse por núme
 Fecha límite para realizar el pago del evento:
 - Bodas: 4 meses antes 
 - Bautizos: 1 mes antes 
-- Comuniones: 2 meses antes
+- Comuniones: 3 meses antes
 
 Se añadirá también en el desglose el porcentaje de comisión de Eventbride, todo anteriormente referenciado arriba en el documento.
 
