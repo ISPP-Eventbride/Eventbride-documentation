@@ -45,6 +45,7 @@
 5. [Conclusiones](#concl)
 6. [Bibliografía](#bib)
 
+**ENLACE A LA BASE COMÚN DE CONOCIMIENTO:** https://github.com/ISPP-2425/BCC
 
 <div id='intro'></div>
 
