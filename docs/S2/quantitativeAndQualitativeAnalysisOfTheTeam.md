@@ -51,6 +51,7 @@
 | 22/03/2025 | v5.3    | Actualización del documento para el Sprint 2                                 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 22/03/2025 | v5.4    | Reestimación Sprint 2                                                        | Sprint 2 | María de la Salud Carrera Talaverón |
 | 25/03/2025 | v5.5    | Análisis cuantitativo (LdC)                                                  | Sprint 2 | María de la Salud Carrera Talaverón |
+| 26/03/2025 | v5.6    | Análisis cuantitativo (resto de métricas)                                    | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -75,23 +76,23 @@ El análisis cuantitativo se va a realizar en base a las métricas establecidas 
 
 | Desarrollador/a                     | LdC             | Commits | Issues completadas | PR revisadas | Tests | Horas     |
 |-------------------------------------|-----------------|---------|--------------------|--------------|-------|-----------|
-| Francisco Avilés Carrera            | 7024++ 9121--   | 14      | 15                 | 7            | 0     | 75:53:30  |
-| Daniel Benito Hidalgo               | 2354++ 315--    | 14      | 15                 | 4            | 0     | 92:14:26  |
-| Ignacio Blanquero Blanco            | 4536++ 590--    | 66      | 11                 | 1            | 0     | 96:13:19  |
-| Adrián Cabello Martín               | 416498++ 502--  | 25      | 13                 | 3            | 0     | 73:14:34  |
-| María de la Salud Carrera Talaverón | 12463++ 9796--  | 33      | 18                 | 9            | 0     | 74:33:36  |
-| Pablo Jesús Castellanos Compaña     | 3576++ 1812--   | 54      | 27                 | 14           | 0     | 119:54:18 |
-| Fernando José de Celis Hurtado      | 1082++ 507--    | 9       | 10                 | 2            | 0     | 67:11:49  |
-| David Godoy Fernández               | 1010++ 391--    | 13      | 15                 | 4            | 0     | 73:47:39  |
-| Miguel Hernández Sánchez            | 1290++ 572--    | 22      | 16                 | 3            | 0     | 75:10:51  |
-| Antonio Montero López               | 118++ 86--      | 6       | 9                  | 4            | 0     | 79:50:40  |
-| Gonzalo Navas Remmers               | 1733++ 929--    | 15      | 16                 | 0            | 0     | 80:38:19  |
-| Héctor Noguera González             | 376++ 37--      | 2       | 10                 | 4            | 0     | 71:29:43  |
-| Natalia Olmo Villegas               | 1267++ 491--    | 8       | 21                 | 3            | 0     | 106:42:21 |
-| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 4       | 13                 | 1            | 0     | 82:28:10  |
-| Andrés Pizzano Cerrillos            | 3391++ 1136--   | 19      | 13                 | 4            | 0     | 68:51:51  |
-| Sergio Pons López                   | 1958++ 141--    | 14      | 9                  | 1            | 0     | 82:35:03  |
-| Lorenzo Torralba Lanzas             | 595++ 139--     | 10      | 14                 | 2            | 0     | 58:18:14  |
+| Francisco Avilés Carrera            | 7024++ 9121--   | 20      | 19                 | 10           | 0     | 88:19:45  |
+| Daniel Benito Hidalgo               | 2354++ 315--    | 22      | 21                 | 7            | 0     | 108:41:45 |
+| Ignacio Blanquero Blanco            | 4536++ 590--    | 71      | 13                 | 4            | 0     | 110:48:16 |
+| Adrián Cabello Martín               | 416498++ 502--  | 30      | 16                 | 9            | 0     | 86:33:49  |
+| María de la Salud Carrera Talaverón | 12463++ 9796--  | 44      | 22                 | 11           | 0     | 85:25:34  |
+| Pablo Jesús Castellanos Compaña     | 3576++ 1812--   | 69      | 33                 | 18           | 0     | 152:39:06 |
+| Fernando José de Celis Hurtado      | 1082++ 507--    | 12      | 15                 | 3            | 0     | 88:35:58  |
+| David Godoy Fernández               | 1010++ 391--    | 13      | 19                 | 4            | 0     | 86:40:51  |
+| Miguel Hernández Sánchez            | 1290++ 572--    | 24      | 18                 | 5            | 0     | 97:37:36  |
+| Antonio Montero López               | 118++ 86--      | 6       | 14                 | 5            | 0     | 91:46:40  |
+| Gonzalo Navas Remmers               | 1733++ 929--    | 17      | 22                 | 2            | 0     | 86:21:35  |
+| Héctor Noguera González             | 376++ 37--      | 12      | 11                 | 8            | 0     | 90:03:30  |
+| Natalia Olmo Villegas               | 1267++ 491--    | 16      | 28                 | 5            | 0     | 134:39:16 |
+| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 10      | 17                 | 5            | 0     | 100:32:47 |
+| Andrés Pizzano Cerrillos            | 3391++ 1136--   | 29      | 16                 | 5            | 0     | 89:05:24  |
+| Sergio Pons López                   | 1958++ 141--    | 29      | 13                 | 5            | 0     | 101:22:33 |
+| Lorenzo Torralba Lanzas             | 595++ 139--     | 13      | 17                 | 2            | 0     | 72:30:11  |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -117,7 +118,7 @@ La labor de los desarrolladores y testers incluye:
 | Ignacio Blanquero Blanco            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Adrián Cabello Martín               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | María de la Salud Carrera Talaverón | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
+| Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Fernando José de Celis Hurtado      | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | David Godoy Fernández               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
@@ -221,8 +222,8 @@ En conclusión, el análisis del Sprint 2 de "Eventbride" ha permitido observar 
 
 No procede.
 
-[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento y no a las contribuciones hechas en la rama `develop` del mismo. En este caso, esta métrica corresponde a la release `v2.0.1` del 22 de marzo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
+[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v2.0.1` del 22 de marzo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
-[^2]: Se ha realizado a fecha de un día anterior a la finalización de la primera semana del Sprint 2 para poder redactar el documento con margen suficiente antes de la elaboración de la presentación. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en esa fecha, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
+[^2]: Se ha realizado a fecha de un día anterior a la finalización de la primera semana del Sprint 2 para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en esa fecha, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
 [^3]: Manuel Pérez Velez está contribuyendo al proyecto de GitHub de Eventbride con dos cuentas de GitHub diferentes. Sus métricas de LdC, commits, issues, PRs y tests se calcularán sumando las contribuciones hechas desde ambas cuentas.
