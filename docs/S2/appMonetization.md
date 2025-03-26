@@ -48,8 +48,7 @@
 4. [Contacto con los proveedores ](#id2)
 5. [Ingresos de la aplicación  ](#id3)
 5. [Estimación de costos e ingresos a corto y medio plazo](#id4)
-6. [Sistema de reembolso](#id5)
-7. [Bibliografía ](#bib)
+6. [Bibliografía ](#bib)
 
 
 
