@@ -36,6 +36,7 @@
 | 20/02/2025 | v1.0    | Creación del documento y redacción de las contribuciones de cada miembro para el entregable DP | DP | Ignacio Blanquero Blanco |
 | 13/03/2025 | v1.1    | Redacción de las contribuciones de cada miembro para el entregable S1 | Sprint 1 | Ignacio Blanquero Blanco, Francisco Avilés Carrera |
 | 27/03/2025 | v2.0    | Actualización de apartados para el Sprint 2 | Sprint 2 | María de la Salud Carrera Talaverón |
+| 27/03/2025 | v2.1    | Contribuciones del equipo (excepto David, Antonio y Manuel) | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -441,37 +442,81 @@ Cabe destacar que he asistido a todas las clases y reuniones realizadas durante 
 
 En este primer Sprint he desarrollado las siguientes tares: Tome parte en crear el documento de requisitos y en el documento de resumen de la IA. Por otra parte, estuve creando las tablas de entidades en el backend junto a varios compañeros. Junto con mi compañero Andrés Pizzano estuve creando el menú de home. Además, estuve ayudando a Natalia Olmos en el feature de crear eventos. Por otro lado, y tras muchos problemas, nuevamente junto con Andrés Pizzano hemos hecho el despliegue de la aplicación en AppEngine junto con la base de datos alojada también en los servicios de Google Cloud. Finalmente, he actualizado el documento de Análisis de costes para introducir el desglose CAPEX y OPEX y he actualizado el documento de Monetización de la aplicación para introducir los gastos y beneficios estimados a corto y medio plazo.
 
-<div id='id3'></div>
+<div id='id4'></div>
 
 ## Sprint 2 (S2)
 
 ### Avilés Carrera, Francisco
 
-Pendiente.
+Durante este Sprint (14-27 de marzo), he realizado diversas tareas.
+
+En la primera semana (14-20 de marzo), participé en el reparto de tareas como Jefe de Equipo. Luego, me centré en la tarea de código que se me asignnó para esa semana, que consistía en diseñar e implementar el backend de la reserva de servicios para un evento. En cuanto a documentación, modifiqué los costes existentes (CAPEX, OPEX...) y recalculé los costes acumulados, sumando los nuevos.
+
+En la segunda semana (21-27 de marzo), participé nuevamente en la asignación de tareas. Implementé la funcionalidad de edición de perfil para los tres tipos de usuarios y, posteriormente, un compañero retocó el frontend. También ayudé y supervisé la mejora de seguridad de la aplicación. En cuanto a documentación, comencé ajustando los requisitos, la explicación de la app y la escalabilidad según nuestra concepción actual. Luego, recalculé los costes acumulados. El último día, me encargué de actualizar la presentación. Finalmente, revisé que el entregable cumpliera con los Deliverable Failure Conditions.
+
+Por último, resaltar que he asistido a todas las reuniones, incluidas las generales (miércoles y sábados) y las de Jefes de Equipo (sábados). Además, vi todas las píldoras teóricas y comenté lo aprendido con mis compañeros para aplicarlo al proyecto.
 
 ### Benito Hidalgo, Daniel
 
-Pendiente.
+Mi trabajo a lo largo del segundo sprint ha estado aobre todo centrado en tareas relacionadas a documentación o marketing.
+Los primeros dias del sprint estuve desarrollando la encuesta que se pasaría a los usuarios piloto en relación al feedback del primer sprint, tras la entrega de esta estuve revisando que no ocurrieran incidencias con relación a esta primera prueba sobre la plataforma real, intentado poner solucion a cualquier problema que los usuarios encontrasen.
+
+Los dias siguientes me centré en actualizar la presentación para que estuviera acorde al feedback aportado, tarea que se ha repetido para cada presentación del sprint.  Como presentador fijo, he estado ensayando dichas presentaciones con mi compañero, Miguel Hernández. Junto a todo esto, he participado en la preparación y planteamiento de los killer openers o teatrillos iniciales  con Natalia Olmo y Miguel, entre otras personas.
+
+La segunda semana implico el nicio de las primeras tareas relacionadas con el marketing, en mi caso he realizado 3 storyboards de anuncios,  2 de ellos orientados a los usuarios de la plataforma, y otro dirigido a posibles inversores. Por ultimo, he estado participando en la grabación de los anuncios como actor en estos.
 
 ### Blanquero Blanco, Ignacio
 
-Pendiente.
+Durante las tres semanas correspondientes al Sprint 2, he llevado a cabo diversas tareas orientadas a continuar con el desarrollo del proyecto y asegurar el cumplimiento de los objetivos establecidos.
+
+En primer lugar, me encargué de reorganizar la información del feedback recibido el viernes 14 de marzo, siguiendo la plantilla establecida en OneDrive. Posteriormente, procedí a convertir dicho documento, titulado "Clase 14/03/2025 feedback Sprint 2", al formato markdown y lo compartí con mi compañera Natalia Olmo.
+
+En el marco del uso de inteligencia artificial en el proyecto, actualicé el documento correspondiente calculando el porcentaje de alucinaciones detectadas durante su utilización, con el objetivo de evaluar su fiabilidad y aportar transparencia en cuanto a su empleo por parte del equipo.
+
+Asimismo, elaboré el documento KBReport, en el cual se detallan las contribuciones realizadas por nuestro grupo a la Base Común de Conocimiento (BCC), reflejando así el compromiso del equipo con la colaboración y el intercambio de aprendizajes.
+
+Con el fin de mejorar la experiencia del usuario en la búsqueda de servicios dentro de la aplicación, implementé la funcionalidad que permite añadir un mapa interactivo, facilitando la selección de opciones por zonas geográficas.
+
+Además, redacté el changelog del proyecto, siguiendo las directrices especificadas en las guías oficiales de Commitizen y Keep a Changelog, lo que permitió mantener un registro claro y estructurado de los cambios realizados durante este Sprint.
+
+También me ocupé de la redacción del documento Time Effort Report correspondiente al Sprint 2, en el que se detalla el tiempo dedicado por cada miembro del equipo a las distintas tareas, así como el esfuerzo invertido, con el fin de facilitar la evaluación del rendimiento y la planificación futura.
+
+Finalmente, realicé pruebas funcionales (testing) sobre los servicios correspondientes a las entidades Event y EventProperties, verificando su correcto funcionamiento e identificando posibles incidencias a corregir antes de su despliegue definitivo.
 
 ### Cabello Martín, Adrián
 
-Pendiente.
+He hecho las siguientes tareas:
+- Grabar el vídeo demo y recortar los segmentos para cuadrarlo.
+- Implementar el botón de pagar todo, permitiendo que con un pago de PayPal se paguen todos los servicios asociados al evento.
+- Gestionar que un servicio pueda estar en más de un evento el mismo día, para ello se estableció el estado de cancelado para los servicios y éstos obtienen este estado una vez que para otro evento, se paga el servicio y este tiene el mismo día. A su vez, el servicio cancelado puede volver a solicitarse.
+- Implementar los pagos de los planes de los proveedores y su lógica tras esto.
+- Arreglos varios en la UI.
 
 ### Carrera Talaverón, María de la Salud
 
-Pendiente.
+Este Sprint me he enfocado más en tareas de coordinación y documentación que en tareas de código; aún así, he realizado actividades de todo tipo. En sprints futuros, realizaré más tareas de código, para no sobrecargar a mis compañeros con ellas.
+
+Durante la primera semana, participé en el Sprint Planning, apoyando a la Project Manager y a los otros Jefes de Desarrollo en la elaboración del Sprint Backlog y en el reparto de tareas. Redacté la nueva versión del Commitment Agreement (en hasta dos ocasiones), que firmaron el resto de mis compañeros, y actualicé el documento de Análisis Cuantitativo y Cualitativo del Equipo con el esfuerzo de todos los miembros de Eventbride hasta la mitad del Sprint. Comencé a redactar el documento sobre la revisión de tareas, pero éste finalmente quedó a cargo de Manuel Pérez y Antonio Montero. Hice también una release de mitad de Sprint, la versión `v2.0.0`, y actualicé la wiki del repositorio de código para reflejar la nueva política de ramas a seguir: GitFlow.
+
+Durante la segunda semana del Sprint, he contribuido a la creación del repositorio de documentación de Eventbride, cuya finalidad es separar los documentos del código del proyecto. Esto incluye configurar el repositorio, añadir workflows y plantillas para issues y redactar su wiki. También he participado en el Sprint Planning con la PM y los otros JDs. He vuelto a actualizar el documento de Análisis del Equipo, esta vez con lo trabajado a lo largo de todo el Sprint, y he modificado el documento de métricas para establecer qué métricas se aplican a cada repositorio tras la creación del repositorio de documentación. He comenzado también, junto con Manuel Pérez, la tarea de código de Recibir Notificaciones, que no se ha podido desarrollar a tiempo para este Sprint. El último documento redactado es el presente, en el que me he encargado de recoger los testimonios de todos los miembros del grupo Eventbride. Por último, he hecho dos releases más, la `v2.0.1` y la `v2.1.0`, para las que me he encargado de revisar que no faltara ningún documento necesario para la entrega junto a la PM y a los otros JDs.
+
+El resto de horas que he trabajado en este segundo Sprint corresponden a reuniones varias del equipo y a la visualización de las píldoras teóricas correspondientes.
 
 ### Castellanos Compaña, Pablo Jesús
 
-Pendiente.
+Durante este Sprint (14-27 de marzo), he realizado diversas tareas.
+
+En la primera semana (14-20 de marzo), participé en el reparto de tareas como jefe de equipo junto a la PM Natalia y a los otros jefes de equipo María y Francisco . Luego, me centré en la tareas de código que se me asignaron para esa semana. Comencé por modificar las relaciones Rating-Service y Usuario-Service, posteriormente actualicé la BBDD con los datos de las relaciones nuevas. Más adelante tuve que actualizar algunos forms en el frontend.También participé en la tarea de solicitud de reserva de contratación de servicios. Debido a problemas de gestión entre grupos, tuve que ayudar a Ignacio y Natalia con la gestión del feedback que subir al repositorio de conocimiento común.
+
+También actualicé los costes totales de los eventos junto a Sergio. Por último pensé ideas para el story board junto a Natalia y Daniel y el último día estuve actualizando la presentación para que tuviera todo el contenido que se nos solicitaba.
+
+En la segunda semana (21-27 de marzo), participé nuevamente en la asignación de tareas. Empecé el lunes a plantear el pan premium, tarea que realicé los dos primeros días desde cero casi entera, al tercer día de sprint, Héctor y Miguel me ayudaron con la misma. También actualicé varios documentos junto a Francisco. Posteriormente comencé a mejorar visualmente la UI. El último día modifiqué de nuevo el contenido de la presentación y acabé el login del plan premium. Finalmente, revisé que el entregable cumpliera con los Deliverable Failure Conditions y procedimos a entregar.
+
+Por último, resaltar que he asistido a todas las reuniones, incluidas las generales (miércoles y sábados) y las de jefes de equipo (sábados). También destacar, que he participado en varias tareas a las cuales no estaba asignado debido a que los compañeros iban solicitando ayuda dependiendo de su carga de trabajo.
 
 ### De Celis Hurtado, Fernando José
 
-Pendiente.
+Yo Fernando me he encargado en este sprint de realizar las siguientes tareas. Me encargué de realizar el documento de las implicaciones legales que se tienen que cumplir. También ayudé al comienzo de la tarea de código de la creación y gestión de listas de invitados. Me he encargado de editar los vídeos de las demos expuestas en la presentación. Estuve durante la grabación de diferentes videos que se subirán a las redes sociales. Estuve realizando el documento del customer agreement que posteriormente se tuvo que actualizar. También actualicé los términos y condiciones en base a las implicaciones legales y por último también actualicé el manual de usuario conforme a los nuevos casos de uso implementados.
 
 ### Godoy Fernández, David
 
@@ -479,7 +524,7 @@ Pendiente.
 
 ### Hernández Sánchez, Miguel
 
-Pendiente.
+En el Sprint 2 he formado parte de la creación y gestión de la lista de invitados, en el sistema del chat entre los clientes y proveedores y en todo lo relacionado con el correcto funcionamiento de los planes de pago para los proveedores. Por último, he ayudado en solucionar errores de código en tareas de otros integrantes del equipo y he realizado las dos presentaciones de las diapositivas al resto de la clase y al profesorado.
 
 ### Montero López, Antonio
 
@@ -487,15 +532,23 @@ Pendiente.
 
 ### Navas Remmers, Gonzalo
 
-Pendiente.
+Mi trabajo este sprint comenzó junto a Pablo replanteando el sistema de pagos y organizando las tareas que surgiesen. Relacionado con eso, nos dispusimos a crear la entidad de payment y a retocar las relacionadas para adaptar los pagos y las reservas a la idea que trazamos inicialmente. También estuvimos arreglando algunas relaciones incorrectas entre entidades y por último arreglamos los formularios del frontend que habían sido afectados por las modificaciones para que funcionasen correctamente tras los cambios. También estuve ayudando a Pablo y a David a arreglar algunos errores en la reserva de contratación de servicios. Junto a David estuve trabajando en el cambio de funcionamiento de las invitaciones y arreglando los múltiples errores que surgieron. Respecto a los eventos, fui el encargado de desarrollar el resumen de los pagos de las señales y los pagos finales en el frontend, tanto en conjunto como específicamente. Más tarde me encargué de modificar las comisiones y de corregir algunos fallos en su funcionamiento o cambios que habían sido acordados pero no llevados a la práctica, sobre todo en backend. También estuve trazando la idea final para la pestaña de soporte e investigando como implementar el chat en ella para el siguiente sprint. Por último revisando la gestión de usuarios piloto y resolviendo conflictos que surgieron al fusionar la funcionalidad de la lista de invitados a develop.
 
 ### Noguera González, Héctor
 
-Pendiente.
+Durante la primera semana de este Sprint estuve trabajando en varios documentos relacionados con mi trabajo como Policy Manager, hice el conductCode y el `problems.md` (archivo que contiene problemas comunes y cómo proceder con ellos). Luego en la segunda semana del Sprint me centré basicamente en el Chat de la aplicación que lo realicé junto a Miguel Hernandez y también nos ayudó Pablo, esta tarea fue la que más tiempo nos llevó debido a su complejidad. Posteriormente Miguel, y yo nos pusimos con el plan premium que ya lo había avanzado bastante Pablo. Y como último como Policy Manager modifiqué el `problems.md` y pensé en recompensas para el top 3 del proyecto de cada semana, esto está reflejado en el archivo `recompensas.md`.
 
 ### Olmo Villegas, Natalia
 
-Pendiente.
+En este sprint principalmente, como siempre debido a mi rol, me he encargado de organizar todas las tareas de mis compañeros con la ayuda de mis compañeros coordinadores María de la Salud Carrera, Francisco Avilés y Pablo Jesús Castellanos.
+
+También nos gustaría para el siguiente Sprint empezar con un buen marketing, por lo que he estado grabando y editando vídeos presentando al equipo y nuestro proyecto, que serán publicados al finales de esta semana o principios de la siguiente.
+
+El Customer Agreement también ha sido revisado por mi, asegurando que no contuviera cláusulas abusivas y se detallará toda la información necesaria de compromiso entre usuario cliente de la app y Eventbride.
+
+También estuve trabajando en la funcionalidad de solicitud de reserva de contratación de servicios y he ofrecido ayuda a mis compañero al programar si lo necesitaban.
+
+Por último, he contribuido al desarrollo de la historia del story board y la idea de killer opening de cada clase.
 
 ### Pérez Vélez, Manuel
 
@@ -503,15 +556,35 @@ Pendiente.
 
 ### Pizzano Cerrillos, Andrés
 
-Pendiente.
+Durante este sprint, realicé un rediseño completo del frontend para los usuarios con rol Cliente y Proveedor. Diseñé nuevas home pages adaptadas a cada tipo de usuario, mejorando la estética y usabilidad de la plataforma. También renové la interfaz de login y registro, creando una versión más visual y moderna.
+
+Además, añadí un footer con preguntas frecuentes y enlaces a redes sociales. Como parte de la optimización de la interfaz, realicé mejoras menores en la UI, incluyendo ajustes en la paleta de colores y refinamiento de elementos visuales. También implementé transiciones en la barra de navegación para lograr una experiencia más fluida e interactiva.
+
+Para mejorar la seguridad del sistema, implementé restricciones en el frontend y en la API del backend. En el frontend, modifiqué App.jsx para controlar la disponibilidad de rutas según el rol del usuario, asegurando que cada usuario solo acceda a las secciones correspondientes. También revisé y actualicé todas las peticiones del frontend que no incluían el token de autenticación, añadiéndolo cuando era necesario. En el backend, modifiqué la configuración de seguridad para validar los tokens en las solicitudes dirigidas a la API, garantizando así un control más riguroso sobre los accesos.
+
+Corrigí la funcionalidad encargada de mostrar las solicitudes de servicio a los proveedores, ya que la lógica anterior no estaba correctamente planteada. Tras solucionar este problema, añadí nuevas peticiones para permitir a los proveedores aceptar o rechazar solicitudes, proporcionando un mayor control sobre la gestión de sus servicios.
+
+Dado que la versión en producción estaba desactualizada con respecto a los cambios de este sprint y que la base de datos en Cloud SQL tenía una estructura diferente, decidí actualizar ambos aspectos. Lancé una nueva base de datos con la estructura actualizada para asegurar la compatibilidad con las modificaciones recientes. Además, desplegué una versión de preproducción con todos los cambios implementados, lo que permitió validar su correcto funcionamiento antes de llevarlos al entorno de producción.
+
+El trabajo realizado en este sprint ha mejorado significativamente la plataforma en términos de diseño, seguridad y estabilidad. El rediseño del frontend ha optimizado la experiencia de usuario, mientras que las mejoras en seguridad han reforzado el control de acceso. La corrección en la funcionalidad de proveedores ha solucionado problemas previos, facilitando su operatividad.
 
 ### Pons López, Sergio
 
-Pendiente.
+Las tareas que he realizado durante el sprint 2 son las siguientes:
+
+En primer lugar, realicé junto a mi compañero Pablo Jesús Castellanos el cambio de vista de los costes totales de los eventos, así como darle una vuelta a cómo se iba a calcular (propusimos que se fuera sumando el coste en vez de que se defina un presupuesto máximo y de ahí ir descontando hasta llegar a 0).
+
+En cuanto a tareas de código, realicé también junto a Antonio Montero la tarea de validación de los formularios que consiste en controlar que los datos introducidos en todos los formularios que hay que realizar en la aplicación sean válidos tanto en backend como en frontend.
+
+Las tareas de documentación que he hecho durante este sprint han sido la actualización del `README.md` del proyecto, introduciendo la foto de los contribuidores, el logo, el contacto, la licencia y poniendo mejor los pasos de instalación del sistema. También realicé los documentos de las retrospectivas tanto el de mitad de sprint como el del sprint completo, hice la evaluación de rendimiento de la mitad del sprint junto a Pablo Jesús Castellanos, pasé a markdown el feedback de la semana 2 y moví todos los documentos a un repositorio aparte junto a María Carrera y Pablo Castellanos.
+
+Además iniciamos las tareas de marketing de grabar vídeos para redes sociales donde yo participé en una parte de la grabación y en pensar qué decir.
+
+Cabe destacar que he asistido a todas las clases y a todas las reuniones realizadas durante este sprint.
 
 ### Torralba Lanzas, Lorenzo
 
-Pendiente.
+En este Sprint he desarrollado en su mayoria tareas de codigo: Primeramente, junto con mis compañeros David, Gonzalo, Fernando y Miguel, llevamos a cabo la creación y gestión de la lista de invitados, haciendo que se enviara un correo electrónico a los invitados para que confirmaran la asistencia. Después, junto con Gonzalo, estuve implementando la eliminación de los servicios por parte de un proveedor cuando no quisiera usarlos más, aunque finalmente se ha decidido quitar esta feature debido a que se borran cosas de valor de la base de datos como los ratings. Por otro lado, junto con mi compañero Andrés, incluimos unos workflows con GitHub Actions para que hicieran tareas como revisar el formato de los commits. A continuación, junto con mi compañero Miguel, implementamos la cancelación de un evento por parte de un proveedor. Finalmente y esta vez en solitario, añadí una sección al footer de la web de preguntas frecuentes.
 
 <div id='bib'></div>
 
