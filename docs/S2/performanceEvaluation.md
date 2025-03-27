@@ -72,11 +72,11 @@
 | Navas Remmers, Gonzalo                | 10   | 10  | 10  |     |      |      |       |      |
 | Noguera González, Héctor              | 10   | 10  | 10  |     |      |      |       |      |
 | Olmo Villegas, Natalia                | 10   | 10  | 10  |     |      |      |       |      |
-| Pérez Vélez, Manuel                   | 10   | 10  | 6.7 |     |      |      |       |      |
+| Pérez Vélez, Manuel                   | 10   | 10  | 10  |     |      |      |       |      |
 | Pizzano Cerrillos, Andrés             | 10   | 10  | 10  |     |      |      |       |      |
 | Pons López, Sergio                    | 10   | 10  | 10  |     |      |      |       |      |
-| Torralba Lanzas, Lorenzo              | 10   | 10  | 7.7 |     |      |      |       |      |
-| **TOTAL**                             | 170  | 170 |162.1|     |      |      |       |      |
+| Torralba Lanzas, Lorenzo              | 10   | 10  | 10  |     |      |      |       |      |
+| **TOTAL**                             | 170  | 170 |167.7|     |      |      |       |      |
 
 Como se mencionó previamente en el documento titulado *retrospectiva-mitad-sprint-S1*, "todos aquellos cuyo porcentaje de completitud sea **mayor al 80%** se considerará que han rendido bien y recibirán un **10** como nota en la retrospectiva."
 
