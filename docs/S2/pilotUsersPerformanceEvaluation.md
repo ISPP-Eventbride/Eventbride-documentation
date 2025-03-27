@@ -25,7 +25,7 @@
 
 ### Fecha: 27/03/2025
 
-### Entregable: Sprint 1
+### Entregable: Sprint 2
 
 ---
 
