@@ -37,7 +37,8 @@
 | 13/03/2025 | v1.1    | Redacción de las contribuciones de cada miembro para el entregable S1 | Sprint 1 | Ignacio Blanquero Blanco, Francisco Avilés Carrera |
 | 27/03/2025 | v2.0    | Actualización de apartados para el Sprint 2 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.1    | Contribuciones del equipo (excepto David, Antonio y Manuel) | Sprint 2 | María de la Salud Carrera Talaverón |
-| 27/03/2025 | v2.2    | Contribuciones del Antonio | Sprint 2 | María de la Salud Carrera Talaverón |
+| 27/03/2025 | v2.2    | Contribuciones de Antonio | Sprint 2 | María de la Salud Carrera Talaverón |
+| 27/03/2025 | v2.3    | Contribuciones de David | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -521,7 +522,7 @@ Yo Fernando me he encargado en este sprint de realizar las siguientes tareas. Me
 
 ### Godoy Fernández, David
 
-Pendiente.
+He asistido a todas las reuniones del equipo. He colaborado en la elaboración y desarrollo del documento de evaluación del rendimiento de los usuarios piloto, así como en el documento de feedback correspondiente. En cuanto al desarrollo, he implementado la funcionalidad de edición de servicios y he trabajado en la gestión de múltiples eventos asociados a un mismo servicio. También he desarrollado la funcionalidad de creación y gestión de listas de invitados. Además de estas tareas técnicas, he participado activamente en las decisiones del equipo y en la organización de las funcionalidades de cara a los próximos sprints.
 
 ### Hernández Sánchez, Miguel
 
