@@ -547,7 +547,7 @@ Mi trabajo este sprint comenzó junto a Pablo replanteando el sistema de pagos y
 
 ### Noguera González, Héctor
 
-Durante la primera semana de este Sprint estuve trabajando en varios documentos relacionados con mi trabajo como Policy Manager, hice el conductCode y el `problems.md` (archivo que contiene problemas comunes y cómo proceder con ellos). Luego en la segunda semana del Sprint me centré basicamente en el Chat de la aplicación que lo realicé junto a Miguel Hernandez y también nos ayudó Pablo, esta tarea fue la que más tiempo nos llevó debido a su complejidad. Posteriormente Miguel, y yo nos pusimos con el plan premium que ya lo había avanzado bastante Pablo. Y como último como Policy Manager modifiqué el `problems.md` y pensé en recompensas para el top 3 del proyecto de cada semana, esto está reflejado en el archivo `recompensas.md`.
+Durante la primera semana de este Sprint estuve trabajando en varios documentos relacionados con mi trabajo como Policy Manager, hice el conductCode y el `problems.md` (archivo que contiene problemas comunes y cómo proceder con ellos). Luego en la segunda semana del Sprint me centré basicamente en el Chat de la aplicación que lo realicé junto a Miguel Hernandez y también nos ayudó Pablo, esta tarea fue la que más tiempo nos llevó debido a su complejidad. Posteriormente Miguel, y yo nos pusimos con el plan premium que ya lo había avanzado bastante Pablo. Y como último como Policy Manager modifiqué el `problems.md` y pensé en recompensas para el top 3 del proyecto de cada semana, esto está reflejado en el archivo `rewards.md`.
 
 ### Olmo Villegas, Natalia
 
