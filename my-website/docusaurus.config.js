@@ -10,9 +10,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  title: 'Eventbride - Documentación',
+  tagline: 'Eventos que brillan, recuerdos que perduran',
+  favicon: 'img/Eventbride.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -22,8 +22,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'ISPP-Eventbride',
+  projectName: 'Eventbride-documentation',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -32,8 +32,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'es',
+    locales: ['es'],
   },
 
   presets: [
@@ -43,10 +43,9 @@ const config = {
       ({
         docs: {
           sidebarPath: './sidebars.js',
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ISPP-Eventbride/Eventbride-documentation',
         },
         blog: {
           showReadingTime: true,
@@ -54,10 +53,9 @@ const config = {
             type: ['rss', 'atom'],
             xslt: true,
           },
-          // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/ISPP-Eventbride/Eventbride-documentation',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -76,21 +74,22 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Eventbride',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Eventbride Logo',
+          src: 'img/Eventbride.png',
         },
         items: [
           {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Documentos',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/equipo', label: 'Equipo', position: 'left'},
+          {to: '/contacto', label: 'Contacto', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/orgs/ISPP-Eventbride/repositories',
             label: 'GitHub',
             position: 'right',
           },
@@ -100,46 +99,70 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Documentos',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Introducción',
                 to: '/docs/intro',
               },
+              {
+                label: 'DP',
+                to: '/docs/DP',
+              },
+              {
+                label: 'Sprint 1',
+                to: '/docs/S1',
+              },
+              {
+                label: 'Sprint 2',
+                to: '/docs/S2',
+              },
+              {
+                label: 'Sprint 3',
+                to: '/docs/S3',
+              },
+              {
+                label: 'PPL',
+                to: '/docs/PPL',
+              },
+              {
+                label: 'WPL',
+                to: '/docs/WPL',
+              },
             ],
           },
           {
-            title: 'Community',
+            title: 'Comunidad',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/eventbride_svq/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'LinkedIn',
+                href: 'https://www.linkedin.com/company/eventbride/',
               },
               {
-                label: 'X',
-                href: 'https://x.com/docusaurus',
+                label: 'Equipo',
+                to: '/equipo',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Más Enlaces',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
+                label: 'Contacto',
+                to: '/contacto',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/orgs/ISPP-Eventbride/repositories',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Eventbride, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,
