@@ -1,6 +1,6 @@
 # <center>Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Curso 2024-2025</center>
 ## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\img\Eventbride.png"></center>
+<center><img src="..\..\img\Eventbride.png"></center>
 
 ### Grupo 3: Eventbride
 
