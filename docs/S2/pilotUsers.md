@@ -1,7 +1,7 @@
 # Análisis de viabilidad y gestión de usuarios pilotos
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 
-<center><img src="img\Eventbride.png"></center>
+<center><img src="..\img\Eventbride.png"></center>
 
 ### Grupo 3: Eventbride
 
@@ -24,9 +24,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 12/03/2025
+### Fecha: 27/03/2025
 
-### Entregable: Sprint 1
+### Entregable: Sprint 2
 
 ---
 
@@ -41,6 +41,7 @@
 |12/03/2025|v4.0|Reestructuración documento| Sprint 1 | María de la Salud Carrera Talaverón |
 |13/03/2025|v5.0|Resultados de la encuesta de feedback del DP| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
 |25/03/2025|v5.1|Resultados de la encuesta de feedback del S1| Sprint 2 | David Godoy Fernández |
+|27/03/2025 |v2.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
 
 ## Contenido
 1. [Introducción](#intro)
