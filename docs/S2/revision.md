@@ -37,6 +37,8 @@
 | 12/03/2025 | v1.1    | Edición de Concordancia con los casos de uso  | Sprint 1 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 13/03/2025 | v2.0    | Finalización del documento  | Sprint 1 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 25/03/2025 | v2.1    | Actualización de credenciales de la aplicación | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
+| 27/03/2025 | v2.2    | Actualización de enlace de github | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
+| 27/03/2025 | v2.3    | Actualización de la guía de la aplicación | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
 
 
 ## Contenido
@@ -127,33 +129,85 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de inicio de sesión el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center><img src="..\img\login1.png"></center>
+<center><img src="..\img\login.png"></center>
 
-En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta en el sistema.
+En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta pudiendo elegir el tipo de usuario que desea ser (cliente o proveedor).
 
-<center><img src="..\img\login2.png"></center>
+<center><img src="..\img\register.png"></center>
 
-Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos y hay una breve descripción sobre lo que hacemos y como trabajamos.
+Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos, hay una breve descripción sobre lo que hacemos y como trabajamos, hay una barra de navegación en la parte superior de la pantalla donde se puede viajar a todas las funcionalidades de Eventbride y por último se pueden acceder a los chats abiertos en el botón verde de abajo derecha.
 
 <center><img src="..\img\inicio.png"></center>
+
+También para cualquier usuario, si se accede a los chats se muestra al inicio todos los chats abiertos con el último mensaje enviado de la conversación.
+
+<center><img src="..\img\chats.png"></center>
+
+Y si se accede a un chat en especifico, se podrá enviar mensajes escribiendolos y enviandolos, similar a Whatsapp.
+
+<center><img src="..\img\chatprivado.png"></center>
 
 Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de mis servicios, se pueden observar los servicios pertenecientes al usuario y sus respectivos datos.
 
 <center><img src="..\img\miseventos.png"></center>
 
-Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos y también se puede borrar el evento que se seleccione.
+Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos, también se puede borrar el evento que se seleccione y por último se puede realizar el pago mediante PayPal o tarjeta de crédito/débito.
 
 <center><img src="..\img\detalleseventos.png"></center>
+
+Si desea pagar los servicios individualmente, también puede hacerlo accediendo a la pestaña de pagar reserva que tiene cada servicio y se puede pagar por los mismos medios mencionados anteriormente, por PayPal y tarjeta de crédito/débito.
+
+<center><img src="..\img\pagoservicio.png"></center>
 
 También se puede meter en la sección de crear evento donde se muestra un formulario a completar y se crea el evento. 
 
 <center><img src="..\img\crearevento.png"></center>
 
-Y hasta el momento, también se puede acceder a la pestaña de términos y condiciones para poder leerlas.
+Se puede acceder a la pestaña de los recintos donde se pueden ver los recintos disponibles, su localización en el mapa, los detalles de cada recinto y la posibilidad de chatear con el dueño del recinto.
 
-<center><img src="..\img\terminos.png"></center>
+<center><img src="..\img\recintosdisponibles.png"></center>
 
-Si iniciamos sesión con un usuario **proveedor** y se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
+Si se desea añadir un recinto a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho recinto y completar la hora de inicio y final de la reserva del sitio.
+
+<center><img src="..\img\añadirrecinto.png"></center>
+
+También se pueden añadir diferentes servicios como pueden ser de catering, entretenimiento y decoración, para ello accede a la pestaña de otros servicios y podrás ver los diferentes servicios con sus detalles y la posibilidad de chatear con el dueño del servicio.
+
+<center><img src="..\img\otrosservicios.png"></center>
+
+Si se desea añadir un servicio a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho servicio y completar la hora de inicio y final de la reserva del sitio.
+
+<center><img src="..\img\añadirservicio.png"></center>
+
+Si se accede a la pestaña de invitaciones, se verán todos tus eventos y la opción de editar los invitados.
+
+<center><img src="..\img\invitaciones.png"></center>
+
+Si se desea mirar los invitados de un evento y la posibilidad de añadir más, se puede acceder a la vista de editar invitados y se mostrarán los invitados actuales y la posibilidad de invitar más.
+
+<center><img src="..\img\invitacionesespecificas.png"></center>
+
+Al querer crear una invitación solo hay que rellenar un formulario en el que se debe especificar cuantos invitados tienen permiso para ir al evento con esa invitacón. Cuando se crea la invitación, se genera un link que se copia automaticamente al portapapeles el cual se deberá compartir con la persona que se desea invitar
+
+<center><img src="..\img\crearinvitacion.png"></center>
+
+Esta pestaña es la que verá la persona invitada cuando se meta en el link que le pasa el anfitrión de la boda. En esta pestaña se tiene que cumplimentar el formulario para poder confirmar tu asistencia a la boda.
+
+<center><img src="..\img\aceptarinvitacion.png"></center>
+
+También se puede acceder a la pestaña de detalles de perfil donde se muestran todos los datos y se da la posibilidad de editarlos o cerrar sesión.
+
+<center><img src="..\img\detallesperfil.png"></center>
+
+Si se desea actualizar los datos del perfil, se accede a la pestaña correspondiente, se modifican con un formulario simple y se le da a guardar.
+
+<center><img src="..\img\editarperfil.png"></center>
+
+Si iniciamos sesión con un usuario **proveedor**, se muestra la misma página inicial que los usuarios clientes pero se muestra el plan de pago al que pertenece y las funcionalidades correspondientes.
+
+<center><img src="..\img\inicioproveedor.png"></center>
+
+Si se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
 
 <center><img src="..\img\misservicios.png"></center>
 
@@ -161,11 +215,27 @@ Dentro de editar un servicio, se muestra un formulario a modificar si se desea c
 
 <center><img src="..\img\editarservicio.png"></center>
 
-Y de la misma forma si se quiere crear un servicio, se muestra el formulario correspondiente a completar.
+Al crear un servicio, se muestra el formulario correspondiente (depende del tipo de servicio escogido) a completar.
 
 <center><img src="..\img\crearservicio.png"></center>
 
-Si iniciamos sesión con un usuario **admin**, y accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
+En la pestaña de solicitudes se mostrarán las solicitudes pendientes que le queda al proveedor por aceptar o cancelar según su criterio. En el caso de haber solicitudes, se mostrarán todos los datos importantes de la misma y los botones de aceptar o cancelar.
+
+<center><img src="..\img\solicitudes.png"></center>
+
+La pestaña de editar perfil es la misma que la del usuario cliente añadiéndose un botón para actualizar el plan de pago.
+
+<center><img src="..\img\editarperfilproveedor.png"></center>
+
+Si se desea actualizar al plan premium, se puede realizar indicando el número de meses que se desea y se puede pagar con tarjeta o con PayPal.
+
+<center><img src="..\img\contratarpremium.png"></center>
+
+Si iniciamos sesión con un usuario **admin**, se muestra la misma página inicial que los usuarios clientes pero se muestran las funcionalidades correspondientes al administrador.
+
+<center><img src="..\img\inicioadmin.png"></center>
+
+Si accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
 <center><img src="..\img\administrarservicios.png"></center>
 
@@ -173,13 +243,17 @@ Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
 <center><img src="..\img\admineditarservicio.png"></center>
 
-Si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
-
-<center><img src="..\img\administrarusuarios.png"></center>
-
-Por último, la sección de administrar eventos funciona de la misma manera que la anterior mencionada.
+La sección de administrar eventos funciona de la misma manera que la anterior mencionada (administrar servicios).
 
 <center><img src="..\img\administrareventos.png"></center>
+
+Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
+
+<center><img src="..\img\admineditarevento.png"></center>
+
+Y por último, si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
+
+<center><img src="..\img\administrarusuarios.png"></center>
 
 <div id='id5'></div>
 
