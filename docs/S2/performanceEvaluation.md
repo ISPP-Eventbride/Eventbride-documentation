@@ -39,6 +39,7 @@
 | 27/03/2025 | v2.1    | Contribuciones del equipo (excepto David, Antonio y Manuel) | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.2    | Contribuciones de Antonio | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.3    | Contribuciones de David | Sprint 2 | María de la Salud Carrera Talaverón |
+| 27/03/2025 | v2.4    | Evaluación del equipo y contribuciones de Manuel | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -58,24 +59,24 @@
 
 | Alumno                                | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso |
 |---------------------------------------|------|-----|-----|-----|------|------|-------|------|
-| Avilés Carrera, Francisco             | 10   | 10  |     |     |      |      |       |      |
-| Benito Hidalgo, Daniel                | 10   | 10  |     |     |      |      |       |      |
-| Blanquero Blanco, Ignacio             | 10   | 10  |     |     |      |      |       |      |
-| Cabello Martín, Adrián                | 10   | 10  |     |     |      |      |       |      |
-| Carrera Talaverón, María de la Salud  | 10   | 10  |     |     |      |      |       |      |
-| Castellanos Campaña, Pablo Jesús      | 10   | 10  |     |     |      |      |       |      |
-| De Celis Hurtado, Fernando José       | 10   | 10  |     |     |      |      |       |      |
-| Godoy Fernández, David                | 10   | 10  |     |     |      |      |       |      |
-| Hernández Sánchez, Miguel             | 10   | 10  |     |     |      |      |       |      |
-| Montero López, Antonio                | 10   | 10  |     |     |      |      |       |      |
-| Navas Remmers, Gonzalo                | 10   | 10  |     |     |      |      |       |      |
-| Noguera González, Héctor              | 10   | 10  |     |     |      |      |       |      |
-| Olmo Villegas, Natalia                | 10   | 10  |     |     |      |      |       |      |
-| Pérez Vélez, Manuel                   | 10   | 10  |     |     |      |      |       |      |
-| Pizzano Cerrillos, Andrés             | 10   | 10  |     |     |      |      |       |      |
-| Pons López, Sergio                    | 10   | 10  |     |     |      |      |       |      |
-| Torralba Lanzas, Lorenzo              | 10   | 10  |     |     |      |      |       |      |
-| **TOTAL**                             | 170  | 170 |     |     |      |      |       |      |
+| Avilés Carrera, Francisco             | 10   | 10  | 10  |     |      |      |       |      |
+| Benito Hidalgo, Daniel                | 10   | 10  | 10  |     |      |      |       |      |
+| Blanquero Blanco, Ignacio             | 10   | 10  | 10  |     |      |      |       |      |
+| Cabello Martín, Adrián                | 10   | 10  | 10  |     |      |      |       |      |
+| Carrera Talaverón, María de la Salud  | 10   | 10  | 10  |     |      |      |       |      |
+| Castellanos Campaña, Pablo Jesús      | 10   | 10  | 10  |     |      |      |       |      |
+| De Celis Hurtado, Fernando José       | 10   | 10  | 10  |     |      |      |       |      |
+| Godoy Fernández, David                | 10   | 10  | 10  |     |      |      |       |      |
+| Hernández Sánchez, Miguel             | 10   | 10  | 10  |     |      |      |       |      |
+| Montero López, Antonio                | 10   | 10  | 7.7 |     |      |      |       |      |
+| Navas Remmers, Gonzalo                | 10   | 10  | 10  |     |      |      |       |      |
+| Noguera González, Héctor              | 10   | 10  | 10  |     |      |      |       |      |
+| Olmo Villegas, Natalia                | 10   | 10  | 10  |     |      |      |       |      |
+| Pérez Vélez, Manuel                   | 10   | 10  | 6.7 |     |      |      |       |      |
+| Pizzano Cerrillos, Andrés             | 10   | 10  | 10  |     |      |      |       |      |
+| Pons López, Sergio                    | 10   | 10  | 10  |     |      |      |       |      |
+| Torralba Lanzas, Lorenzo              | 10   | 10  | 7.7 |     |      |      |       |      |
+| **TOTAL**                             | 170  | 170 |162.1|     |      |      |       |      |
 
 Como se mencionó previamente en el documento titulado *retrospectiva-mitad-sprint-S1*, "todos aquellos cuyo porcentaje de completitud sea **mayor al 80%** se considerará que han rendido bien y recibirán un **10** como nota en la retrospectiva."
 
@@ -562,7 +563,9 @@ Por último, he contribuido al desarrollo de la historia del story board y la id
 
 ### Pérez Vélez, Manuel
 
-Pendiente.
+Durante este Sprint, me enfoqué en varias tareas. Grabé los vídeos que usaremos para promocionar la empresa, proporcione ideas para la gestión del marketing de la empresa y avancé en la función de solicitud de reserva de servicio para un determinado evento. También gestioné el calendario de la organización y configuré avisos para mejorar la planificación. Además, trabajé en la creación de la invitación de boda y creé el documento de revisión de tareas generales. Por último configure una parte de la cuenta de Instagram y empecé con la función de envío de notificaciones que debe tener la plataforma para dar avisos, confirmación de compra, etc. Esta última función la estoy haciendo junto a María Carrera.
+
+También he recogido el feedback de varios grupos durante las semanas.
 
 ### Pizzano Cerrillos, Andrés
 
