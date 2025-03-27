@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 19/02/2025
+### Fecha: 27/03/2025
 
-### Entregable: Sprint 01
+### Entregable: Sprint 2
 
 ---
 
