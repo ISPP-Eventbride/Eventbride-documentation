@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Explicación de la App y Excalabilidad</p>
+# <p style="text-align: center;">Explicación de la App y Escalabilidad</p>
 ## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
 <center><img src="../img/Eventbride.png"></center>
 
