@@ -156,9 +156,9 @@ La aplicación será gratuita para los usuarios y ofrecerá una buena experienci
 El Plan Premium permitirá además a los proveedores promocionar sus servicios para que estén mejor posicionados y sean más visibles al resto de usuarios. Aquellos usuarios que no utilicen el Plan Premium no podrán publicar más de 3 servicios para su contratación. Este plan sólo está disponible para los usuarios que sean proveedores por 50€ al mes. 
 
 En total has pagado 5 €, que es lo mismo que el 5% de 100
-Para reservar un servicio, primero el usuario interesado en contratar ese servicio para su evento pagará una señal, a la  cual se le cobrará una comisión del 5%. Posteriormente, cuando se pague el total del servicio restante (precio total - señal), también se cobrará un 5% de comisión. El cliente puede reservar un servicio, pero sin el pago de la señal, un porcentaje en concreto sobre el precio final que será elegido por el proveedor; este servicio sigue quedando a disposición de los demás usuarios que estén planeando su próximo evento.
+Para reservar un servicio, primero el usuario interesado en contratar ese servicio para su evento pagará una señal, a la  cual se le cobrará una comisión del 5%. Posteriormente, cuando se pague el total del servicio restante (precio total - señal), también se cobrará un 5% de comisión. El cliente puede reservar un servicio, pero sin el pago de la señal, un porcentaje en concreto (35%) sobre el precio final; este servicio sigue quedando a disposición de los demás usuarios que estén planeando su próximo evento.
 
-El plazo para confirmar a los invitados será de hasta cuatro meses antes del evento en caso de tratarse de una boda; tres meses si es una comunión y un mes si es un bautizo. En caso de que no sean confirmados, se procederá a la cancelación del evento. 
+El plazo para pagar el evento será de hasta cuatro meses antes del evento en caso de tratarse de una boda; tres meses si es una comunión y un mes si es un bautizo. En caso de que no sean confirmados, se procederá a la cancelación del evento. 
 
 <div id='id7'></div>
 
