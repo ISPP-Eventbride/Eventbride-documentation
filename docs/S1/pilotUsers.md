@@ -39,7 +39,8 @@
 | 27/02/2025 | v2.0     | Adición de información más concreta sobre el análisis de viabilidad | Sprint 1 | María de la Salud Carrera Talaverón y Sergio Pons López |
 | 11/03/2025 | v3.0     | Redacción del documento en formato markdown | Sprint 1 | Ignacio Blanquero Blanco |
 |12/03/2025|v4.0|Reestructuración documento| Sprint 1 | María de la Salud Carrera Talaverón |
-|13/03/2025|v5.0|Resultados de la encuesta de feedback del S1| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
+|13/03/2025|v5.0|Resultados de la encuesta de feedback del DP| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
+|25/03/2025|v5.1|Resultados de la encuesta de feedback del S1| Sprint 2 | David Godoy Fernández |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -235,7 +236,7 @@ Se encargará de la comunicación con ellos Daniel Benito Hidalgo y, como apoyo 
 
 <div id='id3'></div>
 
-## Resultados encuesta feedback Sprint 1 
+## Resultados encuesta DP
 
 ### Calificaciones de los mockups
 
@@ -321,13 +322,141 @@ Tras analizar las puntuaciones que han otorgado los usuarios piloto a los distin
 
 <div id='id4'></div>
 
-## Resultados encuesta feedback Sprint 2 
+## Resultados encuesta feedback Sprint 1
+
+### Acceso a la plataforma
+
+- **Dispositivo de acceso**
+  
+  - Teléfono móvil: 6
+  - Ordenador (portátil o sobremesa): 7
+  - Tablet: 3
+    
+Los usuarios acceden principalmente mediante ordenadores y teléfonos móviles, destacando la importancia de una plataforma responsive.
+
+- **Sistema operativo del dispositivo**
+  
+  - Android: 9
+  - Windows: 6
+  - Ubuntu: 1
+
+Android y Windows son predominantes, siendo clave probar y optimizar la plataforma en estos sistemas operativos.
+
+- **Navegador**
+  
+  - Chrome: 13
+  - Brave: 2
+  - Mozilla Firefox: 1
+
+Chrome es claramente el navegador principal, aunque es importante verificar la compatibilidad básica con otros navegadores.
+
+### Inicio de sesión y creación de cuenta
+
+- **Problemas encontrados**
+  
+  - Sí: 3 usuarios
+  - No: 13 usuarios
+  - Problemas destacados: dificultad con el formato de la foto de perfil, confusión sobre la obligatoriedad de datos personales como DNI y foto de perfil.
+
+Aunque la mayoría no tuvo problemas, existe cierta confusión con la obligatoriedad de datos personales que podría resolverse ofreciendo claridad adicional.
+
+- **Redundancia de datos en el formulario**
+  
+  - Mayoría considera necesarios todos los datos.
+  - Datos mencionados como redundantes frecuentemente: Foto de perfil, DNI.
+
+Se recomienda hacer opcionales algunos datos, especialmente la foto de perfil y el DNI, para mejorar la experiencia del usuario.
+
+- **Comentarios**
+  
+  - Propuesta de hacer opcional la foto de perfil y eliminar el DNI como requisito inicial.
+  - Añadir una pantalla introductoria antes del login explicando la plataforma.
+
+### Vista general y navegación
+
+- **Colores**
+  
+  - Correctos: 11 usuarios
+  - Incorrectos: 5 usuarios
+  - Comentarios negativos sobre coherencia de la paleta de colores, poco contraste y legibilidad reducida.
+
+La mayoría considera los colores adecuados, pero es importante atender comentarios sobre coherencia visual y legibilidad para mejorar la experiencia.
+
+- **Navegación**
+  
+  - Fácil: 15 usuarios
+  - Difícil: 1 usuario
+  - Problemas mencionados sobre botones sin funcionalidad y confusión visual.
+
+La navegación es generalmente buena, aunque es crítico solucionar problemas visuales y aclarar qué botones están temporalmente sin funcionalidad.
+
+- **Rendimiento**
+  
+  - Positivo: 16 usuarios
+  - Negativo: 0 usuarios
+
+El rendimiento técnico es una fortaleza destacable de la plataforma en esta etapa.
+
+### Comentarios de Clientes
+
+- **Vista "eventos"**
+  
+  - Valoración promedio: 3.81/5
+  - Comentarios principales: poca claridad en los campos de creación de eventos, mejoras en visualización e interacción sugeridas.
+
+La sección es aceptable pero necesita mejoras para hacer la creación de eventos más intuitiva y visualmente atractiva.
+
+- **Vista "recintos"**
+  
+  - Valoración promedio: 3.19/5
+  - Comentarios principales: problemas de legibilidad y sugerencias de mejoras visuales como añadir fotos y mapas.
+
+Esta sección presenta mayores áreas de mejora, especialmente en términos visuales y de usabilidad. Priorizar estas mejoras puede mejorar considerablemente la experiencia.
+
+- **Términos y condiciones**
+  
+  - Leídos por 5 usuarios
+  - No leídos por 11 usuarios
+
+La mayoría no lee los términos y condiciones, por lo que podrían revisarse en cuanto a ubicación y presentación dentro de la plataforma.
+
+### Comentarios de Proveedores
+
+- **Vista "mis servicios"**
+  
+  - Valoración promedio: 3.81/5
+
+Se valora positivamente, aunque existen oportunidades para refinar detalles que mejorarían la percepción global.
+
+- **Vista "edición servicios"**
+  
+  - Valoración promedio: 3.87/5
+  - Comentarios: incoherencias entre formularios y sugerencias para mejorar las validaciones visuales.
+
+Se recomiendan ajustes menores en el formulario y uniformidad visual para optimizar la experiencia del proveedor.
+
+### Propuestas de mejora
+
+- Opcionalidad para ciertos campos del formulario inicial (foto perfil, DNI).
+- Mejorar el contraste y la coherencia visual en la plataforma.
+- Indicar claramente funciones pendientes para evitar confusión.
+- Reducir la complejidad o el tiempo necesario para futuras encuestas.
+- Incluir mensajes en pantalla cuando no hay contenido (por ejemplo, eventos vacíos).
+- Añadir descripciones o ayudas contextualizadas en campos de formularios.
+- Incorporar valoraciones y opiniones de otros usuarios en vistas como "recintos".
+- Aumentar la accesibilidad visual (mejores contrastes, tamaño de fuentes).
+- Diferenciar mejor los formularios y opciones para clientes y proveedores.
+
 
 <div id='id5'></div>
 
-## Resultados encuesta feedback Sprint 3 
+## Resultados encuesta feedback Sprint 2 
 
 <div id='concl'></div>
+
+## Resultados encuesta feedback Sprint 3 
+
+<div id='id5'></div>
 
 ## Conclusión
 
