@@ -37,6 +37,7 @@
 | 13/03/2025 | v1.1    | Redacción de las contribuciones de cada miembro para el entregable S1 | Sprint 1 | Ignacio Blanquero Blanco, Francisco Avilés Carrera |
 | 27/03/2025 | v2.0    | Actualización de apartados para el Sprint 2 | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.1    | Contribuciones del equipo (excepto David, Antonio y Manuel) | Sprint 2 | María de la Salud Carrera Talaverón |
+| 27/03/2025 | v2.2    | Contribuciones del Antonio | Sprint 2 | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -528,7 +529,15 @@ En el Sprint 2 he formado parte de la creación y gestión de la lista de invita
 
 ### Montero López, Antonio
 
-Pendiente.
+Mi trabajo durante esta entregable ha sido el siguiente:
+
+Realizar la tarea de planteamiento del story board, donde estuve en varias reuniones con la Project Manager Natalia y con el diseñador Daniel, realizamos una lluvia de ideas donde cada uno exponía lo que se le ocurría, los demás trabajábamos con esa idea y finalmente se descartaba o se trataba de mejorar dando cada uno su opinión. Además, ayudé en la presentación, tanto en la elaboración del killer opener como le la presentación misma.
+
+Al pasar la mitad del sprint, realicé la tarea de código que se me asigno que consistía en realizar la validación de los formularios. Esta tarea la realicé con mi compañero Sergio, nos repartimos los formularios en dos partes y realizamos la actividad en llamada de discord.
+
+También realice un trabajo de investigación para comprar un dominio para la aplicación, su compra y la realización de un LinkedIn empresarial usando los correos corporativos del dominio (eventbride.fun). 
+
+Finalmente, una vez terminada la tarea de código de mis compañeros modifiqué el `revision.md` con mi compañero Fernando José de Celis.
 
 ### Navas Remmers, Gonzalo
 
