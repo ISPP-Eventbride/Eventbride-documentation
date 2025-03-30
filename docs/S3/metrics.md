@@ -148,8 +148,7 @@ Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe 
 <div id='revisiones-general'></div>
 
 ##### General
-Cada integrande del equipo debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
-
+Cada integrante del equipo debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
 <div id='revisiones-grupo-de-codigo'></div>
 
 ##### Grupo de código
