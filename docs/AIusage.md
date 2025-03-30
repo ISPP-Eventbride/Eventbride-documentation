@@ -157,6 +157,8 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |21|Tests unitarios para la clase EventService| Ignacio Blanquero Blanco |24/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67e1342c-4d98-8008-bdc8-b54bb9389724)| Sprint 2|
 |22|Tests unitarios para la clase EventPropertiesService| Ignacio Blanquero Blanco |24/03/2025|[Chat con ChatGPT](https://chatgpt.com/c/67e149f3-b8b4-8008-a84b-07b1b2af396e)| Sprint 2|
 | 23 | Sustitución de dos palabras por emojis en un documento en markdown | María de la Salud Carrera Talaverón | 29/03/2025 |Sugerencias de código de GitHub Copilot --> No procede| Sprint 3 |
+| 24 | Extensión del customer agreement | María de la Salud Carrera Talaverón | 30/03/2025 | [Chat con ChatGPT](https://chatgpt.com/share/67e919f4-2120-8008-addd-631f764c4db5) | Sprint 3 |
+| 25 | Análisis del customer agreement | María de la Salud Carrera Talaverón | 30/03/2025 | Chat con Copilot --> No procede | Sprint 3 |
 
 
 <div id='id8'></div>
@@ -187,7 +189,9 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |20 |1 |Sí |Si |35 minutos|
 |21 |1 |Sí |Si |1 hora y 10 minutos|
 |22 |1 |Sí |Si |55 minutos|
-|23 |1 |Sí |Si |5 minutos|
+|23 |1 |Sí |Sí |5 minutos|
+|24 |9 |Sí |Sí |1 hora|
+|25 |3 |A medias |No procede |1 hora|
 
 <div id='alucinaciones'></div>
 
