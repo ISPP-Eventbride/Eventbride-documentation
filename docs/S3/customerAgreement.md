@@ -158,8 +158,7 @@ Eventbride no vende, alquila ni comparte información personal con terceros, exc
 -	Cuando sea requerido por ley o en respuesta a procesos legales válidos, como una orden judicial o una citación judicial.
 
 ### Retención de Datos 
-Se retendrá la información personal de los usuarios durante el tiempo necesario para cumplir con los fines para los que fue recopilada, o según lo requiera la ley aplicable. En caso de cancelación de la cuenta, Evenbride retendrá todos los datos correspondientes a ese usuario durante el período que establezca la Ley Orgánica de Protección de Datos de Carácter Personal (Ley Orgánica 3/2018).
- 
+Se retendrá la información personal de los usuarios durante el tiempo necesario para cumplir con los fines para los que fue recopilada, o según lo requiera la ley aplicable. En caso de cancelación de la cuenta, Eventbride retendrá todos los datos correspondientes a ese usuario durante el período que establezca la Ley Orgánica de Protección de Datos de Carácter Personal (Ley Orgánica 3/2018).
 ### Derechos de Privacidad
 Los usuarios tienen derechos sobre su información personal, que pueden incluir el acceso, rectificación, eliminación y restricción del procesamiento de la misma. Para ejercer estos derechos, contáctenos utilizando la información proporcionada al final de esta política.
  
