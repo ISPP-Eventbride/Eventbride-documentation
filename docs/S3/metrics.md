@@ -84,8 +84,7 @@ Para el desarrollo correcto del proyecto se establecen distintas métricas y est
 <div id='reuniones'></div>
 
 #### Reuniones
-Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso creativo de una duracion mínima de media hora, de manera presencial o telemática.
-
+Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso creativo de una duración mínima de media hora, de manera presencial o telemática.
 <div id='publicaciones'></div>
 
 #### Publicaciones
