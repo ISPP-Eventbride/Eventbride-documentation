@@ -535,6 +535,8 @@ En términos formativos, también ha asistido a sesiones de píldoras educativas
 
 **En conjunto**, Lorenzo Torralba Lanzas ha mantenido una participación sólida en el desarrollo funcional del proyecto, aportando soluciones técnicas eficaces y mostrando una actitud resolutiva ante los retos del sprint. Su enfoque técnico y su implicación constante lo convierten en un colaborador fiable dentro del equipo.
 
+<div id="concl"></div>
+
 ## Conclusiones
 
 Tras el análisis de las contribuciones registradas por cada integrante del equipo durante el Sprint 2, se puede concluir que el **Grupo Eventbride** ha mostrado una implicación destacable y equilibrada en todas las áreas del proyecto. El volumen de horas dedicadas, junto con la diversidad de tareas asumidas, evidencia un alto nivel de compromiso, coordinación y responsabilidad compartida.

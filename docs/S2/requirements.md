@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 12/03/2025
+### Fecha: 25/03/2025
 
-### Entregable: Sprint 1
+### Entregable: Sprint 2
 
 ---
 
@@ -63,18 +63,17 @@
 | RF-7 | Solicitud de reserva de contratación de servicios| Alta      | Los usuarios cliente podrán solicitar la contratación de los distintos servicios ofrecidos por los proveedores.                                                                                              |
 | RF-8 | Anulación de servicios                           | Alta      | Los proveedores pueden cancelar un servicio si lo considerasen.                                                                                                                                              |
 | RF-9 | Pagar la señal                                   | Alta      | Una vez el servicio esté aprobado por el proveedor, el cliente podrá pagar la señal de este. |
-| RF-10| Proceder al pago del evento                      | Alta      | Se procede al pago del evento completo un tiempo antes de la celebración de este.                  |
-| RF-11| Cancelación del servicio                         | Alta      | Los proveedores podrán cancelar sus servicios en caso de algún imprevisto o inconveniente y el dinero será devuelto al cliente.                                                                              |
-| RF-12| Organización eventos                             | Alta      | Los usuarios cliente podrán crear un nuevo evento. Al inicio del formulario de la creación, se indicará el tipo de evento, la fecha y un número estimado de invitados.  |
-| RF-13| Creación y gestión de listas de invitados        | Alta      | Los usuarios cliente podrán crear y gestionar una lista de invitados a su evento.                                                                                                                            |
-| RF-14| Envío de invitaciones                  | Media     | Los usuarios cliente podrán enviar invitaciones por correo a los invitados de la lista.                                                                                                                       |
-| RF-15| Precio total del evento                          | Alta      | Los usuarios cliente podrán obtener el precio total una vez se vayan reservando servicios.                                                            |
-| RF-16| Atención al cliente                              | Alta      | Los distintos usuarios podrán acceder a una sección de atención al cliente en la que conseguir ayuda o contactar con el equipo.                                                                              |
-| RF-17| Emisión de reseñas y calificaciones              | Alta      | Los usuarios cliente podrán emitir reseñas y calificaciones de los proveedores.                                                                                                                              |
-| RF-18| Visualización de reseñas y calificaciones        | Alta      | Los usuarios cliente podrán ver las reseñas y calificaciones emitidas por otros usuarios cliente.                                                                                                            |
-| RF-19| Recepción de notificaciones                      | Media     | Los distintos usuarios podrán recibir notificaciones informándoles o recordándoles hechos importantes (confirmaciones, cancelaciones, fechas, etc.)                                                          |
-| RF-20| Confirmación de asistencia                       | Alta      | Los invitados podrán confirmar su asistencia a través de un enlace poniendo sus datos sin necesidad de registro.                                                                                             |
-| RF-21| Plan Premium                                     | Alta      | Los proveedores podrán pagar un plan premium que aumente su límite de servicios ofertados y sus servicios serán mas visibles en la aplicación                                                                            |
+| RF-10| Proceder al pago del evento                      | Alta      | Se procede al pago del evento completo un tiempo antes de la celebración de este.                                                                                            |
+| RF-11| Organización eventos                             | Alta      | Los usuarios cliente podrán crear un nuevo evento. Al inicio del formulario de la creación, se indicará el tipo de evento, la fecha y un número estimado de invitados.  |
+| RF-12| Creación y gestión de listas de invitados        | Alta      | Los usuarios cliente podrán crear y gestionar una lista de invitados a su evento.                                                                                                                            |
+| RF-13| Envío de invitaciones                  | Media     | Los usuarios cliente podrán enviar invitaciones por correo a los invitados de la lista.                                                                                                                       |
+| RF-14| Precio total del evento                          | Alta      | Los usuarios cliente podrán obtener el precio total una vez se vayan reservando servicios.                                                            |
+| RF-15| Atención al cliente                              | Alta      | Los distintos usuarios podrán acceder a una sección de atención al cliente en la que conseguir ayuda o contactar con el equipo.                                                                              |
+| RF-16| Emisión de reseñas y calificaciones              | Alta      | Los usuarios cliente podrán emitir reseñas y calificaciones de los proveedores.                                                                                                                              |
+| RF-17| Visualización de reseñas y calificaciones        | Alta      | Los usuarios cliente podrán ver las reseñas y calificaciones emitidas por otros usuarios cliente.                                                                                                            |
+| RF-18| Recepción de notificaciones                      | Media     | Los distintos usuarios podrán recibir notificaciones informándoles o recordándoles hechos importantes (confirmaciones, cancelaciones, fechas, etc.)                                                          |
+| RF-19| Confirmación de asistencia                       | Alta      | Los invitados podrán confirmar su asistencia a través de un enlace poniendo sus datos sin necesidad de registro.                                                                                             |
+| RF-20| Plan Premium                                     | Alta      | Los proveedores podrán pagar un plan premium que aumente su límite de servicios ofertados y sus servicios serán mas visibles en la aplicación                                                                            |
 
 <div id='id2'></div>
 
@@ -95,12 +94,12 @@
 | ID   | Título                           | Prioridad | Descripción                                                                                                                                                                                                 |
 |------|----------------------------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | RI-1 | Datos de usuario                 | Alta      | De los usuarios se almacenará su nombre, apellido, nombre de usuario, email, número de teléfono, contraseña, DNI y foto de perfil. Estarán diferenciados entre cliente, proveedor y administrador(rol). Si un usuario es proveedor tendrá un plan, la fecha de inicio de este y la fecha de expiración del plan.                   |
-| RI-2 | Datos de servicio                | Alta      | De los servicios se almacenará su nombre, disponibilidad, la ciudad o ciudades en las que se ofertan, su precio fijo/por persona/por hora, una descripción, si está limitado a precio por persona, si está limitado a precio por hora y el usuario propietario del servicio. |
-| RI-3 | Datos específicos de recintos    | Alta      | De los servicios de tipo recinto se almacenará el código postal, las coordenadas, la dirección, el aforo máximo y la superficie.                                                                             |
+| RI-2 | Datos de servicio                | Alta      | De los servicios se almacenará su nombre, disponibilidad, la ciudad o ciudades en las que se ofertan, su precio fijo/por persona/por hora, una descripción, una imagen, si está limitado a precio por persona, si está limitado a precio por hora y el usuario propietario del servicio. |
+| RI-3 | Datos específicos de recintos    | Alta      | De los servicios de tipo recinto se almacenará el código postal, las coordenadas, la dirección, el aforo máximo, la superficie y el horario en el que estaría disponible                                     |
 | RI-4 | Datos específicos de otros servicios | Alta   | De los servicios de otro tipo se almacenará su tipo concreto (Catering, Entretenimiento o Decoración) junto a información extra.                                                                             |
 | RI-5 | Datos de las reseñas             | Alta      | De las reseñas se almacenará la calificación en estrellas, un comentario, el servicio que se califica y el usuario autor.                                                                                    |
-| RI-6 | Datos de eventos                 | Alta      | De los eventos se almacenará el tipo de evento (Boda, Bautizo o Comunión), el número de invitados estimados, la fecha, el usuario que lo crea, la lista de invitaciones, la fecha de pago, el número de invitados confirmados y si está pagado o no. |
-| RI-7 | Invitación                       | Alta      | La invitación constará de nombre, apellidos, número de teléfono, email y el estado de la misma (Enviada, Recibida o Aceptada).                                                                               |
+| RI-6 | Datos de eventos                 | Alta      | De los eventos se almacenará el tipo de evento (Boda, Bautizo o Comunión), el número de invitados estimados, el presupuesto, la fecha, el usuario que lo crea, la fecha de pago, el número de invitados confirmados y si está pagado o no. |
+| RI-7 | Invitación                       | Alta      | La invitación constará de nombre, apellidos, número de teléfono, mínimo y máximo de invitados asociados a la invitación, email, el evento al que corresponde y el estado de la misma (Enviada, Recibida o Aceptada).|
 
 <div id='id4'></div>
 

@@ -69,15 +69,13 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
    *“Usuario cliente solicita servicio ofertado en la plataforma, para celebración. Unservicio también incluye a un recinto en este caso.”*
 
-   Mockup - Frontend en #S1
+   Para solicitar un servicio, el usuario debe realizar los siguientes pasos:
 
-   Una vez implementada la función, el usuario podrá solicitar el servicio para su evento realizando los siguientes pasos:
+- Establecer qué tipo de servicio que desea contratar siendo las opciones: “**Recintos**” o “**Otros servicios**” situados en el navbar. Donde “**Otros servicios**” engloba cualquier servicio que no sea un local.
 
-- Establecer qué tipo de servicio que desea contratar siendo las opciones: “**Recintos**” o “**Otros servicios**” situados en el navbar. Donde “**Otros**” engloba cualquier servicio que no sea un local.
+- Una vez en la pagina que se haya escogido, el usuario podrá seleccionar el servicio que desea pulsando el botón correspondiente del mismo de "**Añadir a mi evento**". El usuario podrá aplicar filtros a su búsqueda, con los que podrá seleccionar el tipo de servicio que desea añadir y filtrar por la ciudad y nombre.
 
-- Una vez en la pagina que se haya escogido para contratar el servicio a desear, el usuario deberá seleccionar el botón de "**Añadir evento**" correspondiente al evento.
-
-- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido.
+- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido. Además, en caso de ser un servicio que cobre por horas o un recinto, deberá seleccionar las horas en las que se desea contratar el servicio. Si el servicio no se encuentra reservado en la hora seleccionada, el servicio será agragado al evento.
 
 2. **Crear evento (CC - 03)**
 
@@ -87,14 +85,28 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 - Seleccionar el botón “**Crear evento**” desde la pantalla principal. 
 
-  Otra forma de realizarlo es darle a la opción “**Desde cero**” una vez haya pulsado “**Crear evento**” en el navbar.
-
 - Una vez en la pantalla “Crear evento” el usuario debe de realizar las siguientes acciones:
   - Establecer qué tipo de evento desea crear siendo las opciones: “**Boda**”, “**Bautizo**” o “**Comunión**”.
   - Introducir el número de invitados estimados para el evento.
-  - Reflejar el presupuesto estimado para todo el evento.
   - Escoger la fecha del evento.
+
 - Ya introducidos todos los datos, pulsar el botón de “**Crear evento**”.
+
+2. **Gestionar lista de invitados  (CU - 04)**
+
+   *“El usuario cliente quiere crear y gestionar la lista de invitados a su evento.”*
+
+   Para gestionar su lista de invitados, el usuario debe realizar los siguientes pasos:
+
+- Seleccionar el botón “**Invitaciones**” desde el navbar de la pantalla principal. 
+
+- Una vez en la pantalla, el usuario deberá seleccionar el botón "**Editar invitados**" en el evento que se desea gestionar.
+
+- Ya en la página de invitados, se mostrará el número estimado de invitados, el total de los invitados confirmados y un listado con los nombres de los invitados ya confirmados y el número de acompañantes del mismo.
+
+- En caso de querer aumentar el número de invitados, el usuario deberá pulsar en el botón "**Crear invitación**" y seleccionar el número máximo de acompañantes de la misma.
+
+- Una vez introducidos los datos, el usuario dispondrá del enlace de la invitación copiado directamente en el portapapeles una vez pulse el votón de enviar.
 
 <div id='id3'></div>
 
@@ -107,18 +119,23 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
    Para registrar un servicio, el proveedor debe realizar los siguientes pasos:
 
 - Seleccionar el botón “**Mis servicios**” desde la pantalla principal. 
+
 - Una vez en la pantalla donde se reflejan los servicios, el proveedor debe de pulsar en el botón “**+ Crear nuevo servicio**”.
+
 - Ya situados en la pantalla “**Registrar Servicio**”, el proveedor deberá realizar las siguientes acciones:
-  - Establecer qué tipo de servicio que desea crear siendo las opciones: “**Recinto para eventos**” o “**Otros**”. Donde “**Otros**” engloba cualquier servicio que no sea un local. Esta elección cambia los últimos valores a introducir en el formulario de creación.
+  - Establecer qué tipo de servicio que desea crear siendo las opciones: “**Recinto para eventos**” o “**Otro tipo de servicio**”. Esta elección cambia los últimos valores a introducir en el formulario de creación.
   - Introducir el nombre del servicio que se desea exponer.
-  - Marcar si se encuentra disponible actualmente, escribir la ciudad donde es disponible.
+  - Introducir la ciudad en la que se encuentra disponible el servicio.
+  - Marcar si se encuentra disponible actualmente.
   - Establecer si se trata de un servicio que se cobra “**Por invitado**”, “**Por hora**” o con “**Precio fijo**” y establecer el precio.
   - Importar el enlace a la imagen que quieres mostrar en tu servicio.
   - Escribir la descripción que quieres tener en tu servicio.
-  - En caso de ser un “**Recinto para eventos**”, el usuario debe de introducir los siguientes valores: el “**Código postal**” del recinto, sus “**Coordenadas**”, su “**Dirección**”, el número “**Máximo de invitados**” y su “**Superficie (m²)**” en metros cuadrados.
-  - En caso de haberse establecido con “**Otros**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información extra**”.
+  
+  - En caso de ser un “**Recinto para eventos**”, el usuario debe de introducir los siguientes valores: su “**Dirección**”, el “**Código postal**” del recinto, sus “**Coordenadas**”, el número “**Máximo de invitados**” y su “**Superficie (m²)**” en metros cuadrados, la "**hora de apertura**" del recinto y la "**hora de cierre**".
+  
+  - En caso de haberse establecido con “**Otro tipo de servicio**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información adicional**”.
 
-- Ya introducidos todos los datos, pulsar el botón de “**Registrar otro servicio**”.
+- Ya introducidos todos los datos, pulsar el botón de registro.
 
 <div id='id4'></div>
 

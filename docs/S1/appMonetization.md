@@ -37,7 +37,7 @@
 |08/03/2025 |2\.0 |Actualización requisitos |Sprint 1 |<p>Pablo Jesús Castellanos Compaña, </p><p>Natalia Olmo Villegas,</p><p> María de la Salud Carrera Talaverón </p>|
 |11/03/2025|v2.1|Pasar el documento a markdown| Sprint 1 | Sergio Pons López |
 |13/03/2025|v2.2|Introducir estimación de costos y beneficios| Sprint 1 | Lorenzo Torralba Lanzas |
-|20/03/2025|v2.1|Ajustar estimación de costos a nuevos CAPEX y OPEX | Sprint 1 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|20/03/2025|v2.3|Ajustar estimación de costos a nuevos CAPEX y OPEX | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 
 ## Contenido 
 
