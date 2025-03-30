@@ -38,7 +38,7 @@
 | 11/03/2025 | v1.1    | Redacción de documento en formato markdown               | Sprint 1 | Ignacio Blanquero Blanco                                |
 | 13/03/2025 | v1.2    | Modificación líneas de código                            | Sprint 1 | María de la Salud Carrera Talaverón                     |
 | 20/03/2025 | v2.0    | Ajuste de las métricas para incluir al nuevo repositorio | Sprint 2 | María de la Salud Carrera Talaverón                     |
-| 30/03/2025 | v2.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                     |
+| 30/03/2025 | v3.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                     |
 
 ## Contenido
 
