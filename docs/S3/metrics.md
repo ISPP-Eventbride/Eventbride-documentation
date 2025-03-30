@@ -139,8 +139,7 @@ Cada desarrollador deberá realizar 10 commits en total como mínimo en el repos
 <div id='issues'></div>
 
 #### Issues
-Cada integrande del equipo deberá haber completado con éxito al menos 15 Issues, las cuales se encuentran en el Project Board del proyecto en GitHub. Da igual a qué repositorio correspondan las issues, puesto que en cualquier caso deben aparecer en el Project Borad, que es compartido por ambos repositorios.
-
+Cada integrante del equipo deberá haber completado con éxito al menos 15 Issues, las cuales se encuentran en el Project Board del proyecto en GitHub. Da igual a qué repositorio correspondan las issues, puesto que en cualquier caso deben aparecer en el Project Board, que es compartido por ambos repositorios.
 <div id='revisiones'></div>
 
 #### Revisiones
