@@ -16,7 +16,7 @@ const teamData = [
   {
     team: 'Equipo de Documentación',
     members: [
-      { name: 'María de la Salud Carrera Talaverón', roles: ['Jefa de Código', 'Coordinadora de tiempos'], photo: '/img/carrera-maria.png', url: 'https://github.com/maryycarrera' },
+      { name: 'María de la Salud Carrera Talaverón', roles: ['Jefa de Documentación', 'Coordinadora de tiempos'], photo: '/img/carrera-maria.png', url: 'https://github.com/maryycarrera' },
       { name: 'Ignacio Blanquero Blanco', roles: ['Secretario'], photo: '/img/blanquero-ignacio.png', url: 'https://github.com/ignblabla' },
       { name: 'Antonio Montero López', roles: [], photo: '/img/montero-antonio.png', url: 'https://github.com/antonio-mz' },
       { name: 'Sergio Pons López', roles: ['Secretario'], photo: '/img/pons-sergio.png', url: 'https://github.com/sergiopons-1' },
