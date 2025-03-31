@@ -143,6 +143,10 @@ const config = {
                 href: 'https://www.linkedin.com/company/eventbride/',
               },
               {
+                label: 'TikTok',
+                href: 'https://www.tiktok.com/@eventbride',
+              },
+              {
                 label: 'Equipo',
                 to: '/equipo',
               },

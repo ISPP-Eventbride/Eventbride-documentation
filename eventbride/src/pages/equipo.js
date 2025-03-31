@@ -33,7 +33,7 @@ const teamData = [
     ],
   },
   {
-    role: 'Equipo de Revisión',
+    role: 'Equipo de Revisión/Control de Calidad',
     members: [
       { name: 'Francisco Avilés Carrera', roles: ['Jefe de Revisión'], photo: '../static/img/aviles-francisco.png' },
       { name: 'Pablo Jesús Castellanos Compaña', roles: ['Jefe de Revisión'], photo: '../static/img/castellanos-pablo.png' },
