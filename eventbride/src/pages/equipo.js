@@ -46,31 +46,111 @@ const teamData = [
 export default function EquipoPage() {
   return (
     <Layout title="Equipo" description="Conoce al equipo detrás de EventBride">
-      <div className={styles.container}>
+      <div className="container">
         <h1 className={styles.centeredTitle}>Equipo de Desarrollo</h1>
 
-        {teamData.map((team, index) => (
-          <div key={index}>
-            <h2 className={styles.centeredTitle}>{team.team}</h2>
-            <div className={styles.teamGrid}>
-              {team.members.map((member, idx) => (
-                <div key={idx} className={clsx(styles.cardMember)}>
-                  <a href={member.url} target="_blank" rel="noopener noreferrer">
-                    <img src={member.photo} alt={member.name} />
-                  </a>
-                  <h6>{member.name}</h6>
-                  <div>
-                    {member.roles.map((role, roleIdx) => (
-                      <span key={roleIdx} className={clsx(styles.tag)}>
-                        {role}
-                      </span>
+        {teamData.map((team, index) => {
+          if (team.team === 'Equipo de Código') {
+            // Dividir el equipo de código en dos filas
+            const firstRow = team.members.slice(0, 4);
+            const secondRow = team.members.slice(4);
+
+            return (
+              <div key={index}>
+                <h2 className={styles.centeredTitle}>{team.team}</h2>
+                <div className={styles.teamGrid2rows}>
+                  {/* Primera fila */}
+                  <div className={styles.teamGrid}>
+                    {firstRow.map((member, idx) => (
+                      <div key={idx} className={clsx(styles.cardMember)}>
+                        <a href={member.url} target="_blank" rel="noopener noreferrer">
+                          <img src={member.photo} alt={member.name} />
+                        </a>
+                        <h6>{member.name}</h6>
+                        <div>
+                          {member.roles.map((role, roleIdx) => (
+                            <span key={roleIdx} className={clsx(styles.tag)}>
+                              {role}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+
+                  {/* Segunda fila */}
+                  <div className={styles.teamGrid3People}>
+                    {secondRow.map((member, idx) => (
+                      <div key={idx} className={clsx(styles.cardMember)}>
+                        <a href={member.url} target="_blank" rel="noopener noreferrer">
+                          <img src={member.photo} alt={member.name} />
+                        </a>
+                        <h6>{member.name}</h6>
+                        <div>
+                          {member.roles.map((role, roleIdx) => (
+                            <span key={roleIdx} className={clsx(styles.tag)}>
+                              {role}
+                            </span>
+                          ))}
+                        </div>
+                      </div>
                     ))}
                   </div>
                 </div>
-              ))}
+              </div>
+            );
+          }
+
+          // Renderizar el equipo de revisión
+          if (team.team === 'Equipo de Revisión/Control de Calidad') {
+            return (
+              <div key={index}>
+                <h2 className={styles.centeredTitle}>{team.team}</h2>
+                <div className={styles.teamGrid2People}>
+                  {team.members.map((member, idx) => (
+                    <div key={idx} className={clsx(styles.cardMember)}>
+                      <a href={member.url} target="_blank" rel="noopener noreferrer">
+                        <img src={member.photo} alt={member.name} />
+                      </a>
+                      <h6>{member.name}</h6>
+                      <div>
+                        {member.roles.map((role, roleIdx) => (
+                          <span key={roleIdx} className={clsx(styles.tag)}>
+                            {role}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            );
+          }
+
+          // Renderizar otros equipos normalmente
+          return (
+            <div key={index}>
+              <h2 className={styles.centeredTitle}>{team.team}</h2>
+              <div className={styles.teamGrid}>
+                {team.members.map((member, idx) => (
+                  <div key={idx} className={clsx(styles.cardMember)}>
+                    <a href={member.url} target="_blank" rel="noopener noreferrer">
+                      <img src={member.photo} alt={member.name} />
+                    </a>
+                    <h6>{member.name}</h6>
+                    <div>
+                      {member.roles.map((role, roleIdx) => (
+                        <span key={roleIdx} className={clsx(styles.tag)}>
+                          {role}
+                        </span>
+                      ))}
+                    </div>
+                  </div>
+                ))}
+              </div>
             </div>
-          </div>
-        ))}
+          );
+        })}
       </div>
     </Layout>
   );
