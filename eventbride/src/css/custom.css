@@ -16,7 +16,6 @@
   --ifm-code-font-size: 95%;
   --eventbride-box-shadow: rgba(0, 0, 0, 0.1);
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
-  --ifm-navbar-background-color: #f8f0d8;
   --ifm-footer-background-color: #f8f0d8;
 }
 
@@ -30,6 +29,5 @@
   --ifm-color-primary-lightest: #e0c89a;
   --eventbride-box-shadow: rgba(255, 255, 255, 0.466);
   --docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
-  --ifm-navbar-background-color: #68542a;
   --ifm-footer-background-color: #68542a;
 }
