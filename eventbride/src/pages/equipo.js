@@ -1,42 +1,44 @@
 import React from 'react';
 import Layout from '@theme/Layout';
+import clsx from 'clsx';
+import styles from '../css/equipo.module.css';
 
 const teamData = [
   {
-    role: 'Equipo de Marketing',
+    team: 'Equipo de Marketing',
     members: [
-      { name: 'Natalia Olmo Villegas', roles: ['Project Manager', 'Jefa de Marketing'], photo: '../static/img/olmo-natalia.png' },
-      { name: 'Daniel Benito Hidalgo', roles: ['Encargado de Diseño', 'Gestor de Usuarios Piloto'], photo: '../static/img/benito-daniel.png' },
-      { name: 'Fernando José de Celis Hurtado', roles: ['Gestor de Usuarios Piloto', 'Encargado de GDPR'], photo: '../static/img/de-celis-fernando.png' },
-      { name: 'Manuel Pérez Velez', roles: [], photo: '../static/img/perez-manuel' },
+      { name: 'Natalia Olmo Villegas', roles: ['Project Manager', 'Jefa de Marketing'], photo: '/img/olmo-natalia.png', url: 'https://github.com/nataliaaolmo' },
+      { name: 'Daniel Benito Hidalgo', roles: ['Encargado de Diseño', 'Gestor de Usuarios Piloto'], photo: '/img/benito-daniel.png', url: 'https://github.com/d4niel980' },
+      { name: 'Fernando José de Celis Hurtado', roles: ['Gestor de Usuarios Piloto', 'Encargado de GDPR'], photo: '/img/de-celis-fernando.png', url: 'https://github.com/ferdehur' },
+      { name: 'Manuel Pérez Velez', roles: [], photo: '/img/perez-manuel.png', url: 'https://github.com/manpervel2' },
     ],
   },
   {
-    role: 'Equipo de Documentación',
+    team: 'Equipo de Documentación',
     members: [
-      { name: 'María de la Salud Carrera Talaverón', roles: ['Jefa de Código', 'Coordinadora de tiempos'], photo: '../static/img/carrera-maria.png' },
-      { name: 'Ignacio Blanquero Blanco', roles: ['Secretario'], photo: '../static/img/blanquero-ignacio.png' },
-      { name: 'Antonio Montero López', roles: [], photo: '../static/img/montero-antonio.png' },
-      { name: 'Sergio Pons López', roles: ['Secretario'], photo: '../static/img/pons-sergio.png' },
+      { name: 'María de la Salud Carrera Talaverón', roles: ['Jefa de Código', 'Coordinadora de tiempos'], photo: '/img/carrera-maria.png', url: 'https://github.com/maryycarrera' },
+      { name: 'Ignacio Blanquero Blanco', roles: ['Secretario'], photo: '/img/blanquero-ignacio.png', url: 'https://github.com/ignblabla' },
+      { name: 'Antonio Montero López', roles: [], photo: '/img/montero-antonio.png', url: 'https://github.com/antonio-mz' },
+      { name: 'Sergio Pons López', roles: ['Secretario'], photo: '/img/pons-sergio.png', url: 'https://github.com/sergiopons-1' },
     ],
   },
   {
-    role: 'Equipo de Código',
+    team: 'Equipo de Código',
     members: [
-      { name: 'Adrián Cabello Martín', roles: ['Jefe de Desarrollo'], photo: '../static/img/cabello-adrian.png' },
-      { name: 'Andrés Pizzano Cerrillos', roles: [], photo: '../static/img/pizzano-andres.png' },
-      { name: 'Lorenzo Torralba Lanzas', roles: [], photo: '../static/img/torralba-lorenzo.png' },
-      { name: 'Héctor Noguera González', roles: ['Policy Manager'], photo: '../static/img/noguera-hector.png' },
-      { name: 'Gonzalo Navas Remmers', roles: ['Gestor de Usuarios Piloto'], photo: '../static/img/navas-gonzalo.png' },
-      { name: 'Miguel Hernández Sánchez', roles: [], photo: '../static/img/hernandez-miguel.png' },
-      { name: 'David Godoy Fernández', roles: ['Gestor de Usuarios Piloto'], photo: '../static/img/godoy-david.png' },
+      { name: 'Adrián Cabello Martín', roles: ['Jefe de Desarrollo'], photo: '/img/cabello-adrian.png', url: 'https://github.com/Adrcabmar' },
+      { name: 'Andrés Pizzano Cerrillos', roles: [], photo: '/img/pizzano-andres.png', url: 'https://github.com/andpizcer' },
+      { name: 'Lorenzo Torralba Lanzas', roles: [], photo: '/img/torralba-lorenzo.png', url: 'https://github.com/lorenx16' },
+      { name: 'Héctor Noguera González', roles: ['Policy Manager'], photo: '/img/noguera-hector.png', url: 'https://github.com/HectorNG840' },
+      { name: 'Gonzalo Navas Remmers', roles: ['Gestor de Usuarios Piloto'], photo: '/img/navas-gonzalo.png', url: 'https://github.com/gonnavrem' },
+      { name: 'Miguel Hernández Sánchez', roles: [], photo: '/img/hernandez-miguel.png', url: 'https://github.com/Yato03' },
+      { name: 'David Godoy Fernández', roles: ['Gestor de Usuarios Piloto'], photo: '/img/godoy-david.png', url: 'https://github.com/Davgodfer' },
     ],
   },
   {
-    role: 'Equipo de Revisión/Control de Calidad',
+    team: 'Equipo de Revisión/Control de Calidad',
     members: [
-      { name: 'Francisco Avilés Carrera', roles: ['Jefe de Revisión'], photo: '../static/img/aviles-francisco.png' },
-      { name: 'Pablo Jesús Castellanos Compaña', roles: ['Jefe de Revisión'], photo: '../static/img/castellanos-pablo.png' },
+      { name: 'Francisco Avilés Carrera', roles: ['Jefe de Revisión'], photo: '/img/aviles-francisco.png', url: 'https://github.com/franavi' },
+      { name: 'Pablo Jesús Castellanos Compaña', roles: ['Jefe de Revisión'], photo: '/img/castellanos-pablo.png', url: 'https://github.com/Pablo-J-Castellanos' },
     ],
   },
 ];
@@ -44,31 +46,32 @@ const teamData = [
 export default function EquipoPage() {
   return (
     <Layout title="Equipo" description="Conoce al equipo detrás de EventBride">
-      <h1>Equipo de Desarrollo</h1>
+      <div className={styles.container}>
+        <h1 className={styles.centeredTitle}>Equipo de Desarrollo</h1>
 
-      {/* Mostrar equipos */}
-      {teamData.map((team, index) => (
-        <div key={index} style={{ marginBottom: '2rem' }}>
-          <h2>{team.role}</h2>
-          <div style={{ display: 'flex', gap: '1rem', flexWrap: 'wrap' }}>
-            {team.members.map((member, idx) => (
-              <div key={idx} style={{ textAlign: 'center' }}>
-                <img
-                  src={member.photo}
-                  alt={member.name}
-                  style={{ borderRadius: '50%', width: '150px', height: '150px' }}
-                />
-                <p>{member.name}</p>
-                {member.roles.map((role, roleIdx) => (
-                  <p key={roleIdx} style={{ fontSize: '0.9rem', color: 'gray' }}>
-                    {role}
-                  </p>
-                ))}
-              </div>
-            ))}
+        {teamData.map((team, index) => (
+          <div key={index}>
+            <h2 className={styles.centeredTitle}>{team.team}</h2>
+            <div className={styles.teamGrid}>
+              {team.members.map((member, idx) => (
+                <div key={idx} className={clsx(styles.cardMember)}>
+                  <a href={member.url} target="_blank" rel="noopener noreferrer">
+                    <img src={member.photo} alt={member.name} />
+                  </a>
+                  <h6>{member.name}</h6>
+                  <div>
+                    {member.roles.map((role, roleIdx) => (
+                      <span key={roleIdx} className={clsx(styles.tag)}>
+                        {role}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
+      </div>
     </Layout>
   );
 }
