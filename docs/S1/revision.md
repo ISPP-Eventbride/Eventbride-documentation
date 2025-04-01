@@ -1,6 +1,6 @@
 # <center>Manual de usuario</center>
 ## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\img\Eventbride.png"></center>
+<center><img src="img\s1Eventbride.png"></center>
 
 ### Grupo 3: Eventbride
 
@@ -69,13 +69,15 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
    *“Usuario cliente solicita servicio ofertado en la plataforma, para celebración. Unservicio también incluye a un recinto en este caso.”*
 
-   Para solicitar un servicio, el usuario debe realizar los siguientes pasos:
+   Mockup - Frontend en #S1
 
-- Establecer qué tipo de servicio que desea contratar siendo las opciones: “**Recintos**” o “**Otros servicios**” situados en el navbar. Donde “**Otros servicios**” engloba cualquier servicio que no sea un local.
+   Una vez implementada la función, el usuario podrá solicitar el servicio para su evento realizando los siguientes pasos:
 
-- Una vez en la pagina que se haya escogido, el usuario podrá seleccionar el servicio que desea pulsando el botón correspondiente del mismo de "**Añadir a mi evento**". El usuario podrá aplicar filtros a su búsqueda, con los que podrá seleccionar el tipo de servicio que desea añadir y filtrar por la ciudad y nombre.
+- Establecer qué tipo de servicio que desea contratar siendo las opciones: “**Recintos**” o “**Otros servicios**” situados en el navbar. Donde “**Otros**” engloba cualquier servicio que no sea un local.
 
-- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido. Además, en caso de ser un servicio que cobre por horas o un recinto, deberá seleccionar las horas en las que se desea contratar el servicio. Si el servicio no se encuentra reservado en la hora seleccionada, el servicio será agragado al evento.
+- Una vez en la pagina que se haya escogido para contratar el servicio a desear, el usuario deberá seleccionar el botón de "**Añadir evento**" correspondiente al evento.
+
+- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido.
 
 2. **Crear evento (CC - 03)**
 
@@ -85,28 +87,14 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 - Seleccionar el botón “**Crear evento**” desde la pantalla principal. 
 
+  Otra forma de realizarlo es darle a la opción “**Desde cero**” una vez haya pulsado “**Crear evento**” en el navbar.
+
 - Una vez en la pantalla “Crear evento” el usuario debe de realizar las siguientes acciones:
   - Establecer qué tipo de evento desea crear siendo las opciones: “**Boda**”, “**Bautizo**” o “**Comunión**”.
   - Introducir el número de invitados estimados para el evento.
+  - Reflejar el presupuesto estimado para todo el evento.
   - Escoger la fecha del evento.
-
 - Ya introducidos todos los datos, pulsar el botón de “**Crear evento**”.
-
-2. **Gestionar lista de invitados  (CU - 04)**
-
-   *“El usuario cliente quiere crear y gestionar la lista de invitados a su evento.”*
-
-   Para gestionar su lista de invitados, el usuario debe realizar los siguientes pasos:
-
-- Seleccionar el botón “**Invitaciones**” desde el navbar de la pantalla principal. 
-
-- Una vez en la pantalla, el usuario deberá seleccionar el botón "**Editar invitados**" en el evento que se desea gestionar.
-
-- Ya en la página de invitados, se mostrará el número estimado de invitados, el total de los invitados confirmados y un listado con los nombres de los invitados ya confirmados y el número de acompañantes del mismo.
-
-- En caso de querer aumentar el número de invitados, el usuario deberá pulsar en el botón "**Crear invitación**" y seleccionar el número máximo de acompañantes de la misma.
-
-- Una vez introducidos los datos, el usuario dispondrá del enlace de la invitación copiado directamente en el portapapeles una vez pulse el votón de enviar.
 
 <div id='id3'></div>
 
@@ -119,23 +107,18 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
    Para registrar un servicio, el proveedor debe realizar los siguientes pasos:
 
 - Seleccionar el botón “**Mis servicios**” desde la pantalla principal. 
-
 - Una vez en la pantalla donde se reflejan los servicios, el proveedor debe de pulsar en el botón “**+ Crear nuevo servicio**”.
-
 - Ya situados en la pantalla “**Registrar Servicio**”, el proveedor deberá realizar las siguientes acciones:
-  - Establecer qué tipo de servicio que desea crear siendo las opciones: “**Recinto para eventos**” o “**Otro tipo de servicio**”. Esta elección cambia los últimos valores a introducir en el formulario de creación.
+  - Establecer qué tipo de servicio que desea crear siendo las opciones: “**Recinto para eventos**” o “**Otros**”. Donde “**Otros**” engloba cualquier servicio que no sea un local. Esta elección cambia los últimos valores a introducir en el formulario de creación.
   - Introducir el nombre del servicio que se desea exponer.
-  - Introducir la ciudad en la que se encuentra disponible el servicio.
-  - Marcar si se encuentra disponible actualmente.
+  - Marcar si se encuentra disponible actualmente, escribir la ciudad donde es disponible.
   - Establecer si se trata de un servicio que se cobra “**Por invitado**”, “**Por hora**” o con “**Precio fijo**” y establecer el precio.
   - Importar el enlace a la imagen que quieres mostrar en tu servicio.
   - Escribir la descripción que quieres tener en tu servicio.
-  
-  - En caso de ser un “**Recinto para eventos**”, el usuario debe de introducir los siguientes valores: su “**Dirección**”, el “**Código postal**” del recinto, sus “**Coordenadas**”, el número “**Máximo de invitados**” y su “**Superficie (m²)**” en metros cuadrados, la "**hora de apertura**" del recinto y la "**hora de cierre**".
-  
-  - En caso de haberse establecido con “**Otro tipo de servicio**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información adicional**”.
+  - En caso de ser un “**Recinto para eventos**”, el usuario debe de introducir los siguientes valores: el “**Código postal**” del recinto, sus “**Coordenadas**”, su “**Dirección**”, el número “**Máximo de invitados**” y su “**Superficie (m²)**” en metros cuadrados.
+  - En caso de haberse establecido con “**Otros**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información extra**”.
 
-- Ya introducidos todos los datos, pulsar el botón de registro.
+- Ya introducidos todos los datos, pulsar el botón de “**Registrar otro servicio**”.
 
 <div id='id4'></div>
 
@@ -143,59 +126,59 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de inicio de sesión el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center><img src="..\img\login1.png"></center>
+<center><img src="img\s1login1.png"></center>
 
 En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta en el sistema.
 
-<center><img src="..\img\login2.png"></center>
+<center><img src="img\s1login2.png"></center>
 
 Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos y hay una breve descripción sobre lo que hacemos y como trabajamos.
 
-<center><img src="..\img\inicio.png"></center>
+<center><img src="img\s1inicio.png"></center>
 
 Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de mis servicios, se pueden observar los servicios pertenecientes al usuario y sus respectivos datos.
 
-<center><img src="..\img\miseventos.png"></center>
+<center><img src="img\s1miseventos.png"></center>
 
 Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos y también se puede borrar el evento que se seleccione.
 
-<center><img src="..\img\detalleseventos.png"></center>
+<center><img src="img\s1detalleseventos.png"></center>
 
 También se puede meter en la sección de crear evento donde se muestra un formulario a completar y se crea el evento. 
 
-<center><img src="..\img\crearevento.png"></center>
+<center><img src="img\s1crearevento.png"></center>
 
 Y hasta el momento, también se puede acceder a la pestaña de términos y condiciones para poder leerlas.
 
-<center><img src="..\img\terminos.png"></center>
+<center><img src="img\s1terminos.png"></center>
 
 Si iniciamos sesión con un usuario **proveedor** y se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
 
-<center><img src="..\img\misservicios.png"></center>
+<center><img src="img\s1misservicios.png"></center>
 
 Dentro de editar un servicio, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio.
 
-<center><img src="..\img\editarservicio.png"></center>
+<center><img src="img\s1editarservicio.png"></center>
 
 Y de la misma forma si se quiere crear un servicio, se muestra el formulario correspondiente a completar.
 
-<center><img src="..\img\crearservicio.png"></center>
+<center><img src="img\s1crearservicio.png"></center>
 
 Si iniciamos sesión con un usuario **admin**, y accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
-<center><img src="..\img\administrarservicios.png"></center>
+<center><img src="img\s1administrarservicios.png"></center>
 
 Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
-<center><img src="..\img\admineditarservicio.png"></center>
+<center><img src="img\s1admineditarservicio.png"></center>
 
 Si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
 
-<center><img src="..\img\administrarusuarios.png"></center>
+<center><img src="img\s1administrarusuarios.png"></center>
 
 Por último, la sección de administrar eventos funciona de la misma manera que la anterior mencionada.
 
-<center><img src="..\img\administrareventos.png"></center>
+<center><img src="img\s1administrareventos.png"></center>
 
 <div id='id5'></div>
 
@@ -211,7 +194,7 @@ Clientes:
 - Usuario: **bob456** Contraseña: **1234**
 - Usuario: **charlie789** Contraseña: **1234**
 - Usuario: **diana001** Contraseña: **1234**
-- Usuario: **edward\_dev** Contraseña: **1234**
+- Usuario: **edward_dev** Contraseña: **1234**
 
 Proveedores:
 
