@@ -39,6 +39,7 @@
 | 13/03/2025 | v1.2    | Modificación líneas de código                            | Sprint 1 | María de la Salud Carrera Talaverón                     |
 | 20/03/2025 | v2.0    | Ajuste de las métricas para incluir al nuevo repositorio | Sprint 2 | María de la Salud Carrera Talaverón                     |
 | 30/03/2025 | v3.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                     |
+| 01/04/2025 | v3.1    | Modificación test y grupo marketing | Sprint 3 | Antonio Montero López                     |
 
 ## Contenido
 
@@ -85,10 +86,6 @@ Para el desarrollo correcto del proyecto se establecen distintas métricas y est
 
 #### Reuniones
 Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso creativo de una duración mínima de media hora, de manera presencial o telemática.
-<div id='publicaciones'></div>
-
-#### Publicaciones
-Cada desarrollador deberá haber realizado al menos 5 publicaciones entre las diferentes redes sociales del proyecto, en el cual se podrán encontrar tanto artículos como tutoriales.
 
 <div id='grupo-de-documentacion'></div>
 
@@ -158,11 +155,6 @@ Cada desarrollador debe haber revisado al menos 5 Pull Request durante el transc
 
 #### Tests
 Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar.
-
-<div id='tests-general'></div>
-
-##### General
-Para un correcto funcionamiento de la plataforma se deberá realizar como mínimo 3 test por persona, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
 
 <div id='tests-grupo-de-codigo'></div>
 
