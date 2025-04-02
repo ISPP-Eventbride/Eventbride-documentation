@@ -1,6 +1,6 @@
 ﻿# <p style="text-align: center;">Análisis de equipo, charter goal</p>
 ## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="..\..\img\Eventbride.png"></center>
+<center><img src=".\img\Eventbride.png"></center>
 
 ### Grupo 3: EventBride
 
@@ -23,8 +23,8 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 10/03/2025
-### Entregable: Sprint 1
+### Fecha: 02/04/2025
+### Entregable: Sprint 3
 
 ---
 
@@ -61,20 +61,20 @@ El  presente  documento detalla  la  organización  y  estructura  del  equipo  
 |----------------------------|--------------------------------------------|--------------|
 | **Project Manager**        | Natalia Olmo Villegas                           | Planificación y seguimiento del proyecto. Principal responsable. |
 | **Directores**            | Pablo Jesús Castellanos                         | Coordinar un grupo de trabajo asociado y asegurar que estos trabajen de forma eficiente. |
-| María de la Salud Carrera Talaverón            | |
-| Francisco Avilés Carrera                        | |
-| Adrián Cabello Martín                           | |
-| Natalia Olmo Villegas                           | |
-| **Desarrollador y Tester** | Francisco Avilés Carrera                        | Desarrollar la plataforma web acorde a las funcionalidades exigidas y testear las funcionalidades añadidas. |
-| Daniel Benito Hidalgo                           | |
-| Ignacio Blanquero Blanco                        | |
-| Adrián Cabello Martín                           | |
-| María de la Salud Carrera Talaverón             | |
-| Pablo Jesús Castellanos Compaña                 | |
-| Fernando José De Celis Hurtado                  | |
-| David Godoy Fernández                           | |
-| Miguel Hernández Sánchez                        | |
-| Antonio Montero López                           | |
+|| María de la Salud Carrera Talaverón            ||
+|| Francisco Avilés Carrera                       ||
+|| Adrián Cabello Martín                          ||
+|| Natalia Olmo Villegas                          ||
+| **Desarrolladores** | Francisco Avilés Carrera                        | Desarrollar las tareas asignadas en su correspondiente equipo según los requisitos exigidos y revisar las tareas de sus compañeros. |
+|| Daniel Benito Hidalgo                           ||
+|| Ignacio Blanquero Blanco                        ||
+|| Adrián Cabello Martín                           ||
+|| María de la Salud Carrera Talaverón             ||
+|| Pablo Jesús Castellanos Compaña                 ||
+|| Fernando José De Celis Hurtado                  ||
+|| David Godoy Fernández                           ||
+|| Miguel Hernández Sánchez                        ||
+|| Antonio Montero López                           ||
 || Gonzalo Navas Remmers                           ||
 || Héctor Noguera González                         ||
 || Natalia Olmo Villegas                           ||
@@ -92,7 +92,7 @@ Listado de las habilidades clave de los miembros del equipo. Los desarrolladores
 
 - Desarrollo Backend en **SpringBoot**. 
 - Desarrollo Frontend con **React**. 
-- Gestión de bases de datos **Files**. 
+- Gestión de bases de datos **Filess**. 
 - Pruebas automatizadas con **JUnit**. 
 - Gestión de proyectos ágiles (**Scrum**). 
 
@@ -122,7 +122,7 @@ Los equipos de trabajo serán los siguientes:
 || - Fernando de Celis Hurtado    ||
 || - Manuel Pérez Vélez           ||
 || - Daniel Benito Hidalgo        ||
-| **Equipo Revisión**      | - Pablo Castellanos Compaña y Francisco Avilés Carrera    | Pablo Castellanos Compaña      |
+| **Equipo Revisión**      | - Pablo Castellanos Compaña    | Pablo Castellanos Compaña y Francisco Avilés Carrera     |
 || - Francisco Avilés Carrera    |
 
 
