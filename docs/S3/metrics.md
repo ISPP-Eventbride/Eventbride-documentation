@@ -24,22 +24,23 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 20/03/2025
+### Fecha: 02/04/2025
 
-### Entregable: Sprint 2
+### Entregable: Sprint 3
 
 ---
 
 ### Historial de versiones
 
-| Fecha      | Versión | Descripción                                              | Entrega  | Contribuyente/s                                         |
-|------------|---------|----------------------------------------------------------|----------|---------------------------------------------------------|
-| 26/02/2025 | v1.0    | Realización del documento                                | Sprint 1 | Adrián Cabello Martín, Pablo Jesús Castellanos Compaña  |
-| 11/03/2025 | v1.1    | Redacción de documento en formato markdown               | Sprint 1 | Ignacio Blanquero Blanco                                |
-| 13/03/2025 | v1.2    | Modificación líneas de código                            | Sprint 1 | María de la Salud Carrera Talaverón                     |
-| 20/03/2025 | v2.0    | Ajuste de las métricas para incluir al nuevo repositorio | Sprint 2 | María de la Salud Carrera Talaverón                     |
-| 30/03/2025 | v3.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                     |
-| 01/04/2025 | v3.1    | Modificación test y grupo marketing | Sprint 3 | Antonio Montero López                     |
+| Fecha      | Versión | Descripción                                                     | Entrega  | Contribuyente/s                                         |
+|------------|---------|-----------------------------------------------------------------|----------|---------------------------------------------------------|
+| 26/02/2025 | v1.0    | Realización del documento                                       | Sprint 1 | Adrián Cabello Martín, Pablo Jesús Castellanos Compaña  |
+| 11/03/2025 | v1.1    | Redacción de documento en formato markdown                      | Sprint 1 | Ignacio Blanquero Blanco                                |
+| 13/03/2025 | v1.2    | Modificación líneas de código                                   | Sprint 1 | María de la Salud Carrera Talaverón                     |
+| 20/03/2025 | v2.0    | Ajuste de las métricas para incluir al nuevo repositorio        | Sprint 2 | María de la Salud Carrera Talaverón                     |
+| 30/03/2025 | v3.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                                   |
+| 01/04/2025 | v3.1    | Modificación test y grupo marketing                             | Sprint 3 | Antonio Montero López                                   |
+| 02/04/2025 | v3.2    | Adición métricas faltantes                                      | Sprint 3 | María de la Salud Carrera Talaverón                     |
 
 ## Contenido
 
@@ -59,12 +60,11 @@
          1. [General](#commits-general)
          2. [Grupo de código](#commits-grupo-de-codigo)
       3. [Issues](#issues)
-      4. [Revisiones](#revisiones)
+      4. [Revisiones](#revisiones-1)
          1. [General](#revisiones-general)
          2. [Grupo de código](#revisiones-grupo-de-codigo)
       5. [Tests](#tests)
-         1. [General](#tests-general)
-         2. [Grupo de código](#tests-grupo-de-codigo)
+   4. [Grupo de revisión](#grupo-de-revision)
 3. [Conclusiones](#concl)
 4. [Bibliografía](#bib)
 
@@ -72,7 +72,7 @@
 
 ## Introducción
 
-Para el desarrollo correcto del proyecto se establecen distintas métricas y estándares a cumplir por cada integrante el equipo para que su aportación al proyecto se considere apta. Se diferenciarán algunos criterios mínimos según el grupo al que se pertenezca, siendo estos el grupo de marketing, documentación y código. En el grupo de marketing, los criterios mínimo serán dictados mediante el número de reuniones para el proceso creativo y el número de publicaciones realizadas. Para el grupo de documentación, los criterios mínimos dependerán de la cantidad de documentos modificados y las pull requests revisadas. Cabe destacar que cada integrante del equipo, independientemente del grupo que pertenezcan, deberá realizar tareas de código, se dictarán los criterios mínimos en cuanto a número de commits, número de pull requests, issues, revisiones de pull requests, líneas de código y tests, exigiendo más para el grupo de código. Es importante mencionar que el proyecto cuenta con dos repositorios: `Eventbride`, para código, y `Eventbride-documentation`, para documentación. Las métricas harán referencia a uno, otro o ambos repositorios, según se especifique.
+Para el desarrollo correcto del proyecto se establecen distintas métricas y estándares a cumplir por cada integrante el equipo para que su aportación al proyecto se considere apta. Se diferenciarán algunos criterios mínimos según el subgrupo al que se pertenezca, siendo estos el grupo de marketing, documentación, código y revisión. Cabe destacar que cada integrante del equipo, independientemente del grupo al que pertenezcan, deberá realizar tareas de código. Es importante mencionar que el proyecto cuenta con dos repositorios: `Eventbride`, para código, y `Eventbride-documentation`, para documentación. Las métricas harán referencia a uno, otro o ambos repositorios, según se especifique. Todas las métricas especificadas en este documento se refieren a valores a tener como **objetivo** a lo largo de todo el proyecto.
 
 <div id='requisitos'></div>
 
@@ -85,7 +85,12 @@ Para el desarrollo correcto del proyecto se establecen distintas métricas y est
 <div id='reuniones'></div>
 
 #### Reuniones
-Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso creativo de una duración mínima de media hora, de manera presencial o telemática.
+Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso creativo, de una duración mínima de media hora, de manera presencial o telemática.
+
+<div id='publicaciones'></div>
+
+#### Publicaciones
+Cada desarrollador deberá haber participado en el proceso de creación de al menos 5 publicaciones, que se subirán a las redes sociales de Eventbride o se utilizarán en las presentaciones de clase. Este proceso de creación incluye organizar, grabar, editar o publicar contenido.
 
 <div id='grupo-de-documentacion'></div>
 
@@ -94,7 +99,7 @@ Cada desarrollador deberá haber asistido a al menos 3 reuniones para el proceso
 <div id='documentos'></div>
 
 #### Documentos
-Cada desarrollador deberá haber realizado al menos 5 modificaciones o creaciones en los documentos del repositorio `Eventbride-documentation`.
+Cada desarrollador deberá haber creado o modificado al menos 5 documentos en el repositorio `Eventbride-documentation`.
 
 <div id='revisiones'></div>
 
@@ -137,7 +142,8 @@ Cada desarrollador deberá realizar 10 commits en total como mínimo en el repos
 
 #### Issues
 Cada integrante del equipo deberá haber completado con éxito al menos 15 Issues, las cuales se encuentran en el Project Board del proyecto en GitHub. Da igual a qué repositorio correspondan las issues, puesto que en cualquier caso deben aparecer en el Project Board, que es compartido por ambos repositorios.
-<div id='revisiones'></div>
+
+<div id='revisiones-1'></div>
 
 #### Revisiones
 Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe revisarla.
@@ -146,6 +152,7 @@ Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe 
 
 ##### General
 Cada integrante del equipo debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
+
 <div id='revisiones-grupo-de-codigo'></div>
 
 ##### Grupo de código
@@ -154,12 +161,12 @@ Cada desarrollador debe haber revisado al menos 5 Pull Request durante el transc
 <div id='tests'></div>
 
 #### Tests
-Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar.
+Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar. Tambien aplica exclusivamente al grupo de código, puesto que el resto de equipos no están a cargo de la implementación de pruebas, y a Ignacio Blanquero Blanco, a quien se le ha encargado apoyar al grupo de código en esta tarea. Cada desarrollador deberá realizar como mínimo 5 tests, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
 
-<div id='tests-grupo-de-codigo'></div>
+<div id='grupo-de-revision'></div>
 
-##### Grupo de código
-Cada desarrollador deberá realizar como mínimo 5 test, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
+### Grupo de revisión
+Cada integrante del equipo de revisión y aseguramiento de la calidad deberá haber revisado al menos 20 Pull Requests entre ambos repositorios del proyecto.
 
 <div id='concl'></div>
 
