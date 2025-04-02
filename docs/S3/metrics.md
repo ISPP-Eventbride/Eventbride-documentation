@@ -143,20 +143,10 @@ Cada desarrollador deberá realizar 10 commits en total como mínimo en el repos
 #### Issues
 Cada integrante del equipo deberá haber completado con éxito al menos 15 Issues, las cuales se encuentran en el Project Board del proyecto en GitHub. Da igual a qué repositorio correspondan las issues, puesto que en cualquier caso deben aparecer en el Project Board, que es compartido por ambos repositorios.
 
-<div id='revisiones-1'></div>
+<div id='revisiones'></div>
 
 #### Revisiones
-Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe revisarla.
-
-<div id='revisiones-general'></div>
-
-##### General
-Cada integrante del equipo debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
-
-<div id='revisiones-grupo-de-codigo'></div>
-
-##### Grupo de código
-Cada desarrollador debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto en el repositorio `Eventbride`.
+Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe revisarla. Cada miembro del equipo, independientemente del subgrupo al que pertenezca, debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
 
 <div id='tests'></div>
 
