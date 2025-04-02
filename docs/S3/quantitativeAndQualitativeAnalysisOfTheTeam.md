@@ -53,6 +53,7 @@
 | 25/03/2025 | v5.5    | Análisis cuantitativo (LdC)                                                  | Sprint 2 | María de la Salud Carrera Talaverón |
 | 26/03/2025 | v5.6    | Análisis cuantitativo (resto de métricas)                                    | Sprint 2 | María de la Salud Carrera Talaverón |
 | 02/04/2025 | v6.0    | Nuevas métricas, nuevos roles, fechas y versiones actualizadas               | Sprint 3 | María de la Salud Carrera Talaverón |
+| 02/04/2025 | v6.1    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -85,23 +86,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC             | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----------------|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | 7024++ 9121--   | 20      | 19                 | 10           | 88:19:45  |
-| Daniel Benito Hidalgo               | 2354++ 315--    | 22      | 21                 | 7            | 108:41:45 |
-| Ignacio Blanquero Blanco            | 4536++ 590--    | 71      | 13                 | 4            | 110:48:16 |
-| Adrián Cabello Martín               | 416498++ 502--  | 30      | 16                 | 9            | 86:33:49  |
-| María de la Salud Carrera Talaverón | 12463++ 9796--  | 44      | 22                 | 11           | 85:25:34  |
-| Pablo Jesús Castellanos Compaña     | 3576++ 1812--   | 69      | 33                 | 18           | 152:39:06 |
-| Fernando José de Celis Hurtado      | 1082++ 507--    | 12      | 15                 | 3            | 88:35:58  |
-| David Godoy Fernández               | 1010++ 391--    | 13      | 19                 | 4            | 86:40:51  |
-| Miguel Hernández Sánchez            | 1290++ 572--    | 24      | 18                 | 5            | 97:37:36  |
-| Antonio Montero López               | 118++ 86--      | 6       | 14                 | 5            | 91:46:40  |
-| Gonzalo Navas Remmers               | 1733++ 929--    | 17      | 22                 | 2            | 86:21:35  |
-| Héctor Noguera González             | 376++ 37--      | 12      | 11                 | 8            | 90:03:30  |
-| Natalia Olmo Villegas               | 1267++ 491--    | 16      | 28                 | 5            | 134:39:16 |
-| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 10      | 17                 | 5            | 100:32:47 |
-| Andrés Pizzano Cerrillos            | 3391++ 1136--   | 29      | 16                 | 5            | 89:05:24  |
-| Sergio Pons López                   | 1958++ 141--    | 29      | 13                 | 5            | 101:22:33 |
-| Lorenzo Torralba Lanzas             | 595++ 139--     | 13      | 17                 | 2            | 72:30:11  |
+| Francisco Avilés Carrera            | 7317++ 9147--   | 24      | 23                 | 11           |  |
+| Daniel Benito Hidalgo               | 2354++ 315--    | 20      | 28                 | 10           |  |
+| Ignacio Blanquero Blanco            | 22656++ 729--   | 70      | 17                 | 4            |  |
+| Adrián Cabello Martín               | 417010++ 682--  | 36      | 25                 | 13           |  |
+| María de la Salud Carrera Talaverón | 13896++ 22638-- | 44      | 28                 | 18           |  |
+| Pablo Jesús Castellanos Compaña     | 5204++ 2530--   | 79      | 46                 | 26           |  |
+| Fernando José de Celis Hurtado      | 1234++ 613--    | 13      | 19                 | 8            |  |
+| David Godoy Fernández               | 1856++ 927--    | 22      | 20                 | 4            |  |
+| Miguel Hernández Sánchez            | 2758++ 723--    | 31      | 24                 | 9            |  |
+| Antonio Montero López               | 667++ 125--     | 9       | 18                 | 5            |  |
+| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      | 25                 | 5            |  |
+| Héctor Noguera González             | 771++ 154--     | 13      | 18                 | 8            |  |
+| Natalia Olmo Villegas               | 1267++ 491--    | 16      | 35                 | 7            |  |
+| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 9       | 21                 | 5            |  |
+| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      | 18                 | 7            |  |
+| Sergio Pons López                   | 2086++ 235--    | 32      | 19                 | 6            |  |
+| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      | 20                 | 3            |  |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -126,32 +127,38 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
-| Ignacio Blanquero Blanco            |            |              |
-| María de la Salud Carrera Talaverón |            |              |
-| Antonio Montero López               |            |              |
-| Sergio Pons López                   |            |              |
+| Ignacio Blanquero Blanco            |            | 2            |
+| María de la Salud Carrera Talaverón |            | 8            |
+| Antonio Montero López               |            | 1            |
+| Sergio Pons López                   |            | 2            |
 
 <div id='id13'></div>
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC) y 5 tests implementados. Para la mitad del Sprint 3, por tanto, se esperan alrededor de 448 LdC y 3 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del Sprint 3, por tanto, se esperan alrededor de 448 LdC, 6 commits y 3 tests por persona.
 
-| Desarrollador/a                     | LdC             | Tests |
-|-------------------------------------|-----------------|-------|
-| Adrián Cabello Martín               |                 |       |
-| David Godoy Fernández               |                 |       |
-| Miguel Hernández Sánchez            |                 |       |
-| Gonzalo Navas Remmers               |                 |       |
-| Héctor Noguera González             |                 |       |
-| Andrés Pizzano Cerrillos            |                 |       |
-| Lorenzo Torralba Lanzas             |                 |       |
+| Desarrollador/a                     | LdC             | Commits | Tests |
+|-------------------------------------|-----------------|---------|-------|
+| Ignacio Blanquero Blanco            | No procede    | No procede |  0   |
+| Adrián Cabello Martín               | 417010++ 682--  | 36      |  0    |
+| David Godoy Fernández               | 1856++ 927--    | 22      |   0   |
+| Miguel Hernández Sánchez            | 2758++ 723--    | 31      |    0   |
+| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      |     0 |
+| Héctor Noguera González             | 771++ 154--     | 13      |      0|
+| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      |      0|
+| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      |      0|
 
 <div id='id14'></div>
 
 ### Grupo de Revisión
 
 Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del Sprint 3, por tanto, se esperan alrededor de 13 PRs revisadas por persona.
+
+| Desarrollador/a                     | PR revisadas |
+|-------------------------------------|--------------|
+| Francisco Avilés Carrera            | 11           |
+| Pablo Jesús Castellanos Compaña     | 26           |
 
 <div id='id2'></div>
 
