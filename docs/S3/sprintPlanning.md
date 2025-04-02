@@ -47,8 +47,7 @@
 
 ## Introducción
 
-Este documento describe el planning sobre el reparto de tareas de este Sprint. Para ello, la Project Manager, Natalia Olmo y lo directores de los equipos, Pablo Jesús Castellanos Compaña, María de la Salud Carrera Talaverón, Francisco Avilés Carrera y Adrián Cabello Martín, se unieron para estimar la complejidad de cada tarea, siguiendo la técnica de estimación poker. A partir de ello, teniendo en cuenta las horas trabajadas de cada miemebor del grupo y sus habilidades sobre todo, se procedió al reparto de tareas por subgrupos, donde cada uno de los coordinadores indicaba qué miemebros de su subgrupo desempeñarían la tarea. Se ha decidido que aproximadamente 2 personas se asignarán a cada tarea. 
-
+Este documento describe el planning sobre el reparto de tareas de este Sprint. Para ello, la Project Manager, Natalia Olmo y lo directores de los equipos, Pablo Jesús Castellanos Compaña, María de la Salud Carrera Talaverón, Francisco Avilés Carrera y Adrián Cabello Martín, se unieron para estimar la complejidad de cada tarea, siguiendo la técnica de estimación poker. A partir de ello, teniendo en cuenta las horas trabajadas de cada miembro del grupo y sus habilidades sobre todo, se procedió al reparto de tareas por subgrupos, donde cada uno de los coordinadores indicaba qué miembros de su subgrupo desempeñarían la tarea. Se ha decidido que aproximadamente 2 personas se asignarán a cada tarea.
 <div id='id1'></div>
 
 ## Sprint planning
