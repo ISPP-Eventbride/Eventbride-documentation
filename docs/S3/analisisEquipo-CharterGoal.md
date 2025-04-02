@@ -92,7 +92,7 @@ Listado de las habilidades clave de los miembros del equipo. Los desarrolladores
 
 - Desarrollo Backend en **SpringBoot**. 
 - Desarrollo Frontend con **React**. 
-- Gestión de bases de datos **Filess**. 
+- Gestión de bases de datos **Files**. 
 - Pruebas automatizadas con **JUnit**. 
 - Gestión de proyectos ágiles (**Scrum**). 
 
