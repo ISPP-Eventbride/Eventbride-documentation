@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 01/04/2025
+### Fecha: 02/04/2025
 
 ### Entregable: Sprint 3
 
@@ -37,6 +37,7 @@
 | 17/03/2025 | v1.1    | Realización del documento                  | Sprint 2 | Fernando José de Celis Hurtado      |
 | 21/03/2025 | v1.2    | Cambio del nombre del documento            | Sprint 2 | Sergio Pons López                   |
 | 01/04/2025 | v2.0    | Política de cancelación                    | Sprint 3 | María de la Salud Carrera Talaverón |
+| 02/04/2025 | v2.1    | Enlaces arreglados                         | Sprint 3 | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -117,7 +118,7 @@ La cancelación de cualquier servicio por parte del cliente será gratuita siemp
 
 La cancelación de cualquier servicio por parte del proveedor será gratuita siempre y cuando se haga antes de recibir el cobro completo del servicio (consultar plazos específicos según el tipo de evento). Si aún no se había pagado la señal del servicio, no se devolverá ni cobrará nada de dinero al proveedor. Si dicha señal ya había sido pagada por el cliente, el proveedor deberá devolverla íntegramente, y el cliente recibirá su parte correspondiente (tras comisiones de Eventbride). Si la cancelación se produce tras el cobro completo del servicio, y hasta una semana antes de la celebración del evento, el proveedor deberá devolver el pago completo, de manera que el cliente reciba de vuelta el dinero invertido (de nuevo teniendo en cuenta las comisiones de la plataforma). Si la cancelación se produce quedando menos de una semana para la celebración del evento, el proveedor deverá devolver el pago completo del servicio y además deberá pagar un 10% de este a modo de indemnización al cliente. Eventbride no aplicará comisiones a esta indemnización.
 
-Para gestionar el reembolso/pago en estas condiciones o en condiciones excepcionales, contactar con el Equipo de Eventbride a través del [correo de soporte](soporte@eventbride.fun) con el asunto "Cancelación del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
+Para gestionar el reembolso/pago en estas condiciones o en condiciones excepcionales, contactar con el Equipo de Eventbride a través del ![correo de soporte](soporte@eventbride.fun) con el asunto "Cancelación del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
 
 ### Valoración de Servicios
 
@@ -127,7 +128,7 @@ Los usuarios podrán calificar y dejar reseñas sobre la atención y calidad de 
 
 En el supuesto de que el proveedor no preste el servicio contratado, la plataforma limitará su actuación a eliminar la oferta correspondiente de la aplicación y, en casos extremos, según el equipo de Eventbride lo considere, se podrá prohibir al proveedor seguir utilizando la plataforma. Eventbride no interviene en la resolución de disputas derivadas del incumplimiento, siendo el usuario quien deberá iniciar las reclamaciones y gestionar cualquier procedimiento legal o de mediación directamente con el proveedor.
 
-Para gestionar cualquier incidencia, contactar con el Equipo de Eventbride a través del [correo de soporte](soporte@eventbride.fun) con el asunto "Incidencia del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
+Para gestionar cualquier incidencia, contactar con el Equipo de Eventbride a través del ![correo de soporte](soporte@eventbride.fun) con el asunto "Incidencia del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
 
 ### Propiedad Intelectual y Uso de Contenidos
 
