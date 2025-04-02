@@ -61,20 +61,20 @@ El  presente  documento detalla  la  organización  y  estructura  del  equipo  
 |----------------------------|--------------------------------------------|--------------|
 | **Project Manager**        | Natalia Olmo Villegas                           | Planificación y seguimiento del proyecto. Principal responsable. |
 | **Directores**            | Pablo Jesús Castellanos                         | Coordinar un grupo de trabajo asociado y asegurar que estos trabajen de forma eficiente. |
-|| María de la Salud Carrera Talaverón            ||
-|| Francisco Avilés Carrera                        ||
-|| Adrián Cabello Martín                           ||
-|| Natalia Olmo Villegas                           ||
+| María de la Salud Carrera Talaverón            | |
+| Francisco Avilés Carrera                        | |
+| Adrián Cabello Martín                           | |
+| Natalia Olmo Villegas                           | |
 | **Desarrollador y Tester** | Francisco Avilés Carrera                        | Desarrollar la plataforma web acorde a las funcionalidades exigidas y testear las funcionalidades añadidas. |
-|| Daniel Benito Hidalgo                           ||
-|| Ignacio Blanquero Blanco                        ||
-|| Adrián Cabello Martín                           ||
-|| María de la Salud Carrera Talaverón             ||
-|| Pablo Jesús Castellanos Compaña                 ||
-|| Fernando José De Celis Hurtado                  ||
-|| David Godoy Fernández                           ||
-|| Miguel Hernández Sánchez                        ||
-|| Antonio Montero López                           ||
+| Daniel Benito Hidalgo                           | |
+| Ignacio Blanquero Blanco                        | |
+| Adrián Cabello Martín                           | |
+| María de la Salud Carrera Talaverón             | |
+| Pablo Jesús Castellanos Compaña                 | |
+| Fernando José De Celis Hurtado                  | |
+| David Godoy Fernández                           | |
+| Miguel Hernández Sánchez                        | |
+| Antonio Montero López                           | |
 || Gonzalo Navas Remmers                           ||
 || Héctor Noguera González                         ||
 || Natalia Olmo Villegas                           ||
