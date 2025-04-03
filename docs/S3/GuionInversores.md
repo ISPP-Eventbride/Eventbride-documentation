@@ -89,8 +89,7 @@ Buscamos inversión para nuestro proyecto, para mejorar en marketing digital, un
 
 ## Conclusiones
 
-Con este guión se pretende atraer a posibles inversores explicando el funcionamiento de nuestra aplicación así como todo el análisis de costes e ingresos. La idea es hacer un vídeo sencillo pero detallado de todo lo necesario para lograr nuestro objetivo final ya previamente mencionado, es decir, atraer inveroses, pero sin dejar atrás la captación de clientes y proveedores.
-
+Con este guión se pretende atraer a posibles inversores explicando el funcionamiento de nuestra aplicación así como todo el análisis de costes e ingresos. La idea es hacer un vídeo sencillo pero detallado de todo lo necesario para lograr nuestro objetivo final ya previamente mencionado, es decir, atraer inversores, pero sin dejar atrás la captación de clientes y proveedores.
 ---
 
 <div id='bib'></div>
