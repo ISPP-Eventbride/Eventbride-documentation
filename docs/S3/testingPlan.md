@@ -1,4 +1,4 @@
-# <center>Testing Plan</center>
+# <center>Plan de Pruebas</center>
 ## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
 <center><img src="..\img\Eventbride.png"></center>
 
