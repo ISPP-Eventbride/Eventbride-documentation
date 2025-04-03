@@ -1,6 +1,6 @@
 ﻿# <p style="text-align: center;">Análisis de equipo, charter goal</p>
 ## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src=".\img\Eventbride.png"></center>
+<center><img src="..\img\Eventbride.png"></center>
 
 ### Grupo 3: EventBride
 
@@ -100,30 +100,30 @@ Listado de las habilidades clave de los miembros del equipo. Los desarrolladores
 
 ## Estructura Preliminar del Equipo 
 
-El equipo estará dirigido por la Project Manager, Natalia Olmo Villegas. Debido al elevado número de componentes del equipo y para facilitar el desarrollo del proyecto, el equipo se subdividirá en tres equipos de  trabajo de  menor  tamaño,  cada  uno  organizado por  un director/a. Se priorizará la asignación de tareas a más de una persona de un mismo equipo de trabajo, pero todos los desarrolladores podrán ayudar y colaborar con otros de otros grupos de trabajo si fuera necesario.
+El equipo estará dirigido por la Project Manager, Natalia Olmo Villegas. Debido al elevado número de componentes del equipo y para facilitar el desarrollo del proyecto, el equipo se subdividirá en cuatro equipos de  trabajo de  menor  tamaño,  cada  uno  organizado por  un director/a. Se priorizará la asignación de tareas a más de una persona de un mismo equipo de trabajo, pero todos los desarrolladores podrán ayudar y colaborar con otros de otros grupos de trabajo si fuera necesario.
 
 Los equipos de trabajo serán los siguientes:
 
 | **Equipo de Trabajo** | **Integrantes**                                      | **Director/a**              |
 |----------------------|------------------------------------------------------|--------------------------------|
-| **Equipo Documentación**      | - María Carrera Talaverón                            | María Carrera Talaverón|
-|| - Antonio Montero López        ||
-|| - Ignacio Blanquero Blanco     ||
-|| - Sergio Pons López            ||
-| **Equipo Código**      | - Adrián Cabello Martín     | Adrián Cabello Martín      |
-|| - Gonzalo Navas Remmers        ||
-|| - Andrés Pizzano Cerrillos     ||
-|| - David Godoy Fernández        ||
-|| - Francisco Avilés Carrera     ||
-|| - Héctor Noguera González      ||
-|| - Lorenzo Torralba Lanzas      ||
-|| - Miguel Hernández Sánchez     ||
-| **Equipo Diseño y Marketing**      | - Natalia Olmo Villegas     | Natalia Olmo Villegas      |
-|| - Fernando de Celis Hurtado    ||
-|| - Manuel Pérez Vélez           ||
-|| - Daniel Benito Hidalgo        ||
-| **Equipo Revisión**      | - Pablo Castellanos Compaña    | Pablo Castellanos Compaña y Francisco Avilés Carrera     |
-|| - Francisco Avilés Carrera    |
+| **Equipo Documentación**      | María Carrera Talaverón                            | María Carrera Talaverón|
+|| Antonio Montero López        ||
+|| Ignacio Blanquero Blanco     ||
+|| Sergio Pons López            ||
+| **Equipo Código**      | Adrián Cabello Martín     | Adrián Cabello Martín      |
+|| Gonzalo Navas Remmers        ||
+|| Andrés Pizzano Cerrillos     ||
+|| David Godoy Fernández        ||
+|| Francisco Avilés Carrera     ||
+|| Héctor Noguera González      ||
+|| Lorenzo Torralba Lanzas      ||
+|| Miguel Hernández Sánchez     ||
+| **Equipo Diseño y Marketing**      | Natalia Olmo Villegas     | Natalia Olmo Villegas      |
+|| Fernando de Celis Hurtado    ||
+|| Manuel Pérez Vélez           ||
+|| Daniel Benito Hidalgo        ||
+| **Equipo Revisión**      | Pablo Castellanos Compaña    | Pablo Castellanos Compaña     |
+|| Francisco Avilés Carrera    | Francisco Avilés Carrera      |
 
 
 Otra información relevante acerca del desarrollo del proyecto:
