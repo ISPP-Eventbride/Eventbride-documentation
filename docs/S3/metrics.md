@@ -24,7 +24,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 02/04/2025
+### Fecha: 03/04/2025
 
 ### Entregable: Sprint 3
 
@@ -41,6 +41,7 @@
 | 30/03/2025 | v3.0    | Modificación de las métricas para incluir el reajuste de grupos | Sprint 3 | Antonio Montero López                                   |
 | 01/04/2025 | v3.1    | Modificación test y grupo marketing                             | Sprint 3 | Antonio Montero López                                   |
 | 02/04/2025 | v3.2    | Adición métricas faltantes                                      | Sprint 3 | María de la Salud Carrera Talaverón                     |
+| 03/04/2025 | v3.3    | Correciones menores                                             | Sprint 3 | María de la Salud Carrera Talaverón                     |
 
 ## Contenido
 
@@ -146,12 +147,12 @@ Cada integrante del equipo deberá haber completado con éxito al menos 15 Issue
 <div id='revisiones'></div>
 
 #### Revisiones
-Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe revisarla. Cada miembro del equipo, independientemente del subgrupo al que pertenezca, debe haber revisado al menos 5 Pull Request durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
+Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe revisarla. Cada miembro del equipo, independientemente del subgrupo al que pertenezca, debe haber revisado al menos 5 Pull Requests durante el transcurso del proyecto. Esta métrica también aplica a ambos repositorios, sumándose las PRs revisadas en ambos.
 
 <div id='tests'></div>
 
 #### Tests
-Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar. También aplica exclusivamente al grupo de código, puesto que el resto de equipos no están a cargo de la implementación de pruebas, y a Ignacio Blanquero Blanco, a quien se le ha encargado apoyar al grupo de código en esta tarea. Cada desarrollador deberá realizar como mínimo 5 tests, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
+Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar. También aplica exclusivamente al grupo de código, puesto que el resto de equipos no están a cargo de la implementación de pruebas, y a Ignacio Blanquero Blanco, a quien se le ha encargado apoyar al grupo de código en esta tarea. Cada desarrollador deberá realizar como mínimo 5 tests, entre los cuales se podrán encontrar tests unitarios, de rendimiento o de integración.
 <div id='grupo-de-revision'></div>
 
 ### Grupo de revisión

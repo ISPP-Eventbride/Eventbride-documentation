@@ -55,6 +55,7 @@
 | 02/04/2025 | v6.0    | Nuevas métricas, nuevos roles, fechas y versiones actualizadas               | Sprint 3 | María de la Salud Carrera Talaverón |
 | 02/04/2025 | v6.1    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
 | 03/04/2025 | v6.2    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
+| 03/04/2025 | v6.3    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -87,12 +88,12 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC             | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----------------|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | 7317++ 9147--   | 24      | 23                 | 11           | 106:01:18 |
+| Francisco Avilés Carrera            | 7317++ 9147--   | 24      | 23                 | 16           | 106:01:18 |
 | Daniel Benito Hidalgo               | 2354++ 315--    | 20      | 28                 | 10           | 131:48:41 |
 | Ignacio Blanquero Blanco            | 22656++ 729--   | 70      | 17                 | 4            | 122:30:39 |
 | Adrián Cabello Martín               | 417010++ 682--  | 36      | 25                 | 13           | 111:46:00 |
-| María de la Salud Carrera Talaverón | 13896++ 22638-- | 44      | 28                 | 18           | 113:39:54 |
-| Pablo Jesús Castellanos Compaña     | 5204++ 2530--   | 79      | 46                 | 26           | 185:20:23 |
+| María de la Salud Carrera Talaverón | 13896++ 22638-- | 44      | 28                 | 18           | 114:32:29 |
+| Pablo Jesús Castellanos Compaña     | 5204++ 2530--   | 79      | 46                 | 29           | 185:20:23 |
 | Fernando José de Celis Hurtado      | 1234++ 613--    | 13      | 19                 | 8            | 112:00:33 |
 | David Godoy Fernández               | 1856++ 927--    | 22      | 20                 | 4            | 99:56:45  |
 | Miguel Hernández Sánchez            | 2758++ 723--    | 31      | 24                 | 9            | 115:30:24 |
@@ -161,8 +162,8 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
-| Francisco Avilés Carrera            | 11           |
-| Pablo Jesús Castellanos Compaña     | 26           |
+| Francisco Avilés Carrera            | 16           |
+| Pablo Jesús Castellanos Compaña     | 29           |
 
 <div id='id2'></div>
 
