@@ -151,8 +151,7 @@ Para cada Pull Request, un desarrollador distinto al que realizó la tarea debe 
 <div id='tests'></div>
 
 #### Tests
-Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar. Tambien aplica exclusivamente al grupo de código, puesto que el resto de equipos no están a cargo de la implementación de pruebas, y a Ignacio Blanquero Blanco, a quien se le ha encargado apoyar al grupo de código en esta tarea. Cada desarrollador deberá realizar como mínimo 5 tests, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
-
+Esta métrica sólo aplica al repositorio `Eventbride`, puesto que en `Eventbride-documentation` no hay funcionalidades que probar. También aplica exclusivamente al grupo de código, puesto que el resto de equipos no están a cargo de la implementación de pruebas, y a Ignacio Blanquero Blanco, a quien se le ha encargado apoyar al grupo de código en esta tarea. Cada desarrollador deberá realizar como mínimo 5 tests, entre los cuales se podrán encontrar tests unitarios o de rendimiento.
 <div id='grupo-de-revision'></div>
 
 ### Grupo de revisión
