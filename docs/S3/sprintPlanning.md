@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 21/03/2025
+### Fecha: 03/04/2025
 
 ### Entregable: Sprint 3
 
@@ -34,6 +34,7 @@
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 02/04/2025 | v1.0    | Creación del documento | Sprint 3 | Antonio Montero López               |
+| 03/04/2025 | v1.1    | Corrección de errores del documento | Sprint 3 | Antonio Montero López               |
 ---
 
 ## Contenido
