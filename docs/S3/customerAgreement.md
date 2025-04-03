@@ -38,7 +38,9 @@
 | 26/03/2025 | v2.1    | Corrección del documento                                                      | Sprint 2 | Natalia Olmo Villegas               |
 | 29/03/2025 | v3.0    | Más detalle en las cláusulas del documento y corrección de inconsistencias    | Sprint 3 | María de la Salud Carrera Talaverón |
 | 30/03/2025 | v3.1    | Más detalle en las cláusulas del documento y corrección de cláusulas abusivas | Sprint 3 | María de la Salud Carrera Talaverón |
-| 03/04/2025 | v3.2    | MActualización plan de precios                                                | Sprint 3 | Daniel Benito Hidalgo               |
+| 02/04/2025 | v3.2    | Política de cacenlación y reembolso                                           | Sprint 3 | María de la Salud Carrera Talaverón |
+| 03/04/2025 | v3.3    | Política de cancelación y enlaces arreglados                                  | Sprint 3 | María de la Salud Carrera Talaverón |
+| 03/04/2025 | v3.4    | Actualización plan de precios                                                 | Sprint 3 | Daniel Benito Hidalgo               |
 
 ---
 
@@ -188,6 +190,14 @@ Se aceptan pagos mediante tarjeta de crédito/débito, PayPal y otras pasarelas 
 
 Los proveedores podrán establecer políticas de cancelación específicas, visibles antes de contratar el servicio (a través de la descripción del mismo). En caso de disputa, Eventbride actuará como intermediario para facilitar la resolución.
 
+Eventbride cuenta con unas condiciones generales de cancelación y reembolso, y no contempla la posibilidad de que el acuerdo entre cliente y proveedor incluya unas condiciones diferentes a las definidas por Eventbride.
+
+La cancelación de cualquier servicio por parte del cliente será gratuita siempre y cuando se haga antes de completar el pago del evento completo (consultar plazos específicos según el tipo de evento). Si aún no se había pagado la señal del servicio, no se devolverá ni cobrará nada de dinero al cliente. Si dicha señal ya se había pagado, ésta no será reembolsada al cliente. Si la cancelación se produce tras el pago completo del evento, y hasta dos semanas antes de la celebración del mismo, se reembolsará al cliente la mitad del dinero pagado; el proveedor deberá devolver el dinero correspondiente. Si la cancelación se produce quedando menos de dos semanas para la celebración del evento, no se reembolsará el pago al cliente. El proveedor cobrará por la prestación del servicio como si ésta se hubiera producido.
+
+La cancelación de cualquier servicio por parte del proveedor será gratuita siempre y cuando se haga antes de recibir el cobro completo del servicio (consultar plazos específicos según el tipo de evento). Si aún no se había pagado la señal del servicio, no se devolverá ni cobrará nada de dinero al proveedor. Si dicha señal ya había sido pagada por el cliente, el proveedor deberá devolverla íntegramente, y el cliente recibirá su parte correspondiente (tras comisiones de Eventbride). Si la cancelación se produce tras el cobro completo del servicio, y hasta tres semanas antes de la celebración del evento, el proveedor deberá devolver el pago completo, de manera que el cliente reciba de vuelta el dinero invertido (de nuevo teniendo en cuenta las comisiones de la plataforma). Si la cancelación se produce quedando menos de tres semanas para la celebración del evento, el proveedor deverá devolver el pago completo del servicio y además deberá pagar un 20% extra a modo de indemnización al cliente. Si el proveedor cancela el servicio entre tres y dos semanas antes del evento, deberá devolver el pago completo del servicio y además pagar un 30% extra de indemnización. Si esta cancelación se produce entre dos y una semana antes del evento, el proveedor deberá devolver el pago completo del servicio y además pagar un 35% extra de indemnización. Si la cancelación se produce una semana o menos antes de la celebración del evento, el proveedor deberá devolver el pago completo del servicio y además pagar un 40% extra de indemnización. Eventbride no aplicará comisiones a estas indemnizaciones.
+
+Para gestionar el reembolso/pago en estas condiciones o en condiciones excepcionales, contactar con el Equipo de Eventbride a través del [correo de soporte](soporte@eventbride.fun) con el asunto "Cancelación del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
+
 
 <div id='id7'></div>
 
@@ -226,6 +236,10 @@ Eventbride no limita ni excluye ninguna responsabilidad que no pueda ser legalme
 En relaciones B2B, y solo cuando lo permita la ley, Eventbride podrá proponer un límite de responsabilidad proporcional al importe pagado en los últimos 6 meses como comisiones o el Plan Premium, si procede. Cualquier cláusula de este Acuerdo se interpretará conforme a los derechos legales del consumidor, que prevalecerán en caso de conflicto.
 
 Eventbride actúa como intermediario entre usuarios y proveedores. No se responsabiliza por la calidad, cumplimiento o adecuación del servicio prestado por los proveedores, aunque facilitará mecanismos de evaluación, puntuación y resolución de incidencias. Cualquier conflicto derivado directamente del servicio contratado deberá resolverse entre las partes implicadas, sin perjuicio del papel mediador de Eventbride.
+
+En el supuesto de que el proveedor no preste el servicio contratado, la plataforma limitará su actuación a eliminar la oferta correspondiente de la aplicación y, en casos extremos, según el equipo de Eventbride lo considere, se podrá prohibir al proveedor seguir utilizando la plataforma. Eventbride no interviene en la resolución de disputas derivadas del incumplimiento, siendo el usuario quien deberá iniciar las reclamaciones y gestionar cualquier procedimiento legal o de mediación directamente con el proveedor.
+
+Para gestionar cualquier incidencia, contactar con el Equipo de Eventbride a través del [correo de soporte](soporte@eventbride.fun) con el asunto "Incidencia del servicio {NOMBRE DEL SERVICIO} para el evento del día {FECHA DEL EVENTO}".
 
 
 <div id='id10'></div>
@@ -290,6 +304,6 @@ Todas las compensaciones se otorgarán únicamente previa solicitud y tras la ve
 
 ## 13. Información de Contacto
 
-Si tiene alguna duda sobre este acuerdo, por favor contáctenos en eventbride6@gmail.com con el asunto "Acuerdo de Cliente".
+Si tiene alguna duda sobre este acuerdo, por favor contáctenos en nuestro [correo de información](info@eventbride.fun) con el asunto "Acuerdo de Cliente".
 
 Como usuario, acepta este Acuerdo únicamente a través de una acción voluntaria y consciente. Ningún término será aplicable sin su consentimiento informado y explícito.
