@@ -73,21 +73,21 @@ Las tareas que se encuentran realizadas actualmente o están en revisión por ca
 | Nombre                                 | Acciones realizadas |
 |----------------------------------------|---------------------|
 | Adrián Cabello Martín                  |  Servicios del proveedor, Home y Eventos, Login y perfil del proveedor, Admin, Edición de eventProperties en admin |
-| Andrés Pizzano Cerrillos               |  |
-| Antonio Montero López                  |  Actualizar documento métricas, Actualizar Análisis del Equipo y Charter goal  |
-| Daniel Benito Hidalgo                  | Servicios del proveedor, Ideas publicaciones, Edición de eventProperties en admin, Actualizar horquillas de tiempo en eventproperties, Vídeo presentación de la empresa  |
-| David Godoy Fernández                  |  |
-| Fernando José de Celis Hurtado         |  Ideas publicaciones, Grabar anuncio inversores, Vídeo presentación de la empresa |
+| Andrés Pizzano Cerrillos               | General |
+| Antonio Montero López                  |  Actualizar documento métricas, Actualizar Análisis del Equipo y Charter goal, Sprint planning, Configurar Docusaurus  |
+| Daniel Benito Hidalgo                  | Servicios del proveedor, Ideas publicaciones, Edición de eventProperties en admin, Actualizar horquillas de tiempo en eventproperties, Vídeo presentación de la empresa, Presentación mitad sprint  |
+| David Godoy Fernández                  | Recibir notificaciones |
+| Fernando José de Celis Hurtado         |  Ideas publicaciones, Grabar anuncio inversores, Vídeo presentación de la empresa, Presentación mitad sprint, Vídeo presentación del equipo, Editar anuncio inversores |
 | Francisco Avilés Carrera               | Home y Eventos, Actualizar documento costes mitad sprint|
-| Gonzalo Navas Remmers                  | |
+| Gonzalo Navas Remmers                  | Recibir notificaciones |
 | Héctor Noguera González                | Soporte técnico, Pensar premios para el trabajador de la semana, Actualizar problems.md mitad de sprint|
 | Ignacio Blanquero Blanco               | Feedback semana 1, Plan de pruebas |
 | Lorenzo Torralba Lanzas                | Servicios |
-| Manuel Pérez Vélez                     | Ideas publicaciones, Grabar anuncio inversores, Vídeo presentación de la empresa |
-| María de la Salud Carrera Talaverón    | Detallar más el Customer Agreement, Actualizar la política de cancelación|
+| Manuel Pérez Vélez                     | Ideas publicaciones, Grabar anuncio inversores, Vídeo presentación de la empresa, Subir posts e historias a Instagram 1º semana, general |
+| María de la Salud Carrera Talaverón    | Detallar más el Customer Agreement, Actualizar la política de cancelación, Configurar Docusaurus, Análisis Cuantitativo y Cualitativo Mitad Sprint |
 | Miguel Hernández Sánchez               | Invitaciones y perfil del cliente, Soporte técnico |
-| Natalia Olmo Villegas                  |  Ideas publicaciones, Grabar anuncio inversores, Vídeo coming soon, Vídeo presentación de la empresa |
-| Pablo Jesús Castellanos Compaña        | Actualizar datasql, Login y perfil del proveedor, Admin, Actualizar horquillas de tiempo en eventproperties, Feedback semana 1|
+| Natalia Olmo Villegas                  |  Ideas publicaciones, Grabar anuncio inversores, Vídeo coming soon, Vídeo presentación de la empresa, Vídeo presentación del equipo, Editar anuncio inversores |
+| Pablo Jesús Castellanos Compaña        | Actualizar datasql, Login y perfil del proveedor, Admin, Actualizar horquillas de tiempo en eventproperties, Feedback semana 1, Historico de ventas del proveedor, Guión anuncio inversores |
 | Sergio Pons López                      | Actualizar Commitment Agreement, Retrospectiva mitad de Sprint, Actas de reuniones mitad de sprint |
 
 Todas las tareas están en el apartado Project de nuestro repositorio, pudiendo acceder a ellas desde el siguiente [enlace](https://github.com/orgs/ISPP-Eventbride/projects/1/views/1)
@@ -101,15 +101,15 @@ Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicado
 <div id='id3'></div>
 
 ### Tiempo estimado vs. tiempo real
-En esta ocasión, el tiempo estimado de trabajo han sido **136 horas** para la mitad del spint, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **XX horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
+En esta ocasión, el tiempo estimado de trabajo han sido **136 horas** para la mitad del sprint, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **155 horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
 
-Contando con las horas de reunión y las horas de clase, el tiempo estimados sería **238 horas** y el trabajo realizado hasta ahora sería **XXX horas**, lo que supone un **XX%** de las horas totales.
+Contando con las horas de reunión y las horas de clase, el tiempo estimados sería **238 horas** y el trabajo realizado hasta ahora sería **239 horas**.
 
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
 
-Se han completado un total de **XX tareas sobre XX**, lo que supone un **XX%** del total de tareas a realizar. De las **XX tareas restantes**, **XX se encuentran en review** y **XX están en progreso** (*in progress*). Esto supondría un total de **XX tareas en "To Do"**(todas pertenecientes a la semana dos). Incluso se han empezado a realizar algunas tareas de la semana 2 lo que indicaa que la planificación ha sido buena, y haciendo la revisión de las X tareas que se encuentran en la columna "On review" habrían hechas el **XX% de las tareas estimadas** para este sprint.
+Se han completado un total de **41 tareas sobre 41**, lo que supone un **100%** del total de tareas a realizar. Estamos muy orgullosos de haber podido llegar a esta cifra de tareas completadas en esta mitad de sprint.
 
 <div id='id5'></div>
 
@@ -154,25 +154,25 @@ Se establecerá esta nota en caso de superarse el cálculo obtenido.
 
 La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del sprint:  
 
-| Nombre | Horas trabajadas antes del Sprint 3 | Horas estimadas hasta la mitad del Sprint 2 | Horas trabajadas hasta la mitad del Sprint 2 (28/03 - 04/04) | Porcentaje de completitud tareas de mitad del Sprint 2 |
+| Nombre | Horas trabajadas antes del Sprint 3 | Horas estimadas hasta la mitad del Sprint 3 | Horas trabajadas hasta la mitad del Sprint 3 (28/03 - 04/04) | Porcentaje de completitud tareas de mitad del Sprint 3 |
 |--|-----|-----|----|------|
-| Adrián Cabello Martín          | 93h 20min | 18h 20min| XXh XXmin | XX% |
-| Andrés Pizzano Cerrillos       | 96h       | 3h 15min | XXh XXmin | XX% |
-| Antonio Montero López          | 98h       | 8h 30min | XXh XXmin | XX% |
-| Daniel Benito Hidalgo          | 113h 17min| 12h 25min| XXh XXmin | XX% |
-| David Godoy Fernández          | 88h 05min | 3h       | XXh XXmin | XX% |
-| Fernando José de Celis Hurtado | 88h 19min | 10h 10min| XXh XXmin | XX% |
-| Francisco Avilés Carrera       | 92h 21min | 4h       | XXh XXmin | XX% |
-| Gonzalo Navas Remmers          | 90h 33min | 3h       | XXh XXmin | XX% |
-| Héctor Noguera González        | 92h 47min | 6h 30min | XXh XXmin | XX% |
-| Ignacio Blanquero Blanco       | 111h 16min| 5h       | XXh XXmin | XX% |
-| Lorenzo Torralba Lanzas        | 75h 27min | 10h      | XXh XXmin | XX% |
-| Manuel Pérez Vélez             | 103h 49min| 7h 25min | XXh XXmin | XX% |
-| María de la Salud Carrera Talaverón| 87h 52min  | 9h  | XXh XXmin | XX% |
-| Miguel Hernández Sánchez           | 100h 51min | 9h 30min | XXh XXmin | XX% |
-| Natalia Olmo Villegas              | 139h 13min | 5h       | XXh XXmin | XX% |
-| Pablo Jesús Castellanos Compaña    | 155h 31min | 13h 5min | XXh XXmin | XX% |
-| Sergio Pons López                  | 105h 36min | 8h       | XXh XXmin | XX% |
+| Adrián Cabello Martín          | 93h 20min | 18h 20min| 20h 10min | 100% |
+| Andrés Pizzano Cerrillos       | 96h       | 3h 15min | 17h 57min | 100% |
+| Antonio Montero López          | 98h       | 8h 30min | 9h 32min  | 100% |
+| Daniel Benito Hidalgo          | 113h 17min| 10h 25min| 18h 29min | 100% |
+| David Godoy Fernández          | 88h 05min | 7h 30min | 11h 51min | 100% |
+| Fernando José de Celis Hurtado | 88h 19min | 10h 10min| 19h 46min | 100% |
+| Francisco Avilés Carrera       | 92h 21min | 4h       | 12h 13min | 100% |
+| Gonzalo Navas Remmers          | 90h 33min | 7h 30min | 12h 43min | 100% |
+| Héctor Noguera González        | 92h 47min | 6h 30min | 13h 04min | 100% |
+| Ignacio Blanquero Blanco       | 111h 16min| 5h       | 10h 02min | 100% |
+| Lorenzo Torralba Lanzas        | 75h 27min | 10h      | 10h 53min | 100% |
+| Manuel Pérez Vélez             | 103h 49min| 7h 25min | 10h 02min | 100% |
+| María de la Salud Carrera Talaverón| 87h 52min  | 9h  | 21h 45min | 100% |
+| Miguel Hernández Sánchez           | 100h 51min | 9h 30min | 11h 55min | 100% |
+| Natalia Olmo Villegas              | 139h 13min | 5h       | 22h 47min | 100% |
+| Pablo Jesús Castellanos Compaña    | 155h 31min | 17h 5min | 21h 59min | 100% |
+| Sergio Pons López                  | 105h 36min | 8h       | 9h 04min  | 100% |
 
 <div id='id9'></div>
 
@@ -225,8 +225,9 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 ### ¿Qué problemas han surgido?  
 
-Los problemas que nos han surgido en esta mitad de sprint han sido la [falta de coordinación, comunicación y priorización en la entrega de tareas](.\Problems\problems.md#problema-6-falta-de-coordinación-comunicación-y-priorización-en-la-entrega-de-tareas) e [inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos](.\Problems\problems.md#problema-7-inconsistencias-en-la-ejecución-del-backend-debido-al-límite-de-tamaño-de-fila-en-la-base-de-datos). 
-Si clicas sobre ellos se abre el documento de problemas donde se detallan mejor cómo se han afrontado y las lecciones aprendidas de cada uno de ellos.
+Los problemas que nos han surgido en esta mitad de sprint han sido la alta de coordinación en la entrega de tareas: 
+- **Se detectó una desorganización el día de la entrega del sprint 2.** [Ver detalle.](.\Problems\problems.md#problema-6-falta-de-coordinación-comunicación-y-priorización-en-la-entrega-de-tareas)
+- **Inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos.** [Ver detalle](.\Problems\problems.md#problema-7-inconsistencias-en-la-ejecución-del-backend-debido-al-límite-de-tamaño-de-fila-en-la-base-de-datos). 
 
 <div id='id15'></div>
 
@@ -238,7 +239,19 @@ Si clicas sobre ellos se abre el documento de problemas donde se detallan mejor 
 
 ## Conclusiones
 
+Aquí tienes unas conclusiones redactadas de forma clara, profesional y ajustadas a la información contenida en el documento:
 
+---
+
+## Conclusiones
+
+La retrospectiva de mitad del Sprint 3 pone de manifiesto un excelente rendimiento por parte del equipo Eventbride. Se ha alcanzado un **100% de tareas completadas**, con una correcta estimación del tiempo y una distribución equilibrada de la carga de trabajo, lo que ha evitado sobrecargas y ha favorecido un desarrollo fluido. Además, todos los integrantes han alcanzado el 100% de completitud de tareas, lo que evidencia una alta implicación individual.
+
+La reorganización en equipos especializados (marketing, documentación, código y revisión) ha resultado ser una estrategia acertada, permitiendo una mayor eficiencia y enfoque. También ha mejorado la comunicación interna y se ha reforzado la calidad del código mediante herramientas automáticas como GitHub Copilot.
+
+Se han resuelto con éxito las incidencias detectadas en el sprint anterior, mostrando una evolución positiva y un aprendizaje continuo. Aunque han surgido problemas puntuales relacionados con la coordinación y la ejecución del backend, estos han sido identificados y documentados adecuadamente para su resolución.
+
+En resumen, el equipo ha demostrado una notable madurez en la gestión del proyecto, manteniendo un alto nivel de compromiso, calidad y organización, lo que sienta una base sólida para afrontar con éxito la segunda mitad del sprint.
 
 <div id='bib'></div>
 
