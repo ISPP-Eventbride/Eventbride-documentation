@@ -54,6 +54,7 @@
 | 26/03/2025 | v5.6    | Análisis cuantitativo (resto de métricas)                                    | Sprint 2 | María de la Salud Carrera Talaverón |
 | 02/04/2025 | v6.0    | Nuevas métricas, nuevos roles, fechas y versiones actualizadas               | Sprint 3 | María de la Salud Carrera Talaverón |
 | 02/04/2025 | v6.1    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
+| 03/04/2025 | v6.2    | Métricas actualizadas                                                        | Sprint 3 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -86,23 +87,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC             | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----------------|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | 7317++ 9147--   | 24      | 23                 | 11           |  |
-| Daniel Benito Hidalgo               | 2354++ 315--    | 20      | 28                 | 10           |  |
-| Ignacio Blanquero Blanco            | 22656++ 729--   | 70      | 17                 | 4            |  |
-| Adrián Cabello Martín               | 417010++ 682--  | 36      | 25                 | 13           |  |
-| María de la Salud Carrera Talaverón | 13896++ 22638-- | 44      | 28                 | 18           |  |
-| Pablo Jesús Castellanos Compaña     | 5204++ 2530--   | 79      | 46                 | 26           |  |
-| Fernando José de Celis Hurtado      | 1234++ 613--    | 13      | 19                 | 8            |  |
-| David Godoy Fernández               | 1856++ 927--    | 22      | 20                 | 4            |  |
-| Miguel Hernández Sánchez            | 2758++ 723--    | 31      | 24                 | 9            |  |
-| Antonio Montero López               | 667++ 125--     | 9       | 18                 | 5            |  |
-| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      | 25                 | 5            |  |
-| Héctor Noguera González             | 771++ 154--     | 13      | 18                 | 8            |  |
-| Natalia Olmo Villegas               | 1267++ 491--    | 16      | 35                 | 7            |  |
-| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 9       | 21                 | 5            |  |
-| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      | 18                 | 7            |  |
-| Sergio Pons López                   | 2086++ 235--    | 32      | 19                 | 6            |  |
-| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      | 20                 | 3            |  |
+| Francisco Avilés Carrera            | 7317++ 9147--   | 24      | 23                 | 11           | 106:01:18 |
+| Daniel Benito Hidalgo               | 2354++ 315--    | 20      | 28                 | 10           | 131:48:41 |
+| Ignacio Blanquero Blanco            | 22656++ 729--   | 70      | 17                 | 4            | 122:30:39 |
+| Adrián Cabello Martín               | 417010++ 682--  | 36      | 25                 | 13           | 111:46:00 |
+| María de la Salud Carrera Talaverón | 13896++ 22638-- | 44      | 28                 | 18           | 113:39:54 |
+| Pablo Jesús Castellanos Compaña     | 5204++ 2530--   | 79      | 46                 | 26           | 185:20:23 |
+| Fernando José de Celis Hurtado      | 1234++ 613--    | 13      | 19                 | 8            | 112:00:33 |
+| David Godoy Fernández               | 1856++ 927--    | 22      | 20                 | 4            | 99:56:45  |
+| Miguel Hernández Sánchez            | 2758++ 723--    | 31      | 24                 | 9            | 115:30:24 |
+| Antonio Montero López               | 667++ 125--     | 9       | 18                 | 5            | 109:34:34 |
+| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      | 25                 | 5            | 104:58:36 |
+| Héctor Noguera González             | 771++ 154--     | 13      | 18                 | 8            | 108:31:48 |
+| Natalia Olmo Villegas               | 1267++ 491--    | 16      | 35                 | 7            | 162:31:34 |
+| Manuel Pérez Vélez[^3]              | 1651++ 794--    | 9       | 21                 | 5            | 115:04:47 |
+| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      | 18                 | 7            | 117:59:44 |
+| Sergio Pons López                   | 2086++ 235--    | 32      | 19                 | 6            | 117:37:51 |
+| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      | 20                 | 3            | 86:19:47  |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -114,23 +115,26 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
-| Daniel Benito Hidalgo          |           |               |
-| Fernando José de Celis Hurtado |           |               |
-| Natalia Olmo Villegas          |           |               |
-| Manuel Pérez Vélez             |           |               |
+| Daniel Benito Hidalgo          | 1         | 2             |
+| Fernando José de Celis Hurtado | 1         | 2             |
+| Natalia Olmo Villegas          | 1         | 2             |
+| Manuel Pérez Vélez             | 1         | 2             |
 
 <div id='id12'></div>
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del Sprint 3, por tanto, se esperan alrededor de 3 documentos y 2 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del Sprint 3, por tanto, se esperan alrededor de 3 documentos y 2 PRs por persona. Debido a la dificultad para encontrar el número de documentos al que ha contribuido cada miembro de este subgrupo, en lugar de decir la cantidad exacta, se va a comentar quién ha llegado al objetivo final de 5 documentos por persona. Esto se basará en el número de tareas de documentación asignadas a cada uno desde que comenzamos el desarrollo del proyecto.
+
+✅: Se ha cumplido el objetivo
+❌: No se ha cumplido el objetivo
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
-| Ignacio Blanquero Blanco            |            | 2            |
-| María de la Salud Carrera Talaverón |            | 8            |
-| Antonio Montero López               |            | 1            |
-| Sergio Pons López                   |            | 2            |
+| Ignacio Blanquero Blanco            | ✅         | 2            |
+| María de la Salud Carrera Talaverón | ✅         | 8            |
+| Antonio Montero López               | ✅         | 1            |
+| Sergio Pons López                   | ✅         | 2            |
 
 <div id='id13'></div>
 
@@ -142,12 +146,12 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 |-------------------------------------|-----------------|---------|-------|
 | Ignacio Blanquero Blanco            | No procede    | No procede |  0   |
 | Adrián Cabello Martín               | 417010++ 682--  | 36      |  0    |
-| David Godoy Fernández               | 1856++ 927--    | 22      |   0   |
-| Miguel Hernández Sánchez            | 2758++ 723--    | 31      |    0   |
-| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      |     0 |
-| Héctor Noguera González             | 771++ 154--     | 13      |      0|
-| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      |      0|
-| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      |      0|
+| David Godoy Fernández               | 1856++ 927--    | 22      |  0    |
+| Miguel Hernández Sánchez            | 2758++ 723--    | 31      |  0    |
+| Gonzalo Navas Remmers               | 1904++ 1033--   | 21      |  0    |
+| Héctor Noguera González             | 771++ 154--     | 13      |  0    |
+| Andrés Pizzano Cerrillos            | 11497++ 4447--  | 77      |  0    |
+| Lorenzo Torralba Lanzas             | 1420++ 174--    | 19      |  0    |
 
 <div id='id14'></div>
 
