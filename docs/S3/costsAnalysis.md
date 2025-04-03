@@ -40,7 +40,9 @@
 | 13/03/2025 | v1.4    | Desglose en CAPEX y OPEX | Sprint 1 | |
 | 20/03/2025 | v1.5    | Retoques en CAPEX y OPEX y adición de punto Costes estimados vs Costes reales | Sprint 2 | Francisco Avilés Carrera, Pablo Jesús Castellanos Compaña y Sergio Pons López |
 | 27/03/2025 | v1.6    | Costes estimados vs Costes reales S2 | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
-| 03/04/2025 | v1.7    | Costes estimados vs Costes reales mitad S3 | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+| 03/04/2025 | v1.7    | Costes estimados vs Costes reales mitad S3 | Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|03/04/2025|v1.8|Ajuste Opex| Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+
 ---
 
 ## Contenido
@@ -137,12 +139,12 @@ Tabla 3.1. Costes de Mantenimiento Mensuales
 
 Los costes de mantenimiento (MRO) comprenden los gastos asociados al personal y a las licencias necesarias para garantizar el funcionamiento de la aplicación durante un año tras la finalización de la fase de desarrollo.
 
-En relación con la Tabla 3, los costes mensuales se calculan de la misma manera que en las Tablas 2.1 y 2.2. No obstante, es importante destacar que la Hora Básica de Servicio (HBS) de un técnico de soporte se establece en 20,00 €. Dado que cada técnico desempeñará una jornada de 40 horas mensuales durante 12 meses, el coste mensual por cada perfil asignado asciende a 800,00 €.
+En relación con la Tabla 3, los costes mensuales se calculan de la misma manera que en las Tablas 2.1 y 2.2. No obstante, es importante destacar que la Hora Básica de Servicio (HBS) de un técnico de soporte se establece en 20,00 €. Dado que cada técnico desempeñará una jornada de 130 horas mensuales, el coste mensual por cada perfil asignado asciende a 2.600,00 €.
 
 | Sueldo Mensual de Mantenimiento | | | | | 1.600,00 € |
 |---|---|---|---|---|---|
 | Id   | Rol                     | HBS      | Cantidad | Horas | Total     |
-| 3.7  | Técnico de soporte nivel 1 | 20,00 €  | 2        | 40    | 1.600,00 € |
+| 3.7  | Técnico de soporte nivel 1 | 20,00 €  | 17        | 130    | 44.200,00 € |
 
 Tabla 3.2. Sueldo Mensual de Mantenimiento
 
@@ -191,10 +193,10 @@ OPEX
 
 | Concepto                                          | Coste mensual (€) | Coste anual (€) |
 |---------------------------------------------------|-------------------|-----------------|
-| Mantenimiento de software (salarios técnicos de soporte) | 1.600,00          | 19.200,00         |
+| Mantenimiento de software (salarios técnicos de soporte) | 44.200,00          | 530.400,00         |
 | Infraestructura (Google Cloud, oficina)           | 765,31            | 9.183,72          |
 | Licencias operativas (GitHub Enterprise, Copilot, Codacy, APIs externas) | 302,98           | 3.635,76         |
-| Total OPEX                                        | 2.668,29          | 32.019,48         |
+| Total OPEX                                        | 45.268,29          | 543.219,48         |
 
 
 <div id='id8'></div>
