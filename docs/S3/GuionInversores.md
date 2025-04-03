@@ -56,8 +56,7 @@ En el presente documento se detalla el guión inicial del anuncio de los inverso
 
 
 
-La organización de eventos puede ser un autentico caos. Miles de personas organizan eventos como bodas de comuniones al año. Pero todos sabemos que la organización de estos eventos conlleva cansancio, estrés, pérdida de tiempo por eso traemos la solución, Eventbride, una aplicación que es capaz de centralizar la organización de estos eventos para ayudar a todas estas personas.
-
+La organización de eventos puede ser un auténtico caos. Miles de personas organizan eventos como bodas de comuniones al año. Pero todos sabemos que la organización de estos eventos conlleva cansancio, estrés, pérdida de tiempo por eso traemos la solución, Eventbride, una aplicación que es capaz de centralizar la organización de estos eventos para ayudar a todas estas personas.
 Somos Natalia Olmo y Fernando de Celis y os presentamos EventBride.
 
 EventBride es una plataforma que permitirá centralizar la organización de tu evento de forma rápida sencilla y ecnómica.
