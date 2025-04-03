@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 30/03/2025
+### Fecha: 03/04/2025
 
 ### Entregable: Sprint 3
 
@@ -38,6 +38,7 @@
 | 26/03/2025 | v2.1    | Corrección del documento                                                      | Sprint 2 | Natalia Olmo Villegas               |
 | 29/03/2025 | v3.0    | Más detalle en las cláusulas del documento y corrección de inconsistencias    | Sprint 3 | María de la Salud Carrera Talaverón |
 | 30/03/2025 | v3.1    | Más detalle en las cláusulas del documento y corrección de cláusulas abusivas | Sprint 3 | María de la Salud Carrera Talaverón |
+| 03/04/2025 | v3.2    | MActualización plan de precios                                                | Sprint 3 | Daniel Benito Hidalgo               |
 
 ---
 
@@ -181,7 +182,6 @@ Eventbride cuenta con unos planes de suscripción para proveedores. Sus caracter
 |-------------------------------------------------------------|-----------------|------------------|
 | Precio                                                      | Gratis          | 50 €/mes         |
 | Servicios que puede registrar en la plataforma              | 3               | 10               |
-| Estadísticas avanzadas sobre sus servicios                  | ❌              | ✅              |
 | Promocionar sus servicios para que estén mejor posicionados | ❌              | ✅              |
 
 Se aceptan pagos mediante tarjeta de crédito/débito, PayPal y otras pasarelas seguras que puedan integrarse. Todos los pagos serán procesados mediante proveedores certificados que cumplen con la normativa PCI DSS.
