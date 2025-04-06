@@ -57,6 +57,7 @@
 | 03/04/2025 | v6.2    | Métricas actualizadas                                                         | Sprint 3 | María de la Salud Carrera Talaverón |
 | 03/04/2025 | v6.3    | Métricas actualizadas                                                         | Sprint 3 | María de la Salud Carrera Talaverón |
 | 06/04/2025 | v6.4    | Actualización análisis cuantitativo (limpieza de tablas) y fechas importantes | Sprint 3 | María de la Salud Carrera Talaverón |
+| 06/04/2025 | v6.5    | Reestimación del Sprint                                                       | Sprint 3 | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -230,7 +231,66 @@ Por último, Fernando José de Celis Hurtado es el encargado de GDPR. Su respons
 
 ##  Reestimación del Sprint
 
-A día de 2 de abril de 2025, no se ha realizado ningua reestimación del Sprint 3. El reparto de tareas inicial se puede consultar en el documento `sprint-planning.md` de este mismo directorio.
+La reestimación de la planificación del Sprint 2 se realizó el día 05/04/2025. Participaron en ella la Project Manager y todos los Jefes de Subgrupos. Esta reestimación está sujeta a cambios si surgen conflictos durante el desarrollo del Sprint o si algún miembro del grupo se da cuenta de que falta alguna tarea o requisito pedido por los profesores de la asignatura.
+
+Se reasignaron algunas de las tareas planificadas para la segunda semana, pero la mayoría sufrieron pocos cambios, y se añadieron otras pocas. La nueva distribución de tareas se hizo teniendo en cuenta las horas de trabajo que llevaba cada desarrollador y los roles que desempeña cada uno. De esta forma, el nuevo Sprint Backlog quedó así (a día 6 de abril de 2025):
+
+| Tarea | Tiempo estimado (horas) | Asignados |
+|-------|-------------------------|-----------|
+| [MRKTN] Vídeo presentación del equipo | 6 | Natalia Olmo, Fernando José de Celis |
+| [FEATURE] Seguridad Invitations | 2 | Héctor Noguera |
+| [FEATURE] Seguridad Notifications | 2 | Gonzalo Navas |
+| [DOC] Feedback Semana 2 | 1 | Antonio Montero |
+| [DOC] Análisis Cuantitativo y Cualitativo Final Sprint | 2 | María de la Salud Carrera, Manuel Pérez |
+| [FEATURE] Seguridad EventProperties | 2 | Pablo Jesús Castellanos, Miguel Hernández |
+| [FEATURE] Seguridad Event | 2 | Francisco Avilés |
+| [FEATURE] Seguridad User | 2 | Adrián Cabello |
+| [FEATURE] Testing Invitations | 3 | Héctor Noguera |
+| [DOC] Actas de reuniones final de sprint | 1 | Sergio Pons |
+| [MRKTN] Subir posts e historias a Instagram 2ª semana | 1 | Manuel Pérez |
+| [CHANGE] Delete EventProp | 2 | Lorenzo Torralba |
+| [BUG] Arreglar Disponibilidad Servicios | 2 | Héctor Noguera, Miguel Hernández |
+| [DOC] KBreport.md | 2 | Antonio Montero |
+| [DOC] Actualizar pilotUsers.md | 2 | Daniel Benito, David Godoy |
+| [DOC] Performance Evaluation | 2 | Antonio Montero |
+| [DOC] Time Effort Report | 2 | Ignacio Blanquero |
+| [DOC] Pilot Users Performance Evaluation | 2 | Daniel Benito, David Godoy |
+| [DOC] Actualizar Manual de Usuario | 4 | Sergio Pons |
+| [DOC] Vídeo Demo Final Sprint | 3 | Adrián Cabello, Fernando José de Celis |
+| [FEATURE] Hacer release final de sprint | 0.5 | María de la Salud Carrera |
+| [FEATURE] Hacer release final de sprint (docs) | 0.5 | María de la Salud Carrera |
+| [DOC] Presentación final sprint | 8 | Pablo Jesús Castellanos, Francisco Avilés, Daniel Benito, Fernando José de Celis |
+| [DOC] Actualizar documento costes final de sprint | 2 | Pablo Jesús Castellanos, Francisco Avilés |
+| [DOC] Revisar Deliverable Failure Conditions | 3 | Pablo Jesús Castellanos, Francisco Avilés |
+| [DOC] Retrospectiva Sprint 3 | 3 | Sergio Pons |
+| [DOC] Desplegar repo documenración | 4 | María de la Salud Carrera |
+| [DOC] Pasar documentos a carpeta Docusaurus | 6 | María de la Salud Carrera, Antonio Montero, Manuel Pérez |
+| [DOC] Actualizar documento requisitos | 2 | Sergio Pons, Manuel Pérez |
+| [FEATURE] Hacer deploy | 3 | Andrés Pizzano |
+| [FEATURE] Añadir notificaciones | 4 | David Godoy |
+| [FEATURE] Seguridad Chat | 1 | Miguel Hernández |
+| [FEATURE] Seguridad OtherService | 1 | Ignacio Blanquero |
+| [FEATURE] Seguridad Venue | 1 | Ignacio Blanquero |
+| [FEATURE] Seguridad Payment | 1 | Lorenzo Torralba |
+| [FEATURE] Seguridad Service | 1 | Ignacio Blanquero |
+| [MRKTN] Editar anuncio clientes | 8 | Natalia Olmo, Fernando José de Celis |
+| [DOC] Actualizar commitment agreement | 1 | Lorenzo Torralba |
+| [DOC] Actualizar changelog | 1 | Lorenzo Torralba |
+| [DOC] Actualizar problems.md final de Sprint | 1.5 | Héctor Noguera |
+| [DOC] Alucinaciones de la IA | 1 | Manuel Pérez |
+| [FEATURE] Testing Event | 4 | Francisco Avilés |
+| [FEATURE] Testing Chat | 2 | Miguel Hernández |
+| [FEATURE] Testing EventProperties | 4 | Pablo Jesús Castellanos |
+| [FEATURE] Testing Notifications | 3 | Gonzalo Navas |
+| [FEATURE] Testing OtherServices | 2 | Ignacio Blanquero |
+| [FEATURE] Testing Payment | 3 | Lorenzo Torralba |
+| [FEATURE] Testing Venue | 2 | Ignacio Blanquero |
+| [FEATURE] Testing User | 4 | Adrián Cabello |
+| [FEATURE] Testing Service | 1 | Ignacio Blanquero |
+| [FEATURE] Testing rendimiento | 4 | Héctor Noguera, Miguel Hernández |
+| [CHANGE] Asociar dominio al enlace del deploy | 1 | Andrés Pizzano |
+| [CHANGE] Actualizar correo de contacto | 0.25 | Lorenzo Torralba |
+| [MRKTN] Editar anuncio de los inversores | 3 | Natalia Olmo, Fernando José de Celis |
 
 <div id='concl'></div>
 
