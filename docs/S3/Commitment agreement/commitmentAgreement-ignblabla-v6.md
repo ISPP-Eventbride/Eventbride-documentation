@@ -76,6 +76,8 @@ Yo, Ignacio Blanquero Blanco, para avanzar en la asignatura de Ingeniería de So
 
 - **Fernando José de Celis** (GDPR): asegura que el diseño, desarrollo y ejecución cumplan con la protección de datos personales, garantizando el principio de "privacidad desde el diseño y por defecto", y que se respeten los derechos de los usuarios en todo momento.
 
+- **Daniel Benito Hidalgo** y **Manuel Pérez Vélez** (Community Managers): Encargarse de la comunicación externa del proyecto, especialmente en redes sociales y otras plataformas públicas. Esto implica difundir avances, novedades y contenido relevante del proyecto. Además, responden dudas y comentarios del público, promoviendo una imagen positiva.
+
 En caso de no poder cumplir con sus responsabilidades, se compromete a informar al equipo y buscar soluciones. Los miembros no mencionados asumen el rol de desarrollador.
 
 Al firmar este documento, entiendo y acepto las responsabilidades que se me han asignado y me comprometo a cumplirlas según lo establecido en este documento.
