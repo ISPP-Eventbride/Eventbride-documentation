@@ -89,14 +89,14 @@ const config = {
           {to: '/equipo', label: 'Equipo', position: 'left'},
           {to: '/contacto', label: 'Contacto', position: 'left'},
           {
-            href: 'https://github.com/orgs/ISPP-Eventbride/repositories',
-            label: 'GitHub',
+            href: 'https://ispp-2425-03.ew.r.appspot.com/',
+            label: 'Eventbride',
             position: 'right',
           },
         ],
       },
       footer: {
-        style: 'dark',
+        style: 'light',
         links: [
           {
             title: 'Documentos',
