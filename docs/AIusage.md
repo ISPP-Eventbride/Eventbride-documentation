@@ -40,6 +40,7 @@
 |18/03/2025 |v1.4 |Actualizar con usos del sprint 2 |Sprint 2 | Pablo Jesús Castellanos Compaña |
 |19/03/2025 |v1.5 |Actualizar con alucinaciones de la IA del Sprint 2 |Sprint 2 | Ignacio Blanquero Blanco |
 |25/03/2025 |v1.6 |Actualizar uso de IA del Sprint 2 |Sprint 2 | Daniel Benito Hidalgo |
+|07/04/2025 |v1.7 |Actualizar uso de IA del Sprint 3 |Sprint 3 | Manuel Pérez Vélez |
 ---
 
 ## Contenido
@@ -207,6 +208,16 @@ Tras el análisis exhaustivo de las conversaciones identificadas con los IDs 18 
 
 En consecuencia, el porcentaje de alucinaciones registradas para las conversaciones analizadas del Sprint 2 es del 0%. Este resultado sugiere que la precisión observada podría estar directamente relacionada con la meticulosidad en la formulación de los mensajes proporcionados a la IA, lo cual habría contribuido a la obtención de respuestas precisas y libres de alucinaciones.
 
+Con respecto al Sprint 3, tras el análisis de las conversaciones identificadas con los IDs 24 y 28, podemos afirmar que la Inteligencia Artificial respondió con coherencia y cumplió con las expectativas.
+
+No obstante, en lo que respecta a las conversaciones con los IDs 23, 25, 26 y 27, la ausencia de los enlaces correspondientes impide realizar un análisis exhaustivo que nos permita detectar posibles alucinaciones por parte de la IA. Aun así, podemos apoyarnos en la tabla de análisis de uso, la cual proporciona información relevante como el número de intentos por prompt hasta obtener una respuesta válida, el cumplimiento de expectativas, la necesidad de edición del contenido generado y el tiempo estimado ahorrado.
+
+Aunque algunas respuestas requirieron múltiples intentos, no las consideramos alucinaciones propiamente dichas, ya que los problemas se debieron en parte a la forma en que se planteaban las preguntas. A través de refactorizaciones en los prompts, se logró obtener en la mayoría de los casos una respuesta satisfactoria.
+
+Cabe destacar que en la respuesta correspondiente al ID 25, aunque parcialmente cumple con lo esperado, la falta de concisión en la respuesta puede interpretarse como una falta de coherencia, y por tanto, como una posible alucinación por parte de la IA.
+
+En resumen, de un total de seis respuestas analizadas, una podría considerarse una alucinación, lo que representa un 1/6 del total.
+
 <div id='concl'></div>
 
 ## Conclusiones
@@ -215,7 +226,11 @@ Hasta ahora, la inteligencia artificial en nuestro proyecto ha supuesto una herr
 
 Aun así, la IA no ha reemplazado por completo al humano en las tareas que ha contribuido. Los resultados han estado siempre sujetos a revisión por parte del equipo y ha servido como base que permite acelerar el resultado final, fruto ya de trabajo humano y de una calidad garantizada; no ha sustituido por completo en ningún momento al trabajo de los miembros del equipo.
 
-En definitiva, la IA ha sido un recurso valioso que nos ha permitido avanzar con más rapidez, sin perder el control sobre el proceso.
+En el Sprint 3 ha demostrado en especial una mejora significativa en términos de ahorro de tiempo. De hecho, este sprint ha sido donde más valor hemos percibido en cuanto a eficiencia: los tiempos ahorrados superan con frecuencia los 30 minutos por respuesta, alcanzando incluso casos de 1 hora o más. Este incremento en productividad ha sido posible gracias al uso intensivo de la IA como punto de partida para resolver tareas concretas y técnicas.
+
+Sin embargo, es importante destacar que prácticamente en todos los casos ha sido necesario editar la información generada, ya que el contenido entregado no siempre encajaba directamente con nuestras necesidades o contexto. La IA ha proporcionado respuestas válidas, pero estas han requerido ajustes para adaptarse al lenguaje, objetivos y requisitos específicos del proyecto.
+
+En definitiva, la IA se ha consolidado como un recurso valioso que ha facilitado un avance más ágil, especialmente durante el Sprint 3, sin que ello supusiera perder el control sobre el proceso. Ha funcionado como una herramienta de apoyo constante, cuyas propuestas han sido siempre revisadas y perfeccionadas por el equipo, lo que ha permitido mantener la calidad del producto final sin comprometer los plazos establecidos.
 
 <div id='bib'></div>
 
