@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 02/04/2025
+### Fecha: 09/04/2025
 
 ### Entregable: Sprint 3
 
@@ -39,6 +39,7 @@
 | 19/03/2025 | v1.3    | Redacción del problema 4 | Sprint 2 | Héctor Noguera González |
 | 25/03/2025 | v1.4    | Redacción del problema 5 | Sprint 2 | Héctor Noguera González |
 | 02/04/2025 | v1.5    | Redacción del problema 6 y 7 | Sprint 3 | Héctor Noguera González |
+| 09/04/2025 | v1.6    | Redacción del problema 8 y 9 | Sprint 3 | Héctor Noguera González |
 
 ---
 
@@ -51,9 +52,11 @@
 6. [Problema 5: Actualización del pom.xml para añadir correos](#id5)
 7. [Problema 6: Falta de coordinación, comunicación y priorización en la entrega de tareas](#id6)
 8. [Problema 7: Inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos](#id7)
-9. [Rendimiento y Evaluación de Acciones](#Rendimiento)
-10. [Conclusiones](#conclusiones)
-11. [Bibliografía](#bib)
+9. [Problema 8: Caída del despliegue en Google Cloud por falta de créditos](#id8)
+10. [Problema 9: Imposibilidad de rellenar invitaciones tras mejora en la seguridad del sistema](#id9)
+11. [Rendimiento y Evaluación de Acciones](#Rendimiento)
+12. [Conclusiones](#conclusiones)
+13. [Bibliografía](#bib)
 
 
 <div id='intro'></div>
@@ -288,6 +291,88 @@ El mismo 31/03/2025 en el que se detectó el error , con aplicación inmediata e
 ### ¿Están funcionando las cosas?
 
 Tras la modificación del tamaño del campo, el backend pudo ejecutarse correctamente en todos los dispositivos. No se han vuelto a presentar errores relacionados con este problema, y se ha verificado la estabilidad del sistema en posteriores pruebas de arranque y despliegue local.
+
+<div id='id8'></div>
+
+## Problema 8: Caída del despliegue en Google Cloud por falta de créditos
+
+## Trazabilidad del problema 
+
+El día 08/04/2025,  se detectó que el entorno desplegado en Google Cloud había dejado de estar disponible. Al intentar acceder a los servicios desplegados, el sistema devolvía errores de conexión y los logs de Google Cloud indicaban que todos los recursos estaban detenidos.
+
+Tras una rápida revisión del panel de control de Google Cloud, se confirmó que la cuenta utilizada para el despliegue había agotado los créditos disponibles. Debido a esto, los servicios fueron automáticamente suspendidos por Google, interrumpiendo por completo el despliegue del Sprint 2.
+
+La situación fue crítica ya teníamos la intención de hacer un despligue de prueba del Sprint 3 para comprobar el correcto funcionamiento de las nuevas mejoras añadidas.
+
+Para resolver el problema con la mayor rapidez posible, Pablo Jesús Castellanos Compaña se creó una cuenta nueva en Google Cloud. Esto le permitió canjear los créditos gratuitos otorgados por Google a estudiantes. Una vez activada la nueva cuenta, se configuró nuevamente el entorno de despliegue y se relanzaron todos los servicios correspondientes al Sprint 2.
+
+## Acciones concretas tomadas
+
+Revisión del estado de la cuenta de Google Cloud y confirmación del agotamiento de créditos.
+
+Verificación de logs y mensajes de error para entender el motivo exacto de la caída.
+
+Creación de una nueva cuenta de Google Cloud por parte de Pablo.
+
+Canjeo exitoso de los créditos gratuitos disponibles para estudiantes.
+
+Reconfiguración del entorno de despliegue en la nueva cuenta.
+
+Relanzamiento completo del despliegue correspondiente al Sprint 2.
+
+## Cómo saber si está funcionando
+
+Acceso exitoso a los servicios desplegados desde entornos externos.
+
+## Objetivo
+
+Restablecer la disponibilidad de los servicios desplegados para el Sprint 2 y garantizar la continuidad del desarrollo y validación de funcionalidades. También se busca evitar caídas futuras por agotamiento de créditos, considerando la rotación de cuentas o métodos de monitoreo anticipado.
+
+## Cúando se espera alcanzar el objetivo
+
+El mismo 08/04/2025 tras resolver la caída y relanzando el despliegue con la nueva cuenta de Google Cloud.
+
+## ¿Están funcionando las cosas?
+
+Sí, tras la migración del entorno de despliegue a la nueva cuenta de Google Cloud, todos los servicios del Sprint 2 volvieron a estar operativos.
+
+<div id='id9'></div>
+
+## Problema 9: Imposibilidad de rellenar invitaciones tras mejora en la seguridad del sistema
+
+## Trazabilidad del problema
+
+El día 06/04/2025 se implementó una mejora de seguridad en el sistema de gestión de invitaciones. Con el objetivo de proteger los datos sensibles de estas, se añadieron validaciones que restringían el acceso a las invitaciones únicamente al usuario que las hubiera creado. Los cambios fueron integrados en una pull request sobre la rama develop.
+
+El 07/04/2025, durante la revisión de los cambios, Adrián y Pablo detectaron un fallo funcional: no se podía rellenar una invitación desde el enlace público, a pesar de que este proceso no requiere autenticación. Esto se debía a que el flujo de rellenado necesitaba realizar un GET para obtener los datos necesarios de la invitación. Sin embargo, con la nueva validación, devolvía un error al no poder verificar que el usuario estuviera autenticado, rompiendo así el flujo de rellenado.
+
+Tras analizar el problema, se identificó que la validación añadida en el método GET debía aplicarse únicamente a los accesos privados, no a los públicos. Para solucionarlo, se eliminó la validación del usuario en dicho método y se optó por usar un DTO para controlar y limitar qué información se expone en las invitaciones públicas, manteniendo así un buen equilibrio entre funcionalidad y seguridad.
+
+## Acciones concretas tomadas
+
+Revisión de la lógica del endpoint GET tras la integración de las validaciones.
+
+Identificación del conflicto entre los requisitos de seguridad y el flujo de uso sin autenticación.
+
+Eliminación de la validación de usuario del GET de invitaciones.
+
+Implementación de un DTO para exponer únicamente los datos necesarios y seguros en invitaciones públicas.
+
+## Cómo saber si está funcionando 
+
+Flujo de rellenado de invitaciones funcionando de principio a fin sin errores.
+
+## Objetivo 
+
+Mantener la seguridad en la gestión de invitaciones, limitando el acceso a datos sensibles, pero sin romper el flujo público necesario para que terceros puedan rellenarlas sin necesidad de iniciar sesión.
+
+## Cuándo se espera alcanzar el objetivo
+
+El mismo 07/04/2025, tras identificar el problema y aplicar la solución correspondiente.
+
+## ¿Están funcionando las cosas?
+
+Sí, tras aplicar el DTO y eliminar la validación de usuario del método GET, el sistema volvió a permitir el acceso público a los datos necesarios para rellenar una invitación.
 
 <div id='Rendimiento'></div>
 
