@@ -1,6 +1,6 @@
-﻿# <p style="text-align: center;">AI Usage</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="..\..\img\Eventbride.png"></center>
+﻿# AI Usage
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<img src="../../img/Eventbride.png"></img>
 
 ### Grupo 3: EventBride
 
@@ -97,10 +97,9 @@ El uso de IA se documentará de la siguiente manera:
 
 ## Ejemplo de Registro de Uso 
 
-<table><tr><th colspan="1">ID </th><th colspan="1">Uso </th><th colspan="1">Miembro </th><th colspan="1">Fecha </th><th colspan="1">Enlace </th><th colspan="1">Entrega </th></tr>
-<tr><td colspan="1" rowspan="2" valign="top">1 </td><td colspan="1" rowspan="2">Generación de plantillas para actas de reunión </td><td colspan="1" rowspan="2">Ignacio Blanquero Blanco </td><td colspan="1" rowspan="2" valign="top">03/02/2025 </td><td colspan="1" valign="top">[Plantilla acta ](https://chatgpt.com/canvas/shared/67b4a5a7afac81918b2898ab1904783f)</td><td colspan="1" rowspan="2" valign="top">DP </td></tr>
-<tr><td colspan="1"></td></tr>
-</table>
+| ID | Uso                                      | Miembro                     | Fecha       | Enlace                                                                                     | Entrega |
+|----|------------------------------------------|-----------------------------|-------------|--------------------------------------------------------------------------------------------|---------|
+| 1  | Generación de plantillas para actas de reunión | Ignacio Blanquero Blanco    | 03/02/2025 | [Plantilla acta](https://chatgpt.com/canvas/shared/67b4a5a7afac81918b2898ab1904783f)        | DP      |
 
 <div id='id5'></div>
 

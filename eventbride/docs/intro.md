@@ -2,46 +2,28 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introducción
 
-Let's discover **Docusaurus in less than 5 minutes**.
+¡Bienvenido/a a la documentación de **Eventbride**! Aquí encontrarás todos los documentos que nuestro equipo ha ido redactando a lo largo del proyecto, distribuidos por entregables para que sea más fácil encontrarlos. **¡Disfruta navengando!**
 
-## Getting Started
+## Ejecutar el proyecto
 
-Get started by **creating a new site**.
+Para ejecutar este proyecto en local, debes descargarte el código desde nuestro [repositorio de GitHub](https://github.com/ISPP-Eventbride/Eventbride-documentation).
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Qué necesitas
 
-### What you'll need
+- [Node.js](https://nodejs.org/en/download/) versión 18.0 o superior:
+  - Al instalar Node.js, se recomienda marcar todas las casillas relacionadas con las dependencias.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### Lanzar el proyecto
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest eventbride classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
+Para arrancar el server, ejecutar los siguientes comandos en la consola de comandos, Powershell, Terminal o cualquier otro terminal integrado en tu editor de código:
 
 ```bash
 cd eventbride
 npm run start
 ```
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+El comando `cd` cambia el directorio de trabajo. Para lanzar la página de Docusaurus, necesitarás navegar hasta la carpeta `eventbride` en el terminal.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+El comando `npm run start` construye la página web de forma local y la lanza en un server de desarrollo, en la dirección http://localhost:3000/.

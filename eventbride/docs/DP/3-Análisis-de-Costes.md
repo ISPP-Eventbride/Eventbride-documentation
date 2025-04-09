@@ -1,6 +1,6 @@
-# <p style="text-align: center;">Título del Documento</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="../../img/Eventbride.png"></center>
+# Análisis de Costes
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center><img src="../../img/Eventbride.png"></img></center>
 
 ### Grupo 3: EventBride
 
@@ -177,7 +177,7 @@ A  partir  del  análisis  de  costes  [8](#bibliografía),  se  ha  determinado
 Cabe destacar que estos cálculos han sido realizados sin considerar las **suscripciones premium** de los proveedores. Además, deberíamos añadir los costes de la API de Stripe, que tiene un coste de comisión de un 1’5% + 0.25€ por cada transacción dentro de la unión europea  y  España,  y  de  2’9%  +  0.25€  con  el  pago  de  tarjetas  internacionales  [9](#bibliografía). 
 Posteriormente  se  hará  un  análisis  de  los  gastos  de  la  API  de  Stripe  y  se  decidirá  la posibilidad de adquirir el plan Enterprise el cual funciona de forma de pago mensual en vez de mediante comisiones.
 
-<img src="../../img/TCO_tabla.png">
+<img src="../../img/TCO_tabla.png"></img>
 
 **Gráfica de TCO**
 

@@ -1,6 +1,6 @@
-﻿# <p style="text-align: center;">Análisis cuantitativo</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="..\..\img\Eventbride.png"></center>
+﻿# Análisis Cuantitativo
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center><img src="..\..\img\Eventbride.png"></img></center>
 
 ### Grupo 3: EventBride
 
