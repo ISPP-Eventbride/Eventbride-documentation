@@ -61,26 +61,24 @@
 
 ## Introducción
 
-Este documento tiene como objetivo presentar una retrospectiva del Sprint 3 del proyecto *Eventbride*. Se abordarán las buenas prácticas llevadas a cabo durante el sprint, los aspectos que se deben mejorar y las áreas en las que se puede optimizar el proceso de trabajo en el futuro. Además, se establecerán los objetivos para el siguiente sprint, teniendo en cuenta las lecciones aprendidas.
+Este documento tiene como objetivo presentar una retrospectiva del Sprint 3 del proyecto *Eventbride*. Se abordarán las buenas prácticas llevadas a cabo durante el sprint, los aspectos que se deben mejorar y las áreas en las que se puede optimizar el proceso de trabajo en el futuro. Además, se explicarán los problemas y las lecciones aprendidas durante este sprint.
 
 <div id='id2'></div>
 
 ## Evaluación del rendimiento del equipo y productividad individual
 
-Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicadores:
+Se va a evaluar el rendimiento del equipo en base a los siguientes indicadores:
 
 <div id='id3'></div>
 
 ### Tiempo estimado vs. tiempo real
-En esta ocasión, el tiempo estimado de trabajo ha sido **horas** para el sprint completo, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
-
-En este sprint hemos separado mejor las tareas intentando controlar mejor las tareas de código y siguiendo mejor el **Pair Programming**, reduciendo los grupos y siendo más eficaces en el trabajo.
+En esta ocasión, el tiempo estimado de trabajo ha sido **278 horas** para el sprint completo, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **XXX horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
 
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
 
-Se han completado un total de **tareas sobre**, lo que supone un **%** del total de tareas a realizar. De las **tareas restantes**, **se encuentran en review** y **están en progreso** (*in progress*). Esto supondría un total de **tareas en "To Do"**. 
+Se han completado un total de **XX tareas sobre 96**, lo que supone un **XX%** del total de tareas a realizar. De las **XX tareas restantes**, **XX se encuentran en review** y **XX están en progreso** (*in progress*). Esto supondría un total de **XX tareas en "To Do"**. 
 
 <div id='id5'></div>
 
@@ -152,6 +150,7 @@ La siguiente tabla representa las horas trabajadas por cada uno de los miembros 
 Se tendrá en cuenta en dos ámbitos, tanto a nivel de **documentación** como de **código**.  
 
 - Para la **documentación**, se valorará el uso de la plantilla existente para mantener el formato establecido. También se evaluará que los textos estén justificados, correctamente escritos y con sus correspondientes tildes.  
+
 - En el apartado de **código**, habrá que seguir las políticas establecidas en la wiki del proyecto.  
 
 Los encargados en este caso serán **Pablo Jesús Castellanos Compaña** y **Francisco Avilés Carrera**.
@@ -169,7 +168,6 @@ Se analizará si las **horas registradas** son utilizadas efectivamente en las t
 ## Feedback de los miembros del equipo  
 
 El feedback sobre cómo perciben el trabajo asignado permitirá medir la productividad desde la perspectiva de quienes realizan las tareas.
-
 
 <div id='buenas'></div>
 
@@ -195,16 +193,18 @@ Durante el Sprint 3, se lograron diversas acciones positivas que contribuyeron a
 
 ### ¿Qué cosas se pueden empezar a hacer?
 
-A pesar de los logros, también se identificaron problemas que deben ser abordadas en los siguientes sprints:
-
 - **Seguir con el buen ambiente de trabajo:**  Mantener el clima positivo y la buena comunicación que ha caracterizado al equipo durante este sprint.
 
 <div id='problemas'></div>
 
 ### ¿Qué problemas han surgido?
 
+A pesar de los logros, también se identificaron problemas que deben ser abordadas en los siguientes sprints:
+
 - **Despliegue:**. El proceso de despliegue se ha visto interrumpido por la falta de créditos en el servicio utilizado, lo que ha afectado a las pruebas finales y la visibilidad del proyecto. Es importante buscar alternativas o gestionar mejor los recursos disponibles para evitar estos bloqueos.
+
 - **Fallo con las invitaciones:** Se ha identificado un error o limitación en la funcionalidad de gestión de invitaciones que impide completar este proceso correctamente. Es necesario priorizar su resolución para que el flujo de usuario sea completo y funcional. 
+
 - **Poca información en el documento de la IA:** El documento de la IA del sistema está incompleto o carece de suficiente detalle, lo que dificulta su comprensión y validación por parte del equipo. Se debería ampliar y clarificar para garantizar una documentación técnica adecuada.
 
 Están descritos con más detalle en el documento de [problems.md](.\Problems\problems.md). Ahí también se ha puede ver la solución propuesta y el seguimiento de la misma.
@@ -216,6 +216,7 @@ Están descritos con más detalle en el documento de [problems.md](.\Problems\pr
 En cuanto a lecciones aprendidas del sprint 3 tenemos las siguientes:
 
 - **Buena revisión de las PRs:** Se ha llevado a cabo una revisión cuidada de las pull requests, lo que ha permitido detectar errores a tiempo.
+
 - **La nueva división de grupos nos ha ayudado:** La reorganización por áreas de trabajo ha mejorado la eficiencia y ha permitido a cada grupo centrarse en tareas más específicas y acordes a sus fortalezas.
 
 <div id='concl'></div>
