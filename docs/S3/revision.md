@@ -239,31 +239,58 @@ Si se desea actualizar los datos del perfil, se accede a la pestaña correspondi
 
 ### Guía como proveedor
 
-Si iniciamos sesión con un usuario **proveedor**, se muestra la misma página inicial que los usuarios clientes pero se muestra el plan de pago al que pertenece y las funcionalidades correspondientes.
+Si iniciamos sesión con un usuario ***Proveedor***, se muestra la misma página inicial que los usuarios clientes pero se muestra el plan de pago al que pertenece y las funcionalidades correspondientes.
 
 <center><img src="..\img\inicioproveedor.png"></center>
 
-Si se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
+
+Para ***Crear un servicio*** se te mostrará un formulario donde primeramente podrás elegir si el servicio que quieres introducir es un recinto u otro tipo. 
+
+<center><img src="..\img\crearservicio1.png"></center>
+
+Según la selección anterior se te muestra un formulario u otro. En el caso de que se haya elegido la opción de ***Recinto para eventos*** se muestra el siguiente formulario a rellenar.
+
+<center><img src="..\img\crearrecinto.png"></center>
+
+En el caso de que hayas seleccionado ***Otro tipo de servicio*** se mostrará el siguiente formulario, en el que se podrá diferenciar entre si el servicio proporcionado es dedicado al catering, al entretenimiento o a la decoración.  
+
+<center><img src="..\img\crearotroevento.png"></center>
+<center><img src="..\img\crearotroevento2.png"></center>
+
+Si se accede a la pestaña de ***Mis servicios***, se muestran los servicios pertenecientes al proveedor pudiéndose deshabilitar, editar y crear nuevos servicios en la misma sección (justo debajo de la foto).
 
 <center><img src="..\img\misservicios.png"></center>
 
-Dentro de editar un servicio, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio.
+Dentro de ***Editar un servicio***, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio. Se permite editar todos los atributos puestos en el formulario de creación.
+Al pulsar sobre guardar se actualiza cómo se muestra en los distintos sitios de la plataforma.
 
-<center><img src="..\img\editarservicio.png"></center>
+<center><img src="..\img\editarservicio1.png"></center>
+<center><img src="..\img\editarservicio2.png"></center>
 
-Al crear un servicio, se muestra el formulario correspondiente (depende del tipo de servicio escogido) a completar.
-
-<center><img src="..\img\crearservicio.png"></center>
-
-En la pestaña de solicitudes se mostrarán las solicitudes pendientes que le queda al proveedor por aceptar o cancelar según su criterio. En el caso de haber solicitudes, se mostrarán todos los datos importantes de la misma y los botones de aceptar o cancelar.
+Si nos movemos a la pestaña de ***Solicitudes*** se muestran las solicitudes pendientes que le queda al proveedor por aceptar o cancelar según su criterio. En el caso de haber solicitudes, se mostrarán todos los datos importantes de la misma y los botones de aceptar o cancelar.
 
 <center><img src="..\img\solicitudes.png"></center>
 
-La pestaña de editar perfil es la misma que la del usuario cliente añadiéndose un botón para actualizar el plan de pago.
+En la pestaña de ***Contrataciones*** podemos ver de forma rápida un resumen de las solicitudes realizadas hasta el momento incorporando un filtro en la que puedes visualizar las que tienes pendientes, las que has aceptado y las que has rechazado. También se incorpora un calendario donde puedes ver los eventos, usando el mismo filtro, dentro del mismo.
+
+
+En el ***Historial de ventas*** podemos ver un resumen de los pagos que han realizado los clientes.
+
+
+El ***Soporte Técnico*** para los proveedores de nuestra plataforma consiste en una sección de preguntas rápidas donde los proveedores pueden obtener respuestas rápidas a las preguntas frecuentes. En el caso de que su duda no se resuelva, pueden acceder a un chat con el administrador pulsando en el icono azul que aparece abajo a la derecha.
+
+<center><img src="..\img\soporteproveedor.png"></center>
+
+Al hacer clic sobre tu foto de perfil, te redirige a la pestaña de ***Ver perfil***. Esta es la misma que la del usuario cliente, pero en el caso de que tengas el plan *Basic* te aparece un botón que te permite cambiarte de plan a premium, como podemos ver en la segunda imagen.
 
 <center><img src="..\img\editarperfilproveedor.png"></center>
+<center><img src="..\img\editarperfilproveedor2.png"></center>
 
-Si se desea actualizar al plan premium, se puede realizar indicando el número de meses que se desea y se puede pagar con tarjeta o con PayPal.
+Si pulsas sobre ***Editar perfil*** se te abre la siguiente vista donde puedes editar todos los aspectos que aparecen en pantalla.
+
+<center><img src="..\img\editarperfilproveedor3.png"></center>
+
+Si se desea ***Actualizar al plan premium***, se puede realizar indicando el número de meses que se desea y se puede pagar con tarjeta o con PayPal.
 
 <center><img src="..\img\contratarpremium.png"></center>
 
@@ -275,25 +302,29 @@ Si iniciamos sesión con un usuario **admin**, se muestra la misma página inici
 
 <center><img src="..\img\inicioadmin.png"></center>
 
-Si accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
+Si accedemos a ***Administrar servicios***, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
 <center><img src="..\img\administrarservicios.png"></center>
 
-Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
+Si accedemos a la sección de ***Editar***, se nos muestra el formulario a rellenar.
 
 <center><img src="..\img\admineditarservicio.png"></center>
 
-La sección de administrar eventos funciona de la misma manera que la anterior mencionada (administrar servicios).
+La sección de ***Administrar eventos*** funciona de la misma manera que la anterior mencionada (administrar servicios).
 
 <center><img src="..\img\administrareventos.png"></center>
 
-Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
+Si accedemos a la sección de ***Editar***, se nos muestra el formulario a rellenar.
 
 <center><img src="..\img\admineditarevento.png"></center>
 
-Y por último, si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
+Y por último, si accedemos a la sección de ***Administrar usuarios***, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. Está la opción de buscar por id del usuario.
 
 <center><img src="..\img\administrarusuarios.png"></center>
+
+Para ***Visualizar el perfil del administrador*** simplemente tienes que clicar sobre la foto de perfil. Ahí podrás editarlo si ha cambiado algún dato, de forma similar a los otros usuarios del sistema.
+
+<center><img src="..\img\perfiladmin.png"></center>
 
 <div id='id5'></div>
 
@@ -334,9 +365,20 @@ Administrador:
 
 **URL de GitHub: <https://github.com/ISPP-Eventbride>**
 
-**Credenciales correo corporativo:**
+**Credenciales correo gmail:**
 
 - Usuario: **[eventbride6@gmail.com](mailto:eventbride6@gmail.com)** Contraseña: **3vent\_Br1de**
+
+**Credenciales correo corporativo:**
+
+- Usuario: **[info@eventbride.fun](mailto:info@eventbride.fun)** Contraseña: **0P7csMTH#wT%baj1**
+
+**Credenciales de correo de soporte:**
+
+- Usuario: **[soporte@eventbride.fun](mailto:soporte@eventbride.fun)** Contraseña: **4&f545@nE#z8^6J%**
+
+> [!IMPORTANT]
+> Si quiere iniciar sesión con los correos de soporte o corporativo en Outlook, hay que cambiar el tipo de cuenta a IMAP
 
 **Credenciales de Clockify:** cuando inicies sesión con clockify te pedirá un correo electrónico, meter el correo corporativo. Acto seguido te enviará una clave al correo corporativo.
 
