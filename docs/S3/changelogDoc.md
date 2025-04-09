@@ -60,7 +60,6 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.
 ### [1.3.0] - 2025-04-08
 
 ### Añadido
-- Implementación de un sistema de comentarios y valoraciones para eventos y proveedores.​
 - Integración con servicios de calendario externos para sincronización de eventos.
 - Testing y pruebas de seguridad.
 
