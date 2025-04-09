@@ -11,7 +11,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eventbride - Documentación',
-  tagline: 'Eventos que brillan, recuerdos que perduran',
+  tagline: 'Eventos que brillan y recuerdos que perduran',
   favicon: 'img/Eventbride.png',
 
   // Set the production url of your site here
@@ -89,7 +89,7 @@ const config = {
           {to: '/equipo', label: 'Equipo', position: 'left'},
           {to: '/contacto', label: 'Contacto', position: 'left'},
           {
-            href: 'https://ispp-2425-03.ew.r.appspot.com/',
+            href: 'https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login',
             label: 'Eventbride',
             position: 'right',
           },
