@@ -1,6 +1,6 @@
-# <center>Commitment Agreement v7</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\..\img\Eventbride.png"></center>
+# Commitment Agreement v7
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
