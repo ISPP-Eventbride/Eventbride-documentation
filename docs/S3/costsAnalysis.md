@@ -174,8 +174,7 @@ Cabe destacar que estos cálculos han sido realizados sin considerar las suscrip
 
 Tabla 4. Costes de Recompensa de Usuarios Piloto
 
-Dado nuestro programa de usuarios piloto, a los proveedores que se le proporcione nuestra aplicación a modo de prueba, recibirán de manera gratuita la aplicación con la suscripción premium durante medio año. Además, a los usuarios pilotos organizadores de eventos se les quitará la comisión al realizar el pago.ç
-
+Dado nuestro programa de usuarios piloto, a los proveedores que se le proporcione nuestra aplicación a modo de prueba, recibirán de manera gratuita la aplicación con la suscripción premium durante medio año. Además, a los usuarios pilotos organizadores de eventos se les quitará la comisión al realizar el pago.
 
 ## Costes de Marketing
 
