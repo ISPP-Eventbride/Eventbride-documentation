@@ -507,7 +507,7 @@ Se puede reforzar la recolección de feedback sobre esta funcionalidad en futuro
 - **Edición de perfil**: Un usuario reportó problemas cargando su foto.
 - **Valoración media de la edición de perfil**: 4/5
 
-**Conclusión**: Generalmente positiva, con observaciones similares a las del registro respecto a la carga de imágenes.
+Generalmente positiva, con observaciones similares a las del registro respecto a la carga de imágenes.
 
 - **Términos y condiciones**: 2 de 5 usuarios los han leído.
 - **Rendimiento de la plataforma**: 3 de 5 usuarios lo consideran positivo.
