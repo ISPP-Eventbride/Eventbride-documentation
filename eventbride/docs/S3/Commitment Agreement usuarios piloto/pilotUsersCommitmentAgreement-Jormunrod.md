@@ -1,8 +1,8 @@
-[Conversación de chatgpt usada en el desarrollo de este documento](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67c5b514-0e60-8008-8764-70efc40ab355 )
+# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Jorge Muñoz Rodríguez
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](/img/Eventbride.png)</center>
 
-# <center>Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Curso 2024-2025</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\..\img\Eventbride.png"></center>
+[Conversación de chatgpt usada en el desarrollo de este documento](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67c5b514-0e60-8008-8764-70efc40ab355 )
 
 ### Grupo 3: Eventbride
 
