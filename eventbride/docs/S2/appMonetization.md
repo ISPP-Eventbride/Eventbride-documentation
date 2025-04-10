@@ -1,6 +1,6 @@
 # Monetización de la aplicación
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="../../img/Eventbride.png"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -133,7 +133,7 @@ Por último, los proveedores tendrán un número limitado de 3 ofertas. Para muc
 
 Si el proveedor está satisfecho con la aplicación querrá tener un mayor número de ofertas a causa del crecimiento de su negocio y será susceptible al pago de una membresía premium que permitirá a esta poner ofertas ilimitadas. Además se le posicionará mejor en la aplicación. Este plan premium costará 50€ al mes.
 
-[Ver Excel Ganancias.xlsx](https://uses0-my.sharepoint.com/:x:/g/personal/danbenhid_alum_us_es/EUwnInhun7lNl22ZkGuyxnkBaTPWlwnXklO7hOZMDIzGLw?e=PGd0Ka)
+[Ver Excel[ Ganancias.xlsx\] ](https://uses0-my.sharepoint.com/:x:/g/personal/danbenhid_alum_us_es/EUwnInhun7lNl22ZkGuyxnkBaTPWlwnXklO7hOZMDIzGLw?e=PGd0Ka)
 
 
 Con este sistema, teniendo en cuenta sólo bodas, para amortizar la inversión inicial sólo necesitaríamos que se produjeran entre 42 a 63 pagos dependiendo de lo caras que sean las bodas. Viendo el volumen de bodas que se producen al año en Sevilla, es una cifra realista.
@@ -160,15 +160,15 @@ Teniendo en cuenta estos parametros, se podría estimar que el costo a corto pla
 
 A continuación haremos una estimación de los posibles beneficios. Para ello, tendré en cuenta las estimaciones hechas por los compañeros del costo de celebrar una boda[1], una comunión[2] y un bautizo[3]:
 
-<center><img src="../../img/costo_estimado_boda.png"></img></center>
+<center>![](../img/costo_estimado_boda.png)</center>
 Imagen 1. Costo estimado de una boda
 
 
-<center><img src="../../img/costo_estimado_comunion.png"></img></center>
+<center>![](../img/costo_estimado_comunion.png)</center>
 Imagen 2. Costo estimado de una comunión
 
 
-<center><img src="../../img/costo_estimado_bautizo.png"></img></center>
+<center>![](../img/costo_estimado_bautizo.png)</center>
 Imagen 3. Costo estimado de un bautizo
 
 
