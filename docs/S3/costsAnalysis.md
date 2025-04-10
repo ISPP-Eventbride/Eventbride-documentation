@@ -190,7 +190,7 @@ Dado nuestro programa de usuarios piloto, a los proveedores que se le proporcion
 
 Tabla 5. Costes de Marketing
 
-Los costes de Marketing estarán incluidos en el CAPEX, cobrados los dos últimos meses de la etapa de desarrollo de la aplicación (mayo y junio), que será cuando se empezará con las camapañas de publicidad.
+Los costes de Marketing estarán incluidos en el CAPEX, cobrados los dos últimos meses de la etapa de desarrollo de la aplicación (mayo y junio), que será cuando se empezará con las campañas de publicidad.
 
 <div id='id7'></div>
 
@@ -388,7 +388,6 @@ Además, hay que tener en cuenta que algunos costes, como licencias, infraestruc
 | Publicidad en redes sociales         | 500,00              | 500,00               |  Mes de marzo |
 | Publicidad en impresa         | 400,00              | 400,00               |  Mes de marzo |
 | Regalos promocionales         | 300,00              | 300,00               |  Mes de marzo |
-
 | **Total**                      | **8.916,85**       | **9.831,85**   | **Diferencia: -915,00** |
 
 

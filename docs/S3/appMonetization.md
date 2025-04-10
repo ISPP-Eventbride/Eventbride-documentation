@@ -40,6 +40,7 @@
 |20/03/2025|v2.3|Ajustar estimación de costos a nuevos CAPEX y OPEX | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña 
 |25/03/2025|v2.4|Ajustar monetización| Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 |03/04/2025|v2.5|Ajuste Opex| Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|03/04/2025|v2.6|Cambio Opex| Sprint 3 | Francisco Avilés Carrera |
 
 
 ## Contenido 
@@ -150,13 +151,13 @@ Comenzando con los gastos y basándonos en el documento de análisis de costes, 
 
 Para esta estimación usaremos el CAPEX y el OPEX.
 
-CAPEX Total: 86.520,14 €
+CAPEX Total: 89.920,14 €
 
 OPEX mensual: 45.268,29 €
 
 OPEX anual: 543.219,48 €
 
-Teniendo en cuenta estos parametros, se podría estimar que el costo a corto plazo sería de unos 177.056,72 euros (86.520,14 + 45.268,29 x 2) euros y el costo a medio plazo de unos 991.885,94 euros (86.520,14 + 45.268,29 x 20).
+Teniendo en cuenta estos parametros, se podría estimar que el costo a corto plazo sería de unos 180.456,72 euros (89.920,14 + 45.268,29 x 2) euros y el costo a medio plazo de unos 995.285,94 euros (89.920,14 + 45.268,29 x 20).
 
 ### Ingresos
 
