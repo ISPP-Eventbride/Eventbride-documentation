@@ -10,7 +10,7 @@
 
 ## Introducción
 
-¡Bienvenido/a a la documentación de **Eventbride**! Aquí encontrarás todos los documentos que nuestro equipo ha ido redactando a lo largo del proyecto, distribuidos por entregables para que sea más fácil encontrarlos. Consulta [nuestra página web](https://ispp-2425-03.ew.r.appspot.com/) para ver la última versión de nuestra documentación. **¡Disfruta navengando!**
+¡Bienvenido/a a la documentación de **Eventbride**! Aquí encontrarás todos los documentos que nuestro equipo ha ido redactando a lo largo del proyecto, distribuidos por entregables para que sea más fácil encontrarlos. Consulta [nuestra página web](https://ispp-2425-g3.ew.r.appspot.com/) para ver la última versión de nuestra documentación. **¡Disfruta navengando!**
 
 ## Ejecutar el proyecto
 
