@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 09/04/2025
+### Fecha: 10/04/2025
 
 ### Entregable: Sprint 3
 
@@ -40,6 +40,7 @@
 | 25/03/2025 | v1.4    | Redacción del problema 5 | Sprint 2 | Héctor Noguera González |
 | 02/04/2025 | v1.5    | Redacción del problema 6 y 7 | Sprint 3 | Héctor Noguera González |
 | 09/04/2025 | v1.6    | Redacción del problema 8 y 9 | Sprint 3 | Héctor Noguera González |
+| 10/04/2025 | v1.7    | Redacción del problema 10, 11 y 12 | Sprint 3 | Héctor Noguera González |
 
 ---
 
@@ -54,9 +55,12 @@
 8. [Problema 7: Inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos](#id7)
 9. [Problema 8: Caída del despliegue en Google Cloud por falta de créditos](#id8)
 10. [Problema 9: Imposibilidad de rellenar invitaciones tras mejora en la seguridad del sistema](#id9)
-11. [Rendimiento y Evaluación de Acciones](#Rendimiento)
-12. [Conclusiones](#conclusiones)
-13. [Bibliografía](#bib)
+11. [Problema 10: Seguridad deficiente en rutas internas de la aplicación](#id10)
+12. [Problema 11: Tareas no movidas a "Done" en el Kanban de GitHub Projects](#id11)
+13. [Problema 12: Retrasos en la documentación general del proyecto](#id12)
+14. [Rendimiento y Evaluación de Acciones](#Rendimiento)
+15. [Conclusiones](#conclusiones)
+16. [Bibliografía](#bib)
 
 
 <div id='intro'></div>
@@ -373,6 +377,122 @@ El mismo 07/04/2025, tras identificar el problema y aplicar la solución corresp
 ## ¿Están funcionando las cosas?
 
 Sí, tras aplicar el DTO y eliminar la validación de usuario del método GET, el sistema volvió a permitir el acceso público a los datos necesarios para rellenar una invitación.
+
+<div id='id10'></div>
+
+## Problema 10: Seguridad deficiente en rutas internas de la aplicación
+
+## Trazabilidad del problema 
+
+Durante la primera semana del Sprint 3, se detectó que múltiples rutas internas de la aplicación estaban expuestas sin una configuración adecuada de seguridad. Esto permitía que usuarios no autenticados pudieran acceder a endpoints que deberían estar restringidos, representando un riesgo significativo para la integridad y confidencialidad de los datos.
+
+El problema fue identificado tras una revisión exhaustiva del comportamiento de los endpoints por parte del de código. Se descubrió que muchas clases Java responsables del manejo de rutas no estaban adecuadamente protegidas en la configuración de seguridad, lo cual facilitaba el acceso indebido a funciones críticas del sistema.
+
+El equipo procedió a revisar la configuración de seguridad general definida en SecurityConfig y también a reforzar la seguridad directamente en las clases Java correspondientes, asegurando que cada endpoint tuviera sus restricciones adecuadamente definidas (roles, permisos, autenticación).
+
+## Acciones concretas tomadas
+
+Identificación de rutas vulnerables accesibles sin autenticación.
+
+Refuerzo de la seguridad en la clase SecurityConfig y en las clases Java correspondientes.
+
+Definición clara de roles y permisos para cada endpoint.
+
+Pruebas de acceso y validación post-cambio para asegurar que las rutas protegidas ya no son accesibles sin permisos.
+
+## Cómo saber si está funcionando 
+
+Las rutas críticas de la aplicación deben ser accesibles únicamente con las credenciales y permisos adecuados. Los intentos de acceso no autorizados deben devolver errores 403 (Forbidden)
+
+## Objetivo
+
+Proteger los endpoints sensibles del sistema asegurando que solo usuarios autenticados y con permisos adecuados puedan acceder a ellos, minimizando los riesgos de exposición de datos o funciones.
+
+## Cuándo se espera alcanzar el objetivo
+
+Durante la segunda semana del Sprint 3, una vez aplicadas y verificadas todas las modificaciones en las configuraciones de seguridad.
+
+## ¿Están funcionando las cosas?
+
+Sí, tras aplicar los cambios tanto en SecurityConfig como en las clases específicas, todas las rutas sensibles están ahora protegidas correctamente. Las pruebas posteriores confirmaron que los accesos no autorizados están siendo bloqueados como se esperaba.
+
+<div id='id11'></div>
+
+## Problema 11: Tareas no movidas a "Done" en el Kanban de GitHub Projects
+
+## Trazabilidad del problema
+
+Durante el desarrollo del Sprint 3, se observó que varias tareas completadas no estaban siendo movidas a la columna "Done" del tablero Kanban de GitHub Projects. Esto generaba una visión distorsionada del avance real del proyecto, afectando tanto la planificación como el seguimiento del sprint.
+
+El problema fue identificado en las reuniones de revisión diaria, donde el equipo notó discrepancias entre las tareas completadas en código y el estado visual del tablero. Algunas tareas incluso permanecían en "In Progress" o "To Review", a pesar de haber sido integradas y desplegadas correctamente.
+
+Tras discutir el tema en una retrospectiva, se concluyó que esto se debía a la falta de una práctica clara y compartida sobre el mantenimiento del tablero. Se acordó que, a partir de ahora, el responsable de la tarea debe moverla a "Done" una vez que haya sido revisada e integrada.
+
+Actualmente se está haciendo seguimiento del cumplimiento de esta dinámica para asegurarse de que la buena práctica se mantenga.
+
+## Acciones concretas tomadas
+
+Identificación del problema durante las reuniones.
+
+Discusión en retrospectiva para alinear criterios de gestión del tablero.
+
+Seguimiento activo para reforzar la práctica.
+
+## Cómo saber si está funcionando
+
+El tablero debe reflejar con precisión el estado real de las tareas. Todas las tareas completadas deben estar en la columna "Done" al finalizar el día.
+
+## Objetivo
+
+Mantener un tablero Kanban actualizado y alineado con el estado real del proyecto, facilitando la gestión visual del sprint.
+
+## Cuándo se espera alcanzar el objetivo
+
+A partir del acuerdo en la retrospectiva del Sprint 2. Actualmente en seguimiento
+
+## ¿Están funcionando las cosas?
+
+Sí, se está realizando un seguimiento constante y el equipo ha comenzado a adoptar la práctica de mover las tareas a "Done" correctamente.
+
+<div id='id12'></div>
+
+## Problema 12: Retrasos en la documentación general del proyecto
+
+## Trazabilidad del problema
+
+Durante el Sprint 2 se identificaron retrasos en la elaboración y actualización de la documentación general del proyecto.
+
+El problema fue detectado en reuniones de seguimiento y en la retrospectiva del sprint, donde se evidenció que gran parte de la carga documental estaba recayendo en muy pocas personas, y no se había previsto una estrategia clara para repartir esa responsabilidad.
+
+Como respuesta, se decidió fragmentar y distribuir de manera más equitativa las tareas de documentación entre los miembros del equipo.
+
+Desde entonces, el equipo está haciendo seguimiento del cumplimiento de esta dinámica, revisándola en los dailies.
+
+## Acciones concretas tomadas
+
+Identificación del problema durante el Sprint 2.
+
+Discusión del tema en la retrospectiva.
+
+Distribución equitativa de las tareas de documentación general.
+
+Seguimiento activo en las reuniones.
+
+## Cómo saber si está funcionando
+
+La documentación debe estar actualizada y disponible antes de finalizar la semana.
+
+## Objetivo
+
+Asegurar que toda la información relevante del proyecto esté registrada, accesible y actualizada, permitiendo una mejor coordinación y continuidad del trabajo.
+
+## Cuándo se espera alcanzar el objetivo
+
+Desde el final del Sprint 2. Actualmente en seguimiento durante el Sprint 3.
+
+## ¿Están funcionando las cosas?
+
+Sí, se ha empezado a notar una mejora en la puntualidad y distribución de la documentación. El seguimiento diario ha ayudado a reforzar el compromiso del equipo.
 
 <div id='Rendimiento'></div>
 
