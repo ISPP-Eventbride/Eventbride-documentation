@@ -1,6 +1,6 @@
 # Manual de usuario
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="img\s1Eventbride.png"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -126,59 +126,59 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de inicio de sesión el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center><img src="img\s1login1.png"></img></center>
+<center>![Login 1](../img/s1login1.png)</center>
 
 En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta en el sistema.
 
-<center><img src="img\s1login2.png"></img></center>
+<center>![Login 2](../img/s1login2.png)</center>
 
 Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos y hay una breve descripción sobre lo que hacemos y como trabajamos.
 
-<center><img src="img\s1inicio.png"></img></center>
+<center>![Inicio](../img/s1inicio.png)</center>
 
 Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de mis servicios, se pueden observar los servicios pertenecientes al usuario y sus respectivos datos.
 
-<center><img src="img\s1miseventos.png"></img></center>
+<center>![Mis eventos](../img/s1miseventos.png)</center>
 
 Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos y también se puede borrar el evento que se seleccione.
 
-<center><img src="img\s1detalleseventos.png"></img></center>
+<center>![Detalles eventos](../img/s1detalleseventos.png)</center>
 
 También se puede meter en la sección de crear evento donde se muestra un formulario a completar y se crea el evento. 
 
-<center><img src="img\s1crearevento.png"></img></center>
+<center>![Crear Evento](../img/s1crearevento.png)</center>
 
 Y hasta el momento, también se puede acceder a la pestaña de términos y condiciones para poder leerlas.
 
-<center><img src="img\s1terminos.png"></img></center>
+<center>![Términos](../img/s1terminos.png)</center>
 
 Si iniciamos sesión con un usuario **proveedor** y se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
 
-<center><img src="img\s1misservicios.png"></img></center>
+<center>![Mis servicios](../img/s1misservicios.png)</center>
 
 Dentro de editar un servicio, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio.
 
-<center><img src="img\s1editarservicio.png"></img></center>
+<center>![Editar servicio](../img/s1editarservicio.png)</center>
 
 Y de la misma forma si se quiere crear un servicio, se muestra el formulario correspondiente a completar.
 
-<center><img src="img\s1crearservicio.png"></img></center>
+<center>![Crear servicio](../img/s1crearservicio.png)</center>
 
 Si iniciamos sesión con un usuario **admin**, y accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
-<center><img src="img\s1administrarservicios.png"></img></center>
+<center>![Administrar servicios](../img/s1administrarservicios.png)</center>
 
 Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
-<center><img src="img\s1admineditarservicio.png"></img></center>
+<center>![Admin editar servicio](../img/s1admineditarservicio.png)</center>
 
 Si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
 
-<center><img src="img\s1administrarusuarios.png"></img></center>
+<center>![Administrar usuarios](../img/s1administrarusuarios.png)</center>
 
 Por último, la sección de administrar eventos funciona de la misma manera que la anterior mencionada.
 
-<center><img src="img\s1administrareventos.png"></img></center>
+<center>![Administrar eventos](../img/s1administrareventos.png)</center>
 
 <div id='id5'></div>
 

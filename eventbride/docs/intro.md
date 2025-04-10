@@ -21,6 +21,7 @@ Para arrancar el server, ejecutar los siguientes comandos en la consola de coman
 
 ```bash
 cd eventbride
+npm install
 npm run start
 ```
 
