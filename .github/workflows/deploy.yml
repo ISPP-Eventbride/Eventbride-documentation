@@ -35,4 +35,4 @@ jobs:
       #Desplegar a Google App Engine
       - name: Deploy to App Engine
         run: |
-          gcloud app deploy --quiet
+          gcloud app deploy eventbride/app.yaml --quiet
