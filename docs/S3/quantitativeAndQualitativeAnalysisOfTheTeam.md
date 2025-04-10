@@ -58,6 +58,7 @@
 | 03/04/2025 | v6.3    | Métricas actualizadas                                                         | Sprint 3 | María de la Salud Carrera Talaverón |
 | 06/04/2025 | v6.4    | Actualización análisis cuantitativo (limpieza de tablas) y fechas importantes | Sprint 3 | María de la Salud Carrera Talaverón |
 | 06/04/2025 | v6.5    | Reestimación del Sprint                                                       | Sprint 3 | María de la Salud Carrera Talaverón |
+| 10/04/2025 | v6.6    | Actualización análisis cuantitativo y cualitativo Sprint                                                       | Sprint 3 | Manuel Pérez Vélez |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -86,27 +87,27 @@ El análisis cuantitativo se va a realizar en base a las métricas establecidas 
 
 El final del Sprint 3 supone aproximadamente el 71%% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en sprints futuros. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
 
-Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la mitad del Sprint 3, por tanto, se esperan alrededor de 355 LdC, 5 commits, 11 issues, 4 PRs y 106.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 9 de abril de 2025 (por la noche)[^2]:
+Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para el Sprint 3, por tanto, se esperan alrededor de 355 LdC, 5 commits, 11 issues, 4 PRs y 106.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 10 de abril de 2025 [^2]:
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           |  |
-| Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           |  |
-| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                |              |  |
-| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           |  |
-| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           |  |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 120.33 |
+| Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | 145 |
+| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                |   ✅           | 135.5 |
+| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | 133 |
+| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 121 |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           |  |
-| David Godoy Fernández               | ✅ | ✅      | ✅                |              |  |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           |  |
-| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           |  |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           |  |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           |  |
+| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | 129.91 |
+| David Godoy Fernández               | ✅ | ✅      | ✅                |     ✅         | 108.08 |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 125.5 |
+| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | 119.66 |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 116.5 |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 122 |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           |  |
-| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           |  |
-| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           |  |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |              |  |
+| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 129.5 |
+| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | 129.33 |
+| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | 135.91 |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 96.5 |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -118,10 +119,10 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
-| Daniel Benito Hidalgo          |          |              |
-| Fernando José de Celis Hurtado |          |              |
-| Natalia Olmo Villegas          |          |              |
-| Manuel Pérez Vélez             |          |              |
+| Daniel Benito Hidalgo          |    ✅      |       0       |
+| Fernando José de Celis Hurtado |     ✅     |       0       |
+| Natalia Olmo Villegas          |    ✅      |       3       |
+| Manuel Pérez Vélez             |     ✅     |       2       |
 
 <div id='id12'></div>
 
@@ -134,10 +135,10 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
-| Ignacio Blanquero Blanco            | ✅         |             |
+| Ignacio Blanquero Blanco            | ✅         |     ✅         |
 | María de la Salud Carrera Talaverón | ✅         | ✅          |
-| Antonio Montero López               | ✅         |             |
-| Sergio Pons López                   | ✅         |             |
+| Antonio Montero López               | ✅         |       1      |
+| Sergio Pons López                   | ✅         |       2      |
 
 <div id='id13'></div>
 
@@ -148,13 +149,13 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
 | Ignacio Blanquero Blanco            | No procede    | No procede |     |
-| Adrián Cabello Martín               | ✅             | ✅      |      |
-| David Godoy Fernández               | ✅             | ✅      |      |
-| Miguel Hernández Sánchez            | ✅             | ✅      |      |
-| Gonzalo Navas Remmers               | ✅             | ✅      |      |
-| Héctor Noguera González             | ✅             | ✅      |      |
-| Andrés Pizzano Cerrillos            | ✅             | ✅      |      |
-| Lorenzo Torralba Lanzas             | ✅             | ✅      |      |
+| Adrián Cabello Martín               | ✅             | ✅      |   ✅   |
+| David Godoy Fernández               | ✅             | ✅      |   ✅   |
+| Miguel Hernández Sánchez            | ✅             | ✅      |   0   |
+| Gonzalo Navas Remmers               | ✅             | ✅      |   ✅   |
+| Héctor Noguera González             | ✅             | ✅      |   ✅   |
+| Andrés Pizzano Cerrillos            | ✅             | ✅      |   0   |
+| Lorenzo Torralba Lanzas             | ✅             | ✅      |   0   |
 
 <div id='id14'></div>
 
@@ -164,7 +165,7 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
-| Francisco Avilés Carrera            |            |
+| Francisco Avilés Carrera            |     ✅        |
 | Pablo Jesús Castellanos Compaña     | ✅           |
 
 <div id='id2'></div>
