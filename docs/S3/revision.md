@@ -402,6 +402,8 @@ Administrador:
 
 **URL del despliegue de la aplicación (SPRINT3): <https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login>** 
 
+**URL del docusaurus: <https://ispp-2425-g3.ew.r.appspot.com/>**
+
 **URL de GitHub: <https://github.com/ISPP-Eventbride>**
 
 **Credenciales correo gmail:**
