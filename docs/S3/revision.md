@@ -143,6 +143,10 @@ En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y comp
 
 <center><img src="..\img\register.png"></center>
 
+El navbar actual es el de la siguiente imagen, puede diferir con las otras capturas debido a su reciente incorporación para tener una mejor vista del logo de eventbride, que hemos actualizado exclusivamente para el navbar.
+
+<center><img src="https://iili.io/3amFqCv.png"></center>
+
 Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos, hay una breve descripción sobre lo que hacemos y como trabajamos, hay una barra de navegación en la parte superior de la pantalla donde se puede viajar a todas las funcionalidades de Eventbride y por último se pueden acceder a los chats abiertos en el botón verde de abajo derecha.
 
 <center><img src="..\img\inicio.png"></center>
@@ -161,7 +165,7 @@ Y si se accede a un chat en especifico, se podrá enviar mensajes escribiéndolo
 
 En todas las pestañas de nuestra plataforma, aparece abajo del todo un ***Footer*** que se muestra en la siguiente imagen. Para los los usuarios son cliente aparece la sección de Enlaces rápidos pero para los otros dos tipos de usuario no.
 
-<center><img src="..\img\footer.png"></center>
+<center><img src="https://iili.io/3amdyox.png"></center>
 
 
 <div id='id41'></div>
@@ -197,7 +201,7 @@ Si desea pagar los servicios individualmente puede hacerlo accediendo a la pesta
 
 Si en vez de en *Ver detalles* clicas en ***Ver invitaciones***, se abre la siguiente vista que contiene el número de invitados estimados (se establece al crear un evento), los invitados confirmados y una lista con sus nombres, pudiendo eliminarlos si fuese necesario.
 
-<center><img src="..\img\invitaciones.png"></center>
+<center><img src="https://iili.io/3amfkTF.png"></center>
 
 Al pulsar en ***Crear invitación*** se te pregunta por un número máximo de invitados asociados al link creado.
 
@@ -205,7 +209,7 @@ Al pulsar en ***Crear invitación*** se te pregunta por un número máximo de in
 
 Cuando se introduce el número máximo de invitados y se presiona el botón enviar, se copia en el portapapeles un enlace a una página en la que la persona invitada al evento puede rellenar el siguiente formulario para aparecer en la lista de invitados. Para rellenar este formulario no se debe estar registrado dentro de la plataforma.
 
-<center><img src="..\img\invitaciones2.png"></center>
+<center><img src="https://iili.io/3amBhOP.png"></center>
 
 En la sección de ***Crear evento*** se muestra un formulario a completar y se crea el evento. 
 
@@ -277,7 +281,7 @@ Si nos movemos a la pestaña de ***Solicitudes*** se muestran las solicitudes pe
 
 En la pestaña de ***Contrataciones*** podemos ver de forma rápida un resumen de las solicitudes realizadas hasta el momento incorporando un filtro en la que puedes visualizar las que tienes pendientes, las que has aceptado y las que has rechazado. También se incorpora un calendario donde puedes ver los eventos, usando el mismo filtro, dentro del mismo.
 
-<center><img src="..\img\contrataciones.png"></center>
+<center><img src="https://iili.io/3amTbnI.png"></center>
 
 En el ***Historial de ventas*** podemos ver un resumen de los pagos que han realizado los clientes.
 
@@ -352,15 +356,15 @@ Clientes:
 
 Proveedores:
 
-- Usuario: **El castillo de Maxi** Contraseña: **1234**
+- Usuario: **ElCastilloDeMaxi** Contraseña: **1234**
 - Usuario: **JLMorilla** Contraseña: **1234**
 - Usuario: **JMGomez** Contraseña: **1234**
 - Usuario: **JMGonzalez** Contraseña: **1234**
 - Usuario: **FelipeGN** Contraseña: **1234**
 - Usuario: **DLDecor** Contraseña: **1234**
-- Usuario: **Master Sound** Contraseña: **1234**
-- Usuario: **ARCOS 3 CATERING** Contraseña: **1234**
-- Usuario: **Mongo mango** Contraseña: **1234**
+- Usuario: **MasterSound** Contraseña: **1234**
+- Usuario: **ARCOS3CATERING** Contraseña: **1234**
+- Usuario: **MongoMango** Contraseña: **1234**
 - Usuario: **SurMusic** Contraseña: **1234**
 - Usuario: **PandoCatering&Hacienda** Contraseña: **1234**
 
@@ -368,7 +372,11 @@ Administrador:
 
 - Usuario: **Admin** Contraseña: **1234**
 
-**URL del despliegue de la aplicación: <https://ispp-2425-03.ew.r.appspot.com/login>** 
+**URL del despliegue de la aplicación (SPRINT1): <https://sprint1-dot-ispp-2425-03.ew.r.appspot.com/>** 
+
+**URL del despliegue de la aplicación (SPRINT2): <https://ispp-2425-03.ew.r.appspot.com/login>** 
+
+**URL del despliegue de la aplicación (SPRINT3): <https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login>** 
 
 **URL de GitHub: <https://github.com/ISPP-Eventbride>**
 
@@ -387,7 +395,7 @@ Administrador:
 > [!IMPORTANT]
 > Si quiere iniciar sesión con los correos de soporte o corporativo en Outlook, hay que cambiar el tipo de cuenta a IMAP
 
-**Credenciales de Clockify:** cuando inicies sesión con clockify te pedirá un correo electrónico, meter el correo corporativo. Acto seguido te enviará una clave al correo corporativo.
+**Credenciales de Clockify:** cuando inicies sesión con clockify te pedirá un correo electrónico, meter el correo corporativo (eventbride6@gmail.com). Acto seguido te enviará una clave al correo corporativo.
 
 <div id='id6'></div>
 
