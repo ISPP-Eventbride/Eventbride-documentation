@@ -165,14 +165,14 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
-| Francisco Avilés Carrera            |     ✅        |
+| Francisco Avilés Carrera            |     ✅       |
 | Pablo Jesús Castellanos Compaña     | ✅           |
 
 <div id='id2'></div>
 
 ## Análisis cualitativo
 
-Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v6, que han firmado todos los desarrolladores durante el Sprint 3, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
+Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v7, que han firmado todos los desarrolladores durante el Sprint 3, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
 
 La labor de los desarrolladores y testers incluye:
 

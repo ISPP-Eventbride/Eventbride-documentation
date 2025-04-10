@@ -1,4 +1,4 @@
-# <center>Commitment Agreement v6</center>
+# <center>Commitment Agreement v7</center>
 ## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
 <center><img src="..\..\img\Eventbride.png"></center>
 
@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 29/03/2025
+### Fecha: 08/04/2025
 
 ### Entregable: Sprint 3
 
