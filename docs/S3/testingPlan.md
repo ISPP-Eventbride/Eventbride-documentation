@@ -152,19 +152,11 @@ El objetivo es asegurar una experiencia de usuario fluida. Todas las llamadas de
 
 ### Pruebas Unitarias
 
-> *Por completar tras la ejecución de los tests.*
+Se han ejecutado correctamente un total de 177 pruebas unitarias correspondientes a los distintos módulos del sistema, incluyendo funcionalidades relacionadas con eventos, propiedades de eventos, servicios adicionales, usuarios, notificaciones, invitaciones, pagos y chat. Todas las pruebas unitarias han pasado satisfactoriamente, lo que indica que los métodos probados funcionan correctamente de manera aislada, conforme a los requisitos definidos y sin producir errores en condiciones esperadas y excepcionales.
 
 ### Pruebas de Integración
 
-> *Por completar tras la ejecución de los tests.*
-
-### Pruebas de Aceptación
-
-> *Por completar tras revisión funcional con el equipo.*
-
-### Pruebas de Rendimiento
-
-> *Por completar con métricas de JMeter.*
+Se han ejecutado un total de 75 pruebas de integración, abarcando múltiples componentes del sistema como eventos, propiedades de eventos, servicios adicionales, usuarios, notificaciones, invitaciones, pagos y chat. Estas pruebas han permitido verificar la correcta interacción entre los distintos módulos y capas del sistema, asegurando que los flujos completos de uso funcionan adecuadamente en escenarios reales. La mayoría de las pruebas han finalizado con éxito, mientras que algunas han servido para detectar errores o comportamientos inesperados que deberán ser revisados en siguientes iteraciones del desarrollo.
 
 <div id='concl'></div>
 
