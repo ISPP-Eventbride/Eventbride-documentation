@@ -72,13 +72,15 @@ Se va a evaluar el rendimiento del equipo en base a los siguientes indicadores:
 <div id='id3'></div>
 
 ### Tiempo estimado vs. tiempo real
-En esta ocasión, el tiempo estimado de trabajo ha sido **278 horas** para el sprint completo, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **XXX horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
+En esta ocasión, el tiempo estimado de trabajo ha sido **278 horas** para el sprint completo, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **330 horas**, lo que puede indicar una ligera desviación de las horas de trabajo. 
+
+Teniendo en cuenta todo lo realizado durante este sprint, hay registradas en la app de *Clockify* un total de **472 horas** entre todos los miembros.
 
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
 
-Se han completado un total de **XX tareas sobre 96**, lo que supone un **XX%** del total de tareas a realizar. De las **XX tareas restantes**, **XX se encuentran en review** y **XX están en progreso** (*in progress*). Esto supondría un total de **XX tareas en "To Do"**. 
+Se han completado un total de **96 tareas sobre 96**, lo que supone un **100%** del total de tareas a realizar. Estamos muy orgullosos de este aspecto ya que todos los miembros han completado todas las tareas que se les ha asignado.
 
 <div id='id5'></div>
 
@@ -121,27 +123,27 @@ Se establecerá esta nota en caso de superarse el cálculo obtenido.
 
 ### Horas trabajadas y porcentaje de tareas completadas  
 
-La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del sprint:  
+La siguiente tabla representa las horas trabajadas, incluyendo las horas de clase y de reunión, por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en el sprint (realizado el jueves 10 a las 12:16h):  
 
 | Nombre | Horas trabajadas antes del Sprint 3 | Carga de trabajo del Sprint 3 | Horas trabajadas en este sprint (28/03 - 10/04) | Porcentaje de completitud tareas del Sprint 3|
 |--|-----|-----|----|------|
-| Adrián Cabello Martín          | 93h 20min | 23h 30min | h min | 100% |
-| Andrés Pizzano Cerrillos       | 96h       | 7h 45min  | h min | 100% |
-| Antonio Montero López          | 98h       | 15h 30min | h min | 100% |
-| Daniel Benito Hidalgo          | 113h 17min| 15h 15min | h min | 100% |
-| David Godoy Fernández          | 88h 05min | 13h 30min | h min | 100% |
-| Fernando José de Celis Hurtado | 88h 19min | 17h 40min | h min | 100% |
-| Francisco Avilés Carrera       | 92h 21min | 14h 30min | h min | 100% |
-| Gonzalo Navas Remmers          | 90h 33min | 16h 30min | h min | 100% |
-| Héctor Noguera González        | 92h 47min | 16h 15min | h min | 100% |
-| Ignacio Blanquero Blanco       | 111h 16min| 18h       | h min | 100% |
-| Lorenzo Torralba Lanzas        | 75h 27min | 18h 15min | h min | 100% |
-| Manuel Pérez Vélez             | 103h 49min| 13h 30min | h min | 100% |
-| María de la Salud Carrera Talaverón| 87h 52min  | 17h  | h min | 100% |
-| Miguel Hernández Sánchez           | 100h 51min | 15h 45min | h min | 100% |
-| Natalia Olmo Villegas              | 139h 13min | 12h       | h min | 100% |
-| Pablo Jesús Castellanos Compaña    | 155h 31min | 25h 30min | h min | 100% |
-| Sergio Pons López                  | 105h 36min | 17h       | h min  | 100% |
+| Adrián Cabello Martín          | 93h 20min | 23h 30min | 38h 15min | 100% |
+| Andrés Pizzano Cerrillos       | 96h       | 7h 45min  | 29h 17min | 100% |
+| Antonio Montero López          | 98h       | 15h 30min | 19h 38min | 100% |
+| Daniel Benito Hidalgo          | 113h 17min| 15h 15min | 29h 26min | 100% |
+| David Godoy Fernández          | 88h 05min | 13h 30min | 20h       | 100% |
+| Fernando José de Celis Hurtado | 88h 19min | 17h 40min | 34h 38min | 100% |
+| Francisco Avilés Carrera       | 92h 21min | 14h 30min | 24h 43min | 100% |
+| Gonzalo Navas Remmers          | 90h 33min | 16h 30min | 24h 15min | 100% |
+| Héctor Noguera González        | 92h 47min | 16h 15min | 26h 01min | 100% |
+| Ignacio Blanquero Blanco       | 111h 16min| 18h       | 23h 01min | 100% |
+| Lorenzo Torralba Lanzas        | 75h 27min | 18h 15min | 21h 10min | 100% |
+| Manuel Pérez Vélez             | 103h 49min| 13h 30min | 23h 37min | 100% |
+| María de la Salud Carrera Talaverón| 87h 52min  | 17h  | 27h 53min | 100% |
+| Miguel Hernández Sánchez           | 100h 51min | 15h 45min | 21h 49min | 100% |
+| Natalia Olmo Villegas              | 139h 13min | 12h       | 37h       | 100% |
+| Pablo Jesús Castellanos Compaña    | 155h 31min | 25h 30min | 45h 50min | 100% |
+| Sergio Pons López                  | 105h 36min | 17h       | 26h 20min | 100% |
 
 <div id='id9'></div>
 
@@ -223,7 +225,11 @@ En cuanto a lecciones aprendidas del sprint 3 tenemos las siguientes:
 
 ## Conclusiones
 
+El Sprint 3 ha supuesto un avance significativo para el equipo de Eventbride, tanto en términos de organización interna como de productividad. Se han completado el 100% de las tareas planificadas y se ha registrado un nivel de implicación alto por parte de todos los miembros. La mejora en la división de grupos, el uso de guiones para los vídeos y la calidad del contenido entregado son reflejo de un equipo coordinado y comprometido. Además, se han iniciado prácticas importantes como la revisión exhaustiva de PRs y el desarrollo de tests.
 
+No obstante, también se han detectado áreas que requieren atención, como los problemas en el despliegue por falta de créditos, errores en la funcionalidad de invitaciones y la necesidad de ampliar la documentación relativa a la IA. Estas cuestiones deberán abordarse en los siguientes sprints para asegurar la estabilidad del sistema y la claridad en los procesos.
+
+El equipo ha demostrado una buena capacidad de adaptación y aprendizaje, lo que refuerza la confianza en que los próximos sprints seguirán consolidando el proyecto.
 
 <div id='bib'></div>
 
