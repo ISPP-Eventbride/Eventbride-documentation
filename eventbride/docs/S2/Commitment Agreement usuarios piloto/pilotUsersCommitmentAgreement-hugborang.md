@@ -1,4 +1,4 @@
-# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Curso 2024-2025
+# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Hugo Borrego Ángulo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="../../../img/Eventbride.png"></img></center>
 
