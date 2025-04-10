@@ -41,7 +41,7 @@
 |13/03/2025|v5.0|Resultados de la encuesta de feedback del DP| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers |
 |25/03/2025|v5.1|Resultados de la encuesta de feedback del S1| Sprint 2 | David Godoy Fernández |
 |27/03/2025 |v5.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
-|10/04/2025 |v6.3|Resultados de la encuesta de feedback del S3| Sprint 3 | David Godoy Fernández|
+|10/04/2025 |v6.0|Resultados de la encuesta de feedback del S3| Sprint 3 | David Godoy Fernández|
 
 
 ## Contenido
