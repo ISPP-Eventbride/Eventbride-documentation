@@ -454,6 +454,8 @@ Se recomiendan ajustes menores en el formulario y uniformidad visual para optimi
 
 ## Resultados encuesta feedback Sprint 2 
 
+Durante este sprint se han reestructurado las encuestas y no se ha recibido feedback.
+
 <div id='concl'></div>
 
 ## Resultados encuesta feedback Sprint 3 
