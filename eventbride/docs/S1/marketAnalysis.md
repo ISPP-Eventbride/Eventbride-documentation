@@ -1,6 +1,6 @@
 # Análisis del mercado
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="../img/Eventbride.png"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: EventBride
 
@@ -131,32 +131,32 @@ Gracias a la herramienta **Google Trends** podemos saber la frecuencia de búsqu
 
 **Término “boda”**:
 
-<center><img src="../img/boda_5_años.png"></img></center>
+<center>![](../img/boda_5_años.png)</center>
 
 Como se puede observar, en los últimos 5 años, el término bodas se busca frecuentemente a lo largo de todo el año con una media de 100 búsquedas al día. Esto garantiza el futuro de la aplicación a largo plazo al ser algo que no pasa de moda. 
 
-<center><img src="../img/boda_año.png"></img></center>
+<center>![](../img/boda_año.png)</center>
 
 En este gráfico se puede ver la búsqueda del término bodas a lo largo del año. También se observa un uso constante por parte de los usuarios así que se puede decir que podría haber un flujo constante de nuevos usuarios en la app. Por último, hay un pico entre los meses de marzo y abril, que coincide a las fechas donde se producen mayores bodas y, por el contrario, una bajada en el mes de diciembre. 
 
 #### Término “comunión”:
 
 
-<center><img src="../img/comunion_5_años.png"></img></center>
+<center>![](../img/comunion_5_años.png)</center>
 
 Como se puede observar en el gráfico de 5 años, es un término que tampoco sigue modas. Sin embargo, tiene una época más marcada.
 
-<center><img src="../img/comunion_año.png"></img></center>
+<center>![](../img/comunion_año.png)</center>
 
 En el gráfico ampliado de los últimos 12 meses, se puede observar que en los meses de marzo, abril y mayo es el máximo, ya que es cuando se producen. En verano hay un valle hasta septiembre y octubre, y luego repunta en enero.
 
 #### Término “bautizo”:
 
-<center><img src="../img/bautizo_5_años.png"></img></center>
+<center>![](../img/bautizo_5_años.png)</center>
 
 En cuanto a las búsquedas de bautizos en los últimos 5 años, se puede observar una bajada no pronunciada reciente. Esto se puede deber a un posible decrecimiento de la natalidad o la fe cristiana.  
 
-<center><img src="../img/bautizo_año.png"></img></center>
+<center>![](../img/bautizo_año.png)</center>
 
 No se produce mucha variación de la búsqueda a lo largo de un año del término. Podemos asumir que se buscará a lo largo del año de forma homogénea.
 

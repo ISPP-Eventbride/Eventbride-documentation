@@ -1,6 +1,6 @@
 # Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Felipe Solís Agudo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="..\..\img\Eventbride.png"></img></center>
+<center>![Logo](../../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 

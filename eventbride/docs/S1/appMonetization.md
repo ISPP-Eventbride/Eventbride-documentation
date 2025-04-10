@@ -1,6 +1,6 @@
 ﻿# Monetización de la aplicación
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="../img/Eventbride.png"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -172,13 +172,13 @@ Teniendo en cuenta estos parametros, se podría estimar que el costo a corto pla
 
 A continuación haremos una estimación de los posibles beneficios. Para ello, tendré en cuenta las estimaciones hechas por los compañeros del costo de celebrar una boda[1], una comunión[2] y un bautizo[3]:
 
-<center><img src="..\img\costo_estimado_boda.png"></img></center>
+<center>![](../img/costo_estimado_boda.png)</center>
 Imagen 1. Costo estimado de una boda
 
-<center><img src="..\img\costo_estimado_comunion.png"></img></center>
+<center>![](../img/costo_estimado_comunion.png)</center>
 Imagen 2. Costo estimado de una comunión
 
-<center><img src="..\img\costo_estimado_bautizo.png"></img></center>
+<center>![](../img/costo_estimado_bautizo.png)</center>
 Imagen 3. Costo estimado de un bautizo
 
 
@@ -219,7 +219,7 @@ Los gastos de gestión de la aplicación no serán devueltos en ningún caso.
 
 ## Bibliografía 
 
-[1] https://www.bodas.net/articulos/cuanto-cuesta-casarse--c841
-[2] https://www.cronoshare.com/cuanto-cuesta/primera-comunion-espana
-[3] https://www.bankinter.com/blog/finanzas-personales/cuanto-cuesta-un-bautizo-en-espana
+- [1] https://www.bodas.net/articulos/cuanto-cuesta-casarse--c841
+- [2] https://www.cronoshare.com/cuanto-cuesta/primera-comunion-espana
+- [3] https://www.bankinter.com/blog/finanzas-personales/cuanto-cuesta-un-bautizo-en-espana
 

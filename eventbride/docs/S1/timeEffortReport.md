@@ -79,7 +79,7 @@ Este documento detalla las horas de trabajo dedicadas por cada miembro del equip
 En el período que abarca entre el 21 de febrero y el 14 de marzo de 2025, el equipo del proyecto ISPP Sprint 1 ha registrado un total de **711 horas, 40 minutos y 45 segundos** de trabajo. Todo el tiempo trabajado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BWxPxn.md.png" alt="Tiempos Francisco Avilés Carrera" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BWxPxn.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 1: Tiempos Grupo 3 ISPP</strong></p>
 
@@ -106,7 +106,7 @@ En resumen, el grupo ha demostrado un alto nivel de dedicación, contribuyendo s
 A lo largo del período comprendido entre el 21 de febrero y el 14 de marzo de 2025, Francisco Avilés Carrera ha registrado un total de 43 horas y 41 minutos de trabajo en el marco del proyecto ISPP Sprint 1. Este tiempo ha sido completamente facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BKbyGe.md.png" alt="Tiempos Francisco Avilés Carrera" style="width: 45%; border: 5px solid black;"></img>
+  <img src="https://iili.io/3BKbyGe.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 2: Tiempos Francisco Avilés Carrera</strong></p>
 
@@ -127,7 +127,7 @@ En resumen, Francisco Avilés Carrera ha demostrado un gran compromiso y una val
 A lo largo de las semanas comprendidas entre el 21 de febrero y el 14 de marzo de 2025, Daniel Benito Hidalgo ha registrado un total de 48 horas, 14 minutos y 34 segundos de trabajo en el proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3Bf9lP1.md.png" alt="Tiempos Daniel Benito Hidalgo" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3Bf9lP1.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 3: Tiempos Daniel Benito Hidalgo</strong></p>
 
@@ -150,7 +150,7 @@ En resumen, Daniel Benito Hidalgo ha mostrado un nivel alto de dedicación y esf
 En el período que abarca entre el 21 de febrero y el 14 de marzo de 2025, Ignacio Blanquero Blanco ha registrado un total de 38 horas, 11 minutos y 57 segundos de trabajo en el proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3B1OifR.md.png" alt="Tiempos Ignacio Blanquero Blanco" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3B1OifR.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 4: Tiempos Ignacio Blanquero Blanco</strong></p>
 
@@ -173,7 +173,7 @@ En resumen, Ignacio Blanquero Blanco ha demostrado un alto nivel de compromiso, 
 Durante el periodo comprendido entre el 21 de febrero y el 14 de marzo de 2025, Adrián Cabello Martín ha registrado un total de 34 horas, 51 minutos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BfJJpf.md.png" alt="Tiempos Adrián Cabello Martín" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BfJJpf.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 5: Tiempos Adrián Cabello Martín</strong></p>
 
@@ -198,7 +198,7 @@ En resumen, Adrián Cabello Martín ha demostrado un alto nivel de dedicación y
 En el período comprendido entre el 21 de febrero y el 14 de marzo de 2025, María de la Salud Carrera Talaverón ha registrado un total de 42 horas, 31 minutos y 48 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3Bf3Jpa.md.png" alt="Tiempos María de la Salud Carrera Talaverón" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3Bf3Jpa.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 6: Tiempos María de la Salud Carrera Talaverón</strong></p>
 
@@ -223,7 +223,7 @@ En resumen, María de la Salud Carrera Talaverón ha demostrado un alto nivel de
 A lo largo de las semanas comprendidas entre el 21 de febrero y el 14 de marzo de 2025, Pablo Jesús Castellanos Compaña ha registrado un total de 67 horas, 46 minutos y 36 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BffL8P.md.png" alt="Tiempos Pablo Jesús Castellanos Compaña" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BffL8P.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 7: Tiempos Pablo Jesús Castellanos Compaña</strong></p>
 
@@ -246,7 +246,7 @@ En resumen, Pablo Jesús Castellanos Compaña ha demostrado un alto nivel de com
 
 En el período que abarca entre el 21 de febrero y el 14 de marzo de 2025, Fernando José de Celis Hurtado ha registrado un total de 35 horas, 16 minutos y 42 segundos de trabajo en el proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 <p align="center">
-  <img src="https://iili.io/3BfBNp9.md.png" alt="Tiempos Fernando José de Celis Hurtado" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BfBNp9.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 8: Tiempos Fernando José de Celis Hurtado</strong></p>
 
@@ -266,7 +266,7 @@ En resumen, Fernando José de Celis Hurtado ha mostrado un alto nivel de dedicac
 
 Durante el período comprendido entre el 21 de febrero y el 14 de marzo de 2025, el alumno David Godoy Fernández ha registrado un total de 44 horas, 16 minutos y 42 segundos de trabajo dentro del marco del proyecto ISPP Sprint 1. Todo el tiempo registrado ha sido considerado facturable, aunque sin costo monetario asociado.
 <p align="center">
-  <img src="https://iili.io/3BfoipS.md.png" alt="Tiempos David Godoy Fernández" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BfoipS.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 9: Tiempos David Godoy Fernández</strong></p>
 
@@ -286,7 +286,7 @@ En resumen, el informe refleja un compromiso constante y una distribución equil
 
 A lo largo de las semanas comprendidas entre el 21 de febrero y el 14 de marzo de 2025, Miguel Hernández Sánchez ha registrado un total de 39 horas, 37 minutos y 21 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo registrado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 <p align="center">
-  <img src="https://iili.io/3Bfr7Wv.md.png" alt="Tiempos Miguel Hernández Sánchez" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3Bfr7Wv.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 10: Tiempos Miguel Hernández Sánchez</strong></p>
 
@@ -311,7 +311,7 @@ En resumen, Miguel Hernández Sánchez ha demostrado una participación activa y
 En el período que abarca entre el 21 de febrero y el 14 de marzo de 2025, Antonio Montero López ha registrado un total de 24 horas, 50 minutos y 30 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, aunque no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BR5IB1.md.png" alt="Tiempos Antonio Montero López" style="width: 45%; border: 5px solid black;"></img>
+  <img src="https://iili.io/3BR5IB1.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 11: Tiempos Antonio Montero López</strong></p>
 
@@ -332,7 +332,7 @@ En resumen, Antonio Montero López ha demostrado una alta dedicación en diversa
 Durante las semanas que abarcan del 21 de febrero al 14 de marzo de 2025, Gonzalo Navas Remmers ha invertido un total de 46 horas, 46 minutos y 3 segundos en el proyecto ISPP Sprint 1. Todo el tiempo registrado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3Bfiqp1.md.png" alt="Tiempos Gonzalo Navas Remmers" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3Bfiqp1.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 12: Tiempos Gonzalo Navas Remmers</strong></p>
 
@@ -357,7 +357,7 @@ En resumen, Gonzalo Navas Remmers ha demostrado un nivel de compromiso excepcion
 A lo largo de las semanas comprendidas entre el 21 de febrero y el 14 de marzo de 2025, Héctor Noguera González ha registrado un total de 20 horas, 5 minutos y 39 segundos de trabajo dentro del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BfLMeS.md.png" alt="Tiempos Héctor Noguera González" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BfLMeS.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 13: Tiempos Héctor Noguera González</strong></p>
 
@@ -378,7 +378,7 @@ En resumen, Héctor Noguera González ha sido una pieza clave en el desarrollo y
 En el transcurso de las semanas comprendidas entre el 21 de febrero y el 14 de marzo de 2025, Natalia Olmo Villegas ha registrado un total de 56 horas, 11 minutos y 12 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BftLrb.md.png" alt="Tiempos Natalia Olmo Villegas" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BftLrb.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 14: Tiempos Natalia Olmo Villegas</strong></p>
 
@@ -403,7 +403,7 @@ En resumen, Natalia Olmo Villegas ha demostrado un alto nivel de compromiso y pa
 En las semanas que abarcan del 21 de febrero al 14 de marzo de 2025, Manuel Pérez Vélez ha registrado un total de 38 horas, 20 minutos y 52 segundos de trabajo dentro del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, sin embargo, no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BfmG7j.md.png" alt="Tiempos Manuel Pérez Vélez" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BfmG7j.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 15: Tiempos Manuel Pérez Vélez</strong></p>
 
@@ -428,7 +428,7 @@ En resumen, Manuel Pérez Vélez ha demostrado un gran compromiso y contribució
 Entre el 21 de febrero y el 14 de marzo de 2025, Andrés Pizzano Cerrillos ha acumulado 37 horas, 25 minutos y 42 segundos de trabajo en el proyecto ISPP Sprint 1. Todo el tiempo registrado se ha considerado como facturable, aunque no se ha asignado un monto económico.
 
 <p align="center">
-  <img src="https://iili.io/3Bfye5J.md.png" alt="Tiempos Andrés Pizzano Cerrillos" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3Bfye5J.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 16: Tiempos Andrés Pizzano Cerrillos</strong></p>
 
@@ -449,7 +449,7 @@ En resumen, el informe refleja un alto nivel de dedicación por parte de Andrés
 A lo largo del período comprendido entre el 21 de febrero y el 14 de marzo de 2025, Sergio Pons López ha registrado un total de 38 horas, 21 minutos y 25 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todo el tiempo trabajado ha sido facturable, aunque sin un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BqJmsp.md.png" alt="Tiempos Sergio Pons López" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BqJmsp.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 17: Tiempos Sergio Pons López</strong></p>
 
@@ -474,7 +474,7 @@ En resumen, Sergio Pons López ha demostrado un alto nivel de dedicación y vers
 Entre el 21 de febrero y el 14 de marzo de 2025, Lorenzo Torralba Lanzas ha registrado un total de 31 horas, 41 minutos y 22 segundos de trabajo en el marco del proyecto ISPP Sprint 1. Todas las horas trabajadas han sido facturables, aunque no se ha asignado un monto económico asociado.
 
 <p align="center">
-  <img src="https://iili.io/3BqFNCx.md.png" alt="Tiempos Lorenzo Torralba Lanzas" style="width: 45%;border: 5px solid black;"></img>
+  <img src="https://iili.io/3BqFNCx.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 18: Tiempos Lorenzo Torralba Lanzas</strong></p>
 
