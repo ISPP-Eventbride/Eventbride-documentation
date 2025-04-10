@@ -81,7 +81,7 @@ A lo largo de este sprint, se ha llevado a cabo un trabajo intensivo y coordinad
 Durante las dos semanas analizadas, el equipo del proyecto **ISPP** ha acumulado un total de **544 horas y 48 minutos** de trabajo registrado en Clockify, lo cual evidencia un alto grado de dedicación y compromiso colectivo. De ese total, prácticamente la totalidad (**539 horas y 48 minutos**) fue considerada como tiempo facturable, lo que refleja que la actividad desarrollada ha estado alineada con los objetivos productivos del proyecto.
 
 <p align="center">
-  <img src="https://iili.io/3uIeeUb.md.png" alt="Tiempos Equipo ISPP Sprint 2" style="width: 60%"></img>
+  <img src="https://iili.io/3uIeeUb.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 1: Tiempos totales del equipo – Sprint 2</strong></p>
 
@@ -114,7 +114,7 @@ En conclusión, el equipo ISPP ha demostrado una excelente organización y una i
 **Horas totales registradas:** 31 horas, 25 minutos y 18 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uzUuX2.md.png" alt="Tiempos Francisco Avilés Carrera" style="width: 45%"></img>
+  <img src="https://iili.io/3uzUuX2.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 2: Tiempos Francisco Avilés Carrera</strong></p>
 
@@ -141,7 +141,7 @@ Asimismo, ha participado en píldoras educativas y sesiones formativas relaciona
 **Horas totales registradas:** 31 horas, 35 minutos y 14 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uz6vat.md.png" alt="Tiempos Daniel Benito Hidalgo" style="width: 45%"></img>
+  <img src="https://iili.io/3uz6vat.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 3: Tiempos Daniel Benito Hidalgo</strong></p>
 
@@ -167,7 +167,7 @@ En cuanto a coordinación, ha estado presente en las reuniones de grupo, tanto d
 **Horas totales registradas:** 24 horas, 27 minutos y 50 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uzLAlV.md.png" alt="Tiempos Ignacio Blanquero Blanco" style="width: 45%"></img>
+  <img src="https://iili.io/3uzLAlV.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 4: Tiempos Ignacio Blanquero Blanco</strong></p>
 
@@ -192,7 +192,7 @@ Ha participado en reuniones claves del sprint, incluyendo la del 15 de marzo, as
 **Horas totales registradas:** 30 horas, 57 minutos y 56 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uztqHN.md.png" alt="Tiempos Adrián Cabello Martín" style="width: 45%"></img>
+  <img src="https://iili.io/3uztqHN.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 5: Tiempos Adrián Cabello Martín</strong></p>
 
@@ -216,7 +216,7 @@ Ha participado también en reuniones clave del sprint, incluidas las de retrospe
 **Horas totales registradas:** 24 horas, 50 minutos y 43 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uzbpNS.md.png" alt="Tiempos María de la Salud Carrera Talaverón" style="width: 45%"></img>
+  <img src="https://iili.io/3uzbpNS.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 6: Tiempos María de la Salud Carrera Talaverón</strong></p>
 
@@ -240,7 +240,7 @@ En cuanto a reuniones, María ha asistido regularmente a todas las convocatorias
 **Horas totales registradas:** 62 horas, 13 minutos y 33 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uzpi3G.md.png" alt="Tiempos Pablo Jesús Castellanos Compaña" style="width: 45%"></img>
+  <img src="https://iili.io/3uzpi3G.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 7: Tiempos Pablo Jesús Castellanos Compaña</strong></p>
 
@@ -266,7 +266,7 @@ Pablo también ha colaborado en tareas de marketing, como la elaboración del _s
 **Horas totales registradas:** 26 horas, 43 minutos y 58 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uId3f1.md.png" alt="Tiempos Fernando José de Celis Hurtado" style="width: 45%"></img>
+  <img src="https://iili.io/3uId3f1.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 8: Tiempos Fernando José de Celis Hurtado</strong></p>
 
@@ -291,7 +291,7 @@ Fernando también ha mantenido una asistencia constante a las reuniones del equi
 **Horas totales registradas:** 23 horas, 55 minutos y 37 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uI3Cnp.md.png" alt="Tiempos David Godoy Fernández" style="width: 45%"></img>
+  <img src="https://iili.io/3uI3Cnp.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 9: Tiempos David Godoy Fernández</strong></p>
 
@@ -316,7 +316,7 @@ Asimismo, ha mostrado interés por aspectos relacionados con la estrategia de ma
 **Horas totales registradas:** 36 horas, 40 minutos y 53 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIKoYX.md.png" alt="Tiempos Miguel Hernández Sánchez" style="width: 45%"></img>
+  <img src="https://iili.io/3uIKoYX.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 10: Tiempos Miguel Hernández Sánchez</strong></p>
 
@@ -341,7 +341,7 @@ Cabe destacar también su involucramiento en tareas de documentación, tales com
 **Horas totales registradas:** 23 horas, 31 minutos
 
 <p align="center">
-  <img src="https://iili.io/3uIq3fp.md.png" alt="Tiempos Antonio Montero López" style="width: 45%"></img>
+  <img src="https://iili.io/3uIq3fp.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 11: Tiempos Antonio Montero López</strong></p>
 
@@ -368,7 +368,7 @@ Antonio ha estado presente en las reuniones de coordinación y retrospectiva del
 **Horas totales registradas:** 23 horas, 53 minutos y 50 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIBrnj.md.png" alt="Tiempos Gonzalo Navas Remmers" style="width: 45%"></img>
+  <img src="https://iili.io/3uIBrnj.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 12: Tiempos Gonzalo Navas Remmers</strong></p>
 
@@ -393,7 +393,7 @@ Además, ha asistido a sesiones formativas del proyecto, como las píldoras educ
 **Horas totales registradas:** 30 horas, 19 minutos y 30 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uInLTF.md.png" alt="Tiempos Héctor Noguera González" style="width: 45%"></img>
+  <img src="https://iili.io/3uInLTF.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 13: Tiempos Héctor Noguera González</strong></p>
 
@@ -418,7 +418,7 @@ También cabe destacar su implicación en tareas de investigación, especialment
 **Horas totales registradas:** 50 horas, 44 minutos y 14 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIIGuS.md.png" alt="Tiempos Natalia Olmo Villegas" style="width: 45%"></img>
+  <img src="https://iili.io/3uIIGuS.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 14: Tiempos Natalia Olmo Villegas</strong></p>
 
@@ -443,7 +443,7 @@ En el plano técnico, Natalia ha contribuido puntualmente a tareas relacionadas 
 **Horas totales registradas:** 29 horas, 39 minutos y 45 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIRGUb.md.png" alt="Tiempos Manuel Pérez Vélez" style="width: 45%"></img>
+  <img src="https://iili.io/3uIRGUb.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 15: Tiempos Manuel Pérez Vélez</strong></p>
 
@@ -468,7 +468,7 @@ Su participación en reuniones ha sido constante, destacando especialmente en se
 **Horas totales registradas:** 38 horas, 52 minutos y 56 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIY9i7.md.png" alt="Tiempos Andrés Pizzano Cerrillos" style="width: 45%"></img>
+  <img src="https://iili.io/3uIY9i7.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 16: Tiempos Andrés Pizzano Cerrillos</strong></p>
 
@@ -493,7 +493,7 @@ En cuanto a coordinación, ha participado en reuniones generales del equipo, inc
 **Horas totales registradas:** 31 horas, 47 minutos y 47 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIlhmJ.md.png" alt="Tiempos Sergio Pons López" style="width: 45%"></img>
+  <img src="https://iili.io/3uIlhmJ.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 17: Tiempos Sergio Pons López</strong></p>
 
@@ -518,7 +518,7 @@ Además, ha colaborado en tareas complementarias de _marketing_, entre las que d
 **Horas totales registradas:** 26 horas, 46 minutos y 10 segundos
 
 <p align="center">
-  <img src="https://iili.io/3uIE2UP.md.png" alt="Tiempos Lorenzo Torralba Lanzas" style="width: 45%"></img>
+  <img src="https://iili.io/3uIE2UP.md.png"></img>
 </p>
 <p align="center"><strong>Imagen 18: Lorenzo Torralba Lanzas</strong></p>
 
