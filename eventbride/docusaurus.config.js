@@ -106,15 +106,15 @@ const config = {
               },
               {
                 label: 'DP',
-                to: '/docs/intro',
+                to: '/docs/category/dp',
               },
               {
                 label: 'Sprint 1',
-                to: '/docs/intro',
+                to: '/docs/category/s1',
               },
               {
                 label: 'Sprint 2',
-                to: '/docs/intro',
+                to: '/docs/category/s2',
               },
               {
                 label: 'Sprint 3',
