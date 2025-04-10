@@ -215,7 +215,7 @@ Accedediendo a la pestaña de ***Recintos*** se pueden ver los recintos disponib
 
 <center><img src="..\img\recintosdisponibles.png"></center>
 
-Si se desea añadir un recinto a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho recinto y completar la hora de inicio y final de la reserva del sitio. Solo te aparecerán los eventos a los que no se haya añadido previamente.
+Si se desea ***añadir un recinto*** a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho recinto y completar la hora de inicio y final de la reserva del sitio. Solo te aparecerán los eventos a los que no se haya añadido previamente.
 
 <center><img src="..\img\añadirrecinto.png"></center>
 
@@ -227,7 +227,11 @@ Si se desea añadir un servicio a uno de los eventos que tengas ya creado, se de
 
 <center><img src="..\img\añadirservicio.png"></center>
 
-Se puede acceder a la pestaña de detalles de perfil donde se muestran todos los datos y se da la posibilidad de editarlos o cerrar sesión.
+El ***Soporte Técnico*** para los usuarios cliente de nuestra plataforma consiste en una sección de preguntas rápidas donde pueden obtener respuestas rápidas a preguntas frecuentes.  En el caso de que su duda no se resuelva, pueden acceder a un chat con el administrador pulsando en el icono azul que aparece abajo a la derecha.
+
+<center><img src="..\img\soportecliente.png"></center>
+
+Se puede acceder a la pestaña de ***Detalles de perfil*** donde se muestran todos los datos y se da la posibilidad de editarlos o cerrar sesión.
 
 <center><img src="..\img\detallesperfil.png"></center>
 
@@ -273,9 +277,11 @@ Si nos movemos a la pestaña de ***Solicitudes*** se muestran las solicitudes pe
 
 En la pestaña de ***Contrataciones*** podemos ver de forma rápida un resumen de las solicitudes realizadas hasta el momento incorporando un filtro en la que puedes visualizar las que tienes pendientes, las que has aceptado y las que has rechazado. También se incorpora un calendario donde puedes ver los eventos, usando el mismo filtro, dentro del mismo.
 
+<center><img src="..\img\contrataciones.png"></center>
 
 En el ***Historial de ventas*** podemos ver un resumen de los pagos que han realizado los clientes.
 
+<center><img src="..\img\historialventas.png"></center>
 
 El ***Soporte Técnico*** para los proveedores de nuestra plataforma consiste en una sección de preguntas rápidas donde los proveedores pueden obtener respuestas rápidas a las preguntas frecuentes. En el caso de que su duda no se resuelva, pueden acceder a un chat con el administrador pulsando en el icono azul que aparece abajo a la derecha.
 
@@ -306,9 +312,14 @@ Si accedemos a ***Administrar servicios***, se muestran todos los servicios del 
 
 <center><img src="..\img\administrarservicios.png"></center>
 
-Si accedemos a la sección de ***Editar***, se nos muestra el formulario a rellenar.
+Si accedemos a la sección de ***Editar*** (justo abajo de cada servicio), se permite cambiar los datos de los servicios y presionando en *guardar* se actualizan los datos.
 
 <center><img src="..\img\admineditarservicio.png"></center>
+
+Y por último, si accedemos a la sección de ***Administrar usuarios***, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. Está la opción de buscar por id del usuario.
+
+<center><img src="..\img\administrarusuarios.png"></center>
+
 
 La sección de ***Administrar eventos*** funciona de la misma manera que la anterior mencionada (administrar servicios).
 
@@ -317,10 +328,6 @@ La sección de ***Administrar eventos*** funciona de la misma manera que la ante
 Si accedemos a la sección de ***Editar***, se nos muestra el formulario a rellenar.
 
 <center><img src="..\img\admineditarevento.png"></center>
-
-Y por último, si accedemos a la sección de ***Administrar usuarios***, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. Está la opción de buscar por id del usuario.
-
-<center><img src="..\img\administrarusuarios.png"></center>
 
 Para ***Visualizar el perfil del administrador*** simplemente tienes que clicar sobre la foto de perfil. Ahí podrás editarlo si ha cambiado algún dato, de forma similar a los otros usuarios del sistema.
 
