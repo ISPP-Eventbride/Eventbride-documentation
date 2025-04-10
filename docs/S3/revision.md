@@ -46,6 +46,7 @@
 2. [Concordancia con los casos de uso](#id1)
     1. [Usuario Cliente](#id2)
     2. [Usuario Proveedor](#id3)
+    3. [Cualquier Usuario](#user)
 3. [Guía de la aplicación](#id4)
     1. [Guía común](#id40)
     2. [Guía como cliente](#id41)
@@ -126,6 +127,29 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
   - En caso de haberse establecido con “**Otros**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información extra**”.
 
 - Ya introducidos todos los datos, pulsar el botón de “**Registrar otro servicio**”.
+
+<div id='user'></div>
+
+### Cualquier usuario
+
+1. **Contactar con el servicio de atención al cliente  (CU - 6)**
+
+   *El usuario necesita ayuda o tiene una pregunta sobre la aplicación.”*
+
+   Para contactar con el servicio de atención al cliente, el usuario debe realizar los siguientes pasos:
+
+- Seleccionar el botón “**Soporte Técnico**” desde la pantalla principal. 
+- Una vez en la pantalla donde se reflejan distintos problemas genéricos que pueden ser de ayuda al usuario, en caso de que el usuario quiera contactar con el soporte técnico directamente, el proveedor debe de pulsar en el botón de color azul con el logo de de soporte que se encuentra abajo a la derecha.
+- Una vez haya pulsado el botón, se abrirá un chat con el administrador de la aplicación, donde el usuario podrá contactar con él y poder resolver cualquier problema que pueda tener.
+
+2. **Recibir notificaciones  (CU - 8)**
+
+   *El usuario quiere recibir actualizaciones y notificaciones importantes relacionadas con sus eventos, reservas o cuenta.”*
+
+   En caso de recibir alguna notificación, el usuario debe realizar podrá acceder a su contenido con los siguientes pasos:
+
+- Seleccionar el botón que se encuentra a la izquierda del nombre de usuario con forma de campana desde la pantalla principal.
+- Una vez en la pantalla donde se reflejan las notificaciones, el usuario podrá ver el contenido de cada una, junto con la información de la fecha y hora en la que la recibió.
 
 <div id='id4'></div>
 
