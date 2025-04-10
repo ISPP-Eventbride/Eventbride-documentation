@@ -14,8 +14,7 @@ const config = {
   tagline: 'Eventos que brillan y recuerdos que perduran',
   favicon: 'img/Eventbride.png',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ispp-2425-g3.ew.r.appspot.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -107,27 +106,27 @@ const config = {
               },
               {
                 label: 'DP',
-                to: '/docs/DP',
+                to: '/docs/intro',
               },
               {
                 label: 'Sprint 1',
-                to: '/docs/S1',
+                to: '/docs/intro',
               },
               {
                 label: 'Sprint 2',
-                to: '/docs/S2',
+                to: '/docs/intro',
               },
               {
                 label: 'Sprint 3',
-                to: '/docs/S3',
+                to: '/docs/intro',
               },
               {
                 label: 'PPL',
-                to: '/docs/PPL',
+                to: '/docs/intro',
               },
               {
                 label: 'WPL',
-                to: '/docs/WPL',
+                to: '/docs/intro',
               },
             ],
           },
