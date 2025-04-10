@@ -1,6 +1,6 @@
 # Performance Evaluation
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="../../img/Eventbride.png" alt="Event Image"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -604,6 +604,3 @@ En este Sprint he desarrollado en su mayoria tareas de codigo: Primeramente, jun
 ## Bibliografía
 
 Intencionalmente en blanco.
-
-
-

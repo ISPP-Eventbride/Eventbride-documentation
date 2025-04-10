@@ -1,6 +1,6 @@
 # Retrospectiva del Sprint 2
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
