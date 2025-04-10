@@ -43,7 +43,9 @@ Estos son todos los participantes de este proyecto. Gracias a ellos ha sido posi
 
 ## Contacto
 
-- Correo de contacto general: info@eventbride.fun
+- Correo de contacto general: eventbride6@gmail.com
+
+- Correo de información: info@eventbride.fun
 
 - Correo de soporte: soporte@eventbride.fun
 
