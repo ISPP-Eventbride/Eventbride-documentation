@@ -39,6 +39,8 @@
 |13/02/2025 |v2.0|Estudiantes calificados| Sprint 1 | David Godoy Fernández y Gonzalo Navas Remmers|
 |25/03/2025 |v2.1|Estudiantes calificados| Sprint 2 | David Godoy Fernández y Daniel Benito Hidalgo|
 |27/03/2025 |v2.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
+|25/03/2025 |v3.0|Estudiantes calificados| Sprint 3 | David Godoy Fernández|
+
 
 ## Contenido
 1. [Introducción](#intro)
@@ -102,10 +104,19 @@ Una vez explicados los diferentes criterios y prácticas que rigen el proceso de
 |---|---|---|---|
 |Alba Ramos Vargas |Sprint 1| 0 | No se ha aportado feedback en esta entrega, aunque ha avisado de que no podria hacerlo |
 |Felipe Solís Agudo |Sprint 1| 10 | Ha seguido correctamente los criterios establecidos y el feedback útil y aporta soluciones |
-|Hugo Borrero Ángulo |Sprint 1| 8 | El feedback aportado es útil pero hay ocasiones en el que este esta poco detallado |
+|Hugo Borrero Ángulo |Sprint 1| 7 | El feedback aportado es útil pero hay ocasiones en el que este esta poco detallado |
 |Jorge Muñoz Rodríguez |Sprint 1| 6 | Se ha aprotado feedback pero este es muy mejorable, no aporta soluciones y es algo escueto |
 |Luis Mellado Díaz |Sprint 1| 0 | No se ha aportado feedback en esta entrega, además no se ha comunicado con nosotros de ninguna forma  |
 |Ramón Vergara Garrido |Sprint 1| 5 | Ha aportado el feedback mínimo y necesario segun el criterio |
+
+|Alumno|Sprint|Nota asignada|Justificación|
+|---|---|---|---|
+|Alba Ramos Vargas |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
+|Felipe Solís Agudo |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
+|Hugo Borrero Ángulo |Sprint 3| 7 | No se ha comunicado con nosotros, no obstante, ha realizado un buen feedback en las encuestas |
+|Jorge Muñoz Rodríguez |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
+|Luis Mellado Díaz |Sprint 3| 8 | Se ha comunicado mediante el correo corporativo y a aportado buenas respuestas en las encuestas  |
+|Ramón Vergara Garrido |Sprint 3| 5 | Ha aportado el feedback mínimo y necesario segun el criterio y no se ha comunicado con nosotros |
 
 
 <div id='bib'></div>
