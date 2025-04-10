@@ -452,9 +452,196 @@ Se recomiendan ajustes menores en el formulario y uniformidad visual para optimi
 
 ## Resultados encuesta feedback Sprint 2 
 
+Durante este sprint se han reestructurado las encuestas y no se ha recibido feedback.
+
 <div id='concl'></div>
 
 ## Resultados encuesta feedback Sprint 3 
+
+### Feedback clientes
+
+####  Acceso a la plataforma
+
+- **Sistema operativo utilizado**: Principalmente Windows (3), seguido de Android (1) y Ubuntu (1).
+- **Navegadores utilizados**: Chrome (3), Firefox (2).
+
+Se mantiene la diversidad de dispositivos y navegadores. Chrome sigue siendo el navegador principal.
+
+####  Inicio de sesión y creación de cuenta
+
+- **Problemas reportados**: 1 usuario indicó no poder cargar la foto de perfil.
+- **Campos innecesarios detectados**: El DNI sigue siendo considerado redundante por varios usuarios.
+- **Comentarios**: Se sugiere redireccionar correctamente tras aceptar términos. Algunos usuarios proponen simplificar el proceso y permitir editar la foto desde el perfil.
+
+Aunque la mayoría no reporta problemas, la carga de imagen y la obligatoriedad de ciertos campos deben revisarse.
+
+####  Vista general y navegación
+
+- **Primera impresión**: Media de 4/5.
+- **Aspecto visual**: Adecuado para su propósito según todos los usuarios.
+
+La apariencia general es buena, aunque podrían introducirse mejoras visuales incrementales.
+
+####  Creación y borrado de eventos
+
+- **Funcionalidad**: No se detectan quejas directas en esta sección, aunque no todos pudieron probar todas las funcionalidades.
+
+No hay incidencias reportadas, pero se sugiere seguir observando su uso en siguientes iteraciones.
+
+####  Visualización de mis eventos
+
+- **No disponible en detalle**, pero no se reportaron errores.
+
+Requiere una evaluación específica en la próxima encuesta.
+
+####  Adición de recintos y servicios a un evento
+
+- **No se registraron comentarios específicos en esta sección**.
+
+Se puede reforzar la recolección de feedback sobre esta funcionalidad en futuros formularios.
+
+#### Miscelánea
+
+- **Edición de perfil**: Un usuario reportó problemas cargando su foto.
+- **Valoración media de la edición de perfil**: 4/5
+
+**Conclusión**: Generalmente positiva, con observaciones similares a las del registro respecto a la carga de imágenes.
+
+- **Términos y condiciones**: 2 de 5 usuarios los han leído.
+- **Rendimiento de la plataforma**: 3 de 5 usuarios lo consideran positivo.
+
+Se mantiene la tendencia de no leer términos y condiciones. Se debe investigar el motivo de percepción de bajo rendimiento en algunos casos.
+
+#### Proceso de Pago
+
+- **Facilidad**: Solo 2 usuarios lo consideraron sencillo.
+- **Funcionalidad**: Algunos usuarios no encontraron el botón de pagar o no pudieron probarlo.
+- **Comentarios**: Se valora positivamente la idea de pagar varios servicios a la vez, aunque no todos lo consideran necesario.
+
+#### Propuestas de mejora
+
+- Hacer opcional la subida de foto en el registro.
+- Mejorar la redirección tras aceptar términos.
+- Mayor claridad en botones o secciones (p. ej. pagos).
+- Separar mejor las funciones de cliente y proveedor.
+- Incluir descripciones en formularios para facilitar el proceso.
+
+### Feedback proveedores
+
+#### Acceso a la plataforma
+
+- **Sistema operativo utilizado**: Windows (4), Ubuntu (1)
+- **Navegadores utilizados**: Firefox (2), Chrome (1), DuckDuckGo (1), Brave (1)
+
+Windows es claramente dominante. Hay variedad de navegadores, por lo que es importante garantizar compatibilidad cross-browser.
+
+#### Inicio de sesión y creación de cuenta
+
+- **Problemas reportados**: Ningún problema crítico. Comentarios positivos sobre la estructura del formulario.
+- **Datos innecesarios**: Repetidamente se menciona el DNI como redundante.
+
+El inicio de sesión y registro son en general satisfactorios, pero debería revisarse la obligatoriedad del campo DNI.
+
+#### Vista general y navegación
+
+- **Primera impresión del sitio**: Valoración unánime de 4/5.
+- **Adecuación del diseño**: 4 de 5 usuarios consideran que el aspecto visual es adecuado.
+
+El diseño es correcto, aunque algunos pequeños detalles podrían mejorar la primera impresión y la coherencia visual.
+
+#### Creación de servicios y deshabilitación de estos
+
+- **Comentarios específicos**: No se reportaron problemas directos, aunque no todos los usuarios dejaron comentarios detallados.
+
+El proceso funciona, pero se recomienda solicitar más feedback específico en esta área para asegurar mejoras continuas.
+
+#### Visualización y edición de servicios
+
+- **Edición de perfil con planes de precio**: Puntuación promedio de 4/5
+- **Problemas reportados**: Un usuario no pudo actualizar su plan, indicando confusión con la localización del botón.
+
+El sistema de edición es positivo, pero la edición de planes debe ser más intuitiva y visible.
+
+#### Solicitudes, contrataciones e historial de ventas
+
+- **Puntuación del historial**: Media de 3.6/5
+- **Percepción positiva**: 4 de 5 lo consideran útil.
+- **Comentarios**: Se sugiere mostrar el nombre completo del servicio y destacar la utilidad del historial como motivación para el proveedor.
+
+El historial de ventas es bien recibido. Se recomienda mejorar su visibilidad y enriquecer la información mostrada.
+
+#### Miscelanea
+
+- **Términos y condiciones**: 4 de 5 los han leído.
+- **Rendimiento**: 100% de los usuarios lo valoran positivamente.
+
+Esta sección muestra datos muy positivos en cuanto a estabilidad y comprensión de condiciones, aunque se puede seguir fomentando la lectura de estas últimas.
+
+#### Propuestas de mejora
+
+- Hacer opcional el campo DNI en el registro.
+- Mejorar visibilidad y accesibilidad para actualizar el plan de precios.
+- Asegurar compatibilidad completa con navegadores como DuckDuckGo y Brave.
+- Añadir etiquetas o explicaciones a botones menos intuitivos.
+- Mostrar nombre completo de los servicios en el historial de ventas.
+- Continuar mejorando la estructura visual del formulario de servicios.
+
+### Feedback administradores
+
+####  Acceso a la plataforma
+
+- **Dispositivo de acceso**: Teléfono móvil (4), Ordenador (1)
+- **Sistema operativo**: Android (4), Windows (1)
+- **Navegador**: Chrome (4), Firefox (1)
+
+El acceso se realiza mayoritariamente desde dispositivos móviles con Android y usando principalmente Chrome. Esto refuerza la necesidad de un diseño responsive bien testeado.
+
+####  Inicio de sesión y creación de cuenta
+
+- **Problemas reportados**: Un usuario reportó un problema con la carga de la foto de perfil.
+- **Campos innecesarios destacados**: Foto de perfil y correo electrónico.
+- **Comentarios**: Sugerencias como mostrar una pantalla previa al login con información de la plataforma.
+
+El sistema es funcional, pero es importante mejorar la experiencia de carga de imágenes y revisar qué campos podrían ser opcionales.
+
+#### Vista general y navegación
+
+- **Valoración visual inicial**: Promedio de 4.2/5
+- **Rendimiento**: 100% lo consideran positivo
+
+La experiencia general es buena. El rendimiento de la plataforma destaca como punto fuerte.
+
+#### Rol Cliente
+
+- **Comentarios relevantes**: Se destacan observaciones sobre la claridad en el proceso de registro, y la necesidad de mejorar la guía al usuario.
+
+La funcionalidad para el rol cliente es correcta, pero se puede mejorar la experiencia inicial para que sea más intuitiva.
+
+#### Sección proveedor
+
+- **Valoración media "Mis servicios"**: 4.0/5
+- **Creación de servicios**: Sin problemas reportados, aunque un comentario sugiere mejorar el sistema de subida de imágenes.
+- **Edición de servicios**: Valoración media de 4.2/5
+- **Comentarios**: Sugerencia de unificar el estilo visual entre formularios de creación y edición.
+
+La sección funciona bien, pero pequeños ajustes visuales y de usabilidad podrían hacerla más sólida.
+
+#### Miscelanea
+
+- **Comentarios generales**: Se destaca la calidad y detalle de la encuesta. Algunas personas mencionan propuestas para mejorar la comunicación visual.
+
+El equipo aprecia el cuidado en el feedback y valora la transparencia en el proceso de revisión.
+
+#### Propuestas de mejora
+
+- Permitir carga opcional de foto de perfil.
+- Unificar diseño de formularios entre creación y edición.
+- Añadir mensajes informativos antes del login.
+- Revisar qué campos del formulario podrían no ser obligatorios.
+- Mejorar guía visual en procesos clave (registro, edición, subida de imágenes).
+
+
+
 
 <div id='id5'></div>
 
