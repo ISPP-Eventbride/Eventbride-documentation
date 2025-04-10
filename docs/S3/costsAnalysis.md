@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 03/04/2025
+### Fecha: 10/04/2025
 
 ### Entregable: Sprint 3
 
@@ -42,6 +42,9 @@
 | 27/03/2025 | v1.6    | Costes estimados vs Costes reales S2 | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 | 03/04/2025 | v1.7    | Costes estimados vs Costes reales mitad S3 | Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 |03/04/2025|v1.8|Ajuste Opex| Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|03/04/2025|v1.9|Costes estimados vs Costes reales S3| Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|03/04/2025|v2.0|Costes de Marketing añadidos a Capex y Sprint 3| Sprint 3 | Francisco Avilés Carrera |
+
 
 ---
 
@@ -150,6 +153,7 @@ Tabla 3.2. Sueldo Mensual de Mantenimiento
 
 <div id='id5'></div>
 
+
 ## Total Cost of Ownership (TCO)
 
 El Coste Total de Propiedad (Total Cost of Ownership, TCO) proporciona un resumen detallado de los costes estimados en los apartados anteriores, compuesto por la suma del Coste Inicial (CI) y los Costes de Mantenimiento (MRO).
@@ -170,7 +174,24 @@ Cabe destacar que estos cálculos han sido realizados sin considerar las suscrip
 
 Tabla 4. Costes de Recompensa de Usuarios Piloto
 
-Dado nuestro programa de usuarios piloto, a los proveedores que se le proporcione nuestra aplicación a modo de prueba, recibirán de manera gratuita la aplicación con la suscripción premium durante medio año. Además, a los usuarios pilotos organizadores de eventos se les quitará la comisión al realizar el pago.
+Dado nuestro programa de usuarios piloto, a los proveedores que se le proporcione nuestra aplicación a modo de prueba, recibirán de manera gratuita la aplicación con la suscripción premium durante medio año. Además, a los usuarios pilotos organizadores de eventos se les quitará la comisión al realizar el pago.ç
+
+
+## Costes de Marketing
+
+| Costes de Marketing totales | | | | 3.400,00 € |
+|---|---|---|---|---|
+| Id   | Servicio          | Precio mensual | Meses | Total     |
+| 6.1  | Material para grabar (Cámara, micrófono, trípode, tarjeta SD, mochila) | 1.000,00 €   | 1     | 1.000,00 € |
+| 6.2  | Publicidad en redes sociales (Instagram y LinkedIn) | 500,00 €   | 2     | 1.000,00 € |
+| 6.3  | Publicidad impresa (Carteles, flyers, trípticos) | 400,00 €   | 2     | 800,00 € |
+| 6.4  | Regalos promocionales (Camisetas, bolígrafos, tazas...) | 300,00 €   | 2     | 600,00 € |
+| 6.5  | Editor de vídeos (CapCut) | 0,00 €   | 2     | 0,00 € |
+
+
+Tabla 5. Costes de Marketing
+
+Los costes de Marketing estarán incluidos en el CAPEX, cobrados los dos últimos meses de la etapa de desarrollo de la aplicación (mayo y junio), que será cuando se empezará con las camapañas de publicidad.
 
 <div id='id7'></div>
 
@@ -187,7 +208,8 @@ CAPEX
 | Infraestructura inicial (Google Cloud, oficina)            | 3.061,24  |
 | Plan de contingencia (10% del CI)                           | 7.472,74  |
 | Coste usuarios piloto                                        | 4.320,00  |
-| Total CAPEX                                                 | 86.520,14 |
+| Costes de Marketing                                         |   3.400,00         |
+| Total CAPEX                                                 | 89.920,14 |
 
 OPEX
 
@@ -352,6 +374,46 @@ Además, hay que tener en cuenta que algunos costes, como licencias, infraestruc
 | Sergio Pons López                     | 8     | Diseñador gráfico     | 30                 | 240       |
 | Lorenzo Torralba Lanzas               | 11    | Diseñador gráfico     | 30                 | 330       |
 | **TOTAL**                             |       |                       |                    | **6570**  |
+
+
+### Sprint 3 (segunda mitad Sprint 3, 04/04/25 - 10/04/25)
+
+| Concepto                      | Coste Estimado (€) | Coste Real (€) | Información Adicional |
+|--------------------------------|--------------------|----------------|-----------------------|
+| Desarrollo de software         | 4.515,00           |  5.610,00      | Salarios del equipo de desarrollo en este periodo (teniendo en cuenta las horas) |
+| Licencias iniciales            | 716,54                  | 716,54              | (GitHub Enterprise, Copilot, Codacy, APIs externas) - Mes de marzo |
+| Infraestructura inicial        | 765,31                  | 765,31               | Google Cloud, oficinas - Mes de marzo |
+| Plan de contingencia           | 0                  | 0              | - |
+| Coste usuarios piloto          | 720,00 (8 usuarios)              | 540,00 (6 usuarios)              |  Mes de marzo |
+| Material para grabar          | 1.000,00              | 1.000,00               |  Pago único |
+| Publicidad en redes sociales         | 500,00              | 500,00               |  Mes de marzo |
+| Publicidad en impresa         | 400,00              | 400,00               |  Mes de marzo |
+| Regalos promocionales         | 300,00              | 300,00               |  Mes de marzo |
+
+| **Total**                      | **8.916,85**       | **9.831,85**   | **Diferencia: -915,00** |
+
+
+
+| Nombre                                | Horas | Rol                   | Coste por hora (€) | Coste (€) |
+|---------------------------------------|--------|------------------------|---------------------|-----------|
+| Natalia Olmo Villegas                 | 12     | Jefe de proyecto       | 40                  | 480       |
+| María de la Salud Carrera Talaverón  | 8      | Jefe de subgrupo       | 30                  | 240       |
+| Pablo Jesús Castellanos Compaña      | 20     | Jefe de subgrupo       | 30                  | 600       |
+| Ignacio Blanquero Blanco             | 13     | Programador web        | 20                  | 260       |
+| Adrián Cabello Martín                | 18     | Programador web        | 20                  | 360       |
+| Fernando José de Celis Hurtado       | 15     | Programador web        | 20                  | 300       |
+| David Godoy Fernández                | 8      | Programador web        | 20                  | 160       |
+| Miguel Hernández Sánchez             | 10     | Programador web        | 20                  | 200       |
+| Antonio Montero López                | 10     | Programador web        | 20                  | 200       |
+| Francisco Avilés Carrera             | 11     | Jefe de subgrupo       | 30                  | 330       |
+| Gonzalo Navas Remmers                | 12     | Programador web        | 20                  | 240       |
+| Héctor Noguera González              | 14     | Programador web        | 20                  | 280       |
+| Daniel Benito Hidalgo                | 14     | Programador web        | 20                  | 280       |
+| Manuel Pérez Vélez                   | 15     | Analista programador   | 30                  | 450       |
+| Andrés Pizzano Cerrillos             | 12     | Analista programador   | 30                  | 360       |
+| Sergio Pons López                    | 17     | Diseñador gráfico      | 30                  | 510       |
+| Lorenzo Torralba Lanzas              | 12     | Diseñador gráfico      | 30                  | 360       |
+| **TOTAL**                            |        |                        |                     | **5.610** |
 
 
 <div id='concl'></div>
