@@ -304,6 +304,6 @@ Todas las compensaciones se otorgarán únicamente previa solicitud y tras la ve
 
 ## 13. Información de Contacto
 
-Si tiene alguna duda sobre este acuerdo, por favor contáctenos en nuestro [correo de información](info@eventbride.fun) con el asunto "Acuerdo de Cliente".
+Si tiene alguna duda sobre este acuerdo, por favor contáctenos en nuestro correo de información (info@eventbride.fun) con el asunto "Acuerdo de Cliente".
 
 Como usuario, acepta este Acuerdo únicamente a través de una acción voluntaria y consciente. Ningún término será aplicable sin su consentimiento informado y explícito.

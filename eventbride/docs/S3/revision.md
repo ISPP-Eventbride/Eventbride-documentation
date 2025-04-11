@@ -423,7 +423,7 @@ Administrador:
 <div id='id6'></div>
 
 ## Requisitos para utilizar el sistema
-Todo lo relacionado para la puesta en marcha del proyecto viene indicado en el [README](../../README.md) del repositorio de GitHub.
+Todo lo relacionado para la puesta en marcha del proyecto viene indicado en el README del repositorio de GitHub.
 
 <div id='id7'></div>
 
