@@ -148,7 +148,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
-| Ignacio Blanquero Blanco            | No procede    | No procede |     |
+| Ignacio Blanquero Blanco            | No procede    | No procede |   ✅  |
 | Adrián Cabello Martín               | ✅             | ✅      |   ✅   |
 | David Godoy Fernández               | ✅             | ✅      |   ✅   |
 | Miguel Hernández Sánchez            | ✅             | ✅      |   0   |

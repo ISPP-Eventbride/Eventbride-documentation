@@ -1,6 +1,7 @@
-# RETROSPECTIVA MITAD SPRINT 3
+# Retrospectiva Mitad 3
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center>![Logo](../img/Eventbride.png)</center>
+
 ### Grupo 3: Eventbride
 
 ### Miembros:
@@ -236,11 +237,6 @@ Los problemas que nos han surgido en esta mitad de sprint han sido la alta de co
 
 <div id='concl'></div>
 
-## Conclusiones
-
-Aquí tienes unas conclusiones redactadas de forma clara, profesional y ajustadas a la información contenida en el documento:
-
----
 
 ## Conclusiones
 

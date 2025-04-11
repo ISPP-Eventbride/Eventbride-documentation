@@ -82,14 +82,12 @@ Sumando a esto una media estimada de 15 usuarios premium al año durante los cin
 
 Buscamos inversión para nuestro proyecto, para mejorar en marketing digital, un mejor desarrollo de la plataforma y llegar a más público; y los inversores se llevarán un beneficio del 15%.
 
----
 
 <div id='conclusiones'></div>
 
 ## Conclusiones
 
 Con este guión se pretende atraer a posibles inversores explicando el funcionamiento de nuestra aplicación así como todo el análisis de costes e ingresos. La idea es hacer un vídeo sencillo pero detallado de todo lo necesario para lograr nuestro objetivo final ya previamente mencionado, es decir, atraer inversores, pero sin dejar atrás la captación de clientes y proveedores.
----
 
 <div id='bib'></div>
 

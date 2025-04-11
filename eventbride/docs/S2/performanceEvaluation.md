@@ -68,7 +68,7 @@
 | De Celis Hurtado, Fernando José       | 10   | 10  | 10  |     |      |      |       |      |
 | Godoy Fernández, David                | 10   | 10  | 10  |     |      |      |       |      |
 | Hernández Sánchez, Miguel             | 10   | 10  | 10  |     |      |      |       |      |
-| Montero López, Antonio                | 10   | 10  | 7.7 |     |      |      |       |      |
+| Montero López, Antonio                | 10   | 10  | 10  |     |      |      |       |      |
 | Navas Remmers, Gonzalo                | 10   | 10  | 10  |     |      |      |       |      |
 | Noguera González, Héctor              | 10   | 10  | 10  |     |      |      |       |      |
 | Olmo Villegas, Natalia                | 10   | 10  | 10  |     |      |      |       |      |
@@ -76,7 +76,7 @@
 | Pizzano Cerrillos, Andrés             | 10   | 10  | 10  |     |      |      |       |      |
 | Pons López, Sergio                    | 10   | 10  | 10  |     |      |      |       |      |
 | Torralba Lanzas, Lorenzo              | 10   | 10  | 10  |     |      |      |       |      |
-| **TOTAL**                             | 170  | 170 |167.7|     |      |      |       |      |
+| **TOTAL**                             | 170  | 170 | 170 |     |      |      |       |      |
 
 Como se mencionó previamente en el documento titulado *retrospectiva-mitad-sprint-S1*, "todos aquellos cuyo porcentaje de completitud sea **mayor al 80%** se considerará que han rendido bien y recibirán un **10** como nota en la retrospectiva."
 
