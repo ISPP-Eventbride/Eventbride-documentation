@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="docs/img/Eventbride.png" width="225" height="225">
+    <img src="img/Eventbride.png" width="225" height="225">
 </p>
 
 ## Introducción
