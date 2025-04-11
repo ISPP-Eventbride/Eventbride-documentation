@@ -1,6 +1,6 @@
-# <p style="text-align: center;">Requisitos</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="..\img\Eventbride.png"></center>
+# Requisitos
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 

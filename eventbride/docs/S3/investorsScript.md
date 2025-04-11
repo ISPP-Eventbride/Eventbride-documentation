@@ -1,6 +1,6 @@
-# <center>Guión anuncio inversores</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></center>
+# Guión anuncio inversores
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
 
 ### Grupo 3: Eventbride
 

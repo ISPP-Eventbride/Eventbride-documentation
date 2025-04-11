@@ -1,10 +1,10 @@
 ---
-sidebar_position: 7
+sidebar_position: 3
 ---
 
-# <center>Título del Documento</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center>![Logo](../img/Eventbride.png)</center>
+# Título del Documento
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](/img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 

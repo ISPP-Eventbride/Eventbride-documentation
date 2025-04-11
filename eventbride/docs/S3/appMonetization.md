@@ -1,6 +1,6 @@
-﻿# <p style="text-align: center;">Monetización de la aplicación</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="../img/Eventbride.png"></center>
+﻿# Monetización de la aplicación
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -163,15 +163,15 @@ Teniendo en cuenta estos parametros, se podría estimar que el costo a corto pla
 
 A continuación haremos una estimación de los posibles beneficios. Para ello, tendré en cuenta las estimaciones hechas por los compañeros del costo de celebrar una boda[1], una comunión[2] y un bautizo[3]:
 
-<center><img src="..\img\costo_estimado_boda.png"></center>
+<center>![](../img/costo_estimado_boda.png)</center>
 Imagen 1. Costo estimado de una boda
 
 
-<center><img src="..\img\costo_estimado_comunion.png"></center>
+<center>![](../img/costo_estimado_comunion.png)</center>
 Imagen 2. Costo estimado de una comunión
 
 
-<center><img src="..\img\costo_estimado_bautizo.png"></center>
+<center>![Logo](../img/costo_estimado_bautizo.png)</center>
 Imagen 3. Costo estimado de un bautizo
 
 

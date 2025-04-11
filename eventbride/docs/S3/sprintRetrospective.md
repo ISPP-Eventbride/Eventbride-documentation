@@ -1,6 +1,6 @@
-# <center>Retrospectiva del Sprint 3</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></center>
+# Retrospectiva del Sprint 3
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
 
 ### Grupo 3: Eventbride
 

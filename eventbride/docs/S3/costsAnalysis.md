@@ -1,6 +1,6 @@
-# <center>Análisis de costes</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\img\Eventbride.png"></center>
+# Análisis de costes
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 

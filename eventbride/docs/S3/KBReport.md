@@ -1,6 +1,6 @@
-# <center>KB Report</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="..\img\Eventbride.png"></center>
+# KB Report
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -497,9 +497,7 @@ Intencionalmente en blanco, ya que no se nos asignó recoger el feedback de dich
 
 Tal y como se muestra en la imagen adjunta, a nuestro grupo se le asignó la tarea de recopilar y aportar feedback general durante la semana del 3 de marzo, concretamente en la sesión del día 7 del mismo mes. A continuación, se detallan las secciones en las que nuestro equipo ha contribuido al proceso de retroalimentación colectiva: 
 
-<p align="center">
-  <img src="https://iili.io/3TOLgb1.png" alt="Reparto de contribuciones al feedback común">
-</p>
+<center>![](https://iili.io/3TOLgb1.png)</center>
 
 <p align="center">
   <em>Figura 1. Reparto de contribuciones al feedback común.</em>

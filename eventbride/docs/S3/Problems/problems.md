@@ -1,6 +1,6 @@
-# <center>Problemas encontrados</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></center>
+# Problemas encontrados
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -502,11 +502,11 @@ Para complementar el análisis de cada problema, se ha incluido la siguiente inf
 
 ### Gráficas de Rendimiento
 
-<center><img src="./grafica1.png" alt="Event Image"></center>
+<center><img src="./grafica1.png" alt="Event Image"></img></center>
 
-<center><img src="./grafica2.png" alt="Event Image"></center>
+<center><img src="./grafica2.png" alt="Event Image"></img></center>
 
-<center><img src="./grafica3.png" alt="Event Image"></center>
+<center><img src="./grafica3.png" alt="Event Image"></img></center>
 
 
 Las gráficas reflejan:

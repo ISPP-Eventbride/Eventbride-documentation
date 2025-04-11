@@ -1,7 +1,6 @@
-# <p style="text-align: center;">RETROSPECTIVA MITAD SPRINT 3</p>
-## <p style="text-align: center;">Ingeniería del Software y Práctica Profesional (ISPP)</p>
-<center><img src="..\img\Eventbride.png"></center>
-
+# RETROSPECTIVA MITAD SPRINT 3
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 ### Grupo 3: Eventbride
 
 ### Miembros:

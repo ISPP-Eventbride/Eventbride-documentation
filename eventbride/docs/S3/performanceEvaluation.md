@@ -1,6 +1,6 @@
-# <center>Performance Evaluation</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="../img/Eventbride.png" alt="Event Image"></center>
+# Performance Evaluation
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center><img src="../img/Eventbride.png" alt="Event Image"></img></center>
 
 ### Grupo 3: Eventbride
 

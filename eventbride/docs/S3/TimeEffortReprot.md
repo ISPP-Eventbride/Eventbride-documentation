@@ -1,6 +1,6 @@
-# <center>Time Effort Report</center>
-## <center>Ingeniería del Software y Práctica Profesional (ISPP)</center>
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></center>
+# Time Effort Report
+## Ingeniería del Software y Práctica Profesional (ISPP)
+<center>![Logo](../img/Eventbride.png)</center>
 
 ### Grupo 3: Eventbride
 
@@ -83,11 +83,7 @@ El objetivo final es valorar de manera objetiva la evolución del equipo, identi
 **Total de horas registradas:** 475 horas, 3 minutos y 5 segundos  
 **Periodo de análisis:** 28/03/2025 – 11/04/2025
 
-<p align="center">
-  <a href="https://freeimage.host/i/3av913b">
-    <img src="https://iili.io/3av913b.md.png" alt="Tiempos Grupo" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3av913b.md.png)</center>
 <p align="center"><strong>Imagen 1: Tiempos Grupo – Sprint 3</strong></p>
 
 El Sprint 3 ha supuesto una consolidación del ritmo de trabajo del grupo, que ha logrado una distribución equilibrada de tareas y una fuerte implicación individual y colectiva. Con más de 475 horas registradas en conjunto, el equipo ha evidenciado una mejora clara en la coordinación, la especialización por áreas y la calidad de los entregables.
@@ -113,11 +109,7 @@ En el plano organizativo, el grupo ha mostrado una capacidad madura de autogesti
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 25 horas, 06 minutos y 42 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3avInb1">
-    <img src="https://iili.io/3avInb1.md.png" alt="Tiempos Francisco Avilés Carrera" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3avInb1.md.png)</center>
 <p align="center"><strong>Imagen 2: Tiempos Francisco Avilés Carrera – Sprint 3</strong></p>
 
 Durante el Sprint 3 del proyecto ISPP, Francisco Avilés Carrera ha mantenido una participación constante y multifacética, con un enfoque equilibrado entre desarrollo técnico, revisión funcional, coordinación de tareas y actividades de documentación. Su implicación ha sido clave para el avance estructurado y seguro del sistema.
@@ -140,11 +132,7 @@ Finalmente, cabe destacar su asistencia a sesiones formativas, clases y reunione
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 29 horas, 26 minutos y 31 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3avM0Is">
-    <img src="https://iili.io/3avM0Is.md.png" alt="Tiempos Daniel Benito Hidalgo" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3avM0Is.md.png)</center>
 <p align="center"><strong>Imagen 3: Tiempos Daniel Benito Hidalgo – Sprint 3</strong></p>
 
 Daniel Benito Hidalgo ha mantenido una participación sobresaliente durante el Sprint 3 del proyecto ISPP, con un perfil altamente activo en la elaboración de presentaciones, tareas de marketing, gestión de usuarios piloto y contribuciones técnicas. Su versatilidad y compromiso han resultado claves para la proyección externa del proyecto y su consolidación funcional.
@@ -168,11 +156,7 @@ También ha asistido a sesiones formativas del sprint, manteniéndose alineado c
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 23 horas, 1 minuto y 34 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3avrSOG">
-    <img src="https://iili.io/3avrSOG.md.png" alt="Tiempos Ignacio Blanquero Blanco" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3avrSOG.md.png)</center>
 <p align="center"><strong>Imagen 4: Tiempos Ignacio Blanquero Blanco – Sprint 3</strong></p>
 
 Ignacio Blanquero Blanco ha mantenido una participación meticulosa y constante durante el Sprint 3 del proyecto ISPP, con una clara orientación hacia el testing, la documentación y la mejora de la calidad del producto. Su perfil técnico ha sido clave para garantizar el correcto funcionamiento de funcionalidades críticas y reforzar el ciclo de validación del sistema.
@@ -193,11 +177,7 @@ También ha participado en reuniones clave de planificación y coordinación, ma
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 38 horas, 15 minutos y 44 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3avm85Q">
-    <img src="https://iili.io/3avm85Q.md.png" alt="Tiempos Adrián Cabello Martín" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3avm85Q.md.png)</center>
 <p align="center"><strong>Imagen 5: Tiempos Adrián Cabello Martín – Sprint 3</strong></p>
 
 Adrián Cabello Martín ha realizado una de las contribuciones más extensas y técnicas durante el Sprint 3 del proyecto ISPP, centrando sus esfuerzos en la implementación, corrección y despliegue de funcionalidades clave, con una marcada orientación a la calidad del código y la estabilidad del sistema.
@@ -219,11 +199,7 @@ En el plano organizativo, Adrián ha participado en todas las **reuniones releva
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 27 horas, 53 minutos y 12 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3a8BVF2">
-    <img src="https://iili.io/3a8BVF2.md.png" alt="Tiempos María de la Salud Carrera Talaverón" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3a8BVF2.md.png)</center>
 <p align="center"><strong>Imagen 6: Tiempos María de la Salud Carrera Talaverón – Sprint 3</strong></p>
 
 Durante el Sprint 3 del proyecto ISPP, María de la Salud Carrera Talaverón ha desempeñado un papel esencial en la gestión documental, la coordinación del equipo y la integración técnica del sistema de documentación Docusaurus. Su enfoque metódico y colaborativo ha resultado clave para consolidar la estructura organizativa y documental del proyecto.
@@ -245,11 +221,7 @@ Asimismo, ha contribuido a la redacción detallada del *Customer Agreement*, lo 
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 45 horas, 50 minutos y 42 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3a8Twgf">
-    <img src="https://iili.io/3a8Twgf.md.png" alt="Tiempos Pablo Jesús Castellanos Compaña" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3a8Twgf.md.png)</center>
 <p align="center"><strong>Imagen 7: Tiempos Pablo Jesús Castellanos Compaña – Sprint 3</strong></p>
 
 Pablo Jesús Castellanos Compaña ha sido el miembro con mayor carga de trabajo registrada durante el Sprint 3 del proyecto ISPP, destacando por su implicación tanto en el desarrollo del sistema como en la organización del equipo y la comunicación externa.
@@ -271,11 +243,7 @@ Su nivel de implicación ha sido transversal: desde revisiones de *pull requests
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 34 horas, 38 minutos y 39 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3a8a6Zl">
-    <img src="https://iili.io/3a8a6Zl.md.png" alt="Tiempos Fernando José De Celis Hurtado" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3a8a6Zl.md.png)</center>
 <p align="center"><strong>Imagen 8: Tiempos Fernando José De Celis Hurtado – Sprint 3</strong></p>
 
 Fernando José de Celis Hurtado ha centrado su actividad en el Sprint 3 del proyecto ISPP en la producción y edición de contenido audiovisual, destacando especialmente por su implicación en el área de marketing, con un fuerte enfoque en la comunicación visual y la presentación del proyecto hacia el exterior.
@@ -295,11 +263,7 @@ Además de sus contribuciones en marketing, Fernando ha participado en **reunion
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 20 horas, 0 minutos y 49 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3a8SWQV">
-    <img src="https://iili.io/3a8SWQV.md.png" alt="Tiempos David Godoy Fernández" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3a8SWQV.md.png)</center>
 <p align="center"><strong>Imagen 9: Tiempos David Godoy Fernández – Sprint 3</strong></p>
 
 David Godoy Fernández ha centrado su participación en el Sprint 3 del proyecto ISPP en el desarrollo de la funcionalidad de **recepción de notificaciones**, una característica clave para mejorar la interacción y seguimiento de eventos dentro de la plataforma. Su trabajo ha implicado el diseño e implementación del sistema de notificaciones, abarcando tanto el backend como la lógica de procesamiento de mensajes.
@@ -319,11 +283,7 @@ Aunque su volumen total de horas ha sido más reducido en comparación con otros
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 21 horas, 49 minutos y 41 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aS9C6F">
-    <img src="https://iili.io/3aS9C6F.md.png" alt="Tiempos Miguel Hernández Sánchez" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aS9C6F.md.png)</center>
 <p align="center"><strong>Imagen 10: Tiempos Miguel Hernández Sánchez – Sprint 3</strong></p>
 
 Miguel Hernández Sánchez ha realizado una contribución sólida durante el Sprint 3 del proyecto ISPP, con un enfoque técnico centrado en funcionalidades críticas como el sistema de **chat privado**, la **gestión de invitaciones y perfil del cliente**, y la atención al soporte técnico. Su implicación ha sido notable en tareas de desarrollo y depuración, asegurando la estabilidad de funcionalidades clave del sistema.
@@ -343,11 +303,7 @@ Además, ha participado en **varias reuniones del equipo** y ha asistido a las s
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 19 horas, 38 minutos y 24 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aSBOXa">
-    <img src="https://iili.io/3aSBOXa.md.png" alt="Tiempos Antonio Montero López" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aSBOXa.md.png)</center>
 <p align="center"><strong>Imagen 11: Tiempos Antonio Montero López – Sprint 3</strong></p>
 
 Antonio Montero López ha centrado su participación durante el Sprint 3 del proyecto ISPP en tareas de **documentación, análisis de equipo y contribución a la estructura Docusaurus**, realizando aportes valiosos para la organización del conocimiento generado y la trazabilidad del trabajo.
@@ -367,11 +323,7 @@ Antonio también ha asistido a todas las sesiones de clase del sprint, mantenié
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 24 horas, 15 minutos y 11 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aSuBV9">
-    <img src="https://iili.io/3aSuBV9.md.png" alt="Tiempos Gonzalo Navas Remmers" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aSuBV9.md.png)</center>
 <p align="center"><strong>Imagen 12: Tiempos Gonzalo Navas Remmers – Sprint 3</strong></p>
 
 Gonzalo Navas Remmers ha desarrollado un papel técnico centrado en la funcionalidad de **notificaciones** durante el Sprint 3 del proyecto ISPP, contribuyendo de forma significativa tanto al desarrollo como a la seguridad de este módulo. Su trabajo se ha enfocado en mejorar la lógica de envío, visualización y alerta de eventos importantes en la aplicación, aportando valor directo a la experiencia del usuario.
@@ -389,11 +341,7 @@ Además, ha mostrado una participación activa en las **reuniones del equipo**, 
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 26 horas, 35 minutos y 16 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aSc9XR">
-    <img src="https://iili.io/3aSc9XR.md.png" alt="Tiempos Héctor Noguera González" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aSc9XR.md.png)</center>
 <p align="center"><strong>Imagen 13: Tiempos Héctor Noguera González – Sprint 3</strong></p>
 
 Héctor Noguera González ha desarrollado un rol técnico y de soporte fundamental durante el Sprint 3 del proyecto ISPP, con un enfoque muy práctico centrado en la **resolución de errores**, **testing de funcionalidades** e **integración del sistema**. Su actividad ha resultado clave para garantizar la estabilidad de funcionalidades específicas como las invitaciones, los planes de servicios y el backend general.
@@ -413,11 +361,7 @@ Además de su actividad técnica, ha asistido con regularidad a las **reuniones 
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 37 horas, 35 minutos y 8 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aSvH0X">
-    <img src="https://iili.io/3aSvH0X.md.png" alt="Tiempos Natalia Olmo Villegas" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aSvH0X.md.png)</center>
 <p align="center"><strong>Imagen 14: Tiempos Natalia Olmo Villegas – Sprint 3</strong></p>
 
 Natalia Olmo Villegas ha desempeñado un papel protagonista en el área de **marketing y comunicación visual** durante el Sprint 3 del proyecto ISPP, con una participación intensiva en la creación, edición y coordinación de los vídeos promocionales y materiales de presentación del equipo.
@@ -437,11 +381,7 @@ Además, ha estado implicada en el **seguimiento de usuarios piloto**, participa
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 24 horas, 30 minutos y 6 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aS4Uv9">
-    <img src="https://iili.io/3aS4Uv9.md.png" alt="Tiempos Manuel Pérez Vélez" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aS4Uv9.md.png)</center>
 <p align="center"><strong>Imagen 15: Tiempos Manuel Pérez Vélez – Sprint 3</strong></p>
 
 Manuel Pérez Vélez ha participado activamente en tareas de **documentación, soporte teórico y producción de contenidos de marketing** durante el Sprint 3 del proyecto ISPP, destacando por su implicación tanto en la organización interna del proyecto como en su comunicación externa.
@@ -461,11 +401,7 @@ Manuel ha asistido a múltiples **reuniones de equipo** y a las **clases teóric
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 29 horas, 17 minutos y 21 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aSpOCP">
-    <img src="https://iili.io/3aSpOCP.md.png" alt="Tiempos Andrés Pizzano Cerrillos" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aSpOCP.md.png)</center>
 <p align="center"><strong>Imagen 16: Tiempos Andrés Pizzano Cerrillos – Sprint 3</strong></p>
 
 Andrés Pizzano Cerrillos ha desarrollado un perfil técnico muy sólido durante el Sprint 3 del proyecto ISPP, con un foco especial en tareas de **despliegue, mantenimiento del sistema y resolución de errores funcionales**. Su trabajo ha sido clave para asegurar la continuidad operativa del sistema y la estabilidad de los cambios aplicados.
@@ -485,11 +421,7 @@ También ha intervenido en tareas generales de desarrollo, aplicando cambios sob
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 26 horas, 20 minutos y 18 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aUFmhb">
-    <img src="https://iili.io/3aUFmhb.md.png" alt="Tiempos Sergio Pons López" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aUFmhb.md.png)</center>
 <p align="center"><strong>Imagen 17: Tiempos Sergio Pons López – Sprint 3</strong></p>
 
 Sergio Pons López ha desempeñado un papel fundamental en la **documentación del proyecto** durante el Sprint 3, encargándose de elaborar, mantener y actualizar múltiples recursos clave como las actas de reuniones, retrospectivas, el manual de usuario y documentos de requisitos.
@@ -509,11 +441,7 @@ También ha participado en **reuniones clave del equipo**, sesiones teóricas y 
 **Periodo de análisis:** 28/03/2025 – 11/04/2025  
 **Horas totales registradas:** 21 horas, 10 minutos y 54 segundos
 
-<p align="center">
-  <a href="https://freeimage.host/i/3aU0zYP">
-    <img src="https://iili.io/3aU0zYP.md.png" alt="Tiempos Lorenzo Torralba Lanzas" style="width: 85%">
-  </a>
-</p>
+<center>![](https://iili.io/3aU0zYP.md.png)</center>
 <p align="center"><strong>Imagen 18: Tiempos Lorenzo Torralba Lanzas – Sprint 3</strong></p>
 
 Lorenzo Torralba Lanzas ha mantenido un rol técnico centrado y resolutivo durante el Sprint 3 del proyecto ISPP, con especial dedicación a tareas de **testing, seguridad y mantenimiento de módulos clave** como `Payment`, `EventProp`, `Servicios` y `Eventos`.
