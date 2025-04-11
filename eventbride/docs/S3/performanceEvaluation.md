@@ -1,6 +1,6 @@
 # Performance Evaluation
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -40,6 +40,7 @@
 | 27/03/2025 | v2.2    | Contribuciones de Antonio | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.3    | Contribuciones de David | Sprint 2 | María de la Salud Carrera Talaverón |
 | 27/03/2025 | v2.4    | Evaluación del equipo y contribuciones de Manuel | Sprint 2 | María de la Salud Carrera Talaverón |
+| 10/04/2025 | v3.0    | Actualización de apartados para el Sprint 3 | Sprint 3 | Antonio Montero López |
 
 ---
 
@@ -49,6 +50,7 @@
 2. [Devising a Project (DP)](#id2)
 3. [Sprint 1 (S1)](#id3)
 4. [Sprint 2 (S2)](#id4)
+4. [Sprint 3 (S3)](#id5)
 5. [Bibliografía](#bib)
 
 ---
@@ -59,24 +61,24 @@
 
 | Alumno                                | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso |
 |---------------------------------------|------|-----|-----|-----|------|------|-------|------|
-| Avilés Carrera, Francisco             | 10   | 10  | 10  |     |      |      |       |      |
-| Benito Hidalgo, Daniel                | 10   | 10  | 10  |     |      |      |       |      |
-| Blanquero Blanco, Ignacio             | 10   | 10  | 10  |     |      |      |       |      |
-| Cabello Martín, Adrián                | 10   | 10  | 10  |     |      |      |       |      |
-| Carrera Talaverón, María de la Salud  | 10   | 10  | 10  |     |      |      |       |      |
-| Castellanos Campaña, Pablo Jesús      | 10   | 10  | 10  |     |      |      |       |      |
-| De Celis Hurtado, Fernando José       | 10   | 10  | 10  |     |      |      |       |      |
-| Godoy Fernández, David                | 10   | 10  | 10  |     |      |      |       |      |
-| Hernández Sánchez, Miguel             | 10   | 10  | 10  |     |      |      |       |      |
-| Montero López, Antonio                | 10   | 10  | 10  |     |      |      |       |      |
-| Navas Remmers, Gonzalo                | 10   | 10  | 10  |     |      |      |       |      |
-| Noguera González, Héctor              | 10   | 10  | 10  |     |      |      |       |      |
-| Olmo Villegas, Natalia                | 10   | 10  | 10  |     |      |      |       |      |
-| Pérez Vélez, Manuel                   | 10   | 10  | 10  |     |      |      |       |      |
-| Pizzano Cerrillos, Andrés             | 10   | 10  | 10  |     |      |      |       |      |
-| Pons López, Sergio                    | 10   | 10  | 10  |     |      |      |       |      |
-| Torralba Lanzas, Lorenzo              | 10   | 10  | 10  |     |      |      |       |      |
-| **TOTAL**                             | 170  | 170 | 170 |     |      |      |       |      |
+| Avilés Carrera, Francisco             | 10   | 10  | 10  | 10  |      |      |       |      |
+| Benito Hidalgo, Daniel                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Blanquero Blanco, Ignacio             | 10   | 10  | 10  | 10  |      |      |       |      |
+| Cabello Martín, Adrián                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Carrera Talaverón, María de la Salud  | 10   | 10  | 10  | 10  |      |      |       |      |
+| Castellanos Campaña, Pablo Jesús      | 10   | 10  | 10  | 10  |      |      |       |      |
+| De Celis Hurtado, Fernando José       | 10   | 10  | 10  | 10  |      |      |       |      |
+| Godoy Fernández, David                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Hernández Sánchez, Miguel             | 10   | 10  | 10  | 10  |      |      |       |      |
+| Montero López, Antonio                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Navas Remmers, Gonzalo                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Noguera González, Héctor              | 10   | 10  | 10  | 10  |      |      |       |      |
+| Olmo Villegas, Natalia                | 10   | 10  | 10  | 10  |      |      |       |      |
+| Pérez Vélez, Manuel                   | 10   | 10  | 10  | 10  |      |      |       |      |
+| Pizzano Cerrillos, Andrés             | 10   | 10  | 10  | 10  |      |      |       |      |
+| Pons López, Sergio                    | 10   | 10  | 10  | 10  |      |      |       |      |
+| Torralba Lanzas, Lorenzo              | 10   | 10  | 10  | 10  |      |      |       |      |
+| **TOTAL**                             | 170  | 170 | 170 | 170 |      |      |       |      |
 
 Como se mencionó previamente en el documento titulado *retrospectiva-mitad-sprint-S1*, "todos aquellos cuyo porcentaje de completitud sea **mayor al 80%** se considerará que han rendido bien y recibirán un **10** como nota en la retrospectiva."
 
@@ -598,6 +600,151 @@ Cabe destacar que he asistido a todas las clases y a todas las reuniones realiza
 ### Torralba Lanzas, Lorenzo
 
 En este Sprint he desarrollado en su mayoria tareas de codigo: Primeramente, junto con mis compañeros David, Gonzalo, Fernando y Miguel, llevamos a cabo la creación y gestión de la lista de invitados, haciendo que se enviara un correo electrónico a los invitados para que confirmaran la asistencia. Después, junto con Gonzalo, estuve implementando la eliminación de los servicios por parte de un proveedor cuando no quisiera usarlos más, aunque finalmente se ha decidido quitar esta feature debido a que se borran cosas de valor de la base de datos como los ratings. Por otro lado, junto con mi compañero Andrés, incluimos unos workflows con GitHub Actions para que hicieran tareas como revisar el formato de los commits. A continuación, junto con mi compañero Miguel, implementamos la cancelación de un evento por parte de un proveedor. Finalmente y esta vez en solitario, añadí una sección al footer de la web de preguntas frecuentes.
+
+<div id='id5'></div>
+
+## Sprint 3 (S3)
+
+### Avilés Carrera, Francisco
+
+Durante este Sprint (28 de marzo - 10 de abril), he trabajado en diversas tareas. Cabe mencionar que, debido a la reestructuración del equipo en nuevos subgrupos, pasé a formar parte del equipo de Revisión, aunque he mantenido una estrecha colaboración con los equipos de Documentación y, especialmente, con el de Código.
+
+En la primera semana (28 de marzo - 3 de abril), participé activamente en la distribución de tareas, junto con mi compañero del equipo de Revisión y los responsables de los equipos de Código, Documentación y Marketing. En cuanto a responsabilidades concretas, tuve dos, además de realizar una supervisión continua de las demás tareas. La primera estaba relacionada con el desarrollo de código, específicamente en la mejora y corrección de fallos en las pantallas de Home y Eventos. La segunda fue una tarea de documentación, que consistió en calcular los costes acumulados hasta el momento.
+
+En la segunda semana (4 de abril - 10 de abril), volví a participar en la asignación de tareas. En cuanto a las tareas de desarrollo, me ocupé de implementar las medidas de seguridad en la entidad de eventos, así como de llevar a cabo los test unitarios y de integración correspondientes. Posteriormente, realicé un nuevo cálculo de los costes acumulados hasta esa fecha. El último día del Sprint, me encargué de actualizar la presentación del proyecto. Finalmente, me aseguré de que el entregable cumpliera con los Deliverable Failure Conditions.
+
+Cabe destacar que durante todo el Sprint he revisado Pull Requests, desempeñando mi rol de revisor, sugiriendo mejoras tanto en el código como en la documentación. Además, asistí a todas las reuniones, incluidas las generales (miércoles y sábados), las de asignación de tareas (sábados) y las de revisión del equipo de Código (lunes). También visualicé todas las píldoras teóricas y comenté lo aprendido con mis compañeros para aplicarlo en el proyecto.
+
+### Benito Hidalgo, Daniel
+
+Para el sprint 3 he realizado las siguientes tareas:
+
+Durante la primera semana de este he participado junto al grupo de código en la revisión y actualización de las funcionalidades implementadas, centrándome principalmente en la corrección de errores relacionados a la gestión de servicios por parte del rol de "proveedor", junto a esto, también participe junto a Adrián Cabello en la corrección de la gestión de servicios del rol de "admin", cambiando algunas cuestiones de UX/UI durante el proceso. Junto a todo esto, actualice el commitment agreement de los usuarios pilotos para introducir cambios relacionados a las fechas de encuesta, dicho documento fue introducido en el repositorio de código junto a las copias firmadas de los usuarios pilotos en la segunda semana.
+
+En la segunda semana he centrado mis esfuerzos en participar en la actualización del anuncio para inversores en la aplicación, así como en el planteamiento de nuevo contenido, junto a todo esto, en ambas semanas he realizado modificaciones en la presentación para recoger el feedback de los profesores sobre esta.
+Por último, he desarrollado las encustas a enviar a los usuarios piloto, y junto a mi compañero David Godoy he realizado la valoración de la actividad de los usuarios piloto durante este sprint junto a la clasificación y priorización del feedback que estos nos han dado.
+
+### Blanquero Blanco, Ignacio
+
+Durante las dos semanas correspondientes al Sprint 3, he llevado a cabo una serie de tareas clave para continuar con el desarrollo del proyecto, garantizando la calidad del producto y el cumplimiento de los objetivos establecidos.
+
+En primer lugar, elaboré el documento `Time Effort Report` correspondiente al Sprint 3, donde se detalla el tiempo invertido por cada miembro del equipo en las distintas actividades desarrolladas, así como el esfuerzo dedicado a cada una de ellas. Este informe resulta fundamental para evaluar el rendimiento y optimizar la planificación de los próximos sprints.
+
+En cuanto a la verificación del correcto funcionamiento del sistema, realicé pruebas funcionales (testing) sobre diversas funcionalidades críticas del proyecto. Entre ellas se encuentran los servicios asociados a las entidades EventProperties, OtherServices, Venue y Service, validando su comportamiento esperado y detectando posibles errores a corregir. Este proceso permitió reforzar la estabilidad y fiabilidad de la aplicación.
+
+Además, presté especial atención a los aspectos relacionados con la seguridad, llevando a cabo tareas de verificación y refuerzo de las medidas implementadas en los módulos correspondientes a Service, Venue y OtherService. Estas acciones fueron orientadas a garantizar la protección de los datos y el cumplimiento de las políticas de acceso definidas por el equipo.
+
+Por otro lado, participé activamente en la elaboración de las actas de reunión, recogiendo de forma clara y estructurada los temas tratados, las decisiones adoptadas y los compromisos asumidos por los distintos miembros del grupo. Este documento resultó clave para asegurar una comunicación fluida y un seguimiento eficaz de las tareas acordadas.
+
+También elaboré el Plan de Pruebas del proyecto, documento esencial para coordinar las tareas de testing, definir criterios de validación y asegurar la cobertura de los principales casos de uso de la aplicación.
+
+Finalmente, actualicé el documento `KBReport`, en el que se detallan las contribuciones del equipo a la `Base Común de Conocimiento (BCC)`, reflejando así nuestro compromiso con la colaboración interna y la consolidación del aprendizaje colectivo.
+
+### Cabello Martín, Adrián
+
+He realizado las diversas tareas:
+- Participar en diversas reuniones
+- Añadir seguridad a la entidad User
+- Hacer tests de integracion y unitarios para User
+- Arreglar el boton de volver a solicitar eventPropertie
+- Arreglar muchisimos bugs de todo el mundo
+- Ayudar a Nacho con la seguridad de su entidad
+- Ayudar con el Deploy
+- Arreglar el `Data.sql`
+
+### Carrera Talaverón, María de la Salud
+
+Desde el inicio del sprint 3, he trabajado en tareas de coordinación: sprint planning, reestimación del sprint, decisiones importantes a nivel de grupo y llevar un control sobre las tareas asignadas al subgrupo que coordino.
+
+Durante la primera semana, me encargué de detallar más el customer agreement, ya que estaba muy ambiguo en algunos aspectos, ayudé al grupo de código y a otros jefes a arreglar los deploys de sprints anteriores, ya que habían empezado a fallar, actualicé la política de cancelación en diversos documentos, redacté el análisis cuantitativo y cualitativo del equipo para la mitad del sprint, hice la release de mitad de sprint en el repositorio de código y me dediqué a configurar el docusaurus para el repositorio de documentación.
+
+Durante la segunda semana, he vuelto a actualizar el análisis cuantitativo y cualitativo, aunque esta vez recibí ayuda de Manuel Pérez, y he estado pasando los documentos antiguos a la carpeta adecuada para que se vieran en la aplicación web hecha con Docusaurus. También me he encargado de hacer dos releases, una para el repositorio de código y otra para el de documentación, y he hecho el deploy de la aplicación Docusaurus.
+
+### Castellanos Compaña, Pablo Jesús
+
+Durante este Sprint (28 de marzo-10 de abril), he realizado diversas tareas.
+
+En la primera semana (28 de marzo-4 de abril), participé en el reparto de tareas como jefe de equipo junto a la PM Natalia y a los otros jefes de equipo María, Francisco y Adrián. Luego, me centré en la tareas de código que se me asignaron para esa semana. Comencé por actualizar el datasql, arreglar fallos en el admin y también en el login y perfil del proveedor. Posteriormente participé con el equipo de marketing a grabar el primer anuncio de inversores, estuvimos Natalia, Fernando y Manuel. Al día siguiente terminamos de grabar el anuncio y también seguí arreglando el usuario admin, cosa que estuve haciendo hasta el día 2 de abril. También hice una vista con el histórico de ventas del proveedor, también pasé a un documento el guión que hicimos del video de inversores, que lo tenía apuntado en una libreta de las grabaciones de la semana anterior. El jueves estuve ayudando con la presentación.
+
+En la segunda semana (5-10 de abril), participé nuevamente en la asignación de tareas. Lo primero que hice fue ponerme a arreglar la seguridad de la entidad EventProperties, tarea que me costó más de lo esperado debido a que era mi primera vez realizando estas tareas. También he ido ejerciendo mis tareas de revisor, revisando pull requests. Por último, fui arreglando errores poco a poco según surgian y ayudé a Andrés a hacer el despliegue de esta entrega.
+
+Por último, resaltar que he asistido a todas las reuniones, incluidas las generales (miércoles y sábados) y las de jefes de equipo (sábados). También destacar, que he participado en varias tareas a las cuales no estaba asignado debido a que los compañeros iban solicitando ayuda dependiendo de su carga de trabajo.
+
+### De Celis Hurtado, Fernando José
+
+Durante este sprint, yo Fernando, he realizado diversas tareas entre las que se encuentran:
+
+    Todas las tareas se encuentran en la sección de marketing. Me he encargado de grabar dos anuncios de inversores, el primero no fue bien recibido así que tuvimos que grabar otro para satisfacer las necesidades, para esto propuse ideas sobre el guión a seguir, grabé y actué para dichos anuncios. Posteriormente me he encargado de la edición de dichos vídeos junto a Natalia, utilizamos dos herramientas para ello las cuales son Clipchamp y CapCut, generalmente nos dividimos el trabajo para que uno edite en una aplicación y el otro en la otra ya que no se puede trabajar simultáneamente en una misma aplicación. Por último también me he encargado de la edición de ambos videos demos, para esto si me he encargado yo solo.
+
+### Godoy Fernández, David
+
+He asistido a todas las reuniones del equipo planificadas durante el sprint. En cuanto a desarrollo, he trabajado en la implementación de la funcionalidad para recibir notificaciones por parte de los usuarios, incluyendo tanto la parte visual como la lógica de backend. También he contribuido en tareas relacionadas a la gestión de servicios y he mantenido una monitorización en el avance de la plataforma.
+
+### Hernández Sánchez, Miguel
+
+En este sprint he realizado la comprobación y posterior corrección de la seguridad del sistema de chat. Además he realizado la corrección del chat para su correcto funcionamiento en el servidor de App Engine. Además, he realizado la cobertura de tests del sistema de chat. Por último, he presentado en el dia de la examinacion del sprint 3.
+
+### Montero López, Antonio
+
+Durante este Sprint, he trabajado en diversas tareas. Debido a la reestructuración del equipo en nuevos subgrupos, pasé a formar parte del equipo de Documentación, por lo que durante este sprint he realizado únicamente tareas de este tipo.
+
+En la primera semana del sprint, actualicé el `análisis del equipo y Charter Goal` para reflejar la nueva distribución de los grupos y el documento `metrics.md` para que las métricas estén acordes a la nueva distribución. También reflejé el `sprint planning` de la semana en el documento correspondiente y configuré el docusaurus con una versión inicial de la página de contactos.
+
+Al pasar la mitad del sprint, he realizado el documento de `feedback` para a BCC, que contiene el feedback asignado en la semana de mitad del sprint. Además, empecé el `KBReport`, que contiene el feedback y una retrospectiva sobre el trabajo realizado sobre la BCC y las medidas que hemos tomado para solucionar los problemas de anteriores feedbacks, este trabajo lo delegué a mi compañero Ignacio Blanquero debido a mi falta de conocimiento sobre la solución de problemas. Modifiqué el `Docusaurus` junto a mis compañeros María Carrera y Manuel Pérez, insertando todos los documentos y ajustando el formato de los documentos e imágenes para el correcto funcionamiento en la web.
+
+Finalmente, realicé el documento de `performance evaluation`, que contiene las tareas realizadas por todos los componentes del proyecto.
+
+### Navas Remmers, Gonzalo
+
+Mi trabajo este sprint comenzó por implementar las notificaciones de la aplicación, desde el planteamiento a la implementación de la mayoría de los casos. Tras estar completamente implementada estuve asegurando la seguridad de la misma y generando los tests unitarios y de integración para la entidad. Por último me he dedicado a cambiar las alertas de la aplicación para que pasen de ser las por defecto del navegador a unas más acordes a la aplicación y con un mejor funcionamiento.
+
+### Noguera González, Héctor
+
+Mi trabajo realizado durante esta semana ha consistido en trabajar en la seguridad de las invitaciones, además de hacer test unitarios y de integración también sobre las invitaciones.
+Además trabajé junto a Miguel en los test de carga de la aplicación y en arreglar diversos problemas que surgieron en el despligue como problemas con el chat. Además como Policy Manager modifiqué el archivo `problems.md` añadiendo varios problemas que aparecieron esta semana.
+
+### Olmo Villegas, Natalia
+
+Durante este Sprint, he desempeñado mi labor como PM repartiendo las tareas junto a mis compañeros Adrián Cabello, María de la Salud Carrera, Pablo Jesús Castellanos y Francisco Avilés, coordinadores de los subgrupos. 
+Por otra parte, en este Sprint mis tareas principales han sido relacionadas con marketing, creando contenido para redes sociales, saliendo en los vídeos y editándolos. Esto incluye los anuncios que se pedían para este Sprint, de los cuales el de inversores ha sido completado y el de los clientes está planteado y con el guión desarrollado, a falta de grabarse y editarlo.
+
+### Pérez Vélez, Manuel
+
+Durante este Sprint, me enfoqué en varias tareas. Grabé la mayoría de los vídeos necesarios para este Sprint, proporcioné ideas para la gestión del marketing de la empresa y he personalizado la Home del Docusaurus con imágenes como las del logo de nuestra plataforma o información que considero relevante para conocernos más, además añadí varios botones que al clicarlos te redirigen a documentos que considero esenciales. También he actualizado el documento de alucinaciones de la IA, el documento de requisitos (hecho junto a Sergio) y el documento de análisis cuantitativo y cualitativo (hecho junto a María). Por último, he publicado varias historias en la cuenta de Instagram para que nuestros seguidores se mantengan al día de nuestras novedades o actualizaciones.
+
+También he recogido el feedback de varios grupos durante las semanas.
+
+### Pizzano Cerrillos, Andrés
+
+Durante este sprint, me enfoqué en resolver varios problemas funcionales y de seguridad, así como en implementar nuevas funcionalidades para mejorar tanto la experiencia de usuario como la estabilidad general del sistema.
+
+En primer lugar, corregí la funcionalidad de actualización de perfil, resolviendo un problema relacionado con el token de autenticación que impedía refrescar correctamente la sesión tras la modificación de los datos del usuario. Esto permitía mantener la integridad del estado del usuario sin necesidad de volver a iniciar sesión.
+
+También abordé un problema de estado en la barra de navegación. El uso de useNavigate generaba condiciones no deseadas en ciertas rutas donde el navbar no debía aparecer. Reorganicé esta lógica para evitar que la barra se mostrara incorrectamente, garantizando una navegación coherente.
+
+En cuanto al diseño, actualicé el footer para que los enlaces fueran personalizados según el rol del usuario, añadiendo también redes sociales que antes no estaban contempladas y realizando pequeños ajustes visuales. Asimismo, trabajé en mejorar la home page para darle un enfoque más visual y comercial, añadiendo transiciones que reforzaran una experiencia de navegación moderna y fluida.
+
+A nivel de seguridad, añadí restricciones para que solo los usuarios puedan acceder a propiedades de eventos que pertenezcan a sus propios eventos. Con esto se refuerza la lógica de permisos, asegurando que ningún usuario pueda consultar o modificar información que no le corresponde.
+
+Desarrollé un nuevo dashboard para los proveedores que permite visualizar qué usuarios han solicitado sus servicios y en qué estado se encuentra cada solicitud. Además, incorporé un calendario que permite ver en qué fechas se han realizado esas peticiones, facilitando la organización y planificación de la agenda del proveedor.
+
+En el ámbito del despliegue, mejoré el sistema incorporando versionado para evitar problemas de consistencia entre entornos. También integré websockets de forma estable, resolviendo un fallo previo que afectaba al funcionamiento del chat tras los despliegues.
+
+Por último, mejoré la lógica que permite a los proveedores deshabilitar sus servicios. A partir de ahora, solo es posible deshabilitarlos si no están vinculados a eventos que aún no se han celebrado. Con esto, se evita un uso abusivo por parte del proveedor y se protege al cliente que ya haya contratado el servicio.
+
+Este conjunto de tareas ha contribuido a una mejora significativa en la experiencia de usuario, la seguridad del sistema y la robustez de las operaciones en producción. Considero que este sprint ha sido productivo, con avances importantes en funcionalidades clave y en el refuerzo de comportamientos críticos del sistema.
+
+### Pons López, Sergio
+
+He realizado las actas del sprint correspondientes a todas las reuniones realizadas por todos los miembros(los miércoles y los sábados) y también la retrospectiva, tanto la de mitad de sprint como la de todo el sprint. 
+Además, durante la primera semana he realizado una modificación del commitment agreement que fue firmada por todos los miembros del grupo y modifiqué la presentación de la primera semana junto a mis compañeros. 
+Durnate la segunda semana actualicé el manual de usuario en solitario y actualicé el documento de requisitos junto a Manuel Pérez, aparte de hacer las tareas nombradas en el primer párrafo.
+
+También asistí a todas las reuniones menos a una y a las dos clases del sprint.
+
+### Torralba Lanzas, Lorenzo
+
+En este tercer sprint, he desarrollado sobre todo tareas de código y testing. Primeramente, estuve realizando una mejora en los servicios, en los cuales resalté la etiqueta de "Promocionado" para que fuera más vistosa y fuera más fácil reconocer los servicios que están promocionados, es decir, los que pertenecen a un proveedor con el plan premium. Además, corregí el mapa para que los recintos aparecieran en él, haciéndolo reactivo a los filtros. Por otro lado, elimine las coordenadas de la descripción de un recinto para que solo aparecieran en el mapa. Corregí los filtros para que funcionaran ya que anteriormente, al aplicar un filtro, la vista se volvía totalmente en blanco. Por último, en esta tarea cambié el botón de añadir un servicio a tu evento que era rojo y lo cambié a verde para que concordara con el resto de la app, puse el botón de cerrar estático para que no hubiera que deslizar hacia abajo para salir y que al añadir un servicio, no te aparecieran los eventos que ya tienen ese servicio contratado. A continuación, añadí un botón en los detalles de un evento que te pertenece para eliminar un servicio que hubieras contratado siempre y cuando solo estuviera con status ``ACCEPTED``, ``PENDING`` y ``CANCELLED``, es decir, que solo se pudiera cancelar antes de ser pagado o al ser cancelado por el proveedor. Tras esto, añadí seguridad a los payments comprobando en el PaymentService que solo el dueño de un evento o un administrador pudiera pagar servicios de dicho evento. Por otro lado, he actualizado el commitment agreement para añadir los nuevos roles y he añadido los nuevos cambios al changelog. Finalmente, estoy en proceso de creación de los test para Payments.
 
 <div id='bib'></div>
 
