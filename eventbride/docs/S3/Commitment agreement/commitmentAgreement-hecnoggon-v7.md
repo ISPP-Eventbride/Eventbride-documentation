@@ -1,4 +1,4 @@
-# Commitment Agreement v7
+# Commitment Agreement v7 - Héctor Noguera González
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center>![Logo](../../img/Eventbride.png)</center>
 

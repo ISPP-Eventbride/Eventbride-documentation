@@ -1,4 +1,4 @@
-# Commitment Agreement v7
+# Commitment Agreement v7 - Miguel Hernández Sánchez
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center>![Logo](../../img/Eventbride.png)</center>
 

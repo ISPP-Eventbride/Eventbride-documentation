@@ -1,4 +1,4 @@
-# Commitment Agreement v7
+# Commitment Agreement v7 - Lorenzo Torralba Lanzas
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center>![Logo](../../img/Eventbride.png)</center>
 

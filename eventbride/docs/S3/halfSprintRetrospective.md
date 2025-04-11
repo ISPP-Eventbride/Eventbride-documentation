@@ -226,8 +226,10 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 ### ¿Qué problemas han surgido?  
 
 Los problemas que nos han surgido en esta mitad de sprint han sido la alta de coordinación en la entrega de tareas: 
-- **Se detectó una desorganización el día de la entrega del sprint 2.** [Ver detalle.](.\Problems\problems.md#problema-6-falta-de-coordinación-comunicación-y-priorización-en-la-entrega-de-tareas)
-- **Inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos.** [Ver detalle](.\Problems\problems.md#problema-7-inconsistencias-en-la-ejecución-del-backend-debido-al-límite-de-tamaño-de-fila-en-la-base-de-datos). 
+- **Se detectó una desorganización el día de la entrega del sprint 2.**
+- **Inconsistencias en la ejecución del backend debido al límite de tamaño de fila en la base de datos.**
+
+Para más detalles sobre estos problemas, consultar el documento `problems.ms`.
 
 <div id='id15'></div>
 

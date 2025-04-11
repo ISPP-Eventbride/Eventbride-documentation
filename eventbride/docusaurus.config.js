@@ -119,7 +119,7 @@ const config = {
               },
               {
                 label: 'Sprint 3',
-                to: '/docs/intro',
+                to: '/docs/category/s3',
               },
               {
                 label: 'PPL',

@@ -209,7 +209,7 @@ A pesar de los logros, también se identificaron problemas que deben ser abordad
 
 - **Poca información en el documento de la IA:** El documento de la IA del sistema está incompleto o carece de suficiente detalle, lo que dificulta su comprensión y validación por parte del equipo. Se debería ampliar y clarificar para garantizar una documentación técnica adecuada.
 
-Están descritos con más detalle en el documento de [problems.md](.\Problems\problems.md). Ahí también se ha puede ver la solución propuesta y el seguimiento de la misma.
+Están descritos con más detalle en el documento `problems.md`. Ahí también se ha puede ver la solución propuesta y el seguimiento de la misma.
 
 <div id='lecciones'></div>
 

@@ -1,4 +1,4 @@
-# Commitment Agreement v7
+# Commitment Agreement v7 - María de la Salud Carrera Talaverón
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center>![Logo](../../img/Eventbride.png)</center>
 
