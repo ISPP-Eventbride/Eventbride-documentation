@@ -61,8 +61,7 @@ El proceso de evaluación de los usuarios piloto será **realizado** tras el **r
 Para la **evaluación** de la labor del usuario piloto en relación a las encuestas asignadas se usarán 2 métricas principales:
 
 - **Tiempo de respuesta del usuario**: Para cada encuesta se ha establecido un **periodo de 5 días** para la resolución de esta, este periodo ha sido establecido en el **commitment agreement** que dichos **usuarios** han tenido que aceptar y es recordado en cada comunicación referente a las encuestas y feedback. Esta métrica se tendrá en cuenta en la evaluación según el número de **días de retraso (DR)** con los que responda el usuario.
-Ante **posibles cambios** en las fechas para la entrega se **actualziará** el **commitment agreement** de los usuarios piloto   para que estos los acepten.
-
+Ante **posibles cambios** en las fechas para la entrega se **actualizará** el **commitment agreement** de los usuarios piloto   para que estos los acepten.
 - **Resolución de encuesta (R)**: Esta métrica será valorada como **apta (1)** en caso de que la **encuesta** sea **realizada** respondiendo a las preguntas obligatorias. En caso de que existan **preguntas obligatorias de tipo comentario** o texto largo, se considerará como **apto (1)** siempre que dichas **respuestas** ofrezcan **comentarios coherentes** en **relación** al objeto de la **pregunta**. En caso contrario se considerará como **no apto (0)**.
 
 Con estas **2 métricas** expresadas, pasamos a explicar como medimos la **calidad del feedback** proporcionado:
