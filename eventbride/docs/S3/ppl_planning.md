@@ -49,7 +49,6 @@
 - [Repositorio y Organización](#repositorio)
 - [Campaña de Lanzamiento](#lanzamiento)
 - [Lanzamiento en evento público](#lanzamientoPublico)
-- [Análisis de Competencia](#competencia)
 - [Análisis DAFO (SWOT)](#dafo)
 - [Planificación Técnica y Financiera](#planificacion)
 - [Plan de ROI (Retorno de Inversión)](#roi)
@@ -127,7 +126,6 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 3. **Post-lanzamiento (1-2 semanas):**
    - Tutoriales breves en stories  
    - Frases atrayentes
-   - Comparativas con apps existentes
 
 #### Recursos necesarios:
 
@@ -143,7 +141,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 <div id='lanzamientoPublico'></div>
 
-## Lanzamiento en evento público
+## Lanzamiento en evento público (suejto a lo que nos digan los profesores)
 
 - **Formato:** Evento virtual con demo y explicación funcional
 - **Duración:** 15-20 minutos
@@ -151,19 +149,6 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
   - Introducción al problema y solución  
   - Demo funcional de Eventbride  
   - Ronda de preguntas o feedback
-
----
-
-<div id='competencia'></div>
-
-## Análisis de Competencia
-
-- Comparativa con plataformas
-- Ventajas de Eventbride:
-  - Sistema de invitaciones
-  - Chat integrado
-  - Sin publicidad
-  - Integración sistema de pago
 
 ---
 
