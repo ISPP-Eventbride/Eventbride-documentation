@@ -51,8 +51,7 @@
 
 ## Introducción
 
-En este documento se introducirá la **información** referente al **proceso** de **evaluación** de los **usuarios piloto** de la plataforma, en primer lugar se realziará una definición del proceso de evaluación y las métricas usadas para efectuar dicha valoración, tras lo que se darán las evaluaciones de los usuarios piloto durante este primer sprint.
-
+En este documento se introducirá la **información** referente al **proceso** de **evaluación** de los **usuarios piloto** de la plataforma, en primer lugar se realizará una definición del proceso de evaluación y las métricas usadas para efectuar dicha valoración, tras lo que se darán las evaluaciones de los usuarios piloto durante este primer sprint.
 <div id='med'></div>
 
 ## Procesos y métricas aplicadas en la evaluación
