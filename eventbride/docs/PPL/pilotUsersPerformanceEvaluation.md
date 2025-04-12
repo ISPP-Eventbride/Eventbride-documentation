@@ -44,7 +44,8 @@
 ## Contenido
 1. [Introducción](#intro)
 2. [Procesos y métricas aplicadas en la evaluación ](#med)
-3. [Bibliografía](#bib)
+3. [Evaluación de usuarios piloto](#eval)
+4. [Bibliografía](#bib)
 
 <div id='intro'></div>
 
