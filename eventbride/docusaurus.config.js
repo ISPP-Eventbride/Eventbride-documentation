@@ -123,7 +123,7 @@ const config = {
               },
               {
                 label: 'PPL',
-                to: '/docs/intro',
+                to: '/docs/category/ppl',
               },
               {
                 label: 'WPL',
