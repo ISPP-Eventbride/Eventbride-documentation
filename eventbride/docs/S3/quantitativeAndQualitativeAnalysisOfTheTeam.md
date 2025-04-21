@@ -1,6 +1,6 @@
 # Análisis Cuantitativo y Cualitativo del Equipo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
 ### Grupo 3: Eventbride
 
