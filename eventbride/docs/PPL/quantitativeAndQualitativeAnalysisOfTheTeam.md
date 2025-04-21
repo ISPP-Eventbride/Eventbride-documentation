@@ -61,6 +61,7 @@
 | 10/04/2025 | v6.6    | Actualización análisis cuantitativo y cualitativo Sprint                      | Sprint 3 | Manuel Pérez Vélez |
 | 21/04/2025 | v7.0    | Creación del documento para el PPL                                            | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.1    | Actualización del contenido para referenciar el presente entregable           | PPL      | María de la Salud Carrera Talaverón |
+| 21/04/2025 | v7.2    | Objetivos cumplidos de métricas cuantitativas                                 | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -94,7 +95,7 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
 | Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 120.33 |
-| Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | 145 |
+| Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | 135.5 |
 | Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | 133 |
 | María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 121 |
@@ -121,25 +122,22 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
-| Daniel Benito Hidalgo          |    ✅     |       0       |
-| Fernando José de Celis Hurtado |    ✅     |       0       |
-| Natalia Olmo Villegas          |    ✅     |       3       |
-| Manuel Pérez Vélez             |    ✅     |       2       |
+| Daniel Benito Hidalgo          |    ✅     | ✅           |
+| Fernando José de Celis Hurtado |    ✅     | ✅           |
+| Natalia Olmo Villegas          |    ✅     | ✅           |
+| Manuel Pérez Vélez             |    ✅     | ✅           |
 
 <div id='id12'></div>
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del PPL, por tanto, se esperan alrededor de 4 documentos y 2 PRs por persona. Debido a la dificultad para encontrar el número de documentos al que ha contribuido cada miembro de este subgrupo, en lugar de decir la cantidad exacta, se va a comentar quién ha llegado al objetivo final de 5 documentos por persona. Esto se basará en el número de tareas de documentación asignadas a cada uno desde que comenzamos el desarrollo del proyecto.
-
-✅: Se ha cumplido el objetivo
-❌: No se ha cumplido el objetivo
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del PPL, por tanto, se esperan alrededor de 4 documentos y 2 PRs por persona.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
 | Ignacio Blanquero Blanco            | ✅         | ✅          |
 | María de la Salud Carrera Talaverón | ✅         | ✅          |
-| Antonio Montero López               | ✅         |       1      |
+| Antonio Montero López               | ✅         |       2      |
 | Sergio Pons López                   | ✅         |       2      |
 
 <div id='id13'></div>
