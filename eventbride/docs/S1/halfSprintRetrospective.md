@@ -1,6 +1,6 @@
 # Retrospectiva Mitad Sprint 1
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
 
 ### Grupo 3: Eventbride
 
