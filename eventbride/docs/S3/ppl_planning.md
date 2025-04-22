@@ -33,7 +33,7 @@
 
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
-| 02/04/2025 | v1.0    | Creación y primera versión | Sprint 3 | Pablo J. Castellanos Compaña, Natalia Olmo Villegas |
+| 02/04/2025 | v1.0    | Creación y primera versión | Sprint 3 | Pablo Jesús Castellanos Compaña, Natalia Olmo Villegas |
 
 
 ---
@@ -52,6 +52,9 @@
 - [Análisis DAFO (SWOT)](#dafo)
 - [Planificación Técnica y Financiera](#planificacion)
 - [Plan de ROI (Retorno de Inversión)](#roi)
+- [Estrategia de marketing](#marketing)
+- [Clientes de prueba](#clientes)
+- [Colaboraciones](#colaboraciones)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bib)
 
@@ -206,6 +209,251 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - **Posibles modelos:**
   - Freemium + funcionalidades premium (promociones, más servicios)
 - **Objetivo:** validar modelo con feedback inicial, iterar sobre MVP
+---
+
+
+<div id='marketing'></div>
+
+## Estrategia de marketing
+
+- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma Eventbride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
+
+- Segmentación:
+
+   - Edad: 18–30 años.
+
+   - Estado civil: parejas próximas a casarse, familias organizando bautizos/comuniones.
+
+   - Nivel educativo: universitarios y recién graduados, principalmente personas con uso activo de redes sociales.
+
+   - Geografía: inicialmente Sevilla, con la idea a futuro de expandirse a grandes núcleos urbanos como Madrid, Barcelona, Valencia o Bilbao.
+
+- Canales y tácticas:
+
+   - Redes sociales: Instagram y TikTok (contenidos visuales, reels y challenges); LinkedIn para captar proveedores.
+
+   - Propaganda: reparto de trípticos en áreas universitarias así como la colocación de carteles en las mismas.
+
+   - Email marketing: newsletters quincenales con tips de organización y promociones.
+
+---
+
+<div id='clientes'></div>
+
+## Clientes de prueba
+
+Para centrar la comunicación y los anuncios, hemos definido tres perfiles ficticios de clientes:
+
+
+### Clara, 22 años
+
+- Formación / Cargo: Estudiante de Magisterio, trabaja a tiempo parcial como auxiliar de biblioteca.
+
+- Hábitos digitales: Instagram y TikTok todos los días; busca recomendaciones en grupos de Facebook.
+
+- Objetivo principal: Organizar la comunión de su sobrino en junio con un presupuesto ajustado.
+
+- Frustraciones:
+
+   - No tiene tiempo para comparar precios ni contactar a múltiples proveedores.
+
+   - Desconoce qué aspectos legales (seguros, licencias) debe revisar.
+
+- Canal preferido: Stories de Instagram con tutoriales paso a paso.
+
+- Cómo le ayudamos: Con nuestra plataforma puede filtrar por precio y opiniones, y reservar en un clic.
+
+
+### Emilio, 29 años
+
+- Formación / Cargo: Community manager freelance.
+
+- Hábitos digitales: LinkedIn para networking; Google Ads para sus propios clientes; revisa foros de bodas.
+
+- Objetivo principal: Planificar el bautizo de su hija; busca optimizar presupuesto.
+
+- Frustraciones: 
+   - Proveedores tradicionales sin tarifas transparentes.
+
+   - Le cuesta centralizar invitaciones, pagos y confirmaciones de asistencia.
+
+- Canal preferido: Artículos SEO (“cómo planificar tu boda online”) y webinars cortos.
+
+- Cómo le ayudamos: Acceso a previews y comparativas en tiempo real, y herramientas de gestión de invitaciones.
+
+### Rosa, 32 años
+
+- Formación / Cargo: Responsable de recursos humanos.
+
+- Hábitos digitales: Email corporativo muy activo; LinkedIn y YouTube para casos de éxito.
+
+- Objetivo principal: Organizar una boda para 100 personas.
+
+- Frustraciones: 
+
+   - Coordinar catering, local, música y audiovisuales por separado consume mucho tiempo.
+
+   - Poca flexibilidad en descuentos por volumen.
+
+- Canal preferido: Demo privada en vídeo y presentación en PDF.
+
+- Cómo le ayudamos: Plataforma unificada que integra proveedores de catering, decoración y audiovisuales entre otros servicios.
+
+
+Tenemos también perfiles de inversores potenciales:
+
+
+### Marta Rodríguez  
+- **Edad**: 42 años  
+- **Ubicación**: Madrid  
+- **Rol**: Business Angel con 10 años de experiencia invirtiendo en tecnología  
+- **Hábitos digitales**: Revisa LinkedIn a diario, asiste a eventos de startups y escucha podcasts de inversión.  
+- **Objetivo principal**: Conseguir retornos rápidos en proyectos de alto potencial y apoyar equipos jóvenes e innovadores.  
+- **Frustraciones**:  
+  - Proyectos con equipo poco comprometido o con mala gobernanza.  
+  - Falta de métricas claras de tracción y unit economics sólidos.  
+- **Qué valora en Eventbride**:  
+  - Tecnología escalable en Google Cloud.  
+  - Equipo multidisciplinar de 17 desarrolladores y claros hitos de crecimiento.  
+- **Mensaje clave**: “Busco soluciones SaaS con tracción inicial y un plan de expansión bien definido.”  
+- **Canal preferido**: Pitch decks enviados por email y reuniones uno a uno tras un intro en eventos de networking.  
+- **Cita típica**: “Quiero ver usuarios activos, tasas de conversión y un roadmap claro de cómo escalar en España y luego en Europa.”  
+
+
+### Carlos Méndez  
+- **Edad**: 35 años  
+- **Ubicación**: Barcelona  
+- **Rol**: Socio en fondo de capital semilla (Seed Spain Ventures)  
+- **Hábitos digitales**: Participa en webinars de VC, revisa Dealroom y Crunchbase, gestiona campañas de Google Ads para sus propios emprendimientos.  
+- **Objetivo principal**: Diversificar su portfolio con marketplaces de nicho que puedan convertirse en líderes nacionales.  
+- **Frustraciones**:  
+  - Startups con burn rate excesivo y sin un modelo freemium o de upsell definido.  
+  - Falta de análisis de datos de usuario para optimizar el producto.  
+- **Qué valora en Eventbride**:  
+  - Modelo freemium + funcionalidades premium (analítica, recomendaciones AI).  
+  - Métricas iniciales: CAC bajo (0,12 €), conversión demo→registro del 70 %.  
+- **Mensaje clave**: “Quiero ver un MVP validado, canales de adquisición replicables y uso de data para iterar rápido.”  
+- **Canal preferido**: Demo Day presenciales y sesiones cortas de 30 min por videoconferencia con prototipo funcional.  
+- **Cita típica**: “Si mostráis que podéis adquirir 10 000 usuarios en seis meses con un presupuesto razonable, entramos.”  
+
+### Roberto García  
+- **Edad**: 50 años  
+- **Ubicación**: Valencia  
+- **Rol**: Director de Family Office con perfil conservador  
+- **Hábitos digitales**: Lectura de informes económicos, reuniones en persona, LinkedIn de forma ocasional.  
+- **Objetivo principal**: Invertir en negocios con riesgo moderado y crecimiento estable a medio plazo.  
+- **Frustraciones**:  
+  - Proyectos demasiado volátiles o sin un plan claro de monetización.  
+  - Falta de garantías legales y contractuales sólidas.  
+- **Qué valora en Eventbride**:  
+  - Mercado de eventos sociales con barrera de entrada digital (poco explotado).  
+  - Políticas de cancelación definidas y acuerdos con proveedores para minimizar riesgos.  
+- **Mensaje clave**: “Busco colaboraciones B2B estables y un flujo de caja predecible.”  
+- **Canal preferido**: Reuniones privadas en su oficina tras recibir un resumen ejecutivo por email.  
+- **Cita típica**: “Necesito ver políticas de riesgo claras, previsiones de cash flow y contratos con proveedores.”  
+
+---
+
+Por último, tenemos también posibles proveedores:
+
+### Carmen Torres (Catering Caramelo)  
+- **Tipo**: Empresa local de catering (5 empleados)  
+- **Experiencia**: 8 años organizando menús personalizados para bodas y eventos familiares.  
+- **Hábitos digitales**: Gestiona su web en WordPress; consulta Instagram para inspiración de montajes.  
+- **Objetivo principal**: Aumentar reservas fuera de su zona habitual y optimizar la gestión de pedidos.  
+- **Frustraciones**:  
+  - Marketing boca‑oreja limitado; pocas reservas corporativas.  
+  - Dificultad para llevar un calendario unificado de eventos.  
+- **Cómo le ayudamos**:  
+  - Panel de control con pedidos online y calendario integrado.  
+  - Acceso a nuevos segmentos (bodas, bautizos, cenas de empresa).  
+- **Canal preferido**: Webinar de demostración + onboarding guiado.  
+
+
+### Sergio López (FotoSergio Studio)  
+- **Tipo**: Fotógrafo freelance de eventos sociales  
+- **Experiencia**: 5 años como documentalista de bodas y sesiones familiares.  
+- **Hábitos digitales**: Instagram para mostrar portfolio; WhatsApp y email para coordinar sesiones.  
+- **Objetivo principal**: Simplificar facturación y confirmación de fechas, optimizar su agenda.  
+- **Frustraciones**:  
+  - Reservas perdidas por falta de confirmación online.  
+  - Gestión manual de contratos y pagos.  
+- **Cómo le ayudamos**:  
+  - Sistema de reservas con confirmación automática y pasarela de pago.  
+  - Recordatorios automáticos para clientes y organización de entregas.  
+- **Canal preferido**: Demo one‑to‑one con caso de uso real.  
+
+
+### Laura Prieto (Flores & Eventos)  
+- **Tipo**: Mediana empresa de decoración y floristería  
+- **Experiencia**: 12 años colaborando con hoteles y colegios para eventos corporativos y sociales.  
+- **Hábitos digitales**: LinkedIn para alianzas B2B; Pinterest para tendencias de diseño.  
+- **Objetivo principal**: Incrementar cartera de clientes corporativos.  
+- **Frustraciones**:  
+  - Difícil encontrar leads de empresas y colegios.  
+  - Contratos de gran volumen requieren negociaciones largas.  
+- **Cómo le ayudamos**:  
+  - Acceso a campañas segmentadas a responsables de RRHH y universidades.  
+  - Herramienta para enviar presupuestos y recibir confirmaciones online.  
+- **Canal preferido**: Presentación en LinkedIn y propuesta de colaboración.  
+
+
+### Miguel Sánchez (DJ Beats)  
+- **Tipo**: DJ y técnico de sonido autónomo  
+- **Experiencia**: 7 años pinchando en bodas, fiestas privadas y discotecas.  
+- **Hábitos digitales**: TikTok e Instagram para mostrar sets; WhatsApp Business para confirmar fechas.  
+- **Objetivo principal**: Aumentar el volumen de contratos y gestionar descuentos por paquetes.  
+- **Frustraciones**:  
+  - Horarios solapados por errores de planning.  
+  - Difícil llegar a eventos fuera de su red habitual.  
+- **Cómo le ayudamos**:  
+  - Marketplace de solicitudes de DJs con sistema de filtros (tipo de evento, fecha).
+  - Calendario actualizado automáticamente.  
+- **Canal preferido**: Notificaciones push y onboarding por video tutorial.  
+
+---
+
+<div id='colaboraciones'></div>
+
+## Colaboraciones
+
+- Wedding planners y agencias: acuerdos de co-branding: visibilidad en su web a cambio de una demo premium.
+
+- Blogs y portales de bodas: guest posts y banners con ofertas exclusivas.
+
+- Proveedores tecnológicos: integraciones con plataformas de pagos (Stripe, PayPal) y CRM para eventos.
+
+---
+
+<div id='busqueda'></div>
+
+## Herramientas de búsqueda
+
+Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con Eventbride y su entorno. Entre ellos estarán:
+
+- #eventbride
+- #bautizo
+- #eventos
+- #celebraciones
+- #boda
+- #sevilla
+- #comunion
+- #bodas
+- #bautizos
+- #comuniones
+
+Además para festividades especiales se podrán lanzar videos especiales con hashtags como:
+
+- #semanasanta  
+- #semanasanta2025  
+- #cofradesalacalle  
+- #feria  
+- #feria2025
+- #yahueleaferia
+- #navidad  
+- #añonuevo  
+- #felicesfiestas
+
 ---
 
 <div id='conclusiones'></div>
