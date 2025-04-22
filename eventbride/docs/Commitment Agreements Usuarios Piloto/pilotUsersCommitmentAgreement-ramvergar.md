@@ -1,6 +1,8 @@
-# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Hugo Borrego Ángulo
+# Acuerdo de Participación en el Programa de Usuarios Piloto de EventBride - Ramón Vergara Garrido
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>r>
+
+[Conversación de chatgpt usada en el desarrollo de este documento](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67c5b514-0e60-8008-8764-70efc40ab355 )
 
 ### Grupo 3: Eventbride
 
@@ -23,29 +25,28 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 25/03/2025
+### Fecha: 07/04/2025
 
-### Entregable: Sprint 2
+### Entregable: Sprint 3
 
-### Versión :2.0
+### Versión :3.0
 
-**Nombre del Usuario:** **Hugo Borrego Ángulo**
+**Nombre del Usuario:** Ramon Vergara Garrido
 
-**Fecha:** 17/03/2025
+**Fecha:** 02/04/2025
 
 ## Compromiso:
-Yo, **Hugo Borrego Ángulo**, me comprometo a participar activamente en el Programa de Usuarios Piloto de EventBride con el objetivo de evaluar, testear y aportar retroalimentación que contribuya a la mejora de la aplicación. Entiendo que mi participación es fundamental para optimizar la experiencia y las funcionalidades ofrecidas por la plataforma.
+Yo, Ramon Vergara Garrido, me comprometo a participar activamente en el Programa de Usuarios Piloto de EventBride con el objetivo de evaluar, testear y aportar retroalimentación que contribuya a la mejora de la aplicación. Entiendo que mi participación es fundamental para optimizar la experiencia y las funcionalidades ofrecidas por la plataforma.
 
 ## Actividades y Responsabilidades:
 
 1. ### Respuestas a Encuestas:
-    Durante el programa, deberé completar las siguientes encuestas, cumpliendo con el plazo máximo de 5 días para cada una a partir de su entrega:
+    Durante el programa, deberé completar las siguientes encuestas, cumpliendo con el plazo máximo de **4** días para cada una a partir de su entrega:
 
     - **06/03/2025:** formulario 1 (evaluación de mockups).
-    - **16/03/2025:** encuesta sobre la primera versión de la aplicación.
-    - **30/03/2025:** retroalimentación sobre la segunda versión.
-    - **13/04/2025:** evaluación de la tercera versión.
-    - **04/05/2025:** opinión sobre la versión final.
+    - **17/03/2025:** encuesta sobre la primera versión de la aplicación.
+    - **07/04/2025:** evaluación sobre aplicación base.
+    - **05/05/2025:** Opinión sobre versión final de la plataforma.
 
 2. ### Participación en Reuniones:
     Me comprometo a asistir a las reuniones programadas por el equipo de EventBride para discutir y analizar la retroalimentación, o aportar sugerencias de mejora para la plataforma. En caso de que no pueda asistir, me comprometo a comunicarlo a los responsables pertinentes.
@@ -65,7 +66,7 @@ Ponemos a su disposición el sistema que será usado por el equipo de gestión d
 
 Para la **evaluación** de la labor del usuario piloto en relación a las encuestas asignadas se usarán 2 métricas principales: 
 
-- **Tiempo de respuesta**: El usuario tiene 5 días para completar la encuesta, según lo acordado en el commitment agreement. Los retrasos se medirán en función del número de días de demora (**DR**). Cualquier cambio en la fecha se actualizará en el acuerdo, pidiendo al usuario la aceptación de este. 
+- **Tiempo de respuesta**: El usuario tiene **4** días para completar la encuesta, según lo acordado en el commitment agreement. Los retrasos se medirán en función del número de días de demora (**DR**). Cualquier cambio en la fecha se actualizará en el acuerdo, pidiendo al usuario la aceptación de este. 
 - **Resolución de la encuesta (R)**: Se considera **apta (1)** si se responden todas las preguntas obligatorias, En caso de que existan **preguntas obligatorias de tipo comentario** o texto largo, se considerará como **apto (1)** siempre que dichas **respuestas** ofrezcan **comentarios coherentes** en **relación** al objeto de la **pregunta**. En caso contrario, será **no apta (0)**. 
 
 Para evaluar la calidad de las respuestas se han definido 2 tipos de respuestas posibles: 
@@ -86,6 +87,4 @@ Al firmar este documento, confirmo mi compromiso de participar en el Programa de
 
 **Firma del Usuario:**
 
-[![3qmjEYb.png](https://iili.io/3qmjEYb.png)](https://freeimage.host/es)
-
-
+[![3B6U2Pp.png](https://iili.io/3B6U2Pp.png)](https://freeimage.host/es)
