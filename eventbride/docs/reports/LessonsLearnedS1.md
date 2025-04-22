@@ -37,6 +37,7 @@
 | 21/04/2025 | v1.1    | Tablas incidencias, índice actualizado     | PPL     | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v1.2    | Análisis de las condiciones de fallo       | PPL     | María de la Salud Carrera Talaverón |
 | 22/04/2025 | v1.3    | Revisión y correción general               | PPL     | Pablo Jesús Castellanos Compaña     |
+| 22/04/2025 | v1.3    | Metodología empleada                       | PPL     | Natalia Olmo Villegas               |
 
 ---
 
@@ -145,24 +146,73 @@ List of issues and their relation to the failure conditions.
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Nombre |  |  |  |  |  |  |  |
+| Inicio tardío de las tareas de código | Problemas en la configuración del nuevo entorno, sobre todo con la integración de MySQL y los archivos de configuración de application-properties. Por otra parte, el hecho de que crear un login desde 0 supuso muchos problemas sobre todo con JWT, algo con lo que no estábamos tan familiarizados | No se ha realizado Daily Scrum, por lo que era complicado llevar al día todo lo que se estaba por cada miembro del grupo | En este caso, no se acusará a nadie como fuente de este error, pues al crear un proyecto siempre suelen ocurrir problemas de configuración del entorno, ya sea por dependecias, incompatibilidades entre librerías o desconocimiento del nuevo entorno. El login también fue algo nuevo, por lo que la fuente de este error ha sido el propio sistema que estábamos intentando comprender| Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Para tomar acción en esto, más miembros del equipo trabajaron activamente en investigar cómo solucionar el problema del login. Afortunadamente, este problema fue resuelto y las demás tareas fueron replanificadas, para no sobrecargar de trabajo a aquellos que estuvieron arreglando el login. Finalmente, todas las tareas del Sprint pudieron ser entregadas a tiempo. | Resuelto | Esta incidencia podría haber sido un posible motivo para convertirse en un failure condition, como se especifa en el T-10. Todos los puntos de ese apartado podrían suponer un problema si no se conseguía avanzar en el código|
+| Intentamos abordar demasiado en lugar de iterar y mejorar gradualmente | Aquí no se destaca ningún problema técnico, pues ha sido más un problema más relacionado con la gestión del reparto de tareas | Problema con la estimación de los tiempos establecidos en cada tarea en el Sprint Planning, pues se se subestimó la complejidad de estas primeras funcionalidades y no se tuvieron en cuenta problemas que pudieran acontecer al configurar el nuevo entorno y el tiempo que llevaría arreglarlo. Todo esto no hubiera sucedido si se hubiera gestionado mejor el Sprint Planning | Project Manager y Jefes de Desarrollo | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Replanificación de las tareas, donde aquellas relacionadas con código que no se exigía para este entregable fueron desplazadas al S2, equilibrando el esfuerzo de todos los componentes del grupo y cumpliendo con las 10 horas semanales propuestas por la asignatura | Resuelto | Podría convertirse en un problema relacioando con el T-10 igualmente, ya que si se intentaba abordar demasidas funcionalidades para esta entrega, quizás no quedaría tiempo para llevar a cabo aquellas tareas que eran realmente necesarias especificadas en el T-10. Por ejemplo: An actor can list, edit or delete data that belong to another actor and only the admin should manage. Esto es algo que casi no conseguimos subsanar a tiempo por querer implementar más funcionalidades. |
+| Aislamiento de información | Aquí no se destaca ningún problema técnico, pues ha sido más un problema más relacionado con la gestión de la comunicación del equipo | Debido a esta falta de Daily Scrum y que las comunicaciones eran únicamente a través del grupo general de Whatsapp, este grupo llegaba a tener al día más de 200 mensajes, por lo que era inviable que todos los compañeros estuvieran leyendo constantemente el grupo. Además, mucha de esta información quizás no les interesaba, pues nno tenía ningún tipo de relación con el trabajo que ellos estaban destinados a hacer | Project Manager y Jefes de Proyecto | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Se crearon canales y comunicación y grupos de Whatsapp para cada subgrupo, reduciendo el número de mensajes considerablemente. El canal principal se usaría para dar avisos sobre asuntos importantes que interesaban a todos los integrantes del grupo. Estos avisos sólo podían ser mandados por la Project Manager y los Jefes de grupo. El grupo general sigue existiendo por si alguien que no pueda dar avisos quisiera comentar algo con todo el grupo. |  Resuelto| Esto podría haberse convertido en un failure condition por cualquiera de los puntos declarados en el documento oficial. Pero, sobre todo afectarían al T-9 y T-10, para el formato de la entrega y aquellas actividades de código que eran necesarias para superar este Sprint  |
 
 ### Identificadas por el equipo después de la entrega
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Nombre |  |  |  |  |  |  |  |
+| Mismo enlace de despliegue para Sprint 1 y Sprint 2 |  |  |  |  |  |  |  |
 
 ### Identificadas por el profesorado
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Nombre |  |  |  |  |  |  |  |
+| La IU se ha actualizado respecto a la entrega S1 descrita en revision.md |  |  |  |  |  |  |  |
+| Datos realistas en la plataforma |  |  |  |  |  |  |  |
 
 
 ## Metodología empleada
+Se ha seguido durante todo el proyecto la metodología ágil y scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Poroduct Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de Desarrollo se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se habñia realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review ppor falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
+1) Valorar más a los individuos e interacciones sobre procesos y herramientas
+2) Software funcionando sobre documentación extensiva
+3) Colaboración con el cliente sobre negociación contractual, de este cabe destacar la colaboración a través de las encuentas de usuarios pilotos potenciales
+4) Respuesta ante el cambio sobre seguir un plan.
 
-Software development methodology followed and the roles of all team members in the iteration under analysis.
+A continuación, se van a describir los roles de los integrantes del grupo y sus responsabilidades:
+
+- **Natalia Olmo** (Project Manager): Asegurar la correcta gestión del proyecto, facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos.
+  
+- **Manuel Pérez y Antonio Montero** (Aseguramiento de la calidad): Velar por la calidad del trabajo entregado, asegurando que los estándares definidos sean cumplidos en cada fase del desarrollo.
+  
+- **Ignacio Blanquero y Pablo Jesús Castellanos** (Secretarios): Registrar y documentar reuniones, acuerdos y decisiones clave, manteniendo organizada la información del proyecto.
+  
+- **Héctor Noguera** (Polity Manager): Garantizar que las reglas de trabajo en equipo se cumplan, fomentando un ambiente colaborativo y respetuoso.
+  
+- **Daniel Benito** (Diseño): Desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo.
+  
+- **Daniel Benito y Gonzalo Navas** (Gestores Usuarios Piloto): Gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones. También analizan el feedback para mejorar el producto.
+  
+- **Pablo Jesús Castellanos** (Coordinador de tiempos): Revisar que los tiempos asignados a las actividades sean razonables y acordes a las responsabilidades de cada miembro del equipo. Utilizando Clockify, analiza los registros de tiempo para asegurar que los plazos sean realistas y las tareas realizadas correspondan con las que cada miembro del equipo tenga asignadas.
+  
+- **María Carrera** (Jefe de Desarrollo 1), **Fran Avilés** (Jefe de Desarrollo 2) y **Pablo Jesús Castellanos** (Jefe de Desarrollo 3): Supervisar y coordinar el trabajo de desarrollo en sus respectivas áreas, asegurando que el código cumpla con los requisitos técnicos y funcionales.
+
+El grupo de 17 integrantes fue dividido en 3 subgrupos según sus habilidades de la siguiente forma:
+
+Grupo 1
+Natalia Olmo
+Pablo Jesús Castellanos
+Ignacio Blanquero
+Manuel Pérez
+Héctor Noguera
+Sergio Pons
+
+Grupo 2
+María de la Salud Carrera
+Fernando José de Celis
+Gonzalo Navas
+Adrián Cabello
+Antonio Montero
+
+Grupo 3
+Francisco Avilés
+Andrés Pizzano
+Lorenzo Torralba
+David Godoy
+Miguel Hernández
+Daniel Benito
 
 
 ## Conclusiones
