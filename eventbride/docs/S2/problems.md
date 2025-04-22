@@ -211,11 +211,11 @@ Para complementar el análisis de cada problema, se ha incluido la siguiente inf
 
 ### Gráficas de Rendimiento
 
-<center><img src="../Problems/grafica1.png" alt="Event Image"></img></center>
+<center>![](../img/grafica1-s2.png)</center>
 
-<center><img src="../Problems/grafica2.png" alt="Event Image"></img></center>
+<center>![](../img/grafica2-s2.png)</center>
 
-<center><img src="../Problems/grafica3.png" alt="Event Image"></img></center>
+<center>![](../img/grafica3-s2.png)</center>
 
 
 Las gráficas reflejan:
