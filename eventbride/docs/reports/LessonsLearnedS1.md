@@ -36,6 +36,7 @@
 | 21/04/2025 | v1.0    | Creación del documento y estructura básica | PPL     | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v1.1    | Tablas incidencias, índice actualizado     | PPL     | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v1.2    | Análisis de las condiciones de fallo       | PPL     | María de la Salud Carrera Talaverón |
+| 22/04/2025 | v1.3    | Revisión y correción general               | PPL     | Pablo Jesús Castellanos Compaña     |
 
 ---
 
@@ -108,7 +109,7 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
             - **La URL y las credenciales de acceso a la herramienta de registro de tiempo.** Esto fue cumplido.
         - **Requisitos potenciales para usar el sistema (como tener que activar el acceso a la ubicación, por ejemplo).** Esto no fue necesario.
         - **Un enlace a la demo enseñada en clase, en formato mp4 e incluida en el repositorio de GitHub.** Esto fue cumplido a medias, ya que se proporcionó un enlace a la demo pero ésta no se incluyó en el repositorio.
-- **Cualquier otro documento o vídeo que consideremos relevante debe estar en formato md, pdf, ppt, pptx 0 mp4.** Esto fue cumplido.
+- **Cualquier otro documento o vídeo que consideremos relevante debe estar en formato md, pdf, ppt, pptx o mp4.** Esto fue cumplido.
 - **Enseñar datos realistas en la demo del software.** Esto no fue cumplido en el Sprint 1, pero se corrigió como parte del feedback recibido de los profesores.
 - **Incluir una etiqueta apropiada para la versión entregada del código y de la documentación.** Esto fue cumplido.
 - **Hacer una release de GitHub enlazando la etiqueta apropiada. La release debe incluir un archivo zip con todo el contenido del repositorio**. Esto fue cumplido.
@@ -119,8 +120,8 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
 - **Una interacción legal con el sistema no da el comportamiento esperado.** Esta condición fue cumplida.
 - **No hay validación de formularios.** Esta condición no fue cumplida, pero se subsanó en sprints posteriores.
 - **Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar.** Esta condición no fue cumplida, pero se subsanó en sprints posteriores.
-- **El sistema no está desplegado en la nube o no está disponible en cualquier momento durante el curso (hasta Julio).** Esta condición no se cumplió, ya que el despliegue del Sprint 2 se hizo sobre el enlace del Sprint 1, no quedando esta versión disponible hasta final de curso. Se subsanó rescatando la versión correspondiente del repositorio y desplegando ésta en un nuevo enlace.
-- **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida, pero se subsanó en sprints posteriores.
+- **El sistema no está desplegado en la nube o no está disponible en cualquier momento durante el curso (hasta Julio).** Esta condición no se cumplió, ya que el despliegue del Sprint 2 se hizo sobre el enlace del Sprint 1, no quedando esta versión disponible hasta final de curso. Se subsanó rescatando la versión correspondiente del repositorio y desplegandola en un nuevo enlace.
+- **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida debido a lo mencionado anteriormente, pero se subsanó en sprints posteriores.
 
 
 ## Lista de incidencias
