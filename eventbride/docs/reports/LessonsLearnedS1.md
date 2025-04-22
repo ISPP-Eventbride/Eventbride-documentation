@@ -37,7 +37,7 @@
 | 21/04/2025 | v1.1    | Tablas incidencias, índice actualizado     | PPL     | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v1.2    | Análisis de las condiciones de fallo       | PPL     | María de la Salud Carrera Talaverón |
 | 22/04/2025 | v1.3    | Revisión y correción general               | PPL     | Pablo Jesús Castellanos Compaña     |
-| 22/04/2025 | v1.3    | Metodología empleada y lista de incidencias                     | PPL     | Natalia Olmo Villegas               |
+| 22/04/2025 | v1.4    | Metodología empleada y lista de incidencias                     | PPL     | Natalia Olmo Villegas               |
 
 ---
 
