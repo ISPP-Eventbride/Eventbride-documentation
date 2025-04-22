@@ -1,6 +1,6 @@
 # Commitment Agreement v7 - Fernando José de Celis Hurtado
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
 ### Grupo 3: Eventbride
 

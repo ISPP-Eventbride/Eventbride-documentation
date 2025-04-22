@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # AI Usage
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
 
 ### Grupo 3: EventBride
 
