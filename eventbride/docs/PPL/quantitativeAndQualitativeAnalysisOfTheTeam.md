@@ -63,6 +63,7 @@
 | 21/04/2025 | v7.1    | Actualización del contenido para referenciar el presente entregable           | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.2    | Objetivos cumplidos de métricas cuantitativas                                 | PPL      | María de la Salud Carrera Talaverón |
 | 23/04/2025 | v7.3    | Métricas cuantitativas                                                        | PPL      | María de la Salud Carrera Talaverón |
+| 23/04/2025 | v7.4    | Métricas cualitativas y conclusiones                                          | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -173,7 +174,7 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 ## Análisis cualitativo
 
-Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v7, que han firmado todos los desarrolladores durante el Sprint 3, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
+Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v7, que firmaron todos los desarrolladores durante el Sprint 3, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
 
 La labor de los desarrolladores y testers incluye:
 
@@ -195,7 +196,7 @@ La labor de los desarrolladores y testers incluye:
 | Fernando José de Celis Hurtado      | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | David Godoy Fernández               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Antonio Montero López               | No procede | Casi siempre        | Sí              | Mejorable    | Mejorable                 | No procede |
+| Antonio Montero López               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Gonzalo Navas Remmers               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Natalia Olmo Villegas               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
@@ -218,15 +219,15 @@ Los aseguradores de la calidad (QA) deben velar por la calidad del trabajo entre
 
 El siguiente rol es el de secretario; esta función la cumplen Ignacio Blanquero Blanco y Sergio Pons López. Se encargan de registrar y documentar reuniones, acuerdos y decisiones clave, manteniendo organizada la información del proyecto. Ambos secretarios han cumplido con sus responsabilidades en este entregable.
 
-Héctor Noguera González es el Policy Manager, que se encarga de garantizar que las reglas de trabajo en equipo se cumplan, fomentando un ambiente colaborativo y respetuoso. Durante este entregable, aunque no ha sido necesaria su intervención debido a que los problemas surgidos entre miembros del grupo se han solucionado de forma amistosa, se ha encargado de poner al día el documento registro de los problemas (`problems.md`).
+Héctor Noguera González es el Policy Manager, que se encarga de garantizar que las reglas de trabajo en equipo se cumplan, fomentando un ambiente colaborativo y respetuoso. Durante este entregable no ha sido necesaria su intervención, debido a que no han surgido nuevos problemas a registrar.
 
-Daniel Benito Hidalgo es el encargado de diseño, cuya función es desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo. En la práctica, se ha estado encargando de definir la imagen de la marca Eventbride, coordinando el diseño de los mockups y de las presentaciones de clase. De ahora en adelante, supervisará que se siga la temática establecida tanto en la aplicación como en las presentaciones.
+Daniel Benito Hidalgo es el encargado de diseño, cuya función es desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo. En la práctica, se ha estado encargando de definir la imagen de la marca Eventbride, coordinando el diseño de los mockups y de las presentaciones de clase. Supervisa también que se siga la temática establecida tanto en la aplicación como en las presentaciones. Ha recibido ayuda de Antonio Montero López.
 
-En cuanto a la gestión de los usuarios piloto, los miembros encargados de coordinarse con ellos son Daniel Benito Hidalgo, Gonzalo Navas Remmers, Fernando José de Celis y David Godoy. Su responsabilidades incluyen gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones, además de analizar el feedback para mejorar el producto. Durante este entregable, les han hecho llegar la correspondiente encuesta de feedback, dándoles un plazo razonable para contestar, y han analizado las respuestas obtenidas.
+En cuanto a la gestión de los usuarios piloto, los miembros encargados de coordinarse con ellos son Daniel Benito Hidalgo, Gonzalo Navas Remmers, Fernando José de Celis y David Godoy. Su responsabilidades incluyen gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones, además de analizar el feedback para mejorar el producto. Durante este entregable, no han sido necesarias sus funciones, ya que no se programó ninguna recogida de feedback para el período que abarca el PPL; la siguiente recogida del feedback será posterior a esta entrega.
 
 María de la Salud Carrera Talaverón es la coordinadora de tiempos. Su labor consiste en revisar que los tiempos asignados a las actividades sean razonables y acordes a las responsabilidades de cada miembro del equipo. Utilizando Clockify, analiza los registros de tiempo para asegurar que los plazos sean realistas y las tareas realizadas correspondan con las que cada miembro del equipo tenga asignadas. En este entregable, ha cumplido con su función adecuadamente. Ha recibido ayuda de los otros Jefes y de la PM, especialmente durante el Sprint Planning.
 
-Por último, Fernando José de Celis Hurtado es el encargado de GDPR. Su responsabilidad reside en asegurar que el diseño, desarrollo y ejecución cumplan con la protección de datos personales, garantizando el principio de "privacidad desde el diseño y por defecto", y que se respeten los derechos de los usuarios en todo momento. Durante el PPL, ha estado revisando las tareas relacionadas con el Acuerdo de Cliente, los Términos y Condiciones, las Implicaciones Legales,etc.
+Por último, Fernando José de Celis Hurtado es el encargado de GDPR. Su responsabilidad reside en asegurar que el diseño, desarrollo y ejecución cumplan con la protección de datos personales, garantizando el principio de "privacidad desde el diseño y por defecto", y que se respeten los derechos de los usuarios en todo momento. Durante el PPL, no ha sido necesaria su intervención directa, pero ha llevado un control sobre las tareas de código, supervisando que no se contradigan las políticas anteriormente redactadas.
 
 
 <div id='id3'></div>
@@ -239,7 +240,7 @@ A día de 24/04/2025 no se ha llevado a cabo ninguna reestimación de la planifi
 
 ## Conclusiones
 
-En conclusión, el análisis del PPL de "Eventbride" ha permitido observar tanto los logros como las áreas que requieren ajustes en la ejecución del proyecto. El equipo ha demostrado un buen compromiso con las tareas asignadas, aunque algunos aspectos, como la gestión del tiempo y la comunicación, han mostrado oportunidades de mejora. Este análisis no solo refleja el rendimiento actual, sino que también establece una base sólida para la mejora continua en los siguientes entregables, con el objetivo de cumplir de manera eficiente con los plazos y expectativas del proyecto.
+El equipo de Eventbride ha mostrado un alto grado de compromiso y organización durante el PPL. La mayoría de los miembros han alcanzado los objetivos cuantitativos y cualitativos, cumpliendo con sus tareas y roles asignados. Aunque hay pequeños márgenes de mejora, especialmente en la implementación de algunos tests, el grupo ha trabajado de forma coordinada y eficaz. Este rendimiento establece una base sólida para completar con éxito el proyecto en las próximas entregas.
 
 <div id='bib'></div>
 
