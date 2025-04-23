@@ -31,13 +31,13 @@
 
 ### Historial de versiones
 
-| Fecha      | Versión | Descripción                                | Entrega | Contribuyente(s)                    |
-|------------|---------|--------------------------------------------|---------|-------------------------------------|
-| 21/04/2025 | v1.0    | Creación del documento y estructura básica | PPL     | María de la Salud Carrera Talaverón |
-| 21/04/2025 | v1.1    | Tablas incidencias, índice actualizado     | PPL     | María de la Salud Carrera Talaverón |
-| 21/04/2025 | v1.2    | Análisis de las condiciones de fallo       | PPL     | María de la Salud Carrera Talaverón |
-| 22/04/2025 | v1.3    | Revisión y correción general               | PPL     | Pablo Jesús Castellanos Compaña     |
-| 22/04/2025 | v1.4    | Metodología empleada y lista de incidencias                     | PPL     | Natalia Olmo Villegas               |
+| Fecha      | Versión | Descripción                                 | Entrega | Contribuyente(s)                    |
+|------------|---------|---------------------------------------------|---------|-------------------------------------|
+| 21/04/2025 | v1.0    | Creación del documento y estructura básica  | PPL     | María de la Salud Carrera Talaverón |
+| 21/04/2025 | v1.1    | Tablas incidencias, índice actualizado      | PPL     | María de la Salud Carrera Talaverón |
+| 21/04/2025 | v1.2    | Análisis de las condiciones de fallo        | PPL     | María de la Salud Carrera Talaverón |
+| 22/04/2025 | v1.3    | Revisión y correción general                | PPL     | Pablo Jesús Castellanos Compaña     |
+| 22/04/2025 | v1.4    | Metodología empleada y lista de incidencias | PPL     | Natalia Olmo Villegas               |
 
 ---
 
@@ -55,7 +55,11 @@
 
 ## Introducción
 
-Introducción.
+## Introducción
+
+Este documento recopila las lecciones aprendidas por el Grupo 3 (Eventbride) durante el desarrollo del Sprint 1 en la asignatura de Ingeniería del Software y Práctica Profesional (ISPP). El objetivo principal es reflexionar sobre los aspectos que funcionaron correctamente, aquellos que generaron incidencias y cómo hemos aplicado acciones correctivas para mejorar nuestro proceso de trabajo y la calidad del entregable.
+
+A lo largo de este informe se analiza el cumplimiento de las condiciones de fallo definidas en el entregable, se presenta una lista detallada de incidencias identificadas antes y después de la entrega, así como por el profesorado, y se describen las causas técnicas y de proceso asociadas a cada una. Además, se expone la metodología ágil Scrum seguida, los roles asumidos por los miembros del equipo y las estrategias de comunicación empleadas.
 
 
 ## Análisis de las condiciones de fallo
@@ -165,10 +169,10 @@ List of issues and their relation to the failure conditions.
 
 
 ## Metodología empleada
-Se ha seguido durante todo el proyecto la metodología ágil y scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Poroduct Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de Desarrollo se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se habñia realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review ppor falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
-1) Valorar más a los individuos e interacciones sobre procesos y herramientas
-2) Software funcionando sobre documentación extensiva
-3) Colaboración con el cliente sobre negociación contractual, de este cabe destacar la colaboración a través de las encuentas de usuarios pilotos potenciales
+Se ha seguido durante todo el proyecto la metodología ágil y scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Product Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de Desarrollo se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se había realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review por falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
+1) Valorar más a los individuos e interacciones sobre procesos y herramientas.
+2) Software funcionando sobre documentación extensiva.
+3) Colaboración con el cliente sobre negociación contractual, de este cabe destacar la colaboración a través de las encuentas de usuarios pilotos potenciales.
 4) Respuesta ante el cambio sobre seguir un plan.
 
 A continuación, se van a describir los roles de los integrantes del grupo y sus responsabilidades:
@@ -187,24 +191,24 @@ A continuación, se van a describir los roles de los integrantes del grupo y sus
   
 - **Pablo Jesús Castellanos** (Coordinador de tiempos): Revisar que los tiempos asignados a las actividades sean razonables y acordes a las responsabilidades de cada miembro del equipo. Utilizando Clockify, analiza los registros de tiempo para asegurar que los plazos sean realistas y las tareas realizadas correspondan con las que cada miembro del equipo tenga asignadas.
   
-- **María Carrera** (Jefe de Desarrollo 1), **Fran Avilés** (Jefe de Desarrollo 2) y **Pablo Jesús Castellanos** (Jefe de Desarrollo 3): Supervisar y coordinar el trabajo de desarrollo en sus respectivas áreas, asegurando que el código cumpla con los requisitos técnicos y funcionales.
+- **María Carrera** (Jefe de Desarrollo 1), **Pablo Jesús Castellanos** (Jefe de Desarrollo 2) y **Fran Avilés** (Jefe de Desarrollo 3): Supervisar y coordinar el trabajo de desarrollo en sus respectivas áreas, asegurando que el código cumpla con los requisitos técnicos y funcionales.
 
 El grupo de 17 integrantes fue dividido en 3 subgrupos según sus habilidades de la siguiente forma:
 
 Grupo 1
+María de la Salud Carrera
+Fernando José de Celis
+Gonzalo Navas
+Adrián Cabello
+Antonio Montero
+
+Grupo 2
 Natalia Olmo
 Pablo Jesús Castellanos
 Ignacio Blanquero
 Manuel Pérez
 Héctor Noguera
 Sergio Pons
-
-Grupo 2
-María de la Salud Carrera
-Fernando José de Celis
-Gonzalo Navas
-Adrián Cabello
-Antonio Montero
 
 Grupo 3
 Francisco Avilés
