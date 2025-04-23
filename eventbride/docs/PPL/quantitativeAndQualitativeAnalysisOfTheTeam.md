@@ -40,7 +40,7 @@
 | 10/03/2025 | v2.3    | Adición de tareas sobre gestión de usuarios piloto y estimación de una tarea  | Sprint 1 | María de la Salud Carrera Talaverón |
 | 10/03/2025 | v2.4    | Adición de nuevas tareas estimadas                                            | Sprint 1 | María de la Salud Carrera Talaverón |
 | 10/03/2025 | v2.5    | Adición de nuevos asignados a una tarea                                       | Sprint 1 | María de la Salud Carrera Talaverón |
-| 12/03/2025 | v3.0    | Adición de nuevas tareas asignadas y reasignación de las anteriroes           | Sprint 1 | María de la Salud Carrera Talaverón |
+| 12/03/2025 | v3.0    | Adición de nuevas tareas asignadas y reasignación de las anteriores           | Sprint 1 | María de la Salud Carrera Talaverón |
 | 12/03/2025 | v3.1    | Análisis cualitativo actualizado                                              | Sprint 1 | María de la Salud Carrera Talaverón |
 | 12/03/2025 | v3.2    | Introducción y conclusión                                                     | Sprint 1 | María de la Salud Carrera Talaverón |
 | 13/03/2025 | v4.0    | Análisis cuantitativo                                                         | Sprint 1 | María de la Salud Carrera Talaverón |
