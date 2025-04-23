@@ -38,6 +38,7 @@ sidebar_position: 3
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 22/04/2025 | v1.0    | Creación del documento y estructura básica | PPL | Francisco Avilés Carrera |
+| 23/04/2025 | v1.1    | Moneteización y conclusiones | PPL | Pablo Jesús Castellanos Compaña |
 
 ---
 
@@ -59,22 +60,37 @@ sidebar_position: 3
 En este documento se detalla cómo nuestra aplicación busca generar ingresos, cúales son las estrategias de monetización planteadas, los planes de precios disponibles, los canales a través de los cuales se distribuye el producto y los principales costes asociados a corto y medio plazo. Nuestro objetivo es construir un modelo rentable que permita escalar el proyecto, generando valor tanto para los usuarios como para los posibles inversores.
 
 
-
-
 <div id='id1'></div>
 
 ## Modelo de negocio a alto nivel
 
 Nuestra plataforma digital se centra en simplificar y optimizar la organización de eventos familiares como bodas, bautizos y comuniones, conectando de forma eficiente a las familias y parejas con los proveedores adecuados. A través de una interfaz intuitiva, ofrecemos una experiencia centralizada que permite gestionar todos los aspectos del evento en un solo lugar, reduciendo tiempos de búsqueda y facilitando la toma de decisiones.
 
-El modelo de negocio combina dos vías principales de monetización: por un lado, aplicamos comisiones a organizadores y proveedores por las contrataciones realizadas a través de la plataforma; por otro, ofrecemos planes de suscripción premium dirigidos a los proveedores, que les permitemejorar su visibilidad dentro de la plataforma y ampliar la oferta de servicios disponibles para los usuarios. Esta combinación asegura ingresos recurrentes y escalabilidad, alineada con nuestra propuesta de valor basada en eficiencia, centralización y confianza.
+El modelo de negocio combina dos vías principales de monetización: por un lado, aplicamos comisiones a organizadores y proveedores por las contrataciones realizadas a través de la plataforma; por otro, ofrecemos planes de suscripción premium dirigidos a los proveedores, que les permite mejorar su visibilidad dentro de la plataforma y ampliar la oferta de servicios disponibles para los usuarios. Esta combinación asegura ingresos recurrentes y escalabilidad, alineada con nuestra propuesta de valor basada en eficiencia, centralización y confianza.
 
 
 <div id='id2'></div>
 
 ## Monetización
 
-TO DO.
+Los  ingresos  económicos  de  la  aplicación  vendrán  dados  por  los  siguientes 
+
+parámetros:  
+
+- Comisiones a usuarios y proveedores
+  - Comisiones por pago a los usuarios: 5%
+  - Comisiones por cada venta de oferta a los proveedores: 2.5%
+- Plan premium proveedores:
+  - Aumento del número de servicios a ofertar
+  - Patrocinio para que sus servicios salgan mejor posicionados
+
+La aplicación será gratuita para los usuarios y ofrecerá una buena experiencia sin interrupciones con la finalidad de que el usuario pase por todo el proceso de creación de su evento hasta llegar a la pasarela de pago. En ella, se añadirá una comisión del 5% del total para el usuario. El usuario aceptará la comisión ya que está demostrado que un cliente es más susceptible a una venta una vez que abre la cartera. Además, el usuario ha ido creando la idea del evento de sus sueños en la cabeza y está a un click (pagar) de tener todo el evento organizado y por una pequeña comisión aceptará el pago.
+
+En el caso de los proveedores, tendrán una comisión del 2.5% por cada servicio que vendan. La comisión de los proveedores debe ser baja para garantizar que los proveedores continúen usando la aplicación. No ganamos dinero por los intereses de un proveedor sino por la suma de comisiones que generan entre todos los servicios que existen en un pago.
+
+Por último, los proveedores tendrán un número limitado de 3 ofertas. Para muchos de ellos, solo harán falta de 1 a 3 ofertas. Por ejemplo, un mago autónomo pondrá sólo su oferta  de  mago,  sin  embargo,  una  empresa  de  catering  puede  tener  varios  caterings disponibles.  
+
+Si el proveedor está satisfecho con la aplicación querrá tener un mayor número de ofertas a causa del crecimiento de su negocio y será susceptible al pago de una membresía premium que permitirá a esta poner ofertas ilimitadas. Además se le posicionará mejor en la aplicación. Este plan premium costará 50€ al mes.
 
 
 
@@ -151,8 +167,15 @@ Los gastos operativos representan los costes recurrentes necesarios para mantene
 
 ## Conclusiones
 
-TO DO.
+Eventbride cuenta con dos fuentes principales de ingresos: las comisiones por transacción (5% al organizador y 2,5% al proveedor) y la suscripción premium de proveedores (50€/mes). Esta combinación ofrece un flujo recurrente y estable, ya que mientras las comisiones dependen del volumen de eventos gestionados, la membresía premium supone un ingreso fijo mes a mes.
 
+El modelo gratuito, tanto para organizadores como para proveedores con hasta tres ofertas, facilita la captación rápida de usuarios y proveedores. Al eliminar barreras de entrada, se fomenta la adopción masiva de la plataforma, lo que, a su vez, potencia el efecto red y aumenta el número de transacciones sujetas a comisión.
+
+El plan premium añade valor a los proveedores al permitir ofertas ilimitadas y mejorar su posicionamiento dentro de la plataforma. Esto incentiva a los profesionales con catálogos extensos a suscribirse, generando un doble beneficio: el proveedor accede a más visibilidad y la plataforma consolida una fuente de ingresos recurrente.
+
+En cuanto a la estructura de costes, el CAPEX inicial (89920,14€) y el OPEX mensual (45268,29€) ofrecen una visión clara de la inversión necesaria. Durante los primeros seis meses, con dos de ellos en producción, el desembolso total asciende a 180 456,72 €. Para un periodo medio de veinte meses en producción, el coste acumulado sería de 995285,94€. Estos datos permiten planificar el ciclo de financiación y asegurarse de contar con los recursos adecuados.
+
+Por último, si estimamos que con 1500 eventos al mes y un ticket medio de 1000€, la comisión del organizador (5%) genera 75000€ mensuales, sería suficiente para cubrir los costes operativos y obtener margen para reinversión. De este modo, Eventbride se presenta como un proyecto rentable y escalable, con una fuente diversificada de ingresos y un control claro de los gastos.
 
 
 <div id='bib'></div>
