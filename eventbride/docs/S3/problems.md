@@ -502,11 +502,11 @@ Para complementar el análisis de cada problema, se ha incluido la siguiente inf
 
 ### Gráficas de Rendimiento
 
-<center>![](grafica1.png)</center>
+<center>![](../img/grafica1.png)</center>
 
-<center>![](grafica2.png)</center>
+<center>![](../img/grafica2.png)</center>
 
-<center>![](grafica3.png)</center>
+<center>![](../img/grafica3.png)</center>
 
 
 Las gráficas reflejan:
