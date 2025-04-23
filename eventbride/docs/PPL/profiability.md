@@ -39,6 +39,7 @@ sidebar_position: 3
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 22/04/2025 | v1.0    | Creación del documento y estructura básica | PPL | Francisco Avilés Carrera |
 | 23/04/2025 | v1.1    | Moneteización y conclusiones | PPL | Pablo Jesús Castellanos Compaña |
+| 23/04/2025 | v1.2   | Retoques menores | PPL | Francisco Avilés Carrera |
 
 ---
 
@@ -73,9 +74,7 @@ El modelo de negocio combina dos vías principales de monetización: por un lado
 
 ## Monetización
 
-Los  ingresos  económicos  de  la  aplicación  vendrán  dados  por  los  siguientes 
-
-parámetros:  
+Los  ingresos  económicos  de  la  aplicación  vendrán  dados  por  los  siguientes parámetros:  
 
 - Comisiones a usuarios y proveedores
   - Comisiones por pago a los usuarios: 5%
@@ -173,10 +172,7 @@ El modelo gratuito, tanto para organizadores como para proveedores con hasta tre
 
 El plan premium añade valor a los proveedores al permitir ofertas ilimitadas y mejorar su posicionamiento dentro de la plataforma. Esto incentiva a los profesionales con catálogos extensos a suscribirse, generando un doble beneficio: el proveedor accede a más visibilidad y la plataforma consolida una fuente de ingresos recurrente.
 
-En cuanto a la estructura de costes, el CAPEX inicial (89920,14€) y el OPEX mensual (45268,29€) ofrecen una visión clara de la inversión necesaria. Durante los primeros seis meses, con dos de ellos en producción, el desembolso total asciende a 180 456,72 €. Para un periodo medio de veinte meses en producción, el coste acumulado sería de 995285,94€. Estos datos permiten planificar el ciclo de financiación y asegurarse de contar con los recursos adecuados.
-
-Por último, si estimamos que con 1500 eventos al mes y un ticket medio de 1000€, la comisión del organizador (5%) genera 75000€ mensuales, sería suficiente para cubrir los costes operativos y obtener margen para reinversión. De este modo, Eventbride se presenta como un proyecto rentable y escalable, con una fuente diversificada de ingresos y un control claro de los gastos.
-
+Por último, en cuanto a la estructura de costes, el CAPEX inicial (89920,14€) y el OPEX mensual (45268,29€) ofrecen una visión clara de la inversión necesaria. Durante los primeros seis meses, con dos de ellos en producción, el desembolso total asciende a 180 456,72 €. Para un periodo medio de veinte meses en producción, el coste acumulado sería de 995285,94€. Estos datos permiten planificar el ciclo de financiación y asegurarse de contar con los recursos adecuados.
 
 <div id='bib'></div>
 
