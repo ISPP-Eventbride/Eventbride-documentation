@@ -1,6 +1,6 @@
 ﻿# Análisis de competidores
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center>![Logo](../img/Eventbride.png)</center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -38,6 +38,7 @@
 |15/02/2025 |v1.2     |Corrección feedback semana 2 |DP ||
 |18/02/2025 |v1.3     |Revisión y finalización del documento |DP ||
 |21/04/2025 |v1.4     |Pasar a md el documento y ajustarlo a la plantilla|PPL|Sergio Pons López|
+|23/04/2025 |v1.5     |Añadir los factores de diferenciación con la competencia|PPL|Sergio Pons López, Ignacio Blanquero Blanco|
 
 
 ## Contenido 
@@ -58,8 +59,9 @@
 14. [Competidor 13: La Organizadora de Sueños](#id13)
 15. [Competidor 14: Good Party](#id14)
 16. [Competidor 15: Anaïs Bodas y Eventos ](#id15)
-17. [Conclusión](#concl)
-18. [Bibliografía](#bib)
+17. [Diferencia con la competencia](#id16)
+18. [Conclusión](#concl)
+19. [Bibliografía](#bib)
 
 
 
@@ -829,6 +831,55 @@ Finalmente, se estudian estrategias de marketing y canales de distribución util
   - Anaïs Bodas y Eventos utiliza su sitio web oficial y redes sociales como Instagram  y  Facebook  para  promocionar  sus  servicios,  compartir testimonios  de  clientes  y  mostrar  ejemplos  de  eventos  organizados. Además, cuentan con un podcast llamado "Las Bodas de  Anaïs", donde entrevistan a proveedores del sector y ofrecen consejos útiles para  las parejas que están planificando su boda.
 - **¿Resuena su mensaje de marca con su público objetivo?**: 
   - El mensaje de Anaïs Bodas y Eventos se centra en la tradición, pasión y amor  en  la  organización  de  bodas,  especialmente  enfocadas  en ceremonias  católicas  en  Sevilla.  Este  enfoque  parece  resonar positivamente con su audiencia, como lo demuestran las interacciones en sus redes sociales y la participación en sus iniciativas, como el podcast y los sorteos. 
+
+<div id='id16'></div>
+
+## Diferencia con la competencia
+
+**Eventbride** nace como respuesta a una necesidad concreta y no suficientemente cubierta por otras plataformas del sector: **la planificación integral y personalizada de eventos cristianos** como bodas, bautizos y comuniones. Este enfoque específico, lejos de limitar el público objetivo, permite a la empresa brindar un servicio profundamente adaptado a las expectativas culturales, espirituales y familiares de este tipo de celebraciones, aspecto que otras plataformas —más generalistas— ignoran o apenas rozan superficialmente.
+
+**1. Especialización temática: de lo genérico a lo significativo**
+
+Plataformas como **bodas.net**, **celebrarlo.com**, **Planning.Wedding** o **The Knot** abordan los eventos desde una perspectiva genérica. Aunque permiten organizar bodas y en algunos casos eventos similares, carecen de una orientación clara hacia los valores cristianos que muchas familias buscan en celebraciones como comuniones o bautizos.
+
+**Eventbride**, en cambio, no sólo organiza el evento: lo **contextualiza dentro de su significado religioso**, colaborando con proveedores que entienden la importancia de ciertos símbolos, protocolos y detalles. Esta especialización da como resultado una experiencia más rica, coherente y emocionalmente relevante para el cliente.
+
+**2. Interacción en tiempo real y cercanía humana**
+
+Una de las grandes barreras de las plataformas tradicionales es su funcionamiento como simples listados. Los usuarios exploran proveedores y eventualmente contactan por medios externos. Esto no solo ralentiza el proceso, sino que reduce la confianza y la capacidad de respuesta ante imprevistos.
+
+**Eventbride integra un sistema de chat en tiempo real**, tanto entre clientes y proveedores como con los administradores de la plataforma. Esta funcionalidad refuerza la **comunicación fluida**, resuelve dudas al instante y fomenta una **relación de confianza continua** durante la organización del evento.
+
+**3. Sistema de reservas visual e intuitivo**
+
+Las soluciones competidoras rara vez ofrecen una experiencia visual completa al momento de reservar un espacio. Algunas incluyen galerías de imágenes, pero pocas integran **mapas interactivos** con la **geolocalización exacta** de salones, fincas o restaurantes.
+
+**Eventbride transforma la reserva en una experiencia informada**, donde el cliente no solo ve el lugar, sino que entiende su ubicación, accesos, entorno y distancia respecto a otros puntos de interés. Esta capa de información visual aporta seguridad al cliente, ahorra tiempo en visitas innecesarias y evita malentendidos logísticos.
+
+**4. Pago seguro e integrado, sin pasos intermedios**
+
+En el resto de plataformas, el proceso de contratación muchas veces termina fuera del entorno digital, mediante transferencia bancaria o acuerdos privados que escapan al control del cliente y del proveedor.
+
+**Eventbride integra una pasarela de pago segura** (PayPal y tarjeta), permitiendo abonar **señas o el total del servicio desde la propia plataforma**, sin necesidad de salir del entorno. Esta integración:
+
+- Aumenta la seguridad de la operación.
+- Facilita el seguimiento y control de pagos.
+- Mejora la trazabilidad ante disputas o cancelaciones.
+- Genera confianza y profesionalismo.
+
+**5. Modelo de negocio transparente para proveedores**
+
+Mientras que muchas plataformas cobran simplemente por estar visibles en un listado (sin asegurar retorno de inversión), Eventbride ofrece **un modelo híbrido de suscripción + comisiones por ventas**, asegurando que:
+
+- **Los proveedores pueden destacar su oferta** mediante un plan Premium.
+- **Solo pagan si venden**, lo cual alinea sus intereses con los de la plataforma.
+- **Tienen acceso a una pestaña de contrataciones y solicitudes**, donde gestionan fácilmente sus relaciones comerciales.
+
+Esta propuesta convierte a Eventbride no solo en un portal de anuncios, sino en una **herramienta de gestión de negocio** para proveedores.
+
+**6. Sistema integral de invitaciones y gestión de invitados**
+
+Eventbride no olvida el corazón del evento: **las personas**. La plataforma permite crear invitaciones personalizadas, enviarlas digitalmente y gestionar en tiempo real las confirmaciones de asistencia. Esta funcionalidad, rara en otras plataformas, ahorra tiempo, reduce el estrés y permite llevar un control preciso del aforo, necesidades de catering, regalos, etc.
 
 <div id='concl'></div>
 
