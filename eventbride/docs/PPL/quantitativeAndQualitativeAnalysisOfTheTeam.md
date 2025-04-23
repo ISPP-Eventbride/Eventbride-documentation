@@ -62,6 +62,7 @@
 | 21/04/2025 | v7.0    | Creación del documento para el PPL                                            | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.1    | Actualización del contenido para referenciar el presente entregable           | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.2    | Objetivos cumplidos de métricas cuantitativas                                 | PPL      | María de la Salud Carrera Talaverón |
+| 23/04/2025 | v7.3    | Métricas cuantitativas                                                        | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -94,23 +95,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 120.33 |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 133:02:13 |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | 135.5 |
-| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | 133 |
-| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 121 |
+| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | 135:29:22 |
+| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | 141:06:55 |
+| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 138:56:19 |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | 129.91 |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 108.08 |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 125.5 |
-| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | 119.66 |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 116.5 |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 122 |
+| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | 139:00:04 |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 110:31:59 |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 126:42:25 |
+| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | 130:59:29 |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 117:15:53 |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 128:14:47 |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 129.5 |
-| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | 129.33 |
-| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | 135.91 |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 96.5 |
+| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 135:21:31 |
+| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | 129:19:20 |
+| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | 144:16:32 |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 102:36:20 |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -138,7 +139,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 | Ignacio Blanquero Blanco            | ✅         | ✅          |
 | María de la Salud Carrera Talaverón | ✅         | ✅          |
 | Antonio Montero López               | ✅         |       2      |
-| Sergio Pons López                   | ✅         |       2      |
+| Sergio Pons López                   | ✅         | ✅          |
 
 <div id='id13'></div>
 
@@ -151,11 +152,11 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 | Ignacio Blanquero Blanco            | No procede    | No procede | ✅   |
 | Adrián Cabello Martín               | ✅             | ✅      |  ✅   |
 | David Godoy Fernández               | ✅             | ✅      |  ✅   |
-| Miguel Hernández Sánchez            | ✅             | ✅      |   0   |
+| Miguel Hernández Sánchez            | ✅             | ✅      |   2   |
 | Gonzalo Navas Remmers               | ✅             | ✅      |  ✅   |
 | Héctor Noguera González             | ✅             | ✅      |  ✅   |
 | Andrés Pizzano Cerrillos            | ✅             | ✅      |   0   |
-| Lorenzo Torralba Lanzas             | ✅             | ✅      |   0   |
+| Lorenzo Torralba Lanzas             | ✅             | ✅      |  ✅   |
 
 <div id='id14'></div>
 
