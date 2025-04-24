@@ -166,6 +166,7 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 | 26 | Ayuda para la creación de la página del equipo en Docusaurus | María de la Salud Carrera Talaverón | 30/03/2025 y 31/03/2025 | Chat con GitHub Copilot --> No procede | Sprint 3 |
 | 27 | Explicación de un componente de Docusaurus | María de la Salud Carrera Talaverón | 31/03/2025 | Chat con GitHub Copilot --> No procede | Sprint 3 |
 | 28 | Ayuda para incluir política de cancelación | María de la Salud Carrera Talaverón | 02/04/2025 | [Sugerencias de ChatGPT](https://chatgpt.com/share/67ed4285-9d8c-8008-b2ef-5601324b1f6c) | Sprint 3 |
+| 29 | Creación índice de contenido | María de la Salud Carrera Talaverón | 21/04/2025 | Chat con GitHub Copilot --> No procede | PPL |
 
 
 <div id='id8'></div>
@@ -202,6 +203,7 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |26 |7 |Sí |Sí |1 hora y 30 minutos|
 |27 |1 |Sí |No procede | 30 minutos|
 |28 |1 |Sí |No | 30 minutos|
+|29 |2 |Sí |No | 10 minutos|
 
 <div id='alucinaciones'></div>
 
