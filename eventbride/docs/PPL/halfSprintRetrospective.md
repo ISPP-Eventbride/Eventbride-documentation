@@ -63,6 +63,7 @@
 
 ## Introducción
 
+Este documento tiene como objetivo evaluar el rendimiento del equipo y la productividad individual durante la primera mitad del sprint del Proyecto de Programación en Lógica (PPL). Para ello, se han establecido una serie de métricas objetivas que incluyen la relación entre el tiempo estimado y el real, el porcentaje de tareas completadas, la carga de trabajo individual y el cumplimiento de estándares de calidad en código y documentación. Además, se ha recopilado feedback del equipo con el fin de identificar aciertos, áreas de mejora y lecciones clave de esta etapa del proyecto.
 
 <div id='id2'></div>
 
@@ -73,15 +74,15 @@ Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicado
 <div id='id3'></div>
 
 ### Tiempo estimado vs. tiempo real
-En esta ocasión, el tiempo estimado de trabajo han sido **132.5 horas** para la mitad del PPL, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **XXX horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
+En esta ocasión, el tiempo estimado de trabajo han sido **132 horas** para la mitad del PPL, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **110 horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
 
-Contando con las horas de reunión y las horas de clase, el tiempo estimados sería **217.5 horas** y el trabajo realizado hasta ahora sería **XXX horas**.
+Contando con las horas de reunión y las horas de clase, el tiempo estimados sería **200 horas** y el trabajo realizado hasta ahora sería **170 horas**.
 
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
 
-Se han completado un total de **XX tareas sobre XX**, lo que supone un **XXX%** del total de tareas a realizar. Estamos muy orgullosos de haber podido llegar a esta cifra de tareas completadas en esta mitad del PPL.
+Se han completado un total de **29 tareas sobre 33**, lo que supone un **88%** del total de tareas a realizar. Estamos orgullosos ya que se han completado la mayoría de las tareas de esta mitad del PPL.
 
 <div id='id5'></div>
 
@@ -128,23 +129,23 @@ La siguiente tabla representa las horas trabajadas por cada uno de los miembros 
 
 | Nombre | Horas trabajadas antes del PPL | Horas estimadas hasta la mitad del PPL | Horas trabajadas hasta la mitad del PPL (11/04 - 24/04) | Porcentaje de completitud tareas de mitad del PPL |
 |--|-----|-----|----|------|
-| Adrián Cabello Martín          | 132h 57min | 6h       | 8h 09min  | 100% |
-| Andrés Pizzano Cerrillos       | 129h 10min | 3h       | 11h 20min | 100% |
-| Antonio Montero López          | 121h 41min | 9h       | 13h 11min | 100% |
+| Adrián Cabello Martín          | 132h 57min | 6h       | 9h 37min  | 100% |
+| Andrés Pizzano Cerrillos       | 129h 10min | 3h       | 11h 20min | XX% |
+| Antonio Montero López          | 121h 41min | 9h       | 13h 11min | 83% |
 | Daniel Benito Hidalgo          | 152h 03min | 25h      | 14h 32min | 100% |
-| David Godoy Fernández          | 109h 34min | 6h       | 57min     | 100% |
-| Fernando José de Celis Hurtado | 135h 10min | 10h      | 7h 41min  | 100% |
-| Francisco Avilés Carrera       | 124h 58min | 6h 30min | 11h 16min | 100% |
-| Gonzalo Navas Remmers          | 116h 30min | 4h       | XXh XXmin | 100% |
+| David Godoy Fernández          | 109h 34min | 6h       | 3h 46min  | 100% |
+| Fernando José de Celis Hurtado | 135h 10min | 10h      | 8h 39min  | XX% |
+| Francisco Avilés Carrera       | 124h 58min | 6h 30min | 11h 51min | 100% |
+| Gonzalo Navas Remmers          | 116h 30min | 4h       | 11h 03min | 100% |
 | Héctor Noguera González        | 122h 33min | 3h       | 6h 02min  | 100% |
-| Ignacio Blanquero Blanco       | 135h 29min | 5h 30min | XXh XXmin | 100% |
-| Lorenzo Torralba Lanzas        | 98h 46min  | 0h       | 4h 04min  | 100% |
+| Ignacio Blanquero Blanco       | 135h 29min | 5h 30min | 7h 33min  | 100% |
+| Lorenzo Torralba Lanzas        | 98h 46min  | 0h       | 4h 04min  | XX% |
 | Manuel Pérez Vélez             | 129h 44min | 10h 45min| 5h 36min  | 100% |
-| María de la Salud Carrera Talaverón| 126h 04min | 9h 30min | 13h 25min  | 100% |
-| Miguel Hernández Sánchez           | 125h 24min | 5h       | 7h 55min   | 100% |
-| Natalia Olmo Villegas              | 181h       | 15h 30min| 11h 32min  | 100% |
-| Pablo Jesús Castellanos Compaña    | 209h 11min | 11h 30min| 15h 18min  | 100% |
-| Sergio Pons López                  | 135h 55min | 6h       | 9h 49min   | 100% |
+| María de la Salud Carrera Talaverón| 126h 04min | 9h 30min | 13h 25min   | XX% |
+| Miguel Hernández Sánchez           | 125h 24min | 5h       | 11h 05min   | 100% |
+| Natalia Olmo Villegas              | 181h       | 15h 30min| 11h 32min   | XX% |
+| Pablo Jesús Castellanos Compaña    | 209h 11min | 11h 30min| 15h 18min   | 100% |
+| Sergio Pons López                  | 135h 55min | 6h       | 10h 32min   | 100% |
 
 <div id='id9'></div>
 
@@ -221,14 +222,21 @@ Para más detalles sobre estos problemas, consultar el documento `problems.md`.
 
 ### Lecciones aprendidas  
 
-- **La nueva división de grupos nos ha ayudado:** La reorganización por áreas de trabajo ha mejorado la eficiencia y ha permitido a cada grupo centrarse en tareas más específicas y acordes a sus fortalezas.
+- **La organización por subgrupos es efectiva.**
+
+- **Automatización y el uso de IA para revisión de código**
+
+- **Grabar y editar vídeos requiere más planificación de la que parecía.**
 
 <div id='concl'></div>
 
-
 ## Conclusiones
 
+La retrospectiva de mitad de sprint ha demostrado que el equipo está avanzando de manera sólida y organizada. Con un 88% de tareas completadas y un tiempo trabajado cercano al estimado, se puede afirmar que el ritmo de trabajo ha sido constante y productivo. La mayoría de los integrantes han cumplido con sus responsabilidades, destacando tanto en la parte de desarrollo como en la documentación y producción audiovisual.
 
+El uso de herramientas como GitHub Projects para el seguimiento de tareas y GitHub Copilot para la revisión de código ha resultado ser especialmente útil, mejorando la calidad técnica y la eficiencia. La reorganización por subgrupos del anterior sprint nos ha servido para una mayor especialización, aunque se ha detectado una falta de visibilidad del trabajo entre grupos, que se abordará con reuniones periódicas entre los jefes de subgrupo.
+
+También se ha aprendido que los problemas imprevistos, como la caída del despliegue por falta de créditos, deben contemplarse en la planificación. Finalmente, se concluye que con pequeños ajustes en la coordinación y la previsión de tareas, se puede encarar la segunda mitad del sprint con muy buenas expectativas.
 
 <div id='bib'></div>
 
