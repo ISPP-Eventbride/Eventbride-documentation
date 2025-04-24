@@ -231,11 +231,8 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - Canales y tácticas:
 
    - Redes sociales: Instagram y TikTok (contenidos visuales, reels y challenges); LinkedIn para captar proveedores.
-
-   - Propaganda: reparto de trípticos en áreas universitarias así como la colocación de carteles en las mismas.
-
-   - Email marketing: newsletters quincenales con tips de organización y promociones.
-
+   
+   - Posibilidad de ampliar a reparto de trípticos y flyers propagandísticos a futuro.
 ---
 
 <div id='clientes'></div>
@@ -513,7 +510,7 @@ Además para festividades especiales se podrán lanzar videos especiales con has
 
 EventBride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
 
-El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener feedback real, mejorar iterativamente y consolidar EventBride como una solución útil y escalable para la organización de eventos.
+El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar EventBride como una solución útil y escalable para la organización de eventos.
 
 ---
 
