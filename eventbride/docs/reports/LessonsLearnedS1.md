@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 23/04/2025
+### Fecha: 24/04/2025
 
 ### Entregable: PPL
 
@@ -39,27 +39,20 @@
 | 22/04/2025 | v1.3    | Revisión y correción general                | PPL     | Pablo Jesús Castellanos Compaña     |
 | 22/04/2025 | v1.4    | Metodología empleada y lista de incidencias | PPL     | Natalia Olmo Villegas               |
 | 23/04/2025 | v1.5    | Explicación incidencia mismo enlace despliegue S1 y S2 | PPL     | Francisco Avilés Carrera               |
+| 24/04/2025 | v1.6    | Revisión final | PPL     | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña               |
 
 ---
 
 ## Contenido
-- [Lecciones Aprendidas tras el Sprint 1](#lecciones-aprendidas-tras-el-sprint-1)
-  - [Ingeniería del Software y Práctica Profesional (ISPP)](#ingeniería-del-software-y-práctica-profesional-ispp)
-    - [Grupo 3: Eventbride](#grupo-3-eventbride)
-    - [Miembros:](#miembros)
-    - [Fecha: 23/04/2025](#fecha-23042025)
-    - [Entregable: PPL](#entregable-ppl)
-    - [Historial de versiones](#historial-de-versiones)
-  - [Contenido](#contenido)
-  - [Introducción](#introducción)
-  - [Análisis de las condiciones de fallo](#análisis-de-las-condiciones-de-fallo)
-  - [Lista de incidencias](#lista-de-incidencias)
-    - [Identificadas por el equipo antes de la entrega](#identificadas-por-el-equipo-antes-de-la-entrega)
-    - [Identificadas por el equipo después de la entrega](#identificadas-por-el-equipo-después-de-la-entrega)
-    - [Identificadas por el profesorado](#identificadas-por-el-profesorado)
-  - [Metodología empleada](#metodología-empleada)
-  - [Conclusiones](#conclusiones)
-  - [Bibliografía](#bibliografía)
+- [Introducción](#introducción)
+- [Análisis de las condiciones de fallo](#análisis-de-las-condiciones-de-fallo)
+- [Lista de incidencias](#lista-de-incidencias)
+  - [Identificadas por el equipo antes de la entrega](#identificadas-por-el-equipo-antes-de-la-entrega)
+  - [Identificadas por el equipo después de la entrega](#identificadas-por-el-equipo-después-de-la-entrega)
+  - [Identificadas por el profesorado](#identificadas-por-el-profesorado)
+- [Metodología empleada](#metodología-empleada)
+- [Conclusiones](#conclusiones)
+- [Bibliografía](#bibliografía)
 
 
 ## Introducción
@@ -120,7 +113,7 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
             - **La URL del repositorio de GitHub.** Esto fue cumplido.
             - **La URL y las credenciales de acceso a la herramienta de registro de tiempo.** Esto fue cumplido.
         - **Requisitos potenciales para usar el sistema (como tener que activar el acceso a la ubicación, por ejemplo).** Esto no fue necesario.
-        - **Un enlace a la demo enseñada en clase, en formato mp4 e incluida en el repositorio de GitHub.** Esto fue cumplido a medias, ya que se proporcionó un enlace a la demo pero ésta no se incluyó en el repositorio.
+        - **Un enlace a la demo enseñada en clase, en formato mp4 e incluida en el repositorio de GitHub.** Esto fue cumplido a medias, ya que se proporcionó un enlace a la demo pero esta no se incluyó en el repositorio.
 - **Cualquier otro documento o vídeo que consideremos relevante debe estar en formato md, pdf, ppt, pptx o mp4.** Esto fue cumplido.
 - **Enseñar datos realistas en la demo del software.** Esto no fue cumplido en el Sprint 1, pero se corrigió como parte del feedback recibido de los profesores.
 - **Incluir una etiqueta apropiada para la versión entregada del código y de la documentación.** Esto fue cumplido.
@@ -130,27 +123,10 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
 - **Una interacción legal con el sistema resulta en un error HTTP perceptible por el usuario.** Esta condición fue cumplida.
 - **Una interacción legal con el sistema resulta en un panic o crasheo de la aplicación perceptible por el usuario.** Esta condición fue cumplida.
 - **Una interacción legal con el sistema no da el comportamiento esperado.** Esta condición fue cumplida.
-- **No hay validación de formularios.** Esta condición no fue cumplida, pero se subsanó en sprints posteriores.
-- **Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar.** Esta condición no fue cumplida, pero se subsanó en sprints posteriores.
+- **No hay validación de formularios.** Esta condición no fue cumplida, pero se subsanó en Sprints posteriores.
+- **Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar.** Esta condición no fue cumplida, pero se subsanó en Sprints posteriores.
 - **El sistema no está desplegado en la nube o no está disponible en cualquier momento durante el curso (hasta Julio).** Esta condición no se cumplió, ya que el despliegue del Sprint 2 se hizo sobre el enlace del Sprint 1, no quedando esta versión disponible hasta final de curso. Se subsanó rescatando la versión correspondiente del repositorio y desplegandola en un nuevo enlace.
-- **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida debido a lo mencionado anteriormente, pero se subsanó en sprints posteriores.
-
-**T-11. Información mínima que debe recogerse de cada incidencia.**
-- **Origen del problema a nivel técnico**:  
-  Por ejemplo, la incompatibilidad del uso de cierta tecnología o librería con otra tecnología o infraestructura de despliegue utilizada.
-- **Origen del problema a nivel de proceso**:  
-  Por ejemplo, si se sigue SCRUM, es común encontrar problemas derivados de realizar de forma inadecuada o no realizar actividades como el Sprint Planning, Sprint Review o Daily Scrum.
-- **Fuente del error**:
-  - Persona(s) o Sistema que introdujeron o generaron la condición de fallo específica.
-  - En caso de ser una Persona o Personas: Rol(es) que desempeñaban dentro del equipo.
-- **Responsable(s) de la incidencia**:
-  - Persona(s) que permitieron que la condición de fallo formase parte del entregable.
-  - Rol(es) que desempeñaban dentro del equipo.
-- **Acciones de mitigación** orientadas a resolver o mitigar la incidencia en entregas futuras, tanto a nivel técnico como de proceso.
-- **Estado de la incidencia** (junto con una justificación si no está en estado "Resuelta"):
-  - `Resuelta`
-  - `En progreso`
-  - `Pendiente de análisis`
+- **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida debido a lo mencionado anteriormente, pero se subsanó en Sprints posteriores.
 
 
 ## Lista de incidencias
@@ -159,28 +135,28 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Inicio tardío de las tareas de código | Problemas en la configuración del nuevo entorno, sobre todo con la integración de MySQL y los archivos de configuración de application-properties. Por otra parte, el hecho de que crear un login desde 0 supuso muchos problemas sobre todo con JWT, algo con lo que no estábamos tan familiarizados | No se ha realizado Daily Scrum, por lo que era complicado llevar al día todo lo que se estaba por cada miembro del grupo | En este caso, no se acusará a nadie como fuente de este error, pues al crear un proyecto siempre suelen ocurrir problemas de configuración del entorno, ya sea por dependecias, incompatibilidades entre librerías o desconocimiento del nuevo entorno. El login también fue algo nuevo, por lo que la fuente de este error ha sido el propio sistema que estábamos intentando comprender| Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Para tomar acción en esto, más miembros del equipo trabajaron activamente en investigar cómo solucionar el problema del login. Afortunadamente, este problema fue resuelto y las demás tareas fueron replanificadas, para no sobrecargar de trabajo a aquellos que estuvieron arreglando el login. Finalmente, todas las tareas del Sprint pudieron ser entregadas a tiempo. | Resuelto | Esta incidencia podría haber sido un posible motivo para convertirse en un failure condition, como se especifa en el T-10. Todos los puntos de ese apartado podrían suponer un problema si no se conseguía avanzar en el código|
-| Intentamos abordar demasiado en lugar de iterar y mejorar gradualmente | Aquí no se destaca ningún problema técnico, pues ha sido más un problema más relacionado con la gestión del reparto de tareas | Problema con la estimación de los tiempos establecidos en cada tarea en el Sprint Planning, pues se se subestimó la complejidad de estas primeras funcionalidades y no se tuvieron en cuenta problemas que pudieran acontecer al configurar el nuevo entorno y el tiempo que llevaría arreglarlo. Todo esto no hubiera sucedido si se hubiera gestionado mejor el Sprint Planning | Project Manager y Jefes de Desarrollo | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Replanificación de las tareas, donde aquellas relacionadas con código que no se exigía para este entregable fueron desplazadas al S2, equilibrando el esfuerzo de todos los componentes del grupo y cumpliendo con las 10 horas semanales propuestas por la asignatura | Resuelto | Podría convertirse en un problema relacioando con el T-10 igualmente, ya que si se intentaba abordar demasidas funcionalidades para esta entrega, quizás no quedaría tiempo para llevar a cabo aquellas tareas que eran realmente necesarias especificadas en el T-10. Por ejemplo: An actor can list, edit or delete data that belong to another actor and only the admin should manage. Esto es algo que casi no conseguimos subsanar a tiempo por querer implementar más funcionalidades |
-| Aislamiento de información | Aquí no se destaca ningún problema técnico, pues ha sido más un problema más relacionado con la gestión de la comunicación del equipo | Debido a esta falta de Daily Scrum y que las comunicaciones eran únicamente a través del grupo general de Whatsapp, este grupo llegaba a tener al día más de 200 mensajes, por lo que era inviable que todos los compañeros estuvieran leyendo constantemente el grupo. Además, mucha de esta información quizás no les interesaba, pues no tenía ningún tipo de relación con el trabajo que ellos estaban destinados a hacer | Project Manager y Jefes de Proyecto | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Se crearon canales y comunicación y grupos de Whatsapp para cada subgrupo, reduciendo el número de mensajes considerablemente. El canal principal se usaría para dar avisos sobre asuntos importantes que interesaban a todos los integrantes del grupo. Estos avisos sólo podían ser mandados por la Project Manager y los Jefes de grupo. El grupo general sigue existiendo por si alguien que no pueda dar avisos quisiera comentar algo con todo el grupo |  Resuelto| Esto podría haberse convertido en un failure condition por cualquiera de los puntos declarados en el documento oficial. Pero, sobre todo afectarían al T-9 y T-10, para el formato de la entrega y aquellas actividades de código que eran necesarias para superar este Sprint  |
-| Desonexión total con el despligue | Había ciertas funcionalidades que no funcionaron en el despliegue | El equipo se centró exclusivamente en el desarrollo en local, sin pensar en que a la hora de hacer el despligue podrían haber surgido errores, hecho que ocurrió | No se planificó correctamente que tuvieramos el tiempo necesario para realizar el despligue y corregirlo. Además, a ningún desarrollador le surgió esa inquietud, lo que no propició que nos diéramos cuenta a lo largo del Sprint |  Project Manager y Jefes de Proyecto  | Para los posteriores Sprints se hizo un cambio en el planning para incluir esta tarea, así como adelantar la finalización de código para paliar estas situaciones|  Resuelto | Esto podría haber incumplido la sección T-10, específicamente el sexto punto  |
+| Inicio tardío de las tareas de código | Problemas en la configuración del nuevo entorno, sobre todo con la integración de MySQL y los archivos de configuración de application-properties. Por otra parte, el hecho de que crear un login desde 0 supuso muchos problemas sobre todo con JWT, algo con lo que no estábamos tan familiarizados | No se ha realizado Daily Scrum, por lo que era complicado llevar al día todo lo que estaba haciendo cada miembro del grupo | En este caso, no se acusará a nadie como fuente de este error, pues al crear un proyecto siempre suelen ocurrir problemas de configuración del entorno, ya sea por dependecias, incompatibilidades entre librerías o desconocimiento del nuevo entorno. El login también fue algo nuevo, por lo que la fuente de este error ha sido el propio sistema que estábamos intentando comprender| Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Para tomar acción en esto, más miembros del equipo trabajaron activamente en investigar cómo solucionar el problema del login. Afortunadamente, este problema fue resuelto y las demás tareas fueron replanificadas, para no sobrecargar de trabajo a aquellos que estuvieron arreglando el login. Finalmente, todas las tareas del Sprint pudieron ser entregadas a tiempo. | Resuelto | Esta incidencia podría haber sido un posible motivo para convertirse en un failure condition, como se especifa en el T-10. Todos los puntos de ese apartado podrían suponer un problema si no se conseguía avanzar en el código|
+| Se intentó de abarcar demasiado en lugar de iterar y mejorar gradualmente | Aquí no se destaca ningún problema técnico, pues ha sido más un problema relacionado con la gestión del reparto de tareas | Problema con la estimación de los tiempos establecidos en cada tarea en el Sprint Planning, pues se se subestimó la complejidad de estas primeras funcionalidades y no se tuvieron en cuenta problemas que pudieran acontecer al configurar el nuevo entorno y el tiempo que llevaría arreglarlo. Todo esto no hubiera sucedido si se hubiera gestionado mejor el Sprint Planning | Project Manager y Jefes de Subequipo | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Replanificación de las tareas, donde aquellas relacionadas con código que no se exigía para este entregable fueron desplazadas al S2, equilibrando el esfuerzo de todos los componentes del grupo y cumpliendo con las 10 horas semanales propuestas por la asignatura | Resuelto | Podría convertirse en un problema relacioando con el T-10 igualmente, ya que si se intentaba abordar demasidas funcionalidades para esta entrega, quizás no quedaría tiempo para llevar a cabo aquellas tareas que eran realmente necesarias especificadas en el T-10. Por ejemplo: An actor can list, edit or delete data that belong to another actor and only the admin should manage. Esto es algo que casi no conseguimos subsanar a tiempo por querer implementar más funcionalidades |
+| Aislamiento de información | Aquí no se destaca ningún problema técnico, pues ha sido más un problema más relacionado con la gestión de la comunicación del equipo | Debido a esta falta de Daily Scrum y que las comunicaciones eran únicamente a través del grupo general de Whatsapp, este grupo llegaba a tener al día más de 200 mensajes, por lo que era inviable que todos los compañeros estuvieran leyendo constantemente el grupo. Además, mucha de esta información quizás no les interesaba, pues no tenía ningún tipo de relación con el trabajo que ellos estaban destinados a hacer | Project Manager y Jefes de Subequipo | Esto fue corregido a tiempo, por lo que nadie del equipo permitió que este problema afectara al entregable | Se crearon canales y comunicación y grupos de Whatsapp para cada subgrupo, reduciendo el número de mensajes considerablemente. El canal principal se usaría para dar avisos sobre asuntos importantes que interesaban a todos los integrantes del grupo. Estos avisos sólo podían ser mandados por la Project Manager y los Jefes de Subequipo. El grupo general sigue existiendo por si alguien que no pueda dar avisos quisiera comentar algo con todo el grupo |  Resuelto| Esto podría haberse convertido en un failure condition por cualquiera de los puntos declarados en el documento oficial. Pero, sobre todo afectarían al T-9 y T-10, para el formato de la entrega y aquellas actividades de código que eran necesarias para superar este Sprint  |
+| Desonexión total con el despligue | Había ciertas funcionalidades que no funcionaron en el despliegue | El equipo se centró exclusivamente en el desarrollo en local, sin pensar en que a la hora de hacer el despligue podrían haber surgido errores, hecho que ocurrió | No se planificó correctamente que tuvieramos el tiempo necesario para realizar el despligue y corregirlo. Además, a ningún desarrollador le surgió esa inquietud, lo que no propició que nos diéramos cuenta a lo largo del Sprint |  Project Manager y Jefes de Subequipo  | Para los posteriores Sprints se hizo un cambio en el Planning para incluir esta tarea, así como adelantar la finalización de código para paliar estas situaciones|  Resuelto | Esto podría haber incumplido la sección T-10, específicamente el sexto punto  |
 
 ### Identificadas por el equipo después de la entrega
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Mismo enlace de despliegue para Sprint 1 y Sprint 2 | No procede | Debido a la no realización de la Sprint Review, no se revisaron los progresos a nivel técnico de la aplicación de manera generalizada (en la retrospectiva se nombraron los cambios importantes que cada uno quiso), impidiendo esto detectar la necesidad de un despliegue por cada entregable | El encargado de la realización del despliegue de la aplicación ha sido Andrés Pizzano Cerrillos, el cual desconocía, al igual que el resto del equipo, la necesidad de una URL distinta para cada entregable | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de los Deliverable Failure Conditions de este entregable | Preparar el despliegue con más tiempo y asgurarse de que los depliegues están en distintos enlaces | Resuelto | Esto afectaría directamente al T-10, puesto que como hasta ese momento usábamos un único enlace de despliegue, este pudo haber sido actualizado durante el Sprint 2, a la vez que se corregía el entregable del Sprint 1 |
-| Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar | No procede | No hubo una análisis de la seguridad cuando se establecierón los requisitos, y por tanto se pasó por alto. | Falta de procedimientos de seguridad para asegurar quién puede ejecutar acciones indevidas | Project Manager y Jefes de Subequipos, puesto que son los responsables de estipular los procedimientos y garantizar la seguridad | Asegurar que la seguridad se corresponde con los estándares establecidos, asegurando la seguridad e integridad de la plataforma | Resuelto | Esto afectaría directamente al T-10, al punto 5 específicamente |
+| Mismo enlace de despliegue para Sprint 1 y Sprint 2 | No procede | Debido a la no realización de la Sprint Review, no se revisaron los progresos a nivel técnico de la aplicación de manera generalizada (en la retrospectiva se nombraron los cambios importantes que cada uno consideró), impidiendo esto detectar la necesidad de un despliegue por cada entregable | El encargado de la realización del despliegue de la aplicación ha sido Andrés Pizzano Cerrillos, el cual desconocía, al igual que el resto del equipo, la necesidad de una URL distinta para cada entregable | Project Manager y Jefes de Subequipo, puesto que eran los encargados de la revisión de los Deliverable Failure Conditions de este entregable | Preparar el despliegue con más tiempo y asegurarse de que los depliegues están en distintos enlaces | Resuelto | Esto afectaría directamente al T-10, puesto que como hasta ese momento usábamos un único enlace de despliegue, este pudo haber sido actualizado durante el Sprint 2, a la vez que se corregía el entregable del Sprint 1 |
+|  Falta de restricción de permisos (un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar) | No procede | No hubo una análisis de la seguridad cuando se establecieron los requisitos, y por tanto se pasó por alto. Por ello, no se definieron las tareas necesarias en el Sprint Planning | El grupo en su conjunto, pues nadie tuvo en cuenta esto a la hora de realizar los controladores | Project Manager y Jefes de Subequipo, puesto que son los responsables de estipular los procedimientos y garantizar la seguridad | Asegurar que la seguridad se corresponde con los estándares establecidos, verificando la integridad de la plataforma, además de tareas creadas en el Sprint Planning del siguiente Sprint para subsanar el problema | Resuelto | Esto afectaría directamente al T-10, al punto 5 específicamente |
 
 ### Identificadas por el profesorado
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| La IU se ha actualizado respecto a la entrega S1 descrita en revision.md | Redacción del documento en un momento muy temprano de la entrega | La persona encargada de realizar el revision.md no tuvo en cuenta a la hora de hacerlo que al avanzar los días la aplicación podía cambiar de aspecto y funcionalidad. Consideramos también como parte del error el hecho de que no se avisase a esa persona el día de la entrega que comprobase si la aplicación había variado respecto al documento ya redactado | Tanto el encargado de realizar el documento, como los supervisores del mismo debido a lo previamente mencionado | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | En el Sprint 2 se corrigió ese documento respecto a la release final del Sprint 1 y se estableció que ese documento en específico debería realizarse el día de la entrega puesto que el límite para tocar código en ese momento era los miércoles y así nos asegurábamos el correcto versionado del documento | Resuelto | Si bien no se especifica en la Deliverable Failure Conditions que el contenido del revision.md se deba corresponder a lo entregado, damos por hecho que es algo intrínseco del propio documento y comprendemos que esto sea un motivo de invalidez del Sprint 1 |
-| Datos no realistas en la plataforma | El data.sql no poseía datos realistas | Suposición de que un usuario puede crearse una cuenta con el nombre y la imagen que desee | A la hora de realizar el data.sql, Pablo Jesús Castellanos Compaña no se aseguró de que los datos quedasen lo más realista posible en el contexto de la aplicación y simplemente rellenó los usuarios con los nombres que le fueron surgiendo | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificó una actividad al inicio de S2 para subsanar todo esto. Para tener datos realistas se decidió que los clientes iban a ser miembros del equipo y los proveedores, los usuarios piloto. Posteriormente al final del Sprint, se rellenaron datos ficticios al final del archivo para darle menos sensación de vacío a la pagina web, pero siempre dentro de la realidad y señalándolo correctamtente en el archivo data.sql | Resuelto | Si bien esto no presenta un motivo evidente para la invalidez del Sprint, no se ve de manera adecuada dentro del contexto de una aplicación real que se planea lanzar a mercado |
-| No se validan los formularios | No se implementaron validaciones en los formularios | Las personas encargadas de crear dichos formularios no comprobaron que no se pudieran introducir datos no válidos | Error del equipo de desarrollo en general, ya sea por acumulación de trabajo que lleva a saturación o por simple despiste | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificaron actividades en los posteriores Sprints para corregir esto | Resuelto | Esto incumple directamente el apartado T-10 del Deliverable Failure Conditions |
+| La UI se ha actualizado respecto a la entrega S1 descrita en revision.md | Redacción del documento en un momento muy temprano de la entrega | La persona encargada de realizar el revision.md no tuvo en cuenta a la hora de hacerlo que al avanzar los días la aplicación podía cambiar de aspecto y funcionalidad. Consideramos también como parte del error el hecho de que no se avisase a esa persona el día de la entrega que comprobase si la aplicación había variado respecto al documento ya redactado | Tanto el encargado de realizar el documento, como los supervisores del mismo debido a lo previamente mencionado | Project Manager y Jefes de Subequipo, puesto que eran los encargados de la revisión de todo antes de la entrega | En el Sprint 2 se corrigió ese documento respecto a la release final del Sprint 1 y se estableció que ese documento en específico debería realizarse el día de la entrega puesto que el límite para tocar código en ese momento era los miércoles y así nos asegurábamos el correcto versionado del documento | Resuelto | Si bien no se especifica en la Deliverable Failure Conditions que el contenido del revision.md se deba corresponder a lo entregado, damos por hecho que es algo intrínseco del propio documento y comprendemos que esto sea un motivo de invalidez del Sprint 1 |
+| Datos no realistas en la plataforma | El data.sql no poseía datos realistas | No se tuvo en cuenta a la hora de crear usuarios que estos fueran realistas | A la hora de realizar el data.sql, Pablo Jesús Castellanos Compaña no se aseguró de que los datos quedasen lo más realistas posible en el contexto de la aplicación y simplemente rellenó los usuarios con los nombres que le fueron surgiendo | Project Manager y Jefes de Subequipo, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificó una actividad al inicio de S2 para subsanar todo esto. Para tener datos realistas se decidió que los clientes iban a ser miembros del equipo y los proveedores, los usuarios piloto. Posteriormente al final del Sprint, se rellenaron datos ficticios al final del archivo para darle menos sensación de vacío a la pagina web, pero siempre dentro de la realidad y señalándolo correctamtente en el archivo data.sql | Resuelto | Si bien esto no presenta un motivo evidente para la invalidez del Sprint, no se ve de manera adecuada dentro del contexto de una aplicación real que se planea lanzar a mercado |
+| No se validan los formularios | No se implementaron validaciones en los formularios | Las personas encargadas de crear dichos formularios no comprobaron que no se pudieran introducir datos no válidos | Error del equipo de desarrollo en general, ya sea por acumulación de trabajo que lleva a saturación o por simple despiste | Project Manager y Jefes de Subequipo, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificaron actividades en los posteriores Sprints para corregir esto | Resuelto | Esto incumple directamente el apartado T-10 del Deliverable Failure Conditions |
 
 ## Metodología empleada
-Se ha seguido durante todo el proyecto la metodología ágil y scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Product Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de Desarrollo se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se había realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review por falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
+Se ha seguido durante todo el proyecto la metodología ágil y Scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Product Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de cada uno de los tres subequipos se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se había realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review por falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
 1) Valorar más a los individuos e interacciones sobre procesos y herramientas.
 2) Software funcionando sobre documentación extensiva.
 3) Colaboración con el cliente sobre negociación contractual, de este cabe destacar la colaboración a través de las encuentas de usuarios pilotos potenciales.
@@ -202,32 +178,15 @@ A continuación, se van a describir los roles de los integrantes del grupo y sus
   
 - **Pablo Jesús Castellanos** (Coordinador de tiempos): Revisar que los tiempos asignados a las actividades sean razonables y acordes a las responsabilidades de cada miembro del equipo. Utilizando Clockify, analiza los registros de tiempo para asegurar que los plazos sean realistas y las tareas realizadas correspondan con las que cada miembro del equipo tenga asignadas.
   
-- **María Carrera** (Jefe de Desarrollo 1), **Pablo Jesús Castellanos** (Jefe de Desarrollo 2) y **Fran Avilés** (Jefe de Desarrollo 3): Supervisar y coordinar el trabajo de desarrollo en sus respectivas áreas, asegurando que el código cumpla con los requisitos técnicos y funcionales.
+- **María Carrera** (Jefe de subequipo 1), **Pablo Jesús Castellanos** (Jefe de subequipo 2) y **Fran Avilés** (Jefe de subequipo 3): Supervisar y coordinar el trabajo de desarrollo en sus respectivas áreas, asegurando que el código cumpla con los requisitos técnicos y funcionales.
 
 El grupo de 17 integrantes fue dividido en 3 subgrupos según sus habilidades de la siguiente forma:
 
-Grupo 1
-María de la Salud Carrera
-Fernando José de Celis
-Gonzalo Navas
-Adrián Cabello
-Antonio Montero
+- **Grupo 1**: María de la Salud Carrera, Fernando José de Celis, Gonzalo Navas, Adrián Cabello, Antonio Montero.
 
-Grupo 2
-Natalia Olmo
-Pablo Jesús Castellanos
-Ignacio Blanquero
-Manuel Pérez
-Héctor Noguera
-Sergio Pons
+- **Grupo 2**: Natalia Olmo, Pablo Jesús Castellanos, Ignacio Blanquero, Manuel Pérez, Héctor Noguera, Sergio Pons.
 
-Grupo 3
-Francisco Avilés
-Andrés Pizzano
-Lorenzo Torralba
-David Godoy
-Miguel Hernández
-Daniel Benito
+- **Grupo 3**: Francisco Avilés, Andrés Pizzano, Lorenzo Torralba, David Godoy, Miguel Hernández, Daniel Benito.
 
 
 ## Conclusiones
