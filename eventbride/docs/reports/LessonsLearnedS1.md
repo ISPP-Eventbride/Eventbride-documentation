@@ -135,23 +135,25 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
 - **El sistema no está desplegado en la nube o no está disponible en cualquier momento durante el curso (hasta Julio).** Esta condición no se cumplió, ya que el despliegue del Sprint 2 se hizo sobre el enlace del Sprint 1, no quedando esta versión disponible hasta final de curso. Se subsanó rescatando la versión correspondiente del repositorio y desplegandola en un nuevo enlace.
 - **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida debido a lo mencionado anteriormente, pero se subsanó en sprints posteriores.
 
-//To Do explicar que hay que recoger de cada incidencia (español)
-## Lista de incidencias
+**T-11. Información mínima que debe recogerse de cada incidencia.**
+- **Origen del problema a nivel técnico**:  
+  Por ejemplo, la incompatibilidad del uso de cierta tecnología o librería con otra tecnología o infraestructura de despliegue utilizada.
+- **Origen del problema a nivel de proceso**:  
+  Por ejemplo, si se sigue SCRUM, es común encontrar problemas derivados de realizar de forma inadecuada o no realizar actividades como el Sprint Planning, Sprint Review o Daily Scrum.
+- **Fuente del error**:
+  - Persona(s) o Sistema que introdujeron o generaron la condición de fallo específica.
+  - En caso de ser una Persona o Personas: Rol(es) que desempeñaban dentro del equipo.
+- **Responsable(s) de la incidencia**:
+  - Persona(s) que permitieron que la condición de fallo formase parte del entregable.
+  - Rol(es) que desempeñaban dentro del equipo.
+- **Acciones de mitigación** orientadas a resolver o mitigar la incidencia en entregas futuras, tanto a nivel técnico como de proceso.
+- **Estado de la incidencia** (junto con una justificación si no está en estado "Resuelta"):
+  - `Resuelta`
+  - `En progreso`
+  - `Pendiente de análisis`
 
-List of issues and their relation to the failure conditions.
-- Origin of the problem at the technical level. For example, the incompatibility of the use of a certain technology or library with another technology or deployment infrastructure used.
-- Origin at the process level. For example, if you follow SCRUM, it is common to find problems by inadequately performing or not performing activities such as Sprint Planning, Sprint Review or Daily Scrum.
-- Error source:
-    - Person/People or System who introduced or generated the specific failure condition.
-    - In case of a Person/People: Role(s) in the team.
-- People responsible for the issue:
-    - Person/People who allowed the failure condition to be part of the deliverable.
-    - Role(s) in the team.
-- Mitigating actions aimed at resolving or mitigating the issue in future deliverables at both the technical and process level.
-- Status of the issue (along with a justification if not "Resolved"):
-    - "Resolved"
-    - "In-progress"
-    - "Pending analysis"
+
+## Lista de incidencias
 
 ### Identificadas por el equipo antes de la entrega
 
@@ -175,7 +177,7 @@ List of issues and their relation to the failure conditions.
 | - | - | - | - | - | - | - | - |
 | La IU se ha actualizado respecto a la entrega S1 descrita en revision.md | Redacción del documento en un momento muy temprano de la entrega | La persona encargada de realizar el revision.md no tuvo en cuenta a la hora de hacerlo que al avanzar los días la aplicación podía cambiar de aspecto y funcionalidad. Consideramos también como parte del error el hecho de que no se avisase a esa persona el día de la entrega que comprobase si la aplicación había variado respecto al documento ya redactado | Tanto el encargado de realizar el documento, como los supervisores del mismo debido a lo previamente mencionado | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | En el Sprint 2 se corrigió ese documento respecto a la release final del Sprint 1 y se estableció que ese documento en específico debería realizarse el día de la entrega puesto que el límite para tocar código en ese momento era los miércoles y así nos asegurábamos el correcto versionado del documento | Resuelto | Si bien no se especifica en la Deliverable Failure Conditions que el contenido del revision.md se deba corresponder a lo entregado, damos por hecho que es algo intrínseco del propio documento y comprendemos que esto sea un motivo de invalidez del Sprint 1 |
 | Datos no realistas en la plataforma | El data.sql no poseía datos realistas | Suposición de que un usuario puede crearse una cuenta con el nombre y la imagen que desee | A la hora de realizar el data.sql, Pablo Jesús Castellanos Compaña no se aseguró de que los datos quedasen lo más realista posible en el contexto de la aplicación y simplemente rellenó los usuarios con los nombres que le fueron surgiendo | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificó una actividad al inicio de S2 para subsanar todo esto. Para tener datos realistas se decidió que los clientes iban a ser miembros del equipo y los proveedores, los usuarios piloto. Posteriormente al final del Sprint, se rellenaron datos ficticios al final del archivo para darle menos sensación de vacío a la pagina web, pero siempre dentro de la realidad y señalándolo correctamtente en el archivo data.sql | Resuelto | Si bien esto no presenta un motivo evidente para la invalidez del Sprint, no se ve de manera adecuada dentro del contexto de una aplicación real que se planea lanzar a mercado |
-| No se validan los formularios | No se implementaron validaciones en los formularios | TO DO | TO DO | TO DO | Se planificaron actividades en los posteriores Sprints para corregir esto | Resuelto | Esto incumple directamente el apartado T-10 del Deliverable Failure Conditions |
+| No se validan los formularios | No se implementaron validaciones en los formularios | Las personas encargadas de crear dichos formularios no comprobaron que no se pudieran introducir datos no válidos | Error del equipo de desarrollo en general, ya sea por acumulación de trabajo que lleva a saturación o por simple despiste | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de todo antes de la entrega | Se planificaron actividades en los posteriores Sprints para corregir esto | Resuelto | Esto incumple directamente el apartado T-10 del Deliverable Failure Conditions |
 
 ## Metodología empleada
 Se ha seguido durante todo el proyecto la metodología ágil y scrum, reforzando el enfoque flexible y colaborativo entre los compañeros. En concreto se ha creado un Product Backlog priorizando las tareas para el equipo que debiera implementarlas, así como un Sprint Backlog. El rol de Scrum Master ha sido desempeñado por Natalia Olmo, ya que es la Project Manager del grupo. Además, al principio del Sprint, la Project Manager, junto con los Jefes de Desarrollo se reunieron para el Sprint Planning. Ese mismo día, tuvo lugar una reunión para comunicar medidas nuevas que se tomaran y para explicar cómo se había realizado el trabajo de tareas. El Sprint Retrospective también fue realizado por el grupo a mitad de Sprint y antes de finalizar el Sprint para saber cómo mejorar en la siguiente entrega y cómo se sentían los integrantes del grupo. No obstante, se ha optado por no realizar Daily Scrum ni Sprint Review por falta de tiempo de todos los compañeros y consideramos que con las reuniones establecidas sería suficiente. Se ha respetado en todo momento los 4 pilares fundamentales de la metodología ágil:
@@ -230,9 +232,28 @@ Daniel Benito
 
 ## Conclusiones
 
-Conclusiones.
+A lo largo del Sprint 1 hemos experimentado numerosos aprendizajes valiosos tanto a nivel técnico como de gestión de equipo. Este primer ciclo de desarrollo ha supuesto una base fundamental para construir una dinámica de trabajo más eficaz, organizada y alineada con los principios ágiles. A continuación, se destacan las principales conclusiones:
+
+### 1. La planificación y la comunicación son clave
+
+La falta de *Daily Scrums* afectó negativamente a la visibilidad del estado de las tareas y provocó descoordinación entre subgrupos. La creación de canales temáticos de comunicación y una mejor estructura para la distribución de avisos ayudó a reducir el ruido y mejorar el seguimiento de los avances.
+
+### 2. La validación técnica no debe dejarse para el final
+
+Problemas como la falta de validaciones en formularios o errores en el despliegue muestran la necesidad de integrar fases de testing y revisión técnica desde etapas tempranas del desarrollo. Se han programado medidas específicas para reforzar la validación en futuros sprints, incluyendo automatización y revisión cruzada.
+
+### 4. Roles definidos y responsabilidades claras
+
+La asignación explícita de roles (Project Manager, Jefes de Desarrollo, QA, etc.) permitió resolver incidencias más rápido y tener puntos de referencia claros ante problemas. A futuro, seguiremos utilizando este modelo, complementado con rotación de tareas clave para fomentar la polivalencia del equipo.
+
+### 5. La entrega debe reflejar fielmente lo desarrollado
+
+Casos como el `revision.md` desactualizado o el uso del mismo enlace de despliegue para distintos sprints demostraron la importancia de alinear entregable y software real. Se han tomado medidas correctivas para evitar que documentación y aplicación diverjan.
+
+En resumen, este Sprint ha sido una fase de adaptación, organización y reflexión. Sentamos unas bases sólidas que nos permitirán afrontar los siguientes desafíos con mayor madurez y eficiencia.
+
 
 
 ## Bibliografía
 
-Bibliografía.
+Grade Recovery Guidelines for #S1 and #S2.
