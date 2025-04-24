@@ -895,13 +895,13 @@ En  conclusión,  el  éxito  en  este  sector depende de  la  capacidad de  ada
 
 ## Bibliografía 
 
-Celebrarlo: <https://www.celebrarlo.com/>
+Celebrarlo: https://www.celebrarlo.com/
 
-Bodas.net: <https://www.bodas.net/>
+Bodas.net: https://www.bodas.net/
 
-Los eventos de Moni-k: <https://www.loseventosdemonik.es/>
+Los eventos de Moni-k: https://www.loseventosdemonik.es/
 
-Diario de una novia: <https://www.diariodeunanovia.es/>
+Diario de una novia: https://www.diariodeunanovia.es/
 
 Venuu:[ https://venuu.com/es/es](https://venuu.com/es/es)
 
@@ -909,18 +909,18 @@ The Knot:[ https://www.theknot.com/](https://www.theknot.com/)
 
 Love a Tope:[ https://loveatope.com/](https://loveatope.com/)
 
-Sureventos: <https://sureventos.es/>
+Sureventos: https://sureventos.es/
 
 Eclipse Sevilla:[ https://www.eclipsesevilla.com/](https://www.eclipsesevilla.com/)
 
-Planning.wedding: <https://planning.wedding/es>
+Planning.wedding: https://planning.wedding/es
 
 S de Sevilla:[ https://www.sdesevilla.es/](https://www.sdesevilla.es/)
 
-Tuset Eventos: <https://tuseteventos.com/>
+Tuset Eventos: https://tuseteventos.com/
 
 La Organizadora de Sueños: [https://www.laorganizadoradesuenos.com/ ](https://www.laorganizadoradesuenos.com/)
 
-Good Party: <https://goodparty.es/>
+Good Party: https://goodparty.es/
 
-Anaïs - Bodas y eventos: <https://anaisbodasyeventos.com/>
+Anaïs - Bodas y eventos: https://anaisbodasyeventos.com/
