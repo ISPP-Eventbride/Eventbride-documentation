@@ -2,7 +2,7 @@
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
-### Grupo 3: Eventbride
+### Grupo 3: EventBride
 
 ### Miembros:
 - Francisco Avilés Carrera
@@ -33,7 +33,7 @@
 
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
-| 02/04/2025 | v1.0    | Creación y primera versión | Sprint 3 | Pablo J. Castellanos Compaña, Natalia Olmo Villegas |
+| 02/04/2025 | v1.0    | Creación y primera versión | Sprint 3 | Pablo Jesús Castellanos Compaña, Natalia Olmo Villegas |
 
 
 ---
@@ -52,6 +52,9 @@
 - [Análisis DAFO (SWOT)](#dafo)
 - [Planificación Técnica y Financiera](#planificacion)
 - [Plan de ROI (Retorno de Inversión)](#roi)
+- [Estrategia de marketing](#marketing)
+- [Clientes de prueba](#clientes)
+- [Colaboraciones](#colaboraciones)
 - [Conclusiones](#conclusiones)
 - [Bibliografía](#bib)
 
@@ -63,7 +66,7 @@
 
 # Introducción
 
-Eventbride nace como una solución digital enfocada en facilitar la organización de eventos sociales como bodas, bautizos y comuniones, especialmente pensada para jóvenes y estudiantes. A través de una plataforma intuitiva y moderna, los usuarios pueden gestionar todos los aspectos de su evento en un solo lugar: desde la creación del evento hasta la contratación de servicios y comunicación con proveedores.
+EventBride nace como una solución digital enfocada en facilitar la organización de eventos sociales como bodas, bautizos y comuniones, especialmente pensada para jóvenes y estudiantes. A través de una plataforma intuitiva y moderna, los usuarios pueden gestionar todos los aspectos de su evento en un solo lugar: desde la creación del evento hasta la contratación de servicios y comunicación con proveedores.
 
 Este documento recoge todas las acciones planificadas para el **Public Project Launch (#PPL)**, es decir, el lanzamiento público del proyecto, incluyendo mejoras al MVP, despliegue, planificación de la campaña de visibilidad, análisis estratégico y planes de retorno de inversión.
 
@@ -111,7 +114,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Campaña de Lanzamiento
 
-### Objetivo: captar usuarios y mostrar valor diferencial de Eventbride
+### Objetivo: captar usuarios y mostrar valor diferencial de EventBride
 
 #### Fases:
 
@@ -147,7 +150,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - **Duración:** 15-20 minutos
 - **Contenido:**
   - Introducción al problema y solución  
-  - Demo funcional de Eventbride  
+  - Demo funcional de EventBride  
   - Ronda de preguntas o feedback
 
 ---
@@ -208,13 +211,306 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - **Objetivo:** validar modelo con feedback inicial, iterar sobre MVP
 ---
 
+
+<div id='marketing'></div>
+
+## Estrategia de marketing
+
+- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma EventBride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
+
+- Segmentación:
+
+   - Edad: 18–30 años.
+
+   - Estado civil: parejas próximas a casarse, familias organizando bautizos/comuniones.
+
+   - Nivel educativo: universitarios y recién graduados, principalmente personas con uso activo de redes sociales.
+
+   - Geografía: inicialmente Sevilla, con la idea a futuro de expandirse a grandes núcleos urbanos como Madrid, Barcelona, Valencia o Bilbao.
+
+- Canales y tácticas:
+
+   - Redes sociales: Instagram y TikTok (contenidos visuales, reels y challenges); LinkedIn para captar proveedores.
+   
+   - Posibilidad de ampliar a reparto de trípticos y flyers propagandísticos a futuro.
+---
+
+<div id='clientes'></div>
+
+## Clientes de prueba
+
+Para centrar la comunicación y los anuncios, hemos definido tres perfiles ficticios de clientes:
+
+
+### Clara, 29 años
+
+- Formación / Cargo: Trabaja a tiempo parcial como auxiliar de biblioteca.
+
+- Hábitos digitales: Instagram y TikTok todos los días.
+
+- Objetivo principal: Ayudar a organizar la comunión de su sobrino en junio con un presupuesto ajustado.
+
+- Frustraciones:
+
+   - No tiene tiempo para comparar precios ni contactar a múltiples proveedores.
+
+- Canal preferido: Stories de Instagram con tutoriales paso a paso.
+
+- Cómo le ayudamos: Con nuestra plataforma puede filtrar por varias características y reservar en un clic.
+
+
+### Emilio, 33 años
+
+- Formación / Cargo: Community manager freelance.
+
+- Hábitos digitales: LinkedIn para networking; revisa foros de bodas.
+
+- Objetivo principal: Planificar el bautizo de su hija; busca optimizar presupuesto.
+
+- Frustraciones: 
+   - Proveedores tradicionales sin tarifas transparentes.
+
+   - Le cuesta centralizar invitaciones, pagos y confirmaciones de asistencia.
+
+- Canal preferido: Artículos (“cómo planificar tu boda online”) y webinars cortos.
+
+- Cómo le ayudamos: Sistema de invitaciones asociado a cada evento, chat con proveedores para facilitar la transparencia.
+
+### Rosa, 36 años
+
+- Formación / Cargo: Responsable de recursos humanos.
+
+- Hábitos digitales: Email corporativo muy activo; LinkedIn y YouTube para casos de éxito.
+
+- Objetivo principal: Organizar una boda para 100 personas.
+
+- Frustraciones: 
+
+   - Coordinar catering, local, música y audiovisuales por separado consume mucho tiempo.
+
+- Canal preferido: Demo privada en vídeo y presentación en PDF.
+
+- Cómo le ayudamos: Plataforma unificada que integra proveedores de catering, decoración y audiovisuales entre otros servicios.
+
+
+Tenemos también perfiles de inversores potenciales:
+
+
+### Marta, 42 años   
+
+- **Rol**: Business Angel con 10 años de experiencia invirtiendo en tecnología.
+
+- **Hábitos digitales**: Revisa LinkedIn a diario, asiste a eventos de startups y escucha podcasts de inversión.
+
+- **Objetivo principal**: Conseguir retornos rápidos en proyectos de alto potencial y apoyar equipos jóvenes e innovadores.
+
+- **Frustraciones**:  
+
+  - Proyectos con equipo poco comprometido o con mala gobernanza.  
+
+- **Qué valora en EventBride**:  
+  
+  - Tecnología escalable en Google Cloud.
+  
+  - Equipo multidisciplinar de 17 desarrolladores y claros hitos de crecimiento.
+
+- **Canal preferido**: Reuniones uno a uno tras una intro en eventos de networking.
+
+
+### Carlos, 47 años  
+
+- **Rol**: Socio en fondo de capital.
+
+- **Hábitos digitales**: Participa en webinars, gestiona campañas de Google Ads para sus propios emprendimientos.
+
+- **Objetivo principal**: Diversificar su portfolio con marketplaces de nicho que puedan convertirse en líderes nacionales.  
+
+- **Frustraciones**:  
+  - Startups sin un modelo freemium definido.  
+
+- **Qué valora en EventBride**:  
+  
+  - Modelo freemium + funcionalidades premium (recomendaciones, más servicios, etc).  
+
+- **Canal preferido**: Demo Day presenciales y sesiones cortas de 30 min por videoconferencia con prototipo funcional.
+
+
+### Roberto
+
+- **Rol**: Director de multinacional con perfil conservador.
+
+- **Hábitos digitales**: Lectura de informes económicos, reuniones en persona, LinkedIn de forma ocasional.
+
+- **Objetivo principal**: Invertir en negocios con riesgo moderado y crecimiento estable a medio plazo.
+
+- **Frustraciones**:  
+  
+  - Proyectos demasiado volátiles o sin un plan claro de monetización.  
+  
+  - Falta de garantías legales y contractuales sólidas.  
+
+- **Qué valora en EventBride**:  
+  
+  - Mercado de eventos sociales con barrera de entrada digital (poco explotado).
+  
+  - Políticas de cancelación definidas y acuerdos con proveedores para minimizar riesgos.
+
+- **Canal preferido**: Reuniones privadas en su oficina tras recibir un resumen ejecutivo por email.
+
+---
+
+Por último, tenemos también posibles proveedores:
+
+### Catering Caramelo
+
+- **Tipo**: Empresa local de catering (5 empleados). 
+
+- **Experiencia**: 8 años organizando menús personalizados para bodas y eventos familiares.  
+
+- **Hábitos digitales**: Gestiona su web en WordPress; consulta Instagram para inspiración de montajes.
+
+- **Objetivo principal**: Aumentar reservas fuera de su zona habitual y optimizar la gestión de pedidos.
+
+- **Frustraciones**:  
+  
+  - Marketing boca‑oreja limitado; pocas reservas corporativas.
+  
+  - Dificultad para llevar un calendario unificado de eventos.
+
+- **Cómo le ayudamos**:  
+  
+  - Panel de control con pedidos online y calendario integrado.  
+  
+  - Acceso a nuevos segmentos (bodas, bautizos, cenas de empresa).  
+
+- **Canal preferido**: Webinar de demostración más onboarding guiado.  
+
+
+### FotoSergio Studio 
+
+- **Tipo**: Fotógrafo freelance de eventos sociales.
+
+- **Experiencia**: 5 años como documentalista de bodas y sesiones familiares.  
+
+- **Hábitos digitales**: Instagram para mostrar portfolio; WhatsApp y email para coordinar sesiones.  
+
+- **Objetivo principal**: Simplificar facturación y confirmación de fechas, optimizar su agenda.  
+
+- **Frustraciones**:  
+  
+  - Reservas perdidas por falta de confirmación online.  
+  
+  - Gestión manual de contratos y pagos.  
+
+- **Cómo le ayudamos**:  
+  
+  - Sistema de reservas con confirmación automática y pasarela de pago.  
+  
+  - Recordatorios automáticos para clientes y organización de entregas.  
+
+- **Canal preferido**: Demo one‑to‑one con caso de uso real.  
+
+
+### Flores & Eventos  
+
+- **Tipo**: Mediana empresa de decoración y floristería.
+
+- **Experiencia**: 12 años colaborando con hoteles y colegios para eventos corporativos y sociales.
+
+- **Hábitos digitales**: LinkedIn para alianzas B2B; Pinterest para tendencias de diseño.  
+
+- **Objetivo principal**: Incrementar cartera de clientes corporativos.  
+
+- **Frustraciones**:  
+  
+  - Difícil encontrar clientes potenciales de empresas.  
+  
+  - Contratos de gran volumen requieren negociaciones largas.  
+
+- **Cómo le ayudamos**:  
+  
+  - Acceso a campañas segmentadas a responsables de RRHH.
+  
+  - Herramienta para enviar presupuestos y recibir confirmaciones online.
+
+- **Canal preferido**: Presentación en LinkedIn y propuesta de colaboración.
+
+
+### DJ Beats
+
+- **Tipo**: DJ y técnico de sonido autónomo  
+
+- **Experiencia**: 7 años pinchando en bodas, fiestas privadas y discotecas.  
+
+- **Hábitos digitales**: TikTok e Instagram para mostrar sets; WhatsApp Business para confirmar fechas.  
+
+- **Objetivo principal**: Aumentar el volumen de contratos y gestionar descuentos por paquetes.  
+
+- **Frustraciones**:  
+  
+  - Horarios solapados por errores de planning.  
+  
+  - Difícil llegar a eventos fuera de su red habitual.  
+
+- **Cómo le ayudamos**:  
+  
+  - Marketplace de solicitudes de DJs con sistema de filtros (tipo de evento, fecha).
+  
+  - Calendario actualizado automáticamente.  
+
+- **Canal preferido**: Notificaciones push y onboarding por video tutorial.  
+
+---
+
+<div id='colaboraciones'></div>
+
+## Colaboraciones
+
+- Wedding planners y agencias: acuerdos de co-branding: visibilidad en su web a cambio de una demo premium.
+
+- Blogs y portales de bodas: guest posts y banners con ofertas exclusivas.
+
+
+---
+
+<div id='busqueda'></div>
+
+## Herramientas de búsqueda
+
+Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con EventBride y su entorno. Entre ellos estarán:
+
+- #EventBride
+- #bautizo
+- #eventos
+- #celebraciones
+- #boda
+- #sevilla
+- #comunion
+- #bodas
+- #bautizos
+- #comuniones
+
+Además para festividades especiales se podrán lanzar videos especiales con hashtags como:
+
+- #semanasanta  
+- #semanasanta2025  
+- #cofradesalacalle  
+- #feria  
+- #feria2025
+- #yahueleaferia
+- #navidad  
+- #añonuevo  
+- #felicesfiestas
+
+---
+
 <div id='conclusiones'></div>
 
 ## Conclusiones
 
-Eventbride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
+EventBride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
 
-El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener feedback real, mejorar iterativamente y consolidar Eventbride como una solución útil y escalable para la organización de eventos.
+El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar EventBride como una solución útil y escalable para la organización de eventos.
 
 ---
 
