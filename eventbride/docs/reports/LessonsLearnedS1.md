@@ -43,15 +43,23 @@
 ---
 
 ## Contenido
-1. [Introducción](#introducción)
-2. [Análisis de las condiciones de fallo](#análisis-de-las-condiciones-de-fallo)
-3. [Lista de incidencias](#lista-de-incidencias)
-    1. [Identificadas por el equipo antes de la entrega](#identificadas-por-el-equipo-antes-de-la-entrega)
-    2. [Identificadas por el equipo después de la entrega](#identificadas-por-el-equipo-después-de-la-entrega)
-    3. [Identificadas por el profesorado](#identificadas-por-el-profesorado)
-4. [Metodología empleada](#metodología-empleada)
-5. [Conclusiones](#conclusiones)
-6. [Bibliografía](#bibliografía)
+- [Lecciones Aprendidas tras el Sprint 1](#lecciones-aprendidas-tras-el-sprint-1)
+  - [Ingeniería del Software y Práctica Profesional (ISPP)](#ingeniería-del-software-y-práctica-profesional-ispp)
+    - [Grupo 3: Eventbride](#grupo-3-eventbride)
+    - [Miembros:](#miembros)
+    - [Fecha: 23/04/2025](#fecha-23042025)
+    - [Entregable: PPL](#entregable-ppl)
+    - [Historial de versiones](#historial-de-versiones)
+  - [Contenido](#contenido)
+  - [Introducción](#introducción)
+  - [Análisis de las condiciones de fallo](#análisis-de-las-condiciones-de-fallo)
+  - [Lista de incidencias](#lista-de-incidencias)
+    - [Identificadas por el equipo antes de la entrega](#identificadas-por-el-equipo-antes-de-la-entrega)
+    - [Identificadas por el equipo después de la entrega](#identificadas-por-el-equipo-después-de-la-entrega)
+    - [Identificadas por el profesorado](#identificadas-por-el-profesorado)
+  - [Metodología empleada](#metodología-empleada)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografía](#bibliografía)
 
 
 ## Introducción
@@ -127,7 +135,7 @@ Esta condición fue cumplida casi en su totalidad, puesto que se redactó una pl
 - **El sistema no está desplegado en la nube o no está disponible en cualquier momento durante el curso (hasta Julio).** Esta condición no se cumplió, ya que el despliegue del Sprint 2 se hizo sobre el enlace del Sprint 1, no quedando esta versión disponible hasta final de curso. Se subsanó rescatando la versión correspondiente del repositorio y desplegandola en un nuevo enlace.
 - **El sistema desplegado se modifica/actualiza tras la fecha límite de entrega.** Esta condición no fue cumplida debido a lo mencionado anteriormente, pero se subsanó en sprints posteriores.
 
-
+//To Do explicar que hay que recoger de cada incidencia (español)
 ## Lista de incidencias
 
 List of issues and their relation to the failure conditions.
@@ -158,8 +166,8 @@ List of issues and their relation to the failure conditions.
 
 | Issue | Origen técnico | Origen en el proceso | Fuente del error | Responsable(s) de la issue | Acciones correctivas | Estado | Justificación |
 | - | - | - | - | - | - | - | - |
-| Mismo enlace de despliegue para Sprint 1 y Sprint 2 | TO DO PREGUNTAR A ANDRÉS | Debido a la no realización de la Sprint Review, no se revisaron los progresos a nivel técnico de la aplicación de manera generalizada (en la retrospectiva se nombraron los cambios importantes que cada uno quiso), impidiendo esto detectar la necesidad de un despliegue por cada entregable | El encargado de la realización del despliegue de la aplicación ha sido Andrés Pizzano Cerrillos, el cual desconocía, al igual que el resto del equipo, la necesidad de una URL distinta para cada entregable | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de los Deliverable Failure Conditions de este entregable | TO DO PREGUNTAR A ANDRÉS | Resuelto | Esto afectaría directamente al T-10, puesto que como hasta ese momento usábamos un único enlace de despliegue, este pudo haber sido actualizado durante el Sprint 2, a la vez que se corregía el entregable del Sprint 1 |
-| Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar | TO DO | TO DO | TO DO | TO DO | TO DO | Resuelto | Esto afectaría directamente al T-10, al punto 5 específicamente |
+| Mismo enlace de despliegue para Sprint 1 y Sprint 2 | No procede | Debido a la no realización de la Sprint Review, no se revisaron los progresos a nivel técnico de la aplicación de manera generalizada (en la retrospectiva se nombraron los cambios importantes que cada uno quiso), impidiendo esto detectar la necesidad de un despliegue por cada entregable | El encargado de la realización del despliegue de la aplicación ha sido Andrés Pizzano Cerrillos, el cual desconocía, al igual que el resto del equipo, la necesidad de una URL distinta para cada entregable | Project Manager y Jefes de Subequipos, puesto que eran los encargados de la revisión de los Deliverable Failure Conditions de este entregable | Preparar el despliegue con más tiempo y asgurarse de que los depliegues están en distintos enlaces | Resuelto | Esto afectaría directamente al T-10, puesto que como hasta ese momento usábamos un único enlace de despliegue, este pudo haber sido actualizado durante el Sprint 2, a la vez que se corregía el entregable del Sprint 1 |
+| Un actor puede realizar operaciones con datos de otro usuario y que sólo el administrador debería poder gestionar | No procede | No hubo una análisis de la seguridad cuando se establecierón los requisitos, y por tanto se pasó por alto. | Falta de procedimientos de seguridad para asegurar quién puede ejecutar acciones indevidas | Project Manager y Jefes de Subequipos, puesto que son los responsables de estipular los procedimientos y garantizar la seguridad | Asegurar que la seguridad se corresponde con los estándares establecidos, asegurando la seguridad e integridad de la plataforma | Resuelto | Esto afectaría directamente al T-10, al punto 5 específicamente |
 
 ### Identificadas por el profesorado
 
