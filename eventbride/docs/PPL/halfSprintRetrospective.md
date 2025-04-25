@@ -130,20 +130,20 @@ La siguiente tabla representa las horas trabajadas por cada uno de los miembros 
 | Nombre | Horas trabajadas antes del PPL | Horas estimadas hasta la mitad del PPL | Horas trabajadas hasta la mitad del PPL (11/04 - 24/04) | Porcentaje de completitud tareas de mitad del PPL |
 |--|-----|-----|----|------|
 | Adrián Cabello Martín          | 132h 57min | 6h       | 9h 37min  | 100% |
-| Andrés Pizzano Cerrillos       | 129h 10min | 3h       | 11h 20min | XX% |
+| Andrés Pizzano Cerrillos       | 129h 10min | 3h       | 11h 20min | 100% |
 | Antonio Montero López          | 121h 41min | 9h       | 13h 11min | 83% |
 | Daniel Benito Hidalgo          | 152h 03min | 25h      | 14h 32min | 100% |
 | David Godoy Fernández          | 109h 34min | 6h       | 3h 46min  | 100% |
-| Fernando José de Celis Hurtado | 135h 10min | 10h      | 8h 39min  | XX% |
+| Fernando José de Celis Hurtado | 135h 10min | 10h      | 8h 39min  | 100% |
 | Francisco Avilés Carrera       | 124h 58min | 6h 30min | 11h 51min | 100% |
 | Gonzalo Navas Remmers          | 116h 30min | 4h       | 11h 03min | 100% |
 | Héctor Noguera González        | 122h 33min | 3h       | 6h 02min  | 100% |
 | Ignacio Blanquero Blanco       | 135h 29min | 5h 30min | 7h 33min  | 100% |
-| Lorenzo Torralba Lanzas        | 98h 46min  | 0h       | 4h 04min  | XX% |
+| Lorenzo Torralba Lanzas        | 98h 46min  | 1h       | 4h 04min  | 100% |
 | Manuel Pérez Vélez             | 129h 44min | 10h 45min| 5h 36min  | 100% |
-| María de la Salud Carrera Talaverón| 126h 04min | 9h 30min | 13h 25min   | XX% |
+| María de la Salud Carrera Talaverón| 126h 04min | 9h 30min | 13h 25min   | 100% |
 | Miguel Hernández Sánchez           | 125h 24min | 5h       | 11h 05min   | 100% |
-| Natalia Olmo Villegas              | 181h       | 15h 30min| 11h 32min   | XX% |
+| Natalia Olmo Villegas              | 181h       | 15h 30min| 11h 32min   | 100% |
 | Pablo Jesús Castellanos Compaña    | 209h 11min | 11h 30min| 15h 18min   | 100% |
 | Sergio Pons López                  | 135h 55min | 6h       | 10h 32min   | 100% |
 
