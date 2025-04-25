@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Rentabilidad
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
@@ -39,7 +35,8 @@ sidebar_position: 3
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 22/04/2025 | v1.0    | Creación del documento y estructura básica | PPL | Francisco Avilés Carrera |
 | 23/04/2025 | v1.1    | Moneteización y conclusiones | PPL | Pablo Jesús Castellanos Compaña |
-| 23/04/2025 | v1.2   | Retoques menores | PPL | Francisco Avilés Carrera |
+| 23/04/2025 | v1.2    | Retoques menores | PPL | Francisco Avilés Carrera |
+| 25/04/2025 | v1.3    | Renombrado del documento | PPL | María de la Salud Carrera Talaverón |
 
 ---
 
