@@ -76,8 +76,7 @@ Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicado
 ### Tiempo estimado vs. tiempo real
 En esta ocasión, el tiempo estimado de trabajo han sido **132 horas** para la mitad del PPL, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **110 horas**, lo que puede indicar una mínima desviación de las horas de trabajo. 
 
-Contando con las horas de reunión y las horas de clase, el tiempo estimados sería **200 horas** y el trabajo realizado hasta ahora sería **170 horas**.
-
+Contando con las horas de reunión y las horas de clase, el tiempo estimado sería **200 horas** y el trabajo realizado hasta ahora sería **170 horas**.
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
