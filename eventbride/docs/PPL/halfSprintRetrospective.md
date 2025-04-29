@@ -179,8 +179,7 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 - **Se han implementado los ratings:** Hemos completado correctamente la funcionalidad de ratings, cosa que creíamos que no nos iba a dar tiempo pero finalmente sí ha dado.
 
-- **Se ha grabado muchos vídeos:** Desde el equipo de marketing se ha trabajado duro para producir una gran cantidad de vídeos.
-
+- **Se han grabado muchos vídeos:** Desde el equipo de marketing se ha trabajado duro para producir una gran cantidad de vídeos.
 - **El código está casi finalizado:** Se han implementado ya los casos de uso core y quedan algunas pruebas y ponerlo todo a punto.
 
 - **Revisión de las pull request por parte de las IAs:** El uso de herramientas automáticas como Copilot ha sido clave para detectar errores importantes y mantener la calidad del código.
