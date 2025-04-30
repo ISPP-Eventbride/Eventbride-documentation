@@ -45,6 +45,7 @@ sidebar_position: 2
 |19/03/2025 |v1.5 |Actualizar con alucinaciones de la IA del Sprint 2 |Sprint 2 | Ignacio Blanquero Blanco |
 |25/03/2025 |v1.6 |Actualizar uso de IA del Sprint 2 |Sprint 2 | Daniel Benito Hidalgo |
 |07/04/2025 |v1.7 |Actualizar uso de IA del Sprint 3 |Sprint 3 | Manuel Pérez Vélez |
+|30/04/2025 |v1.8 |Actualizar uso de IA del PPL | PPL | Ignacio Blanquero Blanco |
 ---
 
 ## Contenido
@@ -221,6 +222,10 @@ Aunque algunas respuestas requirieron múltiples intentos, no las consideramos a
 
 Cabe destacar que en la respuesta correspondiente al ID 25, aunque parcialmente cumple con lo esperado, la falta de concisión en la respuesta puede interpretarse como una falta de coherencia, y por tanto, como una posible alucinación por parte de la IA.
 
+En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%. 
+
+Adicionalmente, se observa una reducción significativa en el uso de la Inteligencia Artificial en este entregable, lo cual se debe principalmente a que gran parte de las tareas desarrolladas estuvieron enfocadas en el ámbito del marketing.
+
 En resumen, de un total de seis respuestas analizadas, una podría considerarse una alucinación, lo que representa un 1/6 del total.
 
 <div id='concl'></div>
@@ -235,7 +240,15 @@ En el Sprint 3 ha demostrado en especial una mejora significativa en términos d
 
 Sin embargo, es importante destacar que prácticamente en todos los casos ha sido necesario editar la información generada, ya que el contenido entregado no siempre encajaba directamente con nuestras necesidades o contexto. La IA ha proporcionado respuestas válidas, pero estas han requerido ajustes para adaptarse al lenguaje, objetivos y requisitos específicos del proyecto.
 
-En definitiva, la IA se ha consolidado como un recurso valioso que ha facilitado un avance más ágil, especialmente durante el Sprint 3, sin que ello supusiera perder el control sobre el proceso. Ha funcionado como una herramienta de apoyo constante, cuyas propuestas han sido siempre revisadas y perfeccionadas por el equipo, lo que ha permitido mantener la calidad del producto final sin comprometer los plazos establecidos.
+En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%. 
+
+Adicionalmente, se observa una reducción significativa en el uso de la Inteligencia Artificial en este entregable, lo cual se debe principalmente a que gran parte de las tareas desarrolladas estuvieron enfocadas en el ámbito del marketing.
+
+En definitiva, la integración de herramientas de Inteligencia Artificial en el desarrollo del proyecto ha resultado altamente beneficiosa para el equipo. Su uso ha permitido optimizar tiempos, facilitar la generación de contenidos técnicos y apoyar la toma de decisiones en diversas fases del proyecto. A lo largo de los distintos sprints, y especialmente en el Sprint 3, se ha evidenciado una mejora notable en eficiencia, siempre bajo la premisa de que las salidas generadas por la IA fueran revisadas y ajustadas por los miembros del equipo.
+
+Si bien se identificó una posible alucinación a lo largo del proceso, el bajo porcentaje de incidencias demuestra que, con un uso responsable y crítico, la IA puede integrarse de forma segura y eficaz en entornos colaborativos de desarrollo. La reducción del uso en el PPL, motivada por la naturaleza más creativa y estratégica de las tareas, también pone de relieve que la IA no es un sustituto universal, sino una herramienta complementaria cuyo valor depende del contexto en que se aplique.
+
+Por tanto, se concluye que el empleo de Inteligencia Artificial en este proyecto ha sido una decisión acertada, que ha contribuido a mejorar el rendimiento del equipo sin comprometer la calidad del producto final. Su utilización, regulada por las políticas aquí establecidas, ha marcado un precedente positivo para futuros desarrollos en los que se contemple la colaboración entre humanos y sistemas inteligentes.
 
 <div id='bib'></div>
 
