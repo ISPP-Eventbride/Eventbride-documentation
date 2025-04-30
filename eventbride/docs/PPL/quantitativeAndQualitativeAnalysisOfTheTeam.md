@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 24/04/2025
+### Fecha: 01/05/2025
 
 ### Entregable: PPL
 
@@ -64,6 +64,7 @@
 | 21/04/2025 | v7.2    | Objetivos cumplidos de métricas cuantitativas                                 | PPL      | María de la Salud Carrera Talaverón |
 | 23/04/2025 | v7.3    | Métricas cuantitativas                                                        | PPL      | María de la Salud Carrera Talaverón |
 | 23/04/2025 | v7.4    | Métricas cualitativas y conclusiones                                          | PPL      | María de la Salud Carrera Talaverón |
+| 30/04/2025 | v8.0    | Replanificación entregable                                                    | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -234,7 +235,54 @@ Por último, Fernando José de Celis Hurtado es el encargado de GDPR. Su respons
 
 ##  Reestimación del Sprint
 
-A día de 24/04/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
+La reestimación de la planificación del PPL se realizó el día 26/04/2025. Participaron en ella la Project Manager y todos los Jefes de Subgrupos, aunque de forma más activa los que participaron fueron Pablo Jesús Castellanos y Adrián Cabello. Esta reestimación está sujeta a cambios si surgen conflictos durante el desarrollo del Sprint o si algún miembro del grupo se da cuenta de que falta alguna tarea o requisito pedido por los profesores de la asignatura.
+
+Se reasignaron algunas de las tareas planificadas para la segunda semana, pero la mayoría sufrieron pocos cambios, y se añadieron otras pocas. La nueva distribución de tareas se hizo teniendo en cuenta las horas de trabajo que llevaba cada desarrollador y los roles que desempeña cada uno. De esta forma, el nuevo Sprint Backlog quedó así (a día 30 de abril de 2025):
+
+| Tarea | Tiempo estimado (horas) | Asignados |
+|-------|-------------------------|-----------|
+| [MRKTN] Linkear correo corporativo con gmail | 2 | Antonio Montero, Daniel Benito |
+| [MRKTN] Editar vídeo presentación del equipo y fotos | 2 | Adrián Cabello |
+| [DOC] Alucinaciones de la IA | 0.5 | Ignacio Blanquero |
+| [MRKTN] Subir posts | 1.5 | Manuel Pérez |
+| [CHANGE] Paginar todo | 12 | Héctor Noguera, Andrés Pizzano, Lorenzo Torralba |
+| [MRKTN] Grabar vídeo demo | 1 | Natalia Olmo, Fernando José de Celis |
+| [MRKTN] Editar vídeo demo | 2 | Natalia Olmo, Fernando José de Celis |
+| [FEATURE] Crear pagos cliente | 3 | Andrés Pizzano |
+| [DOC] KB Report | 1 | Ignacio Blanquero |
+| [DOC] Actualizar Manual de Usuario | 3 | Francisco Avilés, Sergio Pons |
+| [DOC] Actas de reuniones PPL | 2 | Sergio Pons, Ignacio Blanquero |
+| [DOC] Feedback Semana 2 | 2 | Ignacio Blanquero |
+| [DOC] Presentación 2 Semana 2 | 4 | Antonio Montero, Daniel Benito, Héctor Noguera, Manuel Pérez, Sergio Pons |
+| [DOC] Análisis Cuantitativo y Cualitativo Final PPL | 2 | María de la Salud Carrera |
+| [MRKTN] Corregir anuncio clientes | 3 | Manuel Pérez, Natalia Olmo |
+| [DOC] Presentación 1 Semana 2 | 6 | Antonio Montero, Daniel Benito, Héctor Noguera, Manuel Pérez, Sergio Pons |
+| [BUG] Corregir Test | 3 | Miguel Hernández |
+| [FEATURE] Mejorar toda la UI/UX | 2 | Andrés Pizzano, Lorenzo Torralba |
+| [DOC] Revisar documentos en Docusaurus | 4 | María de la Salud Carrera |
+| [MRKTN] Post oficial Intagram Lanzamiento de la App | 1 | Manuel Pérez |
+| [FEATURE] Actualizar términos y condiciones | 1 | Héctor Noguera |
+| [MRKTN] Editar y subir posts de relleno | 2 | Fernando José de Celis |
+| [MRKTN] Editar capitulo 2 DivinasTV | 4 | Manuel Pérez, Natalia Olmo, Antonio Montero |
+| [FEATURE] Despliegue | 1 | Pablo Jesús Castellanos, Andrés Pizzano |
+| [DOC] Revisar Deliverable Failure Conditions | 2 | Pablo Jesús Castellanos, Francisco Avilés |
+| [DOC] Hacer release final PPL (docs) | 1 | María de la Salud Carrera |
+| [DOC] Hacer release final PPL | 0.5 | María de la Salud Carrera |
+| [DOC] Actualizar documento de costes final PPL | 2 | Pablo Jesús Castellanos, Francisco Avilés |
+| [DOC] Peformance Evaluation | 2 | Ignacio Blanquero |
+| [DOC] Time Effort Report | 2 | Ignacio Blanquero |
+| [DOC] Changelog | 1 | Lorenzo Torralba |
+| [DOC] Retrospectiva PPL | 1.5 | Sergio Pons |
+| [DOC] Actualizar requisitos | 2 | Francisco Avilés |
+| [FEATURE] Revisar Despliegue completo | 4 | Pablo Jesús Castellanos, Adrián Cabello |
+| [MRKTN] Grabar vídeo demo | 1 | David Godoy |
+| [MRKTN] Editar vídeo demo | 3 | David Godoy, Gonzalo Navas |
+| [FEATURE] Despliegue exclusivo PPL| 1 | Pablo Jesús Castellanos, Andrés Pizzano |
+| [DOC] Problemas Semana 2 | 1.5 | Héctor Noguera |
+| [DOC] Casos de Uso | 1 | Francisco Avilés |
+| [MRKTN] Grabar capítulo 3 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
+| [MRKTN] Grabar capítulo 4 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
+| [DOC] Plan de Pruebas | 1 | Ignacio Blanquero |
 
 <div id='concl'></div>
 
