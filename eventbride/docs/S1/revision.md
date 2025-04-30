@@ -36,6 +36,7 @@
 | 09/03/2025 | v1.0    | Creación del documento y estructura básica | Sprint 1 | Fernando José de Celis Hurtado      |
 | 12/03/2025 | v1.1    | Edición de Concordancia con los casos de uso  | Sprint 1 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 13/03/2025 | v2.0    | Finalización del documento  | Sprint 1 | Fernando José de Celis Hurtado, Antonio Montero López       |
+|30/04/2025|v2.1|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 
 
 ## Contenido
@@ -126,59 +127,59 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de inicio de sesión el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center>![Login 1](../img/s1login1.png)</center>
+<img src="https://iili.io/3XMdMdv.png"></img>
 
 En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta en el sistema.
 
-<center>![Login 2](../img/s1login2.png)</center>
+<img src="https://iili.io/3XMdV7R.png"></img>
 
 Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos y hay una breve descripción sobre lo que hacemos y como trabajamos.
 
-<center>![Inicio](../img/s1inicio.png)</center>
+<img src="https://iili.io/3XMdErJ.png"></img>
 
 Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de mis servicios, se pueden observar los servicios pertenecientes al usuario y sus respectivos datos.
 
-<center>![Mis eventos](../img/s1miseventos.png)</center>
+<img src="https://iili.io/3XMdWep.png"></img>
 
 Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos y también se puede borrar el evento que se seleccione.
 
-<center>![Detalles eventos](../img/s1detalleseventos.png)</center>
+<img src="https://iili.io/3XMdcLF.png"></img>
 
 También se puede meter en la sección de crear evento donde se muestra un formulario a completar y se crea el evento. 
 
-<center>![Crear Evento](../img/s1crearevento.png)</center>
+<img src="https://iili.io/3XMdYzP.png"></img>
 
 Y hasta el momento, también se puede acceder a la pestaña de términos y condiciones para poder leerlas.
 
-<center>![Términos](../img/s1terminos.png)</center>
+<img src="https://iili.io/3XMdjII.png"></img>
 
 Si iniciamos sesión con un usuario **proveedor** y se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
 
-<center>![Mis servicios](../img/s1misservicios.png)</center>
+<img src="https://iili.io/3XMdXmN.png"></img>
 
 Dentro de editar un servicio, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio.
 
-<center>![Editar servicio](../img/s1editarservicio.png)</center>
+<img src="https://iili.io/3XMd0qg.png"></img>
 
 Y de la misma forma si se quiere crear un servicio, se muestra el formulario correspondiente a completar.
 
-<center>![Crear servicio](../img/s1crearservicio.png)</center>
+<img src="https://iili.io/3XMdaX1.png"></img>
 
 Si iniciamos sesión con un usuario **admin**, y accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
-<center>![Administrar servicios](../img/s1administrarservicios.png)</center>
+<img src="https://iili.io/3XMdudx.png"></img>
 
 Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
-<center>![Admin editar servicio](../img/s1admineditarservicio.png)</center>
+<img src="https://iili.io/3XMdnse.png"></img>
 
 Si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
 
-<center>![Administrar usuarios](../img/s1administrarusuarios.png)</center>
+<img src="https://iili.io/3XMdReV.png"></img>
 
 Por último, la sección de administrar eventos funciona de la misma manera que la anterior mencionada.
 
-<center>![Administrar eventos](../img/s1administrareventos.png)</center>
+<img src="https://iili.io/3XMdIgj.png"></img>
 
 <div id='id5'></div>
 
