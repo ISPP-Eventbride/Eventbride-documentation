@@ -40,6 +40,7 @@
 |20/03/2025|v2.3|Ajustar estimación de costos a nuevos CAPEX y OPEX | Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña 
 |25/03/2025|v2.4|Ajustar monetización| Sprint 2 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 |23/04/2025|v2.5|Cambios de formato y de expresión| PPL | Pablo Jesús Castellanos Compaña |
+|30/04/2025|v2.6|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 
 ## Contenido 
 
@@ -161,15 +162,15 @@ Teniendo en cuenta estos parametros, se podría estimar que el costo a corto pla
 
 A continuación haremos una estimación de los posibles beneficios. Para ello, tendré en cuenta las estimaciones hechas por los compañeros del costo de celebrar una boda[1], una comunión[2] y un bautizo[3]:
 
-<center>![](../img/costo_estimado_boda.png)</center>
+<img src="https://iili.io/3XfMoMv.png"></img>
 Imagen 1. Costo estimado de una boda
 
 
-<center>![](../img/costo_estimado_comunion.png)</center>
+<img src="https://iili.io/3XfMxPR.png"></img>
 Imagen 2. Costo estimado de una comunión
 
 
-<center>![](../img/costo_estimado_bautizo.png)</center>
+<img src="https://iili.io/3XfMBta.png"></img>
 Imagen 3. Costo estimado de un bautizo
 
 

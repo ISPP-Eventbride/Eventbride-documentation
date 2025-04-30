@@ -39,6 +39,7 @@
 | 25/03/2025 | v2.1    | Actualización de credenciales de la aplicación | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 27/03/2025 | v2.2    | Actualización de enlace de github | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 27/03/2025 | v2.3    | Actualización de la guía de la aplicación | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
+|30/04/2025|v2.4|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 
 
 ## Contenido
@@ -129,131 +130,131 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de inicio de sesión el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center>![login](../img/login.png)</center>
+<img src="https://iili.io/3XMdHfs.png"></img>
 
 En caso de no tener cuenta, se puede acceder a la pestaña de registrarse y completar el formulario correspondiente para poder crearse una cuenta pudiendo elegir el tipo de usuario que desea ser (cliente o proveedor).
 
-<center>![register](../img/register.png)</center>
+<img src="https://iili.io/3XMdxqu.png"></img>
 
 Para cualquier tipo de usuario se puede ver una página de inicio que es la página siguiente donde nos presentamos, hay una breve descripción sobre lo que hacemos y como trabajamos, hay una barra de navegación en la parte superior de la pantalla donde se puede viajar a todas las funcionalidades de Eventbride y por último se pueden acceder a los chats abiertos en el botón verde de abajo derecha.
 
-<center>![inicio](../img/inicio.png)</center>
+<img src="https://iili.io/3XMJZRp.png"></img>
 
 También para cualquier usuario, si se accede a los chats se muestra al inicio todos los chats abiertos con el último mensaje enviado de la conversación.
 
-<center>![chats](../img/chats.png)</center>
+<img src="https://iili.io/3XfMdFV.png"></img>
 
 Y si se accede a un chat en especifico, se podrá enviar mensajes escribiendolos y enviandolos, similar a Whatsapp.
 
-<center>![chatprivado](../img/chatprivado.png)</center>
+<img src="https://iili.io/3XfMH6Q.png"></img>
 
 Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de mis servicios, se pueden observar los servicios pertenecientes al usuario y sus respectivos datos.
 
-<center>![miseventos](../img/miseventos.png)</center>
+<img src="https://iili.io/3XMdJ0G.png"></img>
 
 Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos, también se puede borrar el evento que se seleccione y por último se puede realizar el pago mediante PayPal o tarjeta de crédito/débito.
 
-<center>![detalleseventos](../img/detalleseventos.png)</center>
+<img src="https://iili.io/3XMdS2f.png"></img>
 
 Si desea pagar los servicios individualmente, también puede hacerlo accediendo a la pestaña de pagar reserva que tiene cada servicio y se puede pagar por los mismos medios mencionados anteriormente, por PayPal y tarjeta de crédito/débito.
 
-<center>![pagoservicio](../img/pagoservicio.png)</center>
+<img src="https://iili.io/3XMdKe2.png"></img>
 
 También se puede meter en la sección de crear evento donde se muestra un formulario a completar y se crea el evento. 
 
-<center>![crearevento](../img/crearevento.png)</center>
+<img src="https://iili.io/3XfMIFp.png"></img>
 
 Se puede acceder a la pestaña de los recintos donde se pueden ver los recintos disponibles, su localización en el mapa, los detalles de cada recinto y la posibilidad de chatear con el dueño del recinto.
 
-<center>![recintosdisponibles](../img/recintosdisponibles.png)</center>
+<img src="https://iili.io/3XMdBz7.png"></img>
 
 Si se desea añadir un recinto a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho recinto y completar la hora de inicio y final de la reserva del sitio.
 
-<center>![añadirrecinto](../img/añadirrecinto.png)</center>
+<img src="https://iili.io/3XfGsF2.png"></img>
 
 También se pueden añadir diferentes servicios como pueden ser de catering, entretenimiento y decoración, para ello accede a la pestaña de otros servicios y podrás ver los diferentes servicios con sus detalles y la posibilidad de chatear con el dueño del servicio.
 
-<center>![otrosservicios](../img/otrosservicios.png)</center>
+<img src="https://iili.io/3XMdF5l.png"></img>
 
 Si se desea añadir un servicio a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho servicio y completar la hora de inicio y final de la reserva del sitio.
 
-<center>![añadirservicio](../img/añadirservicio.png)</center>
+<img src="https://iili.io/3XfGLaS.png"></img>
 
 Si se accede a la pestaña de invitaciones, se verán todos tus eventos y la opción de editar los invitados.
 
-<center>![invitaciones](../img/invitaciones.png)</center>
+<img src="https://iili.io/3XMJmxt.png"></img>
 
 Si se desea mirar los invitados de un evento y la posibilidad de añadir más, se puede acceder a la vista de editar invitados y se mostrarán los invitados actuales y la posibilidad de invitar más.
 
-<center>![invitacionesespecificas](../img/invitacionesespecificas.png)</center>
+<img src="https://iili.io/3XMJysn.png"></img>
 
 Al querer crear una invitación solo hay que rellenar un formulario en el que se debe especificar cuantos invitados tienen permiso para ir al evento con esa invitacón. Cuando se crea la invitación, se genera un link que se copia automaticamente al portapapeles el cual se deberá compartir con la persona que se desea invitar
 
-<center>![crearinvitacion](../img/crearinvitacion.png)</center>
+<img src="https://iili.io/3XfMuSI.png"></img>
 
 Esta pestaña es la que verá la persona invitada cuando se meta en el link que le pasa el anfitrión de la boda. En esta pestaña se tiene que cumplimentar el formulario para poder confirmar tu asistencia a la boda.
 
-<center>![aceptarinvitacion](../img/aceptarinvitacion.png)</center>
+<img src="https://iili.io/3Xf1H6N.png"></img>
 
 También se puede acceder a la pestaña de detalles de perfil donde se muestran todos los datos y se da la posibilidad de editarlos o cerrar sesión.
 
-<center>![detallesperfil](../img/detallesperfil.png)</center>
+<img src="https://iili.io/3XMdU74.png"></img>
 
 Si se desea actualizar los datos del perfil, se accede a la pestaña correspondiente, se modifican con un formulario simple y se le da a guardar.
 
-<center>![editarperfil](../img/editarperfil.png)</center>
+<img src="https://iili.io/3XMdgkl.png"></img>
 
 Si iniciamos sesión con un usuario **proveedor**, se muestra la misma página inicial que los usuarios clientes pero se muestra el plan de pago al que pertenece y las funcionalidades correspondientes.
 
-<center>![inicioproveedor](../img/inicioproveedor.png)</center>
+<img src="https://iili.io/3XMJDbI.png"></img>
 
 Si se accede a la pestaña de mis servicios, se muestran los servicios pertenecientes al proveedor pudiéndose editar y crear nuevos servicios en la misma sección.
 
-<center>![misservicios](../img/misservicios.png)</center>
+<img src="https://iili.io/3XMddgf.png"></img>
 
 Dentro de editar un servicio, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio.
 
-<center>![editarservicio](../img/editarservicio.png)</center>
+<img src="https://iili.io/3XMdiQ9.png"></img>
 
 Al crear un servicio, se muestra el formulario correspondiente (depende del tipo de servicio escogido) a completar.
 
-<center>![crearservicio](../img/crearservicio.png)</center>
+<img src="https://iili.io/3XfMYts.png"></img>
 
 En la pestaña de solicitudes se mostrarán las solicitudes pendientes que le queda al proveedor por aceptar o cancelar según su criterio. En el caso de haber solicitudes, se mostrarán todos los datos importantes de la misma y los botones de aceptar o cancelar.
 
-<center>![solicitudes](../img/solicitudes.png)</center>
+<img src="https://iili.io/3XMdNLX.png"></img>
 
 La pestaña de editar perfil es la misma que la del usuario cliente añadiéndose un botón para actualizar el plan de pago.
 
-<center>![editarperfilproveedor](../img/editarperfilproveedor.png)</center>
+<img src="https://iili.io/3XMdrp2.png"></img>
 
 Si se desea actualizar al plan premium, se puede realizar indicando el número de meses que se desea y se puede pagar con tarjeta o con PayPal.
 
-<center>![contratarpremium](../img/contratarpremium.png)</center>
+<img src="https://iili.io/3XfMnoJ.png"></img>
 
 Si iniciamos sesión con un usuario **admin**, se muestra la misma página inicial que los usuarios clientes pero se muestran las funcionalidades correspondientes al administrador.
 
-<center>![inicioadmin](../img/inicioadmin.png)</center>
+<img src="https://iili.io/3XMJtON.png"></img>
 
 Si accedemos a administrar servicios, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
 
-<center>![administrarservicios](../img/administrarservicios.png)</center>
+<img src="https://iili.io/3XfGP6l.png"></img>
 
 Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
-<center>![admineditarservicio](../img/admineditarservicio.png)</center>
+<img src="https://iili.io/3XfGgZG.png"></img>
 
 La sección de administrar eventos funciona de la misma manera que la anterior mencionada (administrar servicios).
 
-<center>![administrareventos](../img/administrareventos.png)</center>
+<img src="https://iili.io/3XfG4nf.png"></img>
 
 Si accedemos a la sección de editar, se nos muestra el formulario a rellenar.
 
-<center>![admineditarevento](../img/admineditarevento.png)</center>
+<img src="https://iili.io/3Xf19Gp.png"></img>
 
 Y por último, si accedemos a la sección de administrar usuarios, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. También se pueden eliminar del sistema.
 
-<center>![administrarusuarios](../img/administrarusuarios.png)</center>
+<img src="https://iili.io/3XfG6G4.png"></img>
 
 <div id='id5'></div>
 

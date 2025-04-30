@@ -37,6 +37,7 @@
 |10/03/2025 |v2.0 |Introducción | Sprint 1 |María de la Salud Carrera Talaverón|
 |10/03/2025 |v2.1 |Pasar a formato Markdown | Sprint 1 | Daniel Benito Hidalgo|
 |12/03/2025 |v2.2 |Adición de información requerida en la plantilla | Sprint 1 |María de la Salud Carrera Talaverón|
+|30/04/2025|v2.3|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -131,32 +132,32 @@ Gracias a la herramienta **Google Trends** podemos saber la frecuencia de búsqu
 
 **Término “boda”**:
 
-<center>![](../img/boda_5_años.png)</center>
+<img src="https://iili.io/3XfGmZb.png"></img>
 
 Como se puede observar, en los últimos 5 años, el término bodas se busca frecuentemente a lo largo de todo el año con una media de 100 búsquedas al día. Esto garantiza el futuro de la aplicación a largo plazo al ser algo que no pasa de moda. 
 
-<center>![](../img/boda_año.png)</center>
+<img src="https://iili.io/3XfM9Mx.png"></img>
 
 En este gráfico se puede ver la búsqueda del término bodas a lo largo del año. También se observa un uso constante por parte de los usuarios así que se puede decir que podría haber un flujo constante de nuevos usuarios en la app. Por último, hay un pico entre los meses de marzo y abril, que coincide a las fechas donde se producen mayores bodas y, por el contrario, una bajada en el mes de diciembre. 
 
 #### Término “comunión”:
 
 
-<center>![](../img/comunion_5_años.png)</center>
+<img src="https://iili.io/3XfM2cB.png"></img>
 
 Como se puede observar en el gráfico de 5 años, es un término que tampoco sigue modas. Sin embargo, tiene una época más marcada.
 
-<center>![](../img/comunion_año.png)</center>
+<img src="https://iili.io/3XfMK91.png"></img>
 
 En el gráfico ampliado de los últimos 12 meses, se puede observar que en los meses de marzo, abril y mayo es el máximo, ya que es cuando se producen. En verano hay un valle hasta septiembre y octubre, y luego repunta en enero.
 
 #### Término “bautizo”:
 
-<center>![](../img/bautizo_5_años.png)</center>
+<img src="https://iili.io/3XfGt99.png"></img>
 
 En cuanto a las búsquedas de bautizos en los últimos 5 años, se puede observar una bajada no pronunciada reciente. Esto se puede deber a un posible decrecimiento de la natalidad o la fe cristiana.  
 
-<center>![](../img/bautizo_año.png)</center>
+<img src="https://iili.io/3XfGDue.png"></img>
 
 No se produce mucha variación de la búsqueda a lo largo de un año del término. Podemos asumir que se buscará a lo largo del año de forma homogénea.
 

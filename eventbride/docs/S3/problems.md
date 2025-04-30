@@ -41,6 +41,7 @@
 | 02/04/2025 | v1.5    | Redacción del problema 6 y 7 | Sprint 3 | Héctor Noguera González |
 | 09/04/2025 | v1.6    | Redacción del problema 8 y 9 | Sprint 3 | Héctor Noguera González |
 | 10/04/2025 | v1.7    | Redacción del problema 10, 11 y 12 | Sprint 3 | Héctor Noguera González |
+|30/04/2025|v1.8|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -502,11 +503,11 @@ Para complementar el análisis de cada problema, se ha incluido la siguiente inf
 
 ### Gráficas de Rendimiento
 
-<center>![](../img/grafica1.png)</center>
+<img src="https://iili.io/3XMJ8OB.png"></img>
 
-<center>![](../img/grafica2.png)</center>
+<img src="https://iili.io/3XMJ4ig.png"></img>
 
-<center>![](../img/grafica3.png)</center>
+<img src="https://iili.io/3XMJi0J.png"></img>
 
 
 Las gráficas reflejan:
