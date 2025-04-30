@@ -40,6 +40,7 @@
 | 27/03/2025 | v2.2    | Actualización de enlace de github | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 27/03/2025 | v2.3    | Actualización de la guía de la aplicación | Sprint 2 | Fernando José de Celis Hurtado, Antonio Montero López       |
 | 08/04/2025 | v3.0    | Actualización de la guía de la aplicación con los avances del sprint 3 | Sprint 3 | Sergio Pons López       |
+| 30/04/2025 | v3.1    | Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v4.0    | Actualización de la guía de la aplicación con los avances del PPL | PPL | Sergio Pons López, Francisco Avilés Carrera       |
 
 ## Contenido
