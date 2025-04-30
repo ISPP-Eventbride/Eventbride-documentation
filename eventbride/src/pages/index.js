@@ -42,11 +42,11 @@ function ImportantDoc() {
   const documents = [
     {
       name: "Acuerdo de usuarios pilotos",
-      url: "docs/category/commitment-agreement-usuarios-piloto-1",
+      url: "docs/category/commitment-agreements-usuarios-piloto",
     },
     {
       name: "Commitment Agreement",
-      url: "docs/category/commitment-agreement-2",
+      url: "docs/category/commitment-agreements",
     },
     {
       name: "Implicaciones legales",
