@@ -65,6 +65,7 @@
 | 23/04/2025 | v7.3    | Métricas cuantitativas                                                        | PPL      | María de la Salud Carrera Talaverón |
 | 23/04/2025 | v7.4    | Métricas cualitativas y conclusiones                                          | PPL      | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v8.0    | Replanificación entregable                                                    | PPL      | María de la Salud Carrera Talaverón |
+| 30/04/2025 | v8.1    | Análisis cuantitativo y cualitativo                                           | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -91,9 +92,9 @@ El presente documento tiene como objetivo realizar un análisis tanto cuantitati
 
 El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Las métricas definidas en el documento `metrics.md` están divididas en específicas a cada subgrupo de trabajo o generales para todos los integrantes de Eventbride. Se analizarán en cada apartado correspondiente. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`.
 
-La mitad del PPL supone aproximadamente el 79% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en entregables futuros. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
+El final del PPL supone aproximadamente el 86% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en entregables futuros. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
 
-Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la primera semana del PPL, por tanto, se esperan alrededor de 395 LdC, 6 commits, 12 issues, 4 PRs y 118.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 23 de abril de 2025 [^2]:
+Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la segunda semana del PPL, por tanto, se esperan alrededor de 430 LdC, 6 commits, 13 issues, 4 PRs y 129 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 1 de mayo de 2025 (por la mañana) [^2]:
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
@@ -121,7 +122,7 @@ No se va a reflejar en este documento el análisis de los costes del proyecto ha
 
 ### Grupo de Marketing
 
-Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la primera semana del PPL, por tanto, se esperan alrededor de 2 reuniones de marketing y 4 publicaciones por persona.
+Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la segunda semana del PPL, por tanto, se esperan alrededor de 3 reuniones de marketing y 4 publicaciones por persona.
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
@@ -134,7 +135,7 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del PPL, por tanto, se esperan alrededor de 4 documentos y 2 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del PPL, por tanto, se esperan alrededor de 4 documentos y 3 PRs por persona.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
@@ -147,7 +148,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del PPL, por tanto, se esperan alrededor de 553 LdC, 8 commits y 4 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del PPL, por tanto, se esperan alrededor de 602 LdC, 9 commits y 4 tests por persona.
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
@@ -164,7 +165,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 ### Grupo de Revisión
 
-Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del PPL, por tanto, se esperan alrededor de 16 PRs revisadas por persona.
+Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del PPL, por tanto, se esperan alrededor de 17 PRs revisadas por persona.
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
@@ -194,17 +195,17 @@ La labor de los desarrolladores y testers incluye:
 | Adrián Cabello Martín               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | María de la Salud Carrera Talaverón | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Fernando José de Celis Hurtado      | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| David Godoy Fernández               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
+| Fernando José de Celis Hurtado      | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
+| David Godoy Fernández               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
 | Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Antonio Montero López               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Gonzalo Navas Remmers               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
+| Antonio Montero López               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
+| Gonzalo Navas Remmers               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Natalia Olmo Villegas               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Natalia Olmo Villegas               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 | Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Andrés Pizzano Cerrillos            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
 | Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Lorenzo Torralba Lanzas             | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
+| Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
 
 En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del Sprint y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
 
@@ -220,9 +221,9 @@ Los aseguradores de la calidad (QA) deben velar por la calidad del trabajo entre
 
 El siguiente rol es el de secretario; esta función la cumplen Ignacio Blanquero Blanco y Sergio Pons López. Se encargan de registrar y documentar reuniones, acuerdos y decisiones clave, manteniendo organizada la información del proyecto. Ambos secretarios han cumplido con sus responsabilidades en este entregable.
 
-Héctor Noguera González es el Policy Manager, que se encarga de garantizar que las reglas de trabajo en equipo se cumplan, fomentando un ambiente colaborativo y respetuoso. Durante este entregable no ha sido necesaria su intervención, debido a que no han surgido nuevos problemas a registrar.
+Héctor Noguera González es el Policy Manager, que se encarga de garantizar que las reglas de trabajo en equipo se cumplan, fomentando un ambiente colaborativo y respetuoso. Durante este entregable su intervención ha sido mínima, debido a que han surgido pocos problemas a registrar y principalmente ha tenido que llevar el seguimiento de los problemas anteriores.
 
-Daniel Benito Hidalgo es el encargado de diseño, cuya función es desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo. En la práctica, se ha estado encargando de definir la imagen de la marca Eventbride, coordinando el diseño de los mockups y de las presentaciones de clase. Supervisa también que se siga la temática establecida tanto en la aplicación como en las presentaciones. Ha recibido ayuda de Antonio Montero López.
+Daniel Benito Hidalgo es el encargado de diseño, cuya función es desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo. En la práctica, se ha estado encargando de definir la imagen de la marca Eventbride, coordinando el diseño de los mockups y de las presentaciones de clase. Supervisa también que se siga la temática establecida tanto en la aplicación como en las presentaciones. Ha recibido ayuda del grupo de Marketing al completo y de algunos compañeros de Código y Documentación.
 
 En cuanto a la gestión de los usuarios piloto, los miembros encargados de coordinarse con ellos son Daniel Benito Hidalgo, Gonzalo Navas Remmers, Fernando José de Celis y David Godoy. Su responsabilidades incluyen gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones, además de analizar el feedback para mejorar el producto. Durante este entregable, no han sido necesarias sus funciones, ya que no se programó ninguna recogida de feedback para el período que abarca el PPL; la siguiente recogida del feedback será posterior a esta entrega.
 
@@ -296,8 +297,8 @@ El equipo de Eventbride ha mostrado un alto grado de compromiso y organización 
 
 No procede.
 
-[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v3.2.0` del 10 de abril de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
+[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.0.0` del 29 de abril de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
-[^2]: Se ha realizado a fecha de un día anterior a la finalización de la primera semana del PPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en esa fecha, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
+[^2]: Se ha realizado por la mañana del día de la entrega del PPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
 [^3]: Manuel Pérez Vélez está contribuyendo al proyecto de GitHub de Eventbride con dos cuentas de GitHub diferentes. Sus métricas de LdC, commits, issues, PRs y tests se calcularán sumando las contribuciones hechas desde ambas cuentas.
