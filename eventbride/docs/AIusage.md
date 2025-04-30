@@ -222,7 +222,7 @@ Aunque algunas respuestas requirieron múltiples intentos, no las consideramos a
 
 Cabe destacar que en la respuesta correspondiente al ID 25, aunque parcialmente cumple con lo esperado, la falta de concisión en la respuesta puede interpretarse como una falta de coherencia, y por tanto, como una posible alucinación por parte de la IA.
 
-En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%. 
+En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%.
 
 Adicionalmente, se observa una reducción significativa en el uso de la Inteligencia Artificial en este entregable, lo cual se debe principalmente a que gran parte de las tareas desarrolladas estuvieron enfocadas en el ámbito del marketing.
 
@@ -239,10 +239,6 @@ Aun así, la IA no ha reemplazado por completo al humano en las tareas que ha co
 En el Sprint 3 ha demostrado en especial una mejora significativa en términos de ahorro de tiempo. De hecho, este sprint ha sido donde más valor hemos percibido en cuanto a eficiencia: los tiempos ahorrados superan con frecuencia los 30 minutos por respuesta, alcanzando incluso casos de 1 hora o más. Este incremento en productividad ha sido posible gracias al uso intensivo de la IA como punto de partida para resolver tareas concretas y técnicas.
 
 Sin embargo, es importante destacar que prácticamente en todos los casos ha sido necesario editar la información generada, ya que el contenido entregado no siempre encajaba directamente con nuestras necesidades o contexto. La IA ha proporcionado respuestas válidas, pero estas han requerido ajustes para adaptarse al lenguaje, objetivos y requisitos específicos del proyecto.
-
-En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%. 
-
-Adicionalmente, se observa una reducción significativa en el uso de la Inteligencia Artificial en este entregable, lo cual se debe principalmente a que gran parte de las tareas desarrolladas estuvieron enfocadas en el ámbito del marketing.
 
 En definitiva, la integración de herramientas de Inteligencia Artificial en el desarrollo del proyecto ha resultado altamente beneficiosa para el equipo. Su uso ha permitido optimizar tiempos, facilitar la generación de contenidos técnicos y apoyar la toma de decisiones en diversas fases del proyecto. A lo largo de los distintos sprints, y especialmente en el Sprint 3, se ha evidenciado una mejora notable en eficiencia, siempre bajo la premisa de que las salidas generadas por la IA fueran revisadas y ajustadas por los miembros del equipo.
 
