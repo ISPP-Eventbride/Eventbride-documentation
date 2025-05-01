@@ -58,7 +58,7 @@
 | 03/04/2025 | v6.3    | Métricas actualizadas                                                         | Sprint 3 | María de la Salud Carrera Talaverón |
 | 06/04/2025 | v6.4    | Actualización análisis cuantitativo (limpieza de tablas) y fechas importantes | Sprint 3 | María de la Salud Carrera Talaverón |
 | 06/04/2025 | v6.5    | Reestimación del Sprint                                                       | Sprint 3 | María de la Salud Carrera Talaverón |
-| 10/04/2025 | v6.6    | Actualización análisis cuantitativo y cualitativo Sprint                      | Sprint 3 | Manuel Pérez Vélez |
+| 10/04/2025 | v6.6    | Actualización análisis cuantitativo y cualitativo Sprint                      | Sprint 3 | Manuel Pérez Vélez                  |
 | 21/04/2025 | v7.0    | Creación del documento para el PPL                                            | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.1    | Actualización del contenido para referenciar el presente entregable           | PPL      | María de la Salud Carrera Talaverón |
 | 21/04/2025 | v7.2    | Objetivos cumplidos de métricas cuantitativas                                 | PPL      | María de la Salud Carrera Talaverón |
@@ -67,6 +67,8 @@
 | 30/04/2025 | v8.0    | Replanificación entregable                                                    | PPL      | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v8.1    | Análisis cuantitativo y cualitativo                                           | PPL      | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v8.2    | Análisis cuantitativo - horas borradas para actualizarlas al día siguiente    | PPL      | María de la Salud Carrera Talaverón |
+| 01/05/2025 | v8.3    | Replanificación entregable y análisis cualitativo                             | PPL      | María de la Salud Carrera Talaverón |
+| 01/05/2025 | v8.4    | Análisis cuantitativo                                                         | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -99,23 +101,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           |  |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 142:03:37 |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           |  |
-| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           |  |
-| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           |  |
+| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | 148:32:22 |
+| Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 144:12:02 |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           |  |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           |  |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           |  |
-| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           |  |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           |  |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           |  |
+| Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | ✅       |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 120:24:38 |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 145:13:58 |
+| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | 139:36:29 |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 140:04:20 |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 137:50:19 |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           |  |
-| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           |  |
-| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           |  |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       |  |
+| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 145:39:21 |
+| Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 118:55:1  |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -142,7 +144,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 |-------------------------------------|------------|--------------|
 | Ignacio Blanquero Blanco            | ✅         | ✅          |
 | María de la Salud Carrera Talaverón | ✅         | ✅          |
-| Antonio Montero López               | ✅         |       2      |
+| Antonio Montero López               | ✅         | ✅          |
 | Sergio Pons López                   | ✅         | ✅          |
 
 <div id='id13'></div>
@@ -191,22 +193,22 @@ La labor de los desarrolladores y testers incluye:
 | Desarrollador/a                     | Esfuerzo   | Finalización tareas | Registro tiempo | Comunicación | Compromiso con la calidad | Problemas  |
 |-------------------------------------|------------|---------------------|-----------------|--------------|---------------------------|------------|
 | Francisco Avilés Carrera            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Daniel Benito Hidalgo               | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Ignacio Blanquero Blanco            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
+| Daniel Benito Hidalgo               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Ignacio Blanquero Blanco            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Adrián Cabello Martín               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | María de la Salud Carrera Talaverón | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Fernando José de Celis Hurtado      | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
-| David Godoy Fernández               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
-| Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Antonio Montero López               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
-| Gonzalo Navas Remmers               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
+| Fernando José de Celis Hurtado      | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| David Godoy Fernández               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Antonio Montero López               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Gonzalo Navas Remmers               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Natalia Olmo Villegas               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
-| Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Andrés Pizzano Cerrillos            | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | No procede |
-| Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | No procede |
+| Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Andrés Pizzano Cerrillos            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 
 En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del Sprint y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
 
@@ -285,6 +287,15 @@ Se reasignaron algunas de las tareas planificadas para la segunda semana, pero l
 | [MRKTN] Grabar capítulo 3 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
 | [MRKTN] Grabar capítulo 4 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
 | [DOC] Plan de Pruebas | 1 | Ignacio Blanquero |
+| [MRKTN] Grabar video tutorial cliente | Sin estimar | Adrián Cabello |
+| [MRKTN] Reel mostrando cómo crear un evento | 1.5 | Adrián Cabello |
+| [MRKTN] Guión anuncio inversores | 2 | Adrián Cabello, Daniel Benito |
+| [MRKTN] Pensar killer opener | 1 | Daniel Benito, Natalia Olmo |
+| [MRKTN] Guión vídeo demo | 1 | Pablo Jesús Castellanos, Gonzalo Navas |
+| [MRKTN] Grabar anuncio inversores | 3 | Daniel Benito, Héctor Noguera, Fernando José de Celis |
+| [MRKTN] Contactar con los usuarios piloto para entrevistas formato tik tok | 2 | Daniel Benito, Héctor Noguera |
+| [MRKTN] Editar anuncio inversores | 3 | Gonzalo Navas |
+| [MRKTN] Editar tutorial 1 cliente | 1 | Fernando José de Celis |
 
 <div id='concl'></div>
 
