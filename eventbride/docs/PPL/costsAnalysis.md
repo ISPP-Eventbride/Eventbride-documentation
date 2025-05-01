@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 24/04/2025
+### Fecha: 01/05/2025
 
 ### Entregable: PPL
 
@@ -45,6 +45,7 @@
 |03/04/2025|v1.9|Costes estimados vs Costes reales S3| Sprint 3 | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 |03/04/2025|v2.0|Costes de Marketing añadidos a Capex y Sprint 3| Sprint 3 | Francisco Avilés Carrera |
 |24/04/2025|v2.1|Costes estimados vs Costes reales mitad PPL| PPL | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
+|01/05/2025|v2.2|Costes estimados vs Costes reales final PPL| PPL | Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña |
 
 
 ---
@@ -457,6 +458,51 @@ Además, hay que tener en cuenta que algunos costes, como licencias, infraestruc
 | Sergio Pons López                     | 11    | Diseñador gráfico     | 30                 | 330       |
 | Lorenzo Torralba Lanzas               | 5     | Diseñador gráfico     | 30                 | 150       |
 | **TOTAL**                             |  |                       |                    | **4800** |
+
+
+
+
+
+### PPL (segunda mitad PPL, 25/04/25 - 01/05/25)
+
+
+| Concepto                      | Coste Estimado (€) | Coste Real (€) | Información Adicional |
+|------------------------------|--------------------|----------------|------------------------|
+| Desarrollo de software       | 4.515,00           | 4.750,00       | Salarios del equipo de desarrollo en este periodo (teniendo en cuenta las horas) |
+| Licencias iniciales          | 716,54             | 716,54         | (GitHub Enterprise, Copilot, Codacy, APIs externas) - Mes de abril |
+| Infraestructura inicial      | 765,31             | 765,31         | Google Cloud, oficinas - Mes de abril |
+| Plan de contingencia         | 0                  | 0              | - |
+| Coste usuarios piloto        | 720,00 (8 usuarios) | 540,00 (6 usuarios) | Mes de abril |
+| Material para grabar         | 0,00               | 0,00           | Pago único |
+| Publicidad en redes sociales | 500,00             | 500,00         | Mes de abril |
+| Publicidad en impresa        | 400,00             | 400,00         | Mes de abril |
+| Regalos promocionales        | 300,00             | 300,00         | Mes de abril |
+| **Total**                    | **7.916,85**       | **7.971,85**   | **Diferencia: -55,00** |
+
+
+
+
+
+| Nombre                                | Horas | Rol                   | Coste por hora (€) | Coste (€) |
+|---------------------------------------|--------|------------------------|---------------------|-----------|
+| Natalia Olmo Villegas                 | 6      | Jefe de proyecto       | 40                  | 240       |
+| María de la Salud Carrera Talaverón   | 7      | Jefe de subgrupo       | 30                  | 210       |
+| Pablo Jesús Castellanos Compaña       | 12     | Jefe de subgrupo       | 30                  | 360       |
+| Ignacio Blanquero Blanco              | 12     | Programador web        | 20                  | 240       |
+| Adrián Cabello Martín                 | 11     | Programador web        | 20                  | 220       |
+| Fernando José de Celis Hurtado        | 11     | Programador web        | 20                  | 220       |
+| David Godoy Fernández                 | 11     | Programador web        | 20                  | 220       |
+| Miguel Hernández Sánchez              | 9      | Programador web        | 20                  | 180       |
+| Antonio Montero López                 | 12     | Programador web        | 20                  | 240       |
+| Francisco Avilés Carrera              | 10     | Jefe de subgrupo       | 30                  | 300       |
+| Gonzalo Navas Remmers                 | 13     | Programador web        | 20                  | 260       |
+| Héctor Noguera González               | 11     | Programador web        | 20                  | 220       |
+| Daniel Benito Hidalgo                 | 11     | Programador web        | 20                  | 220       |
+| Manuel Pérez Vélez                    | 12     | Analista programador   | 30                  | 360       |
+| Andrés Pizzano Cerrillos              | 13     | Analista programador   | 30                  | 390       |
+| Sergio Pons López                     | 11     | Diseñador gráfico      | 30                  | 330       |
+| Lorenzo Torralba Lanzas               | 18     | Diseñador gráfico      | 30                  | 540       |
+| **TOTAL**                             |        |                        |                     | **4750**  |
 
 
 <div id='concl'></div>
