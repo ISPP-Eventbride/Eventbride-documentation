@@ -2,7 +2,7 @@
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
-### Grupo 3: EventBride
+### Grupo 3: Eventbride
 
 ### Miembros:
 - Francisco Avilés Carrera
@@ -36,6 +36,8 @@
 | 02/04/2025 | v1.0    | Creación y primera versión         | Sprint 3 | Pablo Jesús Castellanos Compaña, Natalia Olmo Villegas |
 | 01/05/2025 | v2.0    | Corrección de formato y estructura | PPL      | María de la Salud Carrera Talaverón                    |
 | 01/05/2025 | v2.1    | Apartado de SEO añadido            | PPL      | María de la Salud Carrera Talaverón                    |
+| 01/05/2025 | v2.2    | Estrategia de marketing            | PPL      | María de la Salud Carrera Talaverón                    |
+| 01/05/2025 | v2.3    | Apartado de SEO completado         | PPL      | María de la Salud Carrera Talaverón                    |
 
 ---
 
@@ -108,7 +110,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Campaña de Lanzamiento
 
-### Objetivo: captar usuarios y mostrar valor diferencial de EventBride
+### Objetivo: captar usuarios y mostrar valor diferencial de Eventbride
 
 #### Fases:
 
@@ -143,7 +145,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - **Duración:** 15-20 minutos
 - **Contenido:**
   - Introducción al problema y solución  
-  - Demo funcional de EventBride  
+  - Demo funcional de Eventbride  
   - Ronda de preguntas o feedback
 
 
@@ -205,7 +207,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Estrategia de marketing
 
-- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma EventBride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
+- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma Eventbride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
 
 - Segmentación:
 
@@ -222,6 +224,16 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
    - Redes sociales: Instagram y TikTok (contenidos visuales, reels y challenges); LinkedIn para captar proveedores.
    
    - Posibilidad de ampliar a reparto de trípticos y flyers propagandísticos a futuro.
+
+Nuestra estrategia principal de marketing se va a focalizar a las redes sociales, porque es el medio que actualmente tiene más impacto sobre nuestro público objetivo. Por lo tanto, lo que hemos decidido es crear un contenido visual atractivo, publicando imágenes y vídeos de nuestra plataforma y explicando también tutoriales de los procedimientos de las funcionalidades de Eventbride. además por redes sociales, estaremos bastante archivos, publicando encuestas y resolviendo preguntas de los usuarios.
+
+Asimismo, en redes sociales se trabaja mucho con los _trends_ actuales, por lo que aprovecharemos festividades como semana santa y feria para hacer contenido relacionado con eso. También crearemos contenido basado en memes y formatos de vídeos cortos populares en el momento.
+
+Haremos dos _trends_ en TikTok: uno para los clientes y otro para los proveedores. Los proveedores deberán subir un vídeo a TikTok explicando lo que hace su servicio y las cosas más originales que podría ofrecer para para Eventbride. A cambio, se les ofrecerán descuentos en los planes de precios de la plataforma Eventbride en función del alcance de sus vídeos (porcentaje de los descuentos a determinar). El _trend_ de los clientes consiste en contar su experiencia organizando un evento, hablando de qué es lo más extraño que les haya pasado o complicaciones que hayan tenido. Los vídeos más originales y/o con más visitas serán recompensados. Estas recompensas están aún por determinar, pero se conocerán antes de publicar los retos.
+
+Para estudiar las tendencias del mercado, se analizarán las actividades realizadas en la plataforma Eventbride: tipo de eventos organizados, ubicación, servicios más contratados, etc. y las relaciones entre estas características. Así, se podrán diseñar campañas de marketing más atractivas, además de adaptar la aplicación a las necesidades de nuestros usuarios.
+
+Por último, gracias a las encuestas enviadas a nuestros usuarios piloto y al _feedback_ recibido por ellos, conocemos de forma más directa los puntos más atractivos de nuestra aplicación y sabemos cuáles son los puntos débiles de Eventbride, de cara a mejorar siempre teniendo en cuenta a nuestros clientes potenciales.
 
 
 <div id='clientes'></div>
@@ -297,7 +309,7 @@ Tenemos también perfiles de inversores potenciales:
 
   - Proyectos con equipo poco comprometido o con mala gobernanza.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Tecnología escalable en Google Cloud.
   
@@ -317,7 +329,7 @@ Tenemos también perfiles de inversores potenciales:
 - **Frustraciones**:  
   - Startups sin un modelo freemium definido.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Modelo freemium + funcionalidades premium (recomendaciones, más servicios, etc).  
 
@@ -338,7 +350,7 @@ Tenemos también perfiles de inversores potenciales:
   
   - Falta de garantías legales y contractuales sólidas.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Mercado de eventos sociales con barrera de entrada digital (poco explotado).
   
@@ -466,9 +478,9 @@ Por último, tenemos también posibles proveedores:
 
 ## Herramientas de búsqueda
 
-Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con EventBride y su entorno. Entre ellos estarán:
+Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con Eventbride y su entorno. Entre ellos estarán:
 
-- #EventBride
+- #Eventbride
 - #bautizo
 - #eventos
 - #celebraciones
@@ -494,16 +506,33 @@ Además para festividades especiales se podrán lanzar videos especiales con has
 
 ### SEO (Search Engine Optimization)
 
-Contenido.
+Uno de los pilares fundamentales de nuestra estrategia de captación digital es el **posicionamiento orgánico** en buscadores, más conocido como SEO. Este enfoque busca incrementar la **visibilidad de Eventbride** en Google y otros motores de búsqueda a través de la optimización de contenidos, el uso estratégico de palabras clave y la presencia activa en redes sociales.
+
+Para alcanzar este objetivo, hemos definido tres ejes de acción complementarios:
+
+#### Visibilidad (Keyword Research)
+Utilizaremos **Google Ads Keyword Planner** para identificar las palabras clave más buscadas por nuestro público objetivo (por ejemplo: _organizar boda en Sevilla_, _bautizo económico_, _comunión con catering_). Estas palabras se incorporarán de manera natural en las descripciones de servicios, artículos del blog, landing pages y metadatos.
+
+El objetivo es aparecer en los primeros resultados de búsqueda de manera orgánica, sin necesidad de depender exclusivamente de campañas pagadas.
+
+#### Redes Sociales (RR. SS.)
+Las plataformas sociales como **Instagram, TikTok, YouTube y LinkedIn** serán clave para aumentar nuestra autoridad de dominio y generar tráfico de calidad hacia Eventbride. A través de contenido visual atractivo, retos, tutoriales y testimonios, se impulsarán interacciones que contribuyan al posicionamiento SEO de forma indirecta.
+
+En especial, **LinkedIn** se utilizará para establecer relaciones con proveedores y colaboradores, mientras que **Instagram** y **TikTok** estarán centradas en la difusión viral de la plataforma entre usuarios jóvenes.
+
+#### Medición de resultados
+Para asegurar que las acciones implementadas tienen un impacto real, se integrará **Google Analytics** como herramienta principal de medición. A través de esta plataforma, monitorizaremos el tráfico web, las tasas de conversión y el comportamiento de los usuarios.
+
+Esto nos permitirá detectar qué páginas generan más interés, cuáles requieren mejoras y qué términos de búsqueda están atrayendo visitas efectivas. A partir de estos datos, podremos ajustar constantemente nuestra estrategia de SEO para maximizar el retorno.
 
 
 <div id='conclusiones'></div>
 
 ## Conclusiones
 
-EventBride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
+Eventbride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
 
-El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar EventBride como una solución útil y escalable para la organización de eventos.
+El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar Eventbride como una solución útil y escalable para la organización de eventos.
 
 
 <div id='bib'></div>
