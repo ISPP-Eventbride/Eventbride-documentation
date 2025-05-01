@@ -39,6 +39,8 @@
 | 01/05/2025 | v2.2    | Estrategia de marketing            | PPL      | María de la Salud Carrera Talaverón                    |
 | 01/05/2025 | v2.3    | Apartado de SEO completado         | PPL      | María de la Salud Carrera Talaverón                    |
 | 01/05/2025 | v2.4    | Calendario marketing               | PPL      | María de la Salud Carrera Talaverón                    |
+| 01/05/2025 | v2.5    | Campaña de lanzamiento             | PPL      | Manuel Pérez Velez                                     |
+| 01/05/2025 | v2.6    | Arreglos menores                   | PPL      | María de la Salud Carrera Talaverón                    |
 
 ---
 
@@ -300,7 +302,7 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 
 ## Estrategia de marketing
 
-- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma Eventbride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
+- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes para la plataforma Eventbride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones. Queremos llegar también a empresas y posibles proveedores que quieran colaborar con nosotros.
 
 - Segmentación:
 
@@ -308,9 +310,7 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 
    - Estado civil: parejas próximas a casarse, familias organizando bautizos/comuniones.
 
-   - Nivel educativo: universitarios y recién graduados, principalmente personas con uso activo de redes sociales.
-
-   - Geografía: inicialmente Sevilla, con la idea a futuro de expandirse a grandes núcleos urbanos como Madrid, Barcelona, Valencia o Bilbao.
+   - Geografía: inicialmente Sevilla, con la idea a futuro de expandirse a grandes núcleos urbanos como Madrid, Barcelona, Valencia o Bilbao. El objetivo ideal sería expandirse a toda España con el tiempo.
 
 - Canales y tácticas:
 
@@ -318,9 +318,9 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
    
    - Posibilidad de ampliar a reparto de trípticos y flyers propagandísticos a futuro.
 
-Nuestra estrategia principal de marketing se va a focalizar a las redes sociales, porque es el medio que actualmente tiene más impacto sobre nuestro público objetivo. Por lo tanto, lo que hemos decidido es crear un contenido visual atractivo, publicando imágenes y vídeos de nuestra plataforma y explicando también tutoriales de los procedimientos de las funcionalidades de Eventbride. además por redes sociales, estaremos bastante archivos, publicando encuestas y resolviendo preguntas de los usuarios.
+Nuestra estrategia principal de marketing se va a focalizar a las redes sociales, porque es el medio que actualmente tiene más impacto sobre nuestro público objetivo. Por lo tanto, lo que hemos decidido es crear un contenido visual atractivo, publicando imágenes y vídeos de nuestra plataforma y explicando también tutoriales de los procedimientos de las funcionalidades de Eventbride. Además, por redes sociales estaremos bastante activos (gracias a la labor de nuestros CMs), publicando contenido con frecuencia y resolviendo preguntas de los usuarios.
 
-Asimismo, en redes sociales se trabaja mucho con los _trends_ actuales, por lo que aprovecharemos festividades como semana santa y feria para hacer contenido relacionado con eso. También crearemos contenido basado en memes y formatos de vídeos cortos populares en el momento.
+Asimismo, en redes sociales se trabaja mucho con los _trends_ actuales, por lo que aprovecharemos festividades como semana santa y feria para hacer contenido relacionado con eso. También crearemos contenido basado en memes y formatos de vídeos cortos populares en el momento. Se ha planificado también publicar una "serie" estilo _reality show_, llamada "DivinasTV", que tiene el objetivo de ganar más _engagement_ entreteniendo y divirtiendo al público joven.
 
 Haremos dos _trends_ en TikTok: uno para los clientes y otro para los proveedores. Los proveedores deberán subir un vídeo a TikTok explicando lo que hace su servicio y las cosas más originales que podría ofrecer para para Eventbride. A cambio, se les ofrecerán descuentos en los planes de precios de la plataforma Eventbride en función del alcance de sus vídeos (porcentaje de los descuentos a determinar). El _trend_ de los clientes consiste en contar su experiencia organizando un evento, hablando de qué es lo más extraño que les haya pasado o complicaciones que hayan tenido. Los vídeos más originales y/o con más visitas serán recompensados. Estas recompensas están aún por determinar, pero se conocerán antes de publicar los retos.
 
@@ -433,7 +433,7 @@ Tenemos también perfiles de inversores potenciales:
 - **Canal preferido**: Demo Day presenciales y sesiones cortas de 30 min por videoconferencia con prototipo funcional.
 
 
-### Roberto
+### Roberto, 51 años
 
 - **Rol**: Director de multinacional con perfil conservador.
 
