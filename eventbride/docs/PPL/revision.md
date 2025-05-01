@@ -1,6 +1,6 @@
 # Manual de usuario
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
+<img src="https://iili.io/3BcQ3YJ.md.png"></img> 
 
 ### Grupo 3: Eventbride
 
@@ -42,6 +42,7 @@
 | 08/04/2025 | v3.0    | Actualización de la guía de la aplicación con los avances del sprint 3 | Sprint 3 | Sergio Pons López       |
 | 30/04/2025 | v3.1    | Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v4.0    | Actualización de la guía de la aplicación con los avances del PPL | PPL | Sergio Pons López, Francisco Avilés Carrera       |
+| 01/05/2025 | v4.1    | Adición de nuevas pantallas y cambio de las que se han actualizado | PPL | Sergio Pons López, Pablo Jesús Castellanos Compaña       |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -163,41 +164,32 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 Para comenzar, al iniciar la aplicación se muestra un formulario de ***Inicio de sesión*** el cual hay que completar para poder acceder a las funcionalidades de esta.
 
-<center><img src="https://iili.io/3Xh7lx2.png"></img></center>
+<img src="https://iili.io/3hTkKGV.png"></img>
 
 En caso de no tener cuenta, se puede acceder a la pestaña de ***registrarse*** y completar el formulario correspondiente para poder crearse una cuenta pudiendo elegir el tipo de usuario que desea ser (cliente o proveedor).
 
-<center><img src="https://iili.io/3XhaZSn.png"></img></center>
-
-El ***navbar*** actual es el de la siguiente imagen, puede diferir con las otras capturas debido a su reciente incorporación para tener una mejor vista del logo de eventbride, que hemos actualizado exclusivamente para el navbar.
-
-<center><img src="https://iili.io/3amFqCv.png"></img></center>
-
-Para cualquier tipo de usuario se puede ver una ***página de inicio*** que es la página siguiente donde nos presentamos, hay una breve descripción sobre lo que hacemos y como trabajamos, hay una barra de navegación en la parte superior de la pantalla donde se puede viajar a todas las funcionalidades de Eventbride y por último se pueden acceder a los chats abiertos en el botón verde de abajo derecha.
-
-<center><img src="https://iili.io/3XhE9ee.png"></img></center>
-
+<img src="https://iili.io/3hT8g3B.png"></img> 
 
 Para cualquier usuario, al pulsar en las ***Notificaciones***, se abre una vista como esta donde se informa de diversas cosas, según el rol que tengas dentro de la plataforma como pueden ser que tengas un mensaje nuevo o una nueva solicitud de reserva, en el caso del proveedor.
 
-<center><img src="https://iili.io/3XhGFun.png"></img></center>
+<img src="https://iili.io/3XhGFun.png"></img> 
 
 
 Para cualquier usuario, si se accede a los ***chats*** se muestra al inicio todos los chats abiertos con el último mensaje enviado de la conversación.
 
-<center><img src="https://iili.io/3XhWfZg.png"></img></center>
+<img src="https://iili.io/3XhWfZg.png"></img> 
 
 
 Y si se accede a un ***chat en especifico***, se podrá enviar mensajes escribiéndolos y enviándolos, similar a WhatsApp.
 
-<center><img src="https://iili.io/3XhXzib.png"></img></center>
+<img src="https://iili.io/3XhXzib.png"></img> 
 
 
 En todas las pestañas de nuestra plataforma, aparece abajo del todo un ***Footer*** que se muestra en la siguiente imagen. Para los los usuarios son cliente aparece la sección de Enlaces rápidos pero para los otros dos tipos de usuario no.
 
-<center><img src="https://iili.io/3amdyox.png"></img></center>
+<img src="https://iili.io/3amdyox.png"></img> 
 
-Dentro del perifl, si pulsas en editar la contraseña debes introducir la contraseña actual y la contraseña nueva que desees tener. 
+Dentro del perifl, si pulsas en ***editar la contraseña*** debes introducir la contraseña actual y la contraseña nueva que desees tener. 
 
 <img src="https://iili.io/3Xj05Xf.png"></img>
 
@@ -205,9 +197,17 @@ Dentro del perifl, si pulsas en editar la contraseña debes introducir la contra
 
 ### Guía como cliente
 
-Si iniciamos sesión con un usuario **cliente**, y accedemos a la sección de ***"Mis eventos"***, se pueden observar los eventos pertenecientes al usuario y sus respectivos datos.
+La ***pestaña de inicio*** que te aparece al iniciar sesión como cliente es la siguiente: 
 
-<center><img src="https://iili.io/3XhjpDP.png"></img></center>
+<img src="https://iili.io/3hTgy8B.png"></img>
+
+El ***navbar*** de la parte del cliente es el de la siguiente imagen.
+
+<img src="https://iili.io/3amFqCv.png"></img>
+
+Si accedemos a la sección de ***"Mis eventos"***, se pueden observar los eventos pertenecientes al usuario y sus respectivos datos.
+
+<img src="https://iili.io/3hT4qxe.png"></img> 
 
 Se puede entrar en detalles de los eventos para poder leer toda la información de los mismos. 
 
@@ -217,65 +217,68 @@ Después, se puede ver los servicios que se han contratado. De cada servicio apa
 
 Finalmente, debajo del todo, te aparece un desglose del pago de las señales, incluyendo la comisión por gastos de gestión del 5%, dando la opción de pagarlas a través de PayPal o de una tarjeta de débito o crédito.
 
-<center><img src="https://iili.io/3XhvMHG.png"></img></center>
-<center><img src="https://iili.io/3Xh8kLN.png"></img></center>
+<img src="https://iili.io/3hTPTt1.png"></img> 
+<img src="https://iili.io/3hTi4II.png"></img> 
 
-Si clicas sobre la cifra que aparece en azul de ***COSTE ACUMULADO*** (en este caso 8300€), se te abre la siguiente pestaña en la que se pueden observar el coste total y el coste de las señales.
+Si clicas sobre la cifra que aparece en azul de ***COSTE ACUMULADO*** (en este caso 6300€), se te abre la siguiente pestaña en la que se pueden observar el coste total y el coste de las señales.
 
-<center><img src="https://iili.io/3Xh4DJt.png"></img></center>
+<img src="https://iili.io/3hTLTtS.png"></img> 
 
 
 Al igual que al clicar en el coste acumulado, si clicas sobre la cifra que aparece en verde de ***PAGADO*** (en este caso 0€), se te abre lo siguiente con un desglose de pagos entre las señales y el total.
 
-<center><img src="https://iili.io/3XhPRnf.png"></img></center>
+<img src="https://iili.io/3hTQS7j.png"></img> 
 
 
 Si desea pagar los servicios individualmente puede hacerlo accediendo a la pestaña de ***Pagar reserva*** que tiene cada servicio y se puede pagar por los mismos medios mencionados anteriormente, por PayPal y tarjeta de crédito/débito.
 
-<center><img src="https://iili.io/3XhsPpt.png"></img></center>
+<img src="https://iili.io/3hTtINR.png"></img> 
 
 
 Si en vez de en *Ver detalles* clicas en ***Ver invitaciones***, se abre la siguiente vista que contiene el número de invitados estimados (se establece al crear un evento), los invitados confirmados y una lista con sus nombres, pudiendo eliminarlos si fuese necesario.
 
-<center><img src="https://iili.io/3amfkTF.png"></img></center>
+<img src="https://iili.io/3amfkTF.png"></img> 
 
 Al pulsar en ***Crear invitación*** se te pregunta por un número máximo de invitados asociados al link creado y un correo electrónico al que se enviará la invitación.
 
-<center><img src=""></img></center>
+<img src="https://iili.io/3hTmdNf.png"></img> 
 
 
-Cuando se introduce el número máximo de invitados y se presiona el botón enviar, se copia en el portapapeles un enlace a una página en la que la persona invitada al evento puede rellenar el siguiente formulario para aparecer en la lista de invitados. Para rellenar este formulario no se debe estar registrado dentro de la plataforma. También se le envía un correo electrónico al que se indica en el formulario.
+Cuando se introduce el número máximo de invitados y se presiona el botón enviar, se copia en el portapapeles un enlace a una página en la que la persona invitada al evento puede rellenar el siguiente formulario para aparecer en la lista de invitados. Para rellenar este formulario no se debe estar registrado dentro de la plataforma. 
 
-<center><img src="https://iili.io/3XhmlSf.png"></img></center>
+<img src="https://iili.io/3hTp7If.png"></img> 
 
 En la sección de ***Crear evento*** se muestra un formulario a completar y se crea el evento. 
 
-<center><img src="https://iili.io/3Xj9CFe.png"></img></center>
+<img src="https://iili.io/3huJqvt.png"></img> 
 
 
 Accedediendo a la pestaña de ***Recintos*** se pueden ver los recintos disponibles, su localización en el mapa, los detalles de cada recinto y la posibilidad de chatear con el dueño del recinto. Los recintos que aparecen como ***PROMOCIONADO*** aparecen en primer lugar ya que corresponden a los proveedores que tienen plan premium. Los recintos aparecen paginados.
 
-<center><img src="https://iili.io/3XjJkZl.png"></img></center>
-<center><img src="https://iili.io/3XjKBzG.png"></img></center>
+<img src="https://iili.io/3hud6qx.png"></img>
+<img src="https://iili.io/3hu2hTF.png"></img>
 
 
 Si se desea ***añadir un recinto*** a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho recinto y completar la hora de inicio y final de la reserva del sitio. Solo te aparecerán los eventos a los que no se haya añadido previamente.
 
-<center><img src="https://iili.io/3Xjq7ix.png"></img></center>
+<img src="https://iili.io/3huFIO7.png"></img>
 
+Si clicas en un recinto, se te abre la pestaña de ***detalles de recinto*** que es la siguiente. Las valoraciones aparecen en esta pestaña.
+
+<img src="https://iili.io/3huqpLX.png"></img>
 
 Para añadir diferentes servicios como los de catering, entretenimiento y decoración accede a la pestaña de ***Otros servicios*** y podrás ver los diferentes servicios con sus detalles y la posibilidad de chatear con el dueño del servicio.
 
-<center><img src="https://iili.io/3Xjn5Vs.png"></img></center>
+<img src="https://iili.io/3hufow7.png"></img>
 
 
-Si se desea añadir un servicio a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho servicio y completar la hora de inicio y final de la reserva del sitio. Solo te aparecerán los eventos a los que no se haya añadido previamente.
+Si se desea ***añadir un servicio*** a uno de los eventos que tengas ya creado, se debe rellenar un formulario indicando el evento al que quieres asignar dicho servicio y completar la hora de inicio y final de la reserva del servicio. Solo te aparecerán los eventos a los que no se haya añadido previamente.
 
-<img src="https://iili.io/3XfGLaS.png"></img>
+<img src="https://iili.io/3huPlkl.png"></img>
 
-Las valoraciones aparecen en la pestaña de detalles de servicio o recinto.
+Si clicas en un servicio, se te abre la pestaña de ***detalles de servicio*** que es la siguiente. Las valoraciones aparecen en esta pestaña.
 
-<img src="https://iili.io/3XwAQft.png"></img>
+<img src="https://iili.io/3huB14a.png"></img>
 
 Una vez terminado el evento, el cliente se puede realizar una ***valoración del servicio o recinto contratado***, poniendole un rango de 1 a 5 estrellas. 
 
@@ -287,19 +290,19 @@ El ***Soporte Técnico*** para los usuarios cliente de nuestra plataforma consis
 
 Se puede acceder a la pestaña de ***Detalles de perfil*** donde se muestran todos los datos y se da la posibilidad de editarlos o cerrar sesión. Está también la opción de cambiar la contraseña.
 
-<img src="https://iili.io/3XjYQDv.png"></img>
+<img src="https://iili.io/3huc6N9.png"></img>
 
 Si se desea ***actualizar los datos del perfil***, se accede a la pestaña correspondiente, se modifican con un formulario simple y se le da a guardar.
 
-<img src="https://iili.io/3XjcWve.png"></img>
+<img src="https://iili.io/3huVfls.png"></img>
 
 <div id='id42'></div>
 
 ### Guía como proveedor
 
-Si iniciamos sesión con un usuario ***Proveedor***, se muestra la misma página inicial que los usuarios clientes pero se muestra el plan de pago al que pertenece y las funcionalidades correspondientes.
+Si iniciamos sesión con un usuario ***Proveedor***, se muestra la página inicial.
 
-<img src="https://iili.io/3XMJDbI.png"></img>
+<img src="https://iili.io/3huXF8G.png"></img>
 
 
 Para ***Crear un servicio*** se te mostrará un formulario donde primeramente podrás elegir si el servicio que quieres introducir es un recinto u otro tipo. 
@@ -315,27 +318,31 @@ En el caso de que hayas seleccionado ***Otro tipo de servicio*** se mostrará el
 <img src="https://iili.io/3XjMena.png"></img>
 <img src="https://iili.io/3XjV0Nt.png"></img>
 
-Si se accede a la pestaña de ***Mis servicios***, se muestran los servicios pertenecientes al proveedor pudiéndose deshabilitar, editar y crear nuevos servicios en la misma sección (justo debajo de la foto).
+Si se accede a la pestaña de ***Mis servicios***, se muestran los servicios pertenecientes al proveedor pudiéndose deshabilitar, editar y crear nuevos servicios en la misma sección.
 
-<img src="https://iili.io/3XMddgf.png"></img>
+<img src="https://iili.io/3hujzYu.png"></img>
 
-Dentro de ***Editar un servicio***, se muestra un formulario a modificar si se desea cambiar algún atributo del servicio. Se permite editar todos los atributos puestos en el formulario de creación.
+Dentro de ***Editar un recinto***, se muestra un formulario a modificar si se desea cambiar algún atributo del recinto. Se permite editar todos los atributos puestos en el formulario de creación.
 Al pulsar sobre guardar se actualiza cómo se muestra en los distintos sitios de la plataforma.
 
-<img src="https://iili.io/3XMdQEu.png"></img>
-<img src="https://iili.io/3XMJSDP.png"></img>
+<img src="https://iili.io/3hueucP.png"></img>
+
+<img src="https://iili.io/3huv1aI.png"></img>
+
+<img src="https://iili.io/3huvZ8P.png"></img>
 
 Si nos movemos a la pestaña de ***Solicitudes*** se muestran las solicitudes pendientes que le queda al proveedor por aceptar o cancelar según su criterio. En el caso de haber solicitudes, se mostrarán todos los datos importantes de la misma y los botones de aceptar o cancelar.
 
-<img src="https://iili.io/3XMdNLX.png"></img>
+<img src="https://iili.io/3hu4TyN.png"></img>
 
 En la pestaña de ***Contrataciones*** podemos ver de forma rápida un resumen de las solicitudes realizadas hasta el momento incorporando un filtro en la que puedes visualizar las que tienes pendientes, las que has aceptado y las que has rechazado. También se incorpora un calendario donde puedes ver los eventos, usando el mismo filtro, dentro del mismo.
 
-<center><img src="https://iili.io/3amTbnI.png"></img></center>
+<img src="https://iili.io/3amTbnI.png"></img>
 
-En el ***Historial de ventas*** podemos ver un resumen de los pagos que han realizado los clientes.
+En el ***Historial de ventas*** podemos ver un resumen de los pagos que han realizado los clientes. También se pueden retirar los fondos, que se irán a la cuenta que el proveedor indique.
 
-<img src="https://iili.io/3XMJQJR.png"></img>
+<img src="https://iili.io/3huLlkv.png"></img>
+<img src="https://iili.io/3huLpG1.png"></img>
 
 El ***Soporte Técnico*** para los proveedores de nuestra plataforma consiste en una sección de preguntas rápidas donde los proveedores pueden obtener respuestas rápidas a las preguntas frecuentes. En el caso de que su duda no se resuelva, pueden acceder a un chat con el administrador pulsando en el icono azul que aparece abajo a la derecha.
 
@@ -343,12 +350,12 @@ El ***Soporte Técnico*** para los proveedores de nuestra plataforma consiste en
 
 Al hacer clic sobre tu foto de perfil, te redirige a la pestaña de ***Ver perfil***. Esta es la misma que la del usuario cliente, pero en el caso de que tengas el plan *Basic* te aparece un botón que te permite cambiarte de plan a premium, como podemos ver en la segunda imagen. Está disponible la opción de cambiar la contraseña.
 
-<img src="https://iili.io/3XjN6ga.png"></img>
-<img src="https://iili.io/3XjewwQ.png"></img>
+<img src="https://iili.io/3huZziP.png"></img>
+<img src="https://iili.io/3hAHYoG.png"></img>
 
 Si pulsas sobre ***Editar perfil*** se te abre la siguiente vista donde puedes editar todos los aspectos que aparecen en pantalla.
 
-<img src="https://iili.io/3XjewwQ.png"></img>
+<img src="https://iili.io/3hAK39p.png"></img>
 
 Si se desea ***Actualizar al plan premium***, se puede realizar indicando el número de meses que se desea y se puede pagar con tarjeta o con PayPal.
 
@@ -358,33 +365,47 @@ Si se desea ***Actualizar al plan premium***, se puede realizar indicando el nú
 
 ### Guía como administrador
 
-Si iniciamos sesión con un usuario **admin**, se muestra la misma página inicial que los usuarios clientes pero se muestran las funcionalidades correspondientes al administrador.
+Si iniciamos sesión con un usuario **admin** se muestra la pantalla de inicio.
 
-<img src="https://iili.io/3XjUWTG.png"></img>
+<img src="https://iili.io/3hABCV1.png"></img>
 
-Si accedemos a ***Administrar servicios***, se muestran todos los servicios del sistema dando la opción de editar y eliminar. 
+Si accedemos a ***Administrar servicios***, se muestran todos los servicios del sistema paginados dando la opción de editar y eliminar. 
 
-<img src="https://iili.io/3XfGP6l.png"></img>
+<img src="https://iili.io/3hAz9vs.png"></img>
 
 Si accedemos a la sección de ***Editar*** (justo abajo de cada servicio), se permite cambiar los datos de los servicios y presionando en *guardar* se actualizan los datos.
 
-<img src="https://iili.io/3Xj6QWJ.png"></img>
+<img src="https://iili.io/3hAaQJ2.png"></img>
 
-Y por último, si accedemos a la sección de ***Administrar usuarios***, se encuentran todos los usuarios del sistema devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. Está la opción de buscar por id del usuario.
+Y por último, si accedemos a la sección de ***Administrar usuarios***, se encuentran todos los usuarios del sistema paginados devolviéndolos directamente en forma de formulario y si se desea editar se modifica dicho formulario y se pulsa el botón de editar. Está la opción de buscar por id del usuario.
 
-<img src="https://iili.io/3XfG6G4.png"></img>
+<img src="https://iili.io/3hAzyiB.png"></img>
+
+Para ***editar usuarios***, le das al botón editar debajo de cada usuario, rellenas el formulario y le das a guardar.
+
+<img src="https://iili.io/3hAM5ml.png"></img>
+
+Desde la cuenta de administrador, tienes la opción de ***cambiar la contraseña a cualquier usuario***.
+
+<img src="https://iili.io/3hAV8nS.png"></img>
 
 La sección de ***Administrar eventos*** funciona de la misma manera que la anterior mencionada (administrar servicios).
 
-<img src="https://iili.io/3XfG4nf.png"></img>
+<img src="https://iili.io/3hAT9If.png"></img>
+
+
+Para ***editar eventos***, le das al botón editar debajo de cada evento, rellenas el formulario y le das a guardar.
+
+<img src="https://iili.io/3hAT4a9.png"></img>
+
 
 Si accedemos a la sección de ***Editar***, se nos muestra el formulario a rellenar.
 
-<img src="https://iili.io/3XjLekB.png"></img>
+<img src="https://iili.io/3hA1Hfs.png"></img>
 
 Para ***Visualizar el perfil del administrador*** simplemente tienes que clicar sobre la foto de perfil. Ahí podrás editarlo si ha cambiado algún dato, de forma similar a los otros usuarios del sistema.
 
-<img src="https://iili.io/3XjZVlj.png"></img>
+<img src="https://iili.io/3hAAEgI.png"></img>
 
 <div id='id5'></div>
 
@@ -426,6 +447,8 @@ Administrador:
 **URL del despliegue de la aplicación (SPRINT2): https://ispp-2425-03.ew.r.appspot.com/login** 
 
 **URL del despliegue de la aplicación (SPRINT3): https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login** 
+
+**URL del despliegue de la aplicación (PPL): https://ppl-dot-ispp-2425-03.ew.r.appspot.com** 
 
 **URL de GitHub: https://github.com/ISPP-Eventbride**
 
