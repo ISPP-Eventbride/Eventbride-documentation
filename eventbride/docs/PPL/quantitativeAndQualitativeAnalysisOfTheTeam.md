@@ -117,7 +117,7 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 | Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 145:39:21 |
 | Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 118:55:1  |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 118:55:15 |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
