@@ -18,7 +18,7 @@ Para ejecutar este proyecto en local, debes descargarte el código desde nuestro
 
 ### Qué necesitas
 
-- [Node.js](https://nodejs.org/en/download/) versión 18.0 o superior:
+- [Node.js](https://nodejs.org/en/download/) versión 20.0 o superior:
   - Al instalar Node.js, se recomienda marcar todas las casillas relacionadas con las dependencias.
 
 ### Lanzar el proyecto
