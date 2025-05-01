@@ -204,7 +204,7 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 
 ---
 
-### 9. Soporte y comunidad
+### 8. Soporte y comunidad
 
 - **Canales de contacto:**
   - WhatsApp 
