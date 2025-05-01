@@ -312,7 +312,7 @@ Por último, gracias a las encuestas enviadas a nuestros usuarios piloto y al _f
 
 ### Calendario de Marketing
 
-<center><img src="https://iili.io/3hlU1ol.png"></img></center>
+<center><img src="https://iili.io/3hN4r1S.png"></img></center>
 
 
 <div id='clientes'></div>
