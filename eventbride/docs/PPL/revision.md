@@ -1,6 +1,6 @@
 # Manual de usuario
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<img src="https://iili.io/3BcQ3YJ.md.png"></img> 
+<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 30/04/2025
+### Fecha: 01/05/2025
 
 ### Entregable: PPL
 
@@ -43,6 +43,7 @@
 | 30/04/2025 | v3.1    | Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
 | 30/04/2025 | v4.0    | Actualización de la guía de la aplicación con los avances del PPL | PPL | Sergio Pons López, Francisco Avilés Carrera       |
 | 01/05/2025 | v4.1    | Adición de nuevas pantallas y cambio de las que se han actualizado | PPL | Sergio Pons López, Pablo Jesús Castellanos Compaña       |
+| 01/05/2025 | v4.2    | Adición de casos de uso al punto 2 | PPL | Francisco Avilés Carrera      |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -78,40 +79,83 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 1. **Solicitar contratar un servicio para un evento (CC - 01)**
 
-   *“Usuario cliente solicita servicio ofertado en la plataforma, para celebración. Unservicio también incluye a un recinto en este caso.”*
-
-   Mockup - Frontend en #S1
-
-   Una vez implementada la función, el usuario podrá solicitar el servicio para su evento realizando los siguientes pasos:
+   *"Usuario cliente solicita servicio ofertado en la plataforma, para celebración. Un servicio también incluye a un recinto en este caso."*
+Se deben seguir los siguientes pasos:
 
 - Establecer qué tipo de servicio que desea contratar siendo las opciones: “**Recintos**” o “**Otros servicios**” situados en el navbar. Donde “**Otros**” engloba cualquier servicio que no sea un local.
 
-- Una vez en la pagina que se haya escogido para contratar el servicio a desear, el usuario deberá seleccionar el botón de "**Añadir evento**" correspondiente al evento.
+- Una vez en la página que se haya escogido para contratar el servicio a desear, el usuario deberá seleccionar el botón de "**Añadir a mi evento**" correspondiente al evento.
 
-- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido.
+- Una vez pulsado, aparecerá un modal con una lista de los eventos del usuario, donde deberá seleccionar el evento donde desea añadir el servicio escogido, con el horario deseado.
 
-2. **Crear evento (CC - 03)**
+
+2. **Realizar pagos del evento (CC - 03)**
+
+   *"Usuario cliente pretende hacer pagos del evento, ya sean las señales una a una de cada servicio o el pago total."*
+Se deben seguir los siguientes pasos:
+
+- El usuario acude a la pestaña de "**Mis eventos**".
+
+- Una vez en seleccionado el evento para el que quiere realizar algún pago, podrá pagar la señal de un servicio concreto, o hacer un pago de la señal / pago completo de todos los servicios en conjunto. Para ello , utilizará la opción "**Pagar reserva**", permitiendo el pago por Paypal / Tarjeta de débito o crédito.
+
+3. **Crear evento (CC - 05)**
 
    *“El usuario quiere crear un evento.”*
-
    Para crear el evento, el usuario debe realizar los siguientes pasos:
 
 - Seleccionar el botón “**Crear evento**” desde la pantalla principal. 
 
-  Otra forma de realizarlo es darle a la opción “**Desde cero**” una vez haya pulsado “**Crear evento**” en el navbar.
-
-- Una vez en la pantalla “Crear evento” el usuario debe de realizar las siguientes acciones:
+- Una vez en la pantalla “**Crear evento**” el usuario debe de realizar las siguientes acciones:
+   - Indicar el nombre del evento.
   - Establecer qué tipo de evento desea crear siendo las opciones: “**Boda**”, “**Bautizo**” o “**Comunión**”.
   - Introducir el número de invitados estimados para el evento.
-  - Reflejar el presupuesto estimado para todo el evento.
   - Escoger la fecha del evento.
 - Ya introducidos todos los datos, pulsar el botón de “**Crear evento**”.
+
+4. **Gestionar lista de invitados e invitaciones (CU - 06)**
+
+   *"El usuario cliente quiere crear y gestionar la lista de invitados mediante invitaciones de su evento."* Se deben seguir los siguientes pasos:
+
+- El usario debe acceder a la pestaña de "**Mis eventos**".
+
+- Una vez ahí, al darle a la opción "**Invitaciones**" del evento deseado, le redigirá a una pantalla nueva.
+
+- Al pulsar en "**Crear invitación**", rellenará los campos número máximo de invitados y correo del invitada y pulsará "**Enviar**". Dicha invitación será recibida en el correo indicado, y el invitado responderá el formulario que recibirá sin necesidad de iniciar sesión diciendo cuántos invitados vienen con él finalmente.
+
+5. **Seguimiento del precio del evento  (CU - 07)**
+
+   *"El usuario quiere conocer el precio del evento en todo momento."* Se deben seguir los siguientes pasos:
+
+- El usario debe acceder a la pestaña de "**Mis eventos**".
+
+- Una vez ahí, pulsa sobre el evento deseado, redirigiéndole el sistema a la pantalla de los detalles de dicho evento.
+
+- En esa pantalla, en el lugar donde se lee "**Coste acumulado**", se indica el coste total de todos los servicios que el usuario ha añadido al evento, sin tener en cuenta las comisiones que posteriormente se sumarán al total.
+
+6. **Valoración de servicios   (CU - 09)**
+
+   *"El usuario quiere dejar una reseña y calificación de un servicio que contrató."* Se deben seguir los siguientes pasos:
+
+- El usario debe acceder a uno de los servicios que haya contratado, mediante las pestañas de "**Otros Servicios**" o "**Recintos**".
+
+- Una vez seleccionado un servicio que haya contratado, mediante la opción "**Valorar**", podrá introducir una calificación de 1 a 5 estrellas y si así lo desea, una reseña escrita.
 
 <div id='id3'></div>
 
 ### Usuario Proveedor
 
-1. **Registrar servicio (CC - 02)**
+1. **Aceptar o rechazar la solicitud de un servicio (CC - 02)**
+
+   *"Usuario proveedor acepta o rechaza servicio. Un servicio también incluye a un recinto en este caso.
+   "*
+Se deben seguir los siguientes pasos:
+
+- El proveedor en concreto se dirige a la pestaña "**Solicitudes**".
+
+- Una vez en la página que, mediante las opciones "**Rechazar**" o "**Confirmar**", eligirá si quiere prestar servicio en dicho evento o no.
+
+
+2. **Registrar servicio (CC - 04)**
 
    *“El usuario de un servicio quiere ofertarlos a través de la aplicación.”*
 
@@ -129,23 +173,27 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
   - En caso de ser un “**Recinto para eventos**”, el usuario debe de introducir los siguientes valores: el “**Código postal**” del recinto, sus “**Coordenadas**”, su “**Dirección**”, el número “**Máximo de invitados**” y su “**Superficie (m²)**” en metros cuadrados.
   - En caso de haberse establecido con “**Otros**”, el usuario debe de introducir los siguientes valores: el tipo de servicio, escogiendo entre “**Catering**”, “**Entretenimiento**” y “**Decoración**”, además, podrá introducir algo de información adicionar relevante en “**Información extra**”.
 
-- Ya introducidos todos los datos, pulsar el botón de “**Registrar otro servicio**”.
+- Ya introducidos todos los datos, pulsar el botón de “**Registrar servicio**” o “**Registrar recinto**”.
 
 <div id='user'></div>
 
 ### Cualquier usuario
 
-1. **Contactar con el servicio de atención al cliente  (CU - 6)**
+1. **Contactar con el servicio de Eventbride.  (CU - 08)**
 
-   *El usuario necesita ayuda o tiene una pregunta sobre la aplicación.”*
+   *El usuario necesita ayuda o tiene una pregunta sobre la aplicación.”* Para contactar con el servicio de atención al cliente, el usuario debe realizar los siguientes pasos:
 
-   Para contactar con el servicio de atención al cliente, el usuario debe realizar los siguientes pasos:
+- El usuario en concreto (no es necesario que haya iniciado sesión), dispondrá de una sección de "**Contacto**" en el footer de la web, mediante la cual podrán contactarnos por los medios indicados en la misma.
+
+2. **Atención al cliente.  (CU - 11)**
+
+   *Usuario cliente o usuario proveedor quieren realizar alguna consulta.”* Para contactar con el servicio de atención al cliente, el usuario debe realizar los siguientes pasos:
 
 - Seleccionar el botón “**Soporte Técnico**” desde la pantalla principal. 
 - Una vez en la pantalla donde se reflejan distintos problemas genéricos que pueden ser de ayuda al usuario, en caso de que el usuario quiera contactar con el soporte técnico directamente, el proveedor debe de pulsar en el botón de color azul con el logo de de soporte que se encuentra abajo a la derecha.
 - Una vez haya pulsado el botón, se abrirá un chat con el administrador de la aplicación, donde el usuario podrá contactar con él y poder resolver cualquier problema que pueda tener.
 
-2. **Recibir notificaciones  (CU - 8)**
+3. **Recibir notificaciones  (CU - 10)**
 
    *El usuario quiere recibir actualizaciones y notificaciones importantes relacionadas con sus eventos, reservas o cuenta.”*
 
@@ -153,6 +201,14 @@ Este manual de usuario le guiará a través de las funcionalidades principales d
 
 - Seleccionar el botón que se encuentra a la izquierda del nombre de usuario con forma de campana desde la pantalla principal.
 - Una vez en la pantalla donde se reflejan las notificaciones, el usuario podrá ver el contenido de cada una, junto con la información de la fecha y hora en la que la recibió.
+
+4. **Chat entre clientes y proveedores  (CU - 12)**
+
+   *Usuario cliente quiere organizar un evento mediante un asistente virtual para filtrar resultados.”* En caso de querer comunicarse con el cliente o proveedor, el usuario debe realizar podrá acceder a su contenido con los siguientes pasos:
+
+- En caso de ser un cliente, acudir a alguna de las siguientes pestañas: "**Mis eventos**", "**Recintos**" u otros "**Servicios**". Pulsar sobre la opción "**Chatear**" del servicio con el que desea contactar. El sistema le abrirá un chat para que inicie la conversación.
+
+- En caso de ser un proveedor, debe acudir a la pestaña de "**Solicitudes**". Al seleccionar la solicitud deseada, dispondrá de la opción "**Contactar cliente**". El sistema le abrirá un chat para que inicie la conversación.
 
 <div id='id4'></div>
 
