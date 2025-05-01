@@ -177,7 +177,7 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 Durante el PPL, se lograron diversas acciones positivas que contribuyeron al avance y éxito del trabajo en equipo:
 
-- **Se han redistribuido los grupos:**: Se restructuraron los grupos porque el código estaba casi finalizado y hacía falta más gente en el grupo de marketing por lo que se movieron personas de un grupo a otro. Esto ha ayudado a sacar adelante mejor el trabajo.
+- **Se han redistribuido los grupos:** Se restructuraron los grupos porque el código estaba casi finalizado y hacía falta más gente en el grupo de marketing por lo que se movieron personas de un grupo a otro. Esto ha ayudado a sacar adelante mejor el trabajo.
 
 - **Llevar un guion de los vídeos hecho desde antes de grabar:** Se prepararon guiones previos para las grabaciones, mejorando la eficiencia y calidad del contenido.(este fue un punto a empezar a hacer en la retrospectiva de mitad de sprint)
 
@@ -197,7 +197,7 @@ Durante el PPL, se lograron diversas acciones positivas que contribuyeron al ava
 
 - **Seguir con el buen ambiente de trabajo:**  Mantener el clima positivo y la buena comunicación que ha caracterizado al equipo durante todos los sprints anteriores.
 
-- **Revisar las PR antes:** Es importante reducir el para evitar conflictos y trabajar con un código más actualizado.
+- **Revisar las PR antes:** Es importante reducir el tiempo de revisión para evitar conflictos y trabajar con un código más actualizado.
 
 <div id='mejora'></div>
 
