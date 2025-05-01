@@ -428,7 +428,7 @@ Intencionalmente en blanco.
   * Se sugiere vincular las estrategias de captación de clientes a redes sociales relevantes para el target, como Instagram y LinkedIn.
 
 * **Idea de Marketing:**
-  * Se propone como idea creativa desarrollar un anuncio que simule un anuncio deportivo de alto nivel, mostrando a alguien "entrenando" para organizar eventos, y que al final transmita un giro humorístico ofreciendo EventBride como alternativa rápida y sencilla.
+  * Se propone como idea creativa desarrollar un anuncio que simule un anuncio deportivo de alto nivel, mostrando a alguien "entrenando" para organizar eventos, y que al final transmita un giro humorístico ofreciendo Eventbride como alternativa rápida y sencilla.
 
 #### Tareas a realizar para la siguiente semana
 

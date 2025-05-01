@@ -68,7 +68,7 @@
 
 ## Introducción
 
-Este documento presenta una estimación detallada de los costos previstos por el equipo del proyecto para el desarrollo de la aplicación EventBride dentro del período de cuatro meses correspondiente a la asignatura Ingeniería de Software y Práctica Profesional (ISPP). Asimismo, se describen las distintas categorías de costos y se analizan los beneficios esperados con el objetivo de amortizar el Costo Total de Propiedad (TCO). Todos los costes de presupuesto son brutos.
+Este documento presenta una estimación detallada de los costos previstos por el equipo del proyecto para el desarrollo de la aplicación Eventbride dentro del período de cuatro meses correspondiente a la asignatura Ingeniería de Software y Práctica Profesional (ISPP). Asimismo, se describen las distintas categorías de costos y se analizan los beneficios esperados con el objetivo de amortizar el Costo Total de Propiedad (TCO). Todos los costes de presupuesto son brutos.
 
 <div id='id1'></div>
 
@@ -509,7 +509,7 @@ Además, hay que tener en cuenta que algunos costes, como licencias, infraestruc
 
 ## Conclusiones
 
-El presente documento ha detallado minuciosamente la estimación de costos asociados al desarrollo de la aplicación EventBride, abordando tanto los costos iniciales como los de mantenimiento y operación.
+El presente documento ha detallado minuciosamente la estimación de costos asociados al desarrollo de la aplicación Eventbride, abordando tanto los costos iniciales como los de mantenimiento y operación.
 
 En primer lugar, el costo de desarrollo asciende a 68.800,00 €, con una inversión en recursos humanos distribuida en distintos roles, asegurando la correcta ejecución del proyecto en el período de cuatro meses.
 

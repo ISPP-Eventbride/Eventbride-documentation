@@ -83,7 +83,7 @@ ${formData.comentario}`;
     const isPhoneRequired = formData.tipoUsuario === 'Empresa';
 
     return (
-        <Layout title="Contacto" description="Información de contacto de EventBride">
+        <Layout title="Contacto" description="Información de contacto de Eventbride">
             <div className={styles.contactContainer}>
                 <h1 className={styles.title}>Contacta con nosotros</h1>
                 <div className={styles.separator}></div>

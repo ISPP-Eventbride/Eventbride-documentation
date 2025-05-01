@@ -2,7 +2,7 @@
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
 
-### Grupo 3: EventBride
+### Grupo 3: Eventbride
 
 ### Miembros:
 - Francisco Avilés Carrera
@@ -68,7 +68,7 @@ Por último, se han estimado **4.300’00 €** destinados a recompensas para lo
 
 ## Introducción
 
-Este documento presenta una estimación detallada de los costos previstos por el equipo del proyecto para el desarrollo de la aplicación EventBride dentro del período de cuatro meses correspondiente a la asignatura Ingeniería de Software y Práctica Profesional (ISPP). Asimismo, se describen las distintas categorías de costos y se analizan los beneficios 
+Este documento presenta una estimación detallada de los costos previstos por el equipo del proyecto para el desarrollo de la aplicación Eventbride dentro del período de cuatro meses correspondiente a la asignatura Ingeniería de Software y Práctica Profesional (ISPP). Asimismo, se describen las distintas categorías de costos y se analizan los beneficios 
 esperados con el objetivo de amortizar el Costo Total de Propiedad (TCO)
 
 <div id='id21'></div>

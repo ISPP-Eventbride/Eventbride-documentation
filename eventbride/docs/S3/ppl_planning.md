@@ -2,7 +2,7 @@
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
-### Grupo 3: EventBride
+### Grupo 3: Eventbride
 
 ### Miembros:
 - Francisco Avilés Carrera
@@ -66,7 +66,7 @@
 
 # Introducción
 
-EventBride nace como una solución digital enfocada en facilitar la organización de eventos sociales como bodas, bautizos y comuniones, especialmente pensada para jóvenes y estudiantes. A través de una plataforma intuitiva y moderna, los usuarios pueden gestionar todos los aspectos de su evento en un solo lugar: desde la creación del evento hasta la contratación de servicios y comunicación con proveedores.
+Eventbride nace como una solución digital enfocada en facilitar la organización de eventos sociales como bodas, bautizos y comuniones, especialmente pensada para jóvenes y estudiantes. A través de una plataforma intuitiva y moderna, los usuarios pueden gestionar todos los aspectos de su evento en un solo lugar: desde la creación del evento hasta la contratación de servicios y comunicación con proveedores.
 
 Este documento recoge todas las acciones planificadas para el **Public Project Launch (#PPL)**, es decir, el lanzamiento público del proyecto, incluyendo mejoras al MVP, despliegue, planificación de la campaña de visibilidad, análisis estratégico y planes de retorno de inversión.
 
@@ -114,7 +114,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Campaña de Lanzamiento
 
-### Objetivo: captar usuarios y mostrar valor diferencial de EventBride
+### Objetivo: captar usuarios y mostrar valor diferencial de Eventbride
 
 #### Fases:
 
@@ -150,7 +150,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - **Duración:** 15-20 minutos
 - **Contenido:**
   - Introducción al problema y solución  
-  - Demo funcional de EventBride  
+  - Demo funcional de Eventbride  
   - Ronda de preguntas o feedback
 
 ---
@@ -216,7 +216,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Estrategia de marketing
 
-- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma EventBride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
+- **Objetivo general**: Darnos a conocer y adquisición de usuarios jóvenes y estudiantes para la plataforma Eventbride; de esta manera se lo podrán transmitir a sus familiares, entrando en las posibilidades que estos sean potenciales usuarios de bodas, bautizos y comuniones.
 
 - Segmentación:
 
@@ -308,7 +308,7 @@ Tenemos también perfiles de inversores potenciales:
 
   - Proyectos con equipo poco comprometido o con mala gobernanza.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Tecnología escalable en Google Cloud.
   
@@ -328,7 +328,7 @@ Tenemos también perfiles de inversores potenciales:
 - **Frustraciones**:  
   - Startups sin un modelo freemium definido.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Modelo freemium + funcionalidades premium (recomendaciones, más servicios, etc).  
 
@@ -349,7 +349,7 @@ Tenemos también perfiles de inversores potenciales:
   
   - Falta de garantías legales y contractuales sólidas.  
 
-- **Qué valora en EventBride**:  
+- **Qué valora en Eventbride**:  
   
   - Mercado de eventos sociales con barrera de entrada digital (poco explotado).
   
@@ -477,9 +477,9 @@ Por último, tenemos también posibles proveedores:
 
 ## Herramientas de búsqueda
 
-Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con EventBride y su entorno. Entre ellos estarán:
+Además de las colaboraciones ya mencionadas, las cuales nos proporcionarán visibilidad, para llegar a un mayor público en redes sociales se emplearán una gran variedad de hashtags relacionados con Eventbride y su entorno. Entre ellos estarán:
 
-- #EventBride
+- #Eventbride
 - #bautizo
 - #eventos
 - #celebraciones
@@ -508,9 +508,9 @@ Además para festividades especiales se podrán lanzar videos especiales con has
 
 ## Conclusiones
 
-EventBride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
+Eventbride se presenta como una propuesta sólida, moderna y centrada en resolver una necesidad concreta en el ámbito de los eventos sociales. La preparación del lanzamiento público incluye un trabajo integral tanto a nivel técnico como de marketing y análisis estratégico, permitiendo sentar las bases para una adopción real y validación del producto en el mundo real.
 
-El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar EventBride como una solución útil y escalable para la organización de eventos.
+El PPL marca un punto de inflexión en el proyecto: de una fase de desarrollo interno a una etapa de exposición pública y contacto directo con usuarios. A partir de este lanzamiento, se espera obtener un mejor feedback real y consolidar Eventbride como una solución útil y escalable para la organización de eventos.
 
 ---
 
