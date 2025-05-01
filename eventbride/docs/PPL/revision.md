@@ -116,9 +116,9 @@ Se deben seguir los siguientes pasos:
 
    *"El usuario cliente quiere crear y gestionar la lista de invitados mediante invitaciones de su evento."* Se deben seguir los siguientes pasos:
 
-- El usario debe acceder a la pestaña de "**Mis eventos**".
+- El usuario debe acceder a la pestaña de "**Mis eventos**".
 
-- Una vez ahí, al darle a la opción "**Invitaciones**" del evento deseado, le redigirá a una pantalla nueva.
+- Una vez ahí, al darle a la opción "**Invitaciones**" del evento deseado, le redirigirá a una pantalla nueva.
 
 - Al pulsar en "**Crear invitación**", rellenará los campos número máximo de invitados y correo del invitada y pulsará "**Enviar**". Dicha invitación será recibida en el correo indicado, y el invitado responderá el formulario que recibirá sin necesidad de iniciar sesión diciendo cuántos invitados vienen con él finalmente.
 
@@ -245,7 +245,7 @@ En todas las pestañas de nuestra plataforma, aparece abajo del todo un ***Foote
 
 <img src="https://iili.io/3amdyox.png"></img> 
 
-Dentro del perifl, si pulsas en ***editar la contraseña*** debes introducir la contraseña actual y la contraseña nueva que desees tener. 
+Dentro del perfil, si pulsas en ***editar la contraseña*** debes introducir la contraseña actual y la contraseña nueva que desees tener. 
 
 <img src="https://iili.io/3Xj05Xf.png"></img>
 
