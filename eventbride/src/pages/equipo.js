@@ -8,9 +8,9 @@ const teamData = [
     team: 'Equipo de Marketing',
     members: [
       { name: 'Natalia Olmo Villegas', roles: ['Project Manager', 'Jefa de Marketing'], photo: '/img/olmo-natalia.png', url: 'https://github.com/nataliaaolmo' },
-      { name: 'Daniel Benito Hidalgo', roles: ['Encargado de Diseño', 'Gestor de Usuarios Piloto'], photo: '/img/benito-daniel.png', url: 'https://github.com/d4niel980' },
+      { name: 'Daniel Benito Hidalgo', roles: ['Encargado de Diseño', 'Gestor de Usuarios Piloto', 'Community Manager'], photo: '/img/benito-daniel.png', url: 'https://github.com/d4niel980' },
       { name: 'Fernando José de Celis Hurtado', roles: ['Gestor de Usuarios Piloto', 'Encargado de GDPR'], photo: '/img/de-celis-fernando.png', url: 'https://github.com/ferdehur' },
-      { name: 'Manuel Pérez Velez', roles: [], photo: '/img/perez-manuel.png', url: 'https://github.com/manpervel2' },
+      { name: 'Manuel Pérez Velez', roles: ['Community Manager'], photo: '/img/perez-manuel.png', url: 'https://github.com/manpervel2' },
     ],
   },
   {

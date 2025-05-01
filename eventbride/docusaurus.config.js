@@ -11,11 +11,10 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Eventbride - Documentación',
-  tagline: 'Eventos que brillan, recuerdos que perduran',
+  tagline: 'Eventos que brillan y recuerdos que perduran',
   favicon: 'img/Eventbride.png',
 
-  // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://ispp-2425-g3.ew.r.appspot.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -27,6 +26,7 @@ const config = {
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  onBrokenAnchors: 'ignore',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -89,7 +89,7 @@ const config = {
           {to: '/equipo', label: 'Equipo', position: 'left'},
           {to: '/contacto', label: 'Contacto', position: 'left'},
           {
-            href: 'https://ispp-2425-03.ew.r.appspot.com/',
+            href: 'https://ppl-dot-ispp-2425-03.ew.r.appspot.com',
             label: 'Eventbride',
             position: 'right',
           },
@@ -107,27 +107,27 @@ const config = {
               },
               {
                 label: 'DP',
-                to: '/docs/DP',
+                to: '/docs/category/dp',
               },
               {
                 label: 'Sprint 1',
-                to: '/docs/S1',
+                to: '/docs/category/s1',
               },
               {
                 label: 'Sprint 2',
-                to: '/docs/S2',
+                to: '/docs/category/s2',
               },
               {
                 label: 'Sprint 3',
-                to: '/docs/S3',
+                to: '/docs/category/s3',
               },
               {
                 label: 'PPL',
-                to: '/docs/PPL',
+                to: '/docs/category/ppl',
               },
               {
                 label: 'WPL',
-                to: '/docs/WPL',
+                to: '/docs/intro',
               },
             ],
           },
