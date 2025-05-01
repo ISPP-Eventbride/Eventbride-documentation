@@ -223,7 +223,7 @@ A pesar de los logros, también se identificaron problemas que deben ser abordad
 
 - **La presentación de la semana 1 del PPL se tardó bastante en finalizar**
 
-Están descritos con más detalle en el documento `problems.md`. Ahí también se ha puede ver la solución propuesta y el seguimiento de la misma.
+Están descritos con más detalle en el documento `problems.md`. Ahí también se puede ver la solución propuesta y el seguimiento de la misma.
 
 <div id='lecciones'></div>
 
