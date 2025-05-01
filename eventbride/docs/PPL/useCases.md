@@ -95,7 +95,7 @@
     - **Nombre del Caso de Uso**: Aceptar o rechazar la solicitud de un servicio
     - **ID**: CC-02
     - **Actor(es)**: Usuario proveedor. 
-    - **Descripción**: Usuario proveedor solicita servicio ofertado en la plataforma, para celebración. Un servicio también incluye a un recinto en este caso.
+    - **Descripción**: Usuario proveedor acepta o rechaza servicio. Un servicio también incluye a un recinto en este caso.
 2. **Flujo de Eventos** 
     
     Flujo Principal (Normal o Básico)
