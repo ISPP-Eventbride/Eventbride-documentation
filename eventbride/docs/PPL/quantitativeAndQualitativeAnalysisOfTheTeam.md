@@ -69,6 +69,7 @@
 | 30/04/2025 | v8.2    | Análisis cuantitativo - horas borradas para actualizarlas al día siguiente    | PPL      | María de la Salud Carrera Talaverón |
 | 01/05/2025 | v8.3    | Replanificación entregable y análisis cualitativo                             | PPL      | María de la Salud Carrera Talaverón |
 | 01/05/2025 | v8.4    | Análisis cuantitativo                                                         | PPL      | María de la Salud Carrera Talaverón |
+| 01/05/2025 | v8.5    | Conclusiones                                                                  | PPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -301,7 +302,7 @@ Se reasignaron algunas de las tareas planificadas para la segunda semana, pero l
 
 ## Conclusiones
 
-El equipo de Eventbride ha mostrado un alto grado de compromiso y organización durante el PPL. La mayoría de los miembros han alcanzado los objetivos cuantitativos y cualitativos, cumpliendo con sus tareas y roles asignados. Aunque hay pequeños márgenes de mejora, especialmente en la implementación de algunos tests, el grupo ha trabajado de forma coordinada y eficaz. Este rendimiento establece una base sólida para completar con éxito el proyecto en las próximas entregas.
+El desarrollo del entregable PPL ha puesto de manifiesto una evolución positiva y consolidada del equipo Eventbride. El cumplimiento generalizado de las métricas cuantitativas y cualitativas refleja un alto grado de implicación, coordinación y responsabilidad por parte de los integrantes. La planificación ha sido eficaz y la reestimación realizada a mitad del entregable ha permitido adaptarse a nuevas necesidades sin comprometer los objetivos iniciales. La asignación de roles ha funcionado correctamente, con una ejecución efectiva de las funciones de liderazgo, aseguramiento de la calidad, coordinación de tiempos y diseño. Aunque algunos aspectos, como el número de tests o el registro de horas en ciertos casos, son mejorables, el equipo ha respondido con proactividad y compromiso. Esto sitúa al grupo en una posición muy favorable de cara a la última fase del proyecto, con una base sólida para culminarlo con éxito y una dinámica de trabajo madura que ha sabido afrontar los retos surgidos durante el proceso.
 
 <div id='bib'></div>
 
