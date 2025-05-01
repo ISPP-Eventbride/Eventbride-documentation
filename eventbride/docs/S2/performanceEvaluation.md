@@ -354,7 +354,7 @@ He realizado la retrospectiva de mitad de sprint junto con mas compañeros, tamb
 
 ### Hernández Sánchez, Miguel
 
-Mi trabajo ha consistido en la realización de las siguientes tareas. Creación del fichero data.sql para poblar la base de datos. Arreglar las funcionalidades de login y registro en la aplicación. Ayudar en la creación de las entidades de Spring Boot. Ayudar en la página "Mis eventos" de EventBride. La visualización y creación de servicios por parte del proveedor. Modificar la UI de la aplicación para hacer ciertas páginas responsivas. Eliminación de un evento por parte del usuario. Eliminar bidireccionalidades innecesarias entre los modelos de Spring Boot. Parte del desarrollo de las funcionalidades de la vista del admin. Preparación de la presentación como presentador para el día de evaluación. Por último, recalcar la asistencia a todas las reuniones y clases del sprint.
+Mi trabajo ha consistido en la realización de las siguientes tareas. Creación del fichero data.sql para poblar la base de datos. Arreglar las funcionalidades de login y registro en la aplicación. Ayudar en la creación de las entidades de Spring Boot. Ayudar en la página "Mis eventos" de Eventbride. La visualización y creación de servicios por parte del proveedor. Modificar la UI de la aplicación para hacer ciertas páginas responsivas. Eliminación de un evento por parte del usuario. Eliminar bidireccionalidades innecesarias entre los modelos de Spring Boot. Parte del desarrollo de las funcionalidades de la vista del admin. Preparación de la presentación como presentador para el día de evaluación. Por último, recalcar la asistencia a todas las reuniones y clases del sprint.
 
 ### Montero López, Antonio
 

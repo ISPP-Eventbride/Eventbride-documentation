@@ -45,7 +45,7 @@ const teamData = [
 
 export default function EquipoPage() {
   return (
-    <Layout title="Equipo" description="Conoce al equipo detrás de EventBride">
+    <Layout title="Equipo" description="Conoce al equipo detrás de Eventbride">
       <div className="container">
         <h1 className={styles.centeredTitle}>Equipo de Desarrollo</h1>
 

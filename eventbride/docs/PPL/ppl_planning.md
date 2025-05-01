@@ -114,7 +114,7 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 ## Campaña de Lanzamiento
 
 #### Objetivo general: 
-Captar usuarios y mostrar el valor diferencial de EventBride frente a otros métodos tradicionales de organización de eventos.
+Captar usuarios y mostrar el valor diferencial de Eventbride frente a otros métodos tradicionales de organización de eventos.
 
 ### Fases:
 1. **Teasing (3 días antes del lanzamiento):**
@@ -149,7 +149,7 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 **Acciones:**
 - Mini-tutoriales en stories:
   - “Cómo invitar a tus invitados”
-  - “Gestiona tu lista de invitados desde EventBride”
+  - “Gestiona tu lista de invitados desde Eventbride”
 - Vídeos explicativos breves explicando cada funcionalidad por separado
 - Frases enganchadoras:
   - “Organizar tu boda no debería parecer un trabajo de oficina.”
@@ -162,51 +162,34 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 
 ---
 
-### 4. Colaboraciones estratégicas
+### Publicidad pagada
 
-- **Microinfluencers de Sevilla** de bodas/lifestyle:
-  - “Plan conmigo” usando EventBride
-  - Opiniones orgánicas sobre cómo simplificó el proceso
-- **Testimonios reales:**
-  - Videos de parejas reales
-  - Reels tipo “Antes y después de EventBride”
-
----
-
-### 5. Publicidad pagada
-
-- **Campañas segmentadas por:**
-  - Edad
-  - Estado civil
-  - Intereses: bodas, bautizos o comuniones
-- **Plataformas:**
+- **Plataformas en las que se publicitará Eventbride:**
   - Instagram 
   - TikTok
   - LinkedIn
-- **Incentivos:**
+- **Contenido de los anuncios:**
   - Anuncios que avisen de un periodo de prueba gratuita durante varias horas o un día en específico
 
----
 
-### 6. Incentivos
+### Incentivos
 
-- **Sorteos:**
-  - “Crea tu primer evento y gana una sesión de fotos para tu boda”
-  - Incentivar a compartir reels, uso de memes, hashtag o tips con la app, indicando que si haces esto, entrarán en un sorteo ya sea de algún tipo de descuento o servicio gratuito
+- **Lead Magnets(contenido exclusivo a cambio de datos):**
+  - Con esta estrategia, ofrecemos un recurso de valor a cambio del registro del usuario. Se ha pensado en ofrecer contenido como libros digitales y guías ("cómo organizar una boda perfecta en 10 pasos"), _check-lists_ ("cosas que no pueden faltar en tu boda" o "errores típicos de un bautizo") o _webinars gratuitos_ como tendencias de decoración para eventos 2025.
 
----
+- **Programas de recomendación:** sostiene un beneficio tanto para el usuario que recomienda como para el que es recomendado y se integrará con las redes sociales para facilitar su difusión. Ejemplo, invita una amiga registrarte y ambos recibiréis un descuento del 15 % en la decoración de su evento.
 
-### 7. Contenido emocional
+
+### Contenido emocional
 
 - **Historias reales:**
-  - Clips de parejas usando EventBride vs método tradicional
+  - Clips de parejas usando Eventbride vs método tradicional
 - **Contraste narrativo:**
   - Mostrar estrés vs alivio
   - Integrar personaje del wedding planner tradicional
 
----
 
-### 8. Soporte y comunidad
+### Soporte y comunidad
 
 - **Canales de contacto:**
   - WhatsApp 
@@ -216,7 +199,6 @@ Captar usuarios y mostrar el valor diferencial de EventBride frente a otros mét
 - **Comunidad activa:**
   - Compartir tips, dudas y recursos descargables
 
----
 
 ### Recursos necesarios
 

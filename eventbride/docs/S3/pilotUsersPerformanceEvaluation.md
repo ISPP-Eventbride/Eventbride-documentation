@@ -2,7 +2,7 @@
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
-### Grupo 3: EventBride
+### Grupo 3: Eventbride
 
 ### Miembros:
 - Francisco Avilés Carrera
@@ -88,7 +88,7 @@ max(0, (R-0.3*DR)*Q)
 
 ## Evaluación de usuarios piloto
 
-Una vez explicados los diferentes criterios y prácticas que rigen el proceso de evaluación de los usuarios piloto de EventBride, se procederá a calificarlos:
+Una vez explicados los diferentes criterios y prácticas que rigen el proceso de evaluación de los usuarios piloto de Eventbride, se procederá a calificarlos:
 
 |Alumno|Sprint|Nota asignada|Justificación|
 |---|---|---|---|

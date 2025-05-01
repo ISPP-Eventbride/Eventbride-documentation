@@ -57,9 +57,9 @@ En el presente documento se detalla el guión inicial del anuncio de los inverso
 
 
 La organización de eventos puede ser un auténtico caos. Miles de personas organizan eventos como bodas de comuniones al año. Pero todos sabemos que la organización de estos eventos conlleva cansancio, estrés, pérdida de tiempo por eso traemos la solución, Eventbride, una aplicación que es capaz de centralizar la organización de estos eventos para ayudar a todas estas personas.
-Somos Natalia Olmo y Fernando de Celis y os presentamos EventBride.
+Somos Natalia Olmo y Fernando de Celis y os presentamos Eventbride.
 
-EventBride es una plataforma que permitirá centralizar la organización de tu evento de forma rápida sencilla y ecnómica.
+Eventbride es una plataforma que permitirá centralizar la organización de tu evento de forma rápida sencilla y ecnómica.
 
 Con nuestra aplicación podrás elegir entre una gran variedad de servicios como lugares, catering, entretenimiento; todo ello para garantizar que los clientes pasen un día inolvidable.
 
@@ -67,7 +67,7 @@ Cada año se organizan alrededor de 8000 bodas, 12000 bautizos y 15000 comunione
 
 ¿Y cuál sería nuestro sistema de monetización?
 
-EventBride aplicará una comisión al cliente del 5% sobre el valor  de cada servicio contratado. Además, también un 2’5% de comisión será aplicado al proveedor por la gestión de sus servicios en la plataforma.
+Eventbride aplicará una comisión al cliente del 5% sobre el valor  de cada servicio contratado. Además, también un 2’5% de comisión será aplicado al proveedor por la gestión de sus servicios en la plataforma.
 
 Los proveedores también dispondrán de un plan premium que les posicionará mejor en las búsquedas de los clientes, y les permitirá publicitar más servicios que los proveedores estándar. El precio de este plan serán 50€ al mes.
 

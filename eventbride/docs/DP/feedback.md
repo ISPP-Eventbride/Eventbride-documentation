@@ -3,7 +3,7 @@
 
 
 **ÍNDICE**
-- [Grupo 3 - EventBride](#grupo-3---eventbride)
+- [Grupo 3 - Eventbride](#grupo-3---eventbride)
   - [Semana 1](#semana-1)
       - [Feedback relacionado con la presentación](#feedback-relacionado-con-la-presentación)
       - [Feedback relacionado con el desarrollo del proyecto](#feedback-relacionado-con-el-desarrollo-del-proyecto)
@@ -69,7 +69,7 @@
 
 
 
-# Grupo 3 - EventBride
+# Grupo 3 - Eventbride
 
 En esta página se encuentra el feedback recogido por el equipo del grupo 3 durante las sesiones de clase. Con secciones para cada semana, se detallan los comentarios y sugerencias del profesor y los compañeros, así como las tareas a realizar para la siguiente semana. Además, se incluye una sección para cada grupo con el feedback proporcionado por el grupo 3.
 
