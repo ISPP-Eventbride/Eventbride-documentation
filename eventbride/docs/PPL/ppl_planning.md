@@ -38,6 +38,7 @@
 | 01/05/2025 | v2.1    | Apartado de SEO añadido            | PPL      | María de la Salud Carrera Talaverón                    |
 | 01/05/2025 | v2.2    | Estrategia de marketing            | PPL      | María de la Salud Carrera Talaverón                    |
 | 01/05/2025 | v2.3    | Apartado de SEO completado         | PPL      | María de la Salud Carrera Talaverón                    |
+| 01/05/2025 | v2.4    | Calendario marketing               | PPL      | María de la Salud Carrera Talaverón                    |
 
 ---
 
@@ -234,6 +235,10 @@ Haremos dos _trends_ en TikTok: uno para los clientes y otro para los proveedore
 Para estudiar las tendencias del mercado, se analizarán las actividades realizadas en la plataforma Eventbride: tipo de eventos organizados, ubicación, servicios más contratados, etc. y las relaciones entre estas características. Así, se podrán diseñar campañas de marketing más atractivas, además de adaptar la aplicación a las necesidades de nuestros usuarios.
 
 Por último, gracias a las encuestas enviadas a nuestros usuarios piloto y al _feedback_ recibido por ellos, conocemos de forma más directa los puntos más atractivos de nuestra aplicación y sabemos cuáles son los puntos débiles de Eventbride, de cara a mejorar siempre teniendo en cuenta a nuestros clientes potenciales.
+
+### Calendario de Marketing
+
+<center><img src="https://iili.io/3hlU1ol.png"></img></center>
 
 
 <div id='clientes'></div>
