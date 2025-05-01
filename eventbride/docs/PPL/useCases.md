@@ -157,7 +157,7 @@
 
 1. **Identificación del Caso de Uso** 
     - **Nombre del Caso de Uso**: Registrar servicio
-    - **ID**: CC - 004
+    - **ID**: CC-004
     - **Actor(es)**: Usuario proveedor.
     - **Descripción**: El usuario de un servicio quiere ofertarlos a través de la aplicación.
 2. **Flujo de Eventos** 
