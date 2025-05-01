@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 10/04/2025
+### Fecha: 01/05/2025
 
-### Entregable: Sprint 3
+### Entregable: PPL
 
 ---
 
@@ -42,6 +42,7 @@
 |25/03/2025|v5.1|Resultados de la encuesta de feedback del S1| Sprint 2 | David Godoy Fernández |
 |27/03/2025 |v5.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
 |10/04/2025 |v6.0|Resultados de la encuesta de feedback del S3| Sprint 3 | David Godoy Fernández|
+|01/05/2025 |v6.1|Actualización PPL| PPL | María de la Salud Carrera Talaverón|
 
 
 ## Contenido
@@ -59,11 +60,13 @@
 8. [Usuarios piloto recogidos](#usuarios-piloto-recogidos)
    1. [Proveedores](#proveedores)
    2. [Clientes](#clientes-1)
-9. [Resultados encuesta feedback Sprint 1](#id3)
-10. [Resultados encuesta feedback Sprint 2](#id4)
-11. [Resultados encuesta feedback Sprint 3](#id5)
-12. [Conclusión](#concl)
-13. [Bibliografía](#bib)
+9. [Resultados encuesta DP](#id3)
+10. [Resultados encuesta feedback Sprint 1](#id4)
+11. [Resultados encuesta feedback Sprint 2](#id5)
+12. [Resultados encuesta feedback Sprint 3](#id6)
+12. [Resultados encuesta feedback PPL](#id7)
+13. [Conclusión](#concl)
+14. [Bibliografía](#bib)
 
 <div id='intro'></div>
 
@@ -456,9 +459,9 @@ Se recomiendan ajustes menores en el formulario y uniformidad visual para optimi
 
 Durante este sprint se han reestructurado las encuestas y no se ha recibido feedback.
 
-<div id='concl'></div>
+<div id='id6'></div>
 
-## Resultados encuesta feedback Sprint 3 
+## Resultados encuesta feedback Sprint 3
 
 ### Feedback clientes
 
@@ -642,8 +645,14 @@ El equipo aprecia el cuidado en el feedback y valora la transparencia en el proc
 - Revisar qué campos del formulario podrían no ser obligatorios.
 - Mejorar guía visual en procesos clave (registro, edición, subida de imágenes).
 
+<div id='id7'></div>
 
-<div id='id5'></div>
+## Resultados encuesta feedback PPL
+
+La encuesta referente a los productos elaborados durante el PPL se ha fijado para una fecha posterior a la finalización de éste para que los usuarios puedan valorar productos completos; es por ello que no hay feedback referente a esta etapa ahora mismo.
+
+
+<div id='concl'></div>
 
 ## Conclusión
 
