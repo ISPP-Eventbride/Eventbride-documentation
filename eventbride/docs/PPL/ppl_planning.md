@@ -111,21 +111,46 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 
 ## Campaña de Lanzamiento
 
-### Objetivo: captar usuarios y mostrar valor diferencial de Eventbride
+#### Objetivo general: 
+Captar usuarios y mostrar el valor diferencial de EventBride frente a otros métodos tradicionales de organización de eventos.
 
-#### Fases:
+### Fases:
+1. **Teasing (3 días antes del lanzamiento):**
 
-1. **Teasing (3 días antes):**
-   - Video con teaser de la aplicación
+**Objetivo:** generar expectación y curiosidad en redes sociales.
+
+**Acciones:**
+- Publicar un teaser visual atractivo de la apliación
+- Stories con encuestas o stickers tipo: “¿Conoces a alguien que se casa pronto?”
+- Cuenta regresiva destacada en Instagram para marcar el día del lanzamiento.
+
+---
 
 2. **Día de lanzamiento:**
-   - Post oficial en Instagram, TikTok y LinkedIn con vídeo corto
-   - Reel mostrando cómo crear un evento en 30 segundos  
-   - Landing page o acceso a demo en el repositorio
+
+**Objetivo:** mostrar la propuesta de valor clara y generar tráfico a la app.
+
+**Acciones clave:**
+- Publicación en Instagram, TikTok y LinkedIn con:
+  - Video corto tipo “presentación exprés”
+  - Reel: “Crea tu evento en minutos” (demo rápida)
+- Publicación de landing page con:
+  - Acceso a demo o video explicativo
+  - Sección “¿Cómo funciona?” con capturas
+
+---
 
 3. **Post-lanzamiento (1-2 semanas):**
-   - Tutoriales breves en stories  
-   - Frases atrayentes
+
+**Objetivo:** mantener el interés y resolver dudas.
+
+**Acciones:**
+- Mini-tutoriales en stories:
+  - “Cómo invitar a tus invitados”
+  - “Gestiona tu lista de invitados desde EventBride”
+- Vídeos explicativos breves explicando cada funcionalidad por separado
+- Frases enganchadoras:
+  - “Organizar tu boda no debería parecer un trabajo de oficina.”
 
 #### Recursos necesarios:
 
@@ -133,12 +158,79 @@ Se han creado dos repositorios de GitHub, uno para el código, y otro para la do
 - Carrusel explicativo de funcionalidades
 - Post con CTA (Call to Action): “Pruébalo ahora”
 
-#### Canales:
+---
 
-- Instagram, LinkedIn y TikTok
+### 4. Colaboraciones estratégicas
+
+- **Microinfluencers de Sevilla** de bodas/lifestyle:
+  - “Plan conmigo” usando EventBride
+  - Opiniones orgánicas sobre cómo simplificó el proceso
+- **Testimonios reales:**
+  - Videos de parejas reales
+  - Reels tipo “Antes y después de EventBride”
+
+---
+
+### 5. Publicidad pagada
+
+- **Campañas segmentadas por:**
+  - Edad
+  - Estado civil
+  - Intereses: bodas, bautizos o comuniones
+- **Plataformas:**
+  - Instagram 
+  - TikTok
+  - LinkedIn
+- **Incentivos:**
+  - Anuncios que avisen de un periodo de prueba gratuita durante varias horas o un día en específico
+
+---
+
+### 6. Incentivos
+
+- **Sorteos:**
+  - “Crea tu primer evento y gana una sesión de fotos para tu boda”
+  - Incentivar a compartir reels, uso de memes, hashtag o tips con la app, indicando que si haces esto, entrarán en un sorteo ya sea de algún tipo de descuento o servicio gratuito
+
+---
+
+### 7. Contenido emocional
+
+- **Historias reales:**
+  - Clips de parejas usando EventBride vs método tradicional
+- **Contraste narrativo:**
+  - Mostrar estrés vs alivio
+  - Integrar personaje del wedding planner tradicional
+
+---
+
+### 9. Soporte y comunidad
+
+- **Canales de contacto:**
+  - WhatsApp 
+  - Instagram DM
+  - Correo 
+  - Botón de ayuda dentro de la app, que te llevará a un chat, con el que se podrán comunicar con el administrador del sistema
+- **Comunidad activa:**
+  - Compartir tips, dudas y recursos descargables
+
+---
+
+### Recursos necesarios
+
+- Video teaser
+- Reel “Crea tu evento en minutos”
+- Vídeos explicativos para redes
+- Historias tutoriales
+- Landing page con demo
+- Testimonios y colaboraciones
+- Hashtag de campaña
+
 
 
 <div id='lanzamientoPublico'></div>
+
+
 
 ## Lanzamiento en evento público (sujeto a lo que nos digan los profesores)
 
