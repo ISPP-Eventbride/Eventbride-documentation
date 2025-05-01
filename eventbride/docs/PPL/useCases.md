@@ -49,7 +49,7 @@
     3. [Caso de uso core 3](#id13)
     4. [Caso de uso core 4](#id14)
     5. [Caso de uso core 5](#id15)
-2. [Principales casos dde uso de la aplicación](#caso)
+2. [Principales casos de uso de la aplicación](#caso)
     1. [Caso de uso 6](#id26)
     2. [Caso de uso 7](#id27)
     3. [Caso de uso 8](#id28)
@@ -276,7 +276,7 @@
     Flujo Principal (Normal o Básico) 
     1. El usuario accede a la sección de "Otros Servicios" o "Recintos".
     2. El usuario selecciona un servicio que haya contratado.
-    3. El sistema muestra todos los detales del servicio y una opción de valorar.
+    3. El sistema muestra todos los detalles del servicio y una opción de valorar.
     4. El usuario pulsa sobre "Valorar" e introduce una calificación (1-5 estrellas) y si lo desea una reseña escrita.
 3. **Requisitos Previos** 
     - El usuario debe estar registrado como cliente y haber contratado el servicio.
