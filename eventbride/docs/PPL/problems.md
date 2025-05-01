@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 10/04/2025
+### Fecha: 01/05/2025
 
-### Entregable: Sprint 3
+### Entregable: PPL
 
 ---
 
@@ -42,6 +42,7 @@
 | 09/04/2025 | v1.6    | Redacción del problema 8 y 9 | Sprint 3 | Héctor Noguera González |
 | 10/04/2025 | v1.7    | Redacción del problema 10, 11 y 12 | Sprint 3 | Héctor Noguera González |
 |30/04/2025|v1.8|Migración de imágenes a host de Internet| PPL | María de la Salud Carrera Talaverón |
+| 01/05/2025 | v1.9    | Redacción del problema 13 y 14 | PPL | Héctor Noguera González |
 
 ---
 
@@ -59,9 +60,11 @@
 11. [Problema 10: Seguridad deficiente en rutas internas de la aplicación](#id10)
 12. [Problema 11: Tareas no movidas a "Done" en el Kanban de GitHub Projects](#id11)
 13. [Problema 12: Retrasos en la documentación general del proyecto](#id12)
-14. [Rendimiento y Evaluación de Acciones](#Rendimiento)
-15. [Conclusiones](#conclusiones)
-16. [Bibliografía](#bib)
+14. [Problema 13: Demora en el cierre de Pull Requests](#id13)
+15. [Problema 14: Retraso en la finalización de la presentación de la primera semana del PPL](#id14)
+16. [Rendimiento y Evaluación de Acciones](#Rendimiento)
+17. [Conclusiones](#conclusiones)
+18. [Bibliografía](#bib)
 
 
 <div id='intro'></div>
@@ -495,6 +498,86 @@ Desde el final del Sprint 2. Actualmente en seguimiento durante el Sprint 3.
 
 Sí, se ha empezado a notar una mejora en la puntualidad y distribución de la documentación. El seguimiento diario ha ayudado a reforzar el compromiso del equipo.
 
+<div id='id13'></div>
+
+## Problema 13: Demora en el cierre de Pull Requests
+
+## Trazabilidad del problema
+
+Durante el Sprint 3 se identificó que muchas Pull Requests (PR) permanecen abiertas durante demasiado tiempo, lo que genera retrasos en la integración de cambios y provoca inconsistencias entre las versiones del código que manejan diferentes miembros del equipo.
+
+Este problema fue detectado a través de las reuniones y al notar errores de integración causados por ramas desactualizadas o conflictos frecuentes entre cambios.
+
+Se discutió en equipo y se acordó establecer tiempos máximos para la revisión y cierre de PR, además de fomentar una cultura de revisión continua.
+
+## Acciones concretas tomadas
+
+Identificación del problema durante el Sprint 3.
+
+Discusión en reuniones diarias y propuesta de solución.
+
+Asignación clara de revisores en cada PR.
+
+Fomento de la revisión continua.
+
+## Cómo saber si está funcionando
+
+Las PR no deben estar abiertas más de 48 horas sin actividad.
+
+Reducción en los conflictos y errores por versiones desactualizadas.
+
+Mejora en la fluidez del trabajo colaborativo y la integración de cambios.
+
+## Objetivo
+
+Asegurar una integración ágil y ordenada del código, evitando cuellos de botella y manteniendo la consistencia entre ramas y entornos de desarrollo.
+
+## Cuándo se espera alcanzar el objetivo
+
+Desde el PPL, con seguimiento diario.
+
+## ¿Están funcionando las cosas?
+
+Todavía en evaluación. Se ha visto una leve mejora, pero es necesario reforzar la disciplina de revisión y seguimiento para consolidar el cambio.
+
+<div id='id14'></div>
+
+## Problema 14: Retraso en la finalización de la presentación de la primera semana del PPL
+
+## Trazabilidad del problema
+
+Durante la primera semana del PPL, la preparación de la presentación final se retrasó significativamente, al punto de que no se completó hasta la madrugada anterior a la exposición.
+
+Este retraso generó estrés en el equipo, redujo el tiempo disponible para ensayar y afectó la calidad general de la presentación.
+
+En retrospectiva, se identificó que la causa principal fue la falta de una planificación clara desde el inicio de la semana, así como una distribución poco efectiva de tareas relacionadas con la presentación.
+
+## Acciones concretas tomadas
+
+Identificación del problema tras la entrega de la presentación.
+
+Discusión del tema en la siguiente reunión de coordinación.
+
+Acordado incluir en la planificación semanal una fecha límite intermedia para tener una versión preliminar de la presentación.
+
+## Cómo saber si está funcionando
+
+Las futuras presentaciones deben estar listas al menos 24 horas antes del día de exposición.
+
+Debe notarse una reducción en la carga de trabajo de último minuto y una mejora en la calidad de las presentaciones.
+
+## Objetivo
+
+Garantizar una preparación anticipada y organizada de las presentaciones semanales del PPL, permitiendo ensayos, revisiones y mejoras con tiempo suficiente.
+
+## Cuándo se espera alcanzar el objetivo
+
+Desde la planificación de la segunda semana del PPL.
+
+## ¿Están funcionando las cosas?
+
+Aún en proceso de implementación. Se han dado pasos para mejorar la planificación.
+
 <div id='Rendimiento'></div>
 
 ## Rendimiento y Evaluación de Acciones
@@ -503,11 +586,10 @@ Para complementar el análisis de cada problema, se ha incluido la siguiente inf
 
 ### Gráficas de Rendimiento
 
-<img src="https://iili.io/3XMJ8OB.png"></img>
+<img src="https://iili.io/3hIfkN9.md.png"></img>
+<img src="https://iili.io/3hIfvte.md.png"></img>
 
-<img src="https://iili.io/3XMJ4ig.png"></img>
-
-<img src="https://iili.io/3XMJi0J.png"></img>
+<img src="https://iili.io/3hIfeA7.md.png"></img>
 
 
 Las gráficas reflejan:
