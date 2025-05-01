@@ -33,26 +33,6 @@
   margin-bottom: 1rem;
 }
 
-.important-documents-container {
-  padding: 3rem 0;
-}
-
-.documents-card-container {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2rem; 
-  justify-content: center;
-}
-
-.document-card {
-  background-color: #f9f9f9;
-  border: 1px solid #ddd;
-  padding: 1rem;
-  width: 100%;
-  max-width: 300px;
-  text-align: center;
-}
-
 .document-link {
   text-decoration: none;
   color: #333;
@@ -75,21 +55,11 @@
 }
 
 .documentCard {
-  background-color: #ffffff;
-  border: 1px solid #ddd;
+  background-color: var(--ifm-navbar-background-color);
+  box-shadow: 0 0 10px var(--eventbride-box-shadow);
   padding: 1rem;
   width: 100%;
   max-width: 300px;
   text-align: center;
   border-radius: 20px;
-}
-
-.document-link {
-  text-decoration: none;
-  color: #333;
-}
-
-.document-title {
-  font-size: 1.2rem;
-  margin-bottom: 0.5rem;
 }
