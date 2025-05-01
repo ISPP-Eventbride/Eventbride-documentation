@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 30/04/2025
+### Fecha: 01/05/2025
 
 ### Entregable: PPL
 
@@ -33,7 +33,7 @@
 
 | Fecha      | Versión | Descripción                                  | Entrega  | Contribuyente(s)|
 |------------|---------|----------------------------------------------|----------|-----------------|
-| 30/04/2025 | v1.0    | Creación del documento y redacción del mismo | PPL      | Sergio Pons López |
+| 01/05/2025 | v1.0    | Creación del documento y redacción del mismo | PPL      | Sergio Pons López |
 
 ---
 
@@ -123,7 +123,7 @@ Se establecerá esta nota en caso de superarse el cálculo obtenido.
 
 ### Horas trabajadas y porcentaje de tareas completadas  
 
-La siguiente tabla representa las horas trabajadas, incluyendo las horas de clase y de reunión, por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en el PPL (realizado el jueves 01 de mayo a las 12:05h):  
+La siguiente tabla representa las horas trabajadas, incluyendo las horas de clase y de reunión, por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en el PPL (realizado el jueves 1 de mayo a las 12:05h):  
 
 | Nombre | Horas trabajadas antes del PPL | Carga de trabajo del PPL | Horas trabajadas en el PPL (11/04 - 01/05) | Porcentaje de completitud tareas del PPL|
 |--|-----|-----|----|------|
