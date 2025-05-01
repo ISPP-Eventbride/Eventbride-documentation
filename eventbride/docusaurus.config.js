@@ -89,7 +89,7 @@ const config = {
           {to: '/equipo', label: 'Equipo', position: 'left'},
           {to: '/contacto', label: 'Contacto', position: 'left'},
           {
-            href: 'https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login',
+            href: 'https://ppl-dot-ispp-2425-03.ew.r.appspot.com',
             label: 'Eventbride',
             position: 'right',
           },
