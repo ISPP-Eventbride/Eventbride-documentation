@@ -88,10 +88,10 @@ El presente documento recoge de forma estructurada y detallada los requisitos de
 | RF-20 | Registro de servicios                            | Alta      | Los proveedores podrán registrar los servicios que ofrezcan en la plataforma. |
 | RF-21 | Anulación de servicios                           | Alta      | Los proveedores pueden cancelar un servicio si así lo considerasen. |
 | RF-22| Contrataciones                                    | Alta      | Los proveedores podrán consultar el estado de cada una de las contrataciones que le han hecho. |
-| RF-22| Historial de ventas                                     | Alta      | Los proveedores podrán consultar el historial de ventas de sus servicios. |
-| RF-23| Plan Premium                                     | Alta      | Los proveedores podrán pagar un plan premium que aumente su límite de servicios ofertados y sus servicios serán más visibles en la aplicación. |
-| RF-24| Chat                                   | Alta      | Los usuarios cliente y los proveedores podrán ponerse en contacto gracias al chat ofecido por la plataforma. |
-| RF-25| Cuenta de administrador                          | Alta      | Los usuarios administradores podrán administrar los servicios ofrecidos por la plataforma, administrar usuarios, tanto clientes como proveedores y visulaizar y gestionar los eventos de Eventbride. |
+| RF-23| Historial de ventas                                     | Alta      | Los proveedores podrán consultar el historial de ventas de sus servicios. |
+| RF-24| Plan Premium                                     | Alta      | Los proveedores podrán pagar un plan premium que aumente su límite de servicios ofertados y sus servicios serán más visibles en la aplicación. |
+| RF-25| Chat                                   | Alta      | Los usuarios cliente y los proveedores podrán ponerse en contacto gracias al chat ofrecido por la plataforma. |
+| RF-26| Cuenta de administrador                          | Alta      | Los usuarios administradores podrán administrar los servicios ofrecidos por la plataforma, administrar usuarios, tanto clientes como proveedores y visualizar y gestionar los eventos de Eventbride. |
 
 
 <div id='id2'></div>
@@ -113,7 +113,7 @@ El presente documento recoge de forma estructurada y detallada los requisitos de
 | ID   | Título        | Prioridad |Descripción  |
 |------|---------------|-----------|---------------|
 | RI-1 | Datos de usuario  | Alta | De los usuarios se almacenará su nombre, apellido, nombre de usuario, email, número de teléfono, contraseña, DNI, tipo de usuario, si quiere recibir notificaciones y si ha aceptado los términos, condiciones de la aplicación y foto de perfil. Estarán diferenciados entre cliente, proveedor y administrador (rol) pero solo se tiene la posibilidad de elegir entre los dos primeros al registrarte. Si un usuario es proveedor tendrá un plan, la fecha de inicio de este y la fecha de expiración del plan.  |
-| RI-2 | Datos de servicio   | Alta      | De los servicios se almacenará su nombre, disponibilidad, la ciudad o ciudades en las que se ofertan, su precio fijo/por persona/por hora, una descripción, una imagen, el usuario propietario del servicio, el tipo de servicio(Catering, Entretenimiento o Decoración) y la información adicinal que se le quiera añadir. |
+| RI-2 | Datos de servicio   | Alta      | De los servicios se almacenará su nombre, disponibilidad, la ciudad o ciudades en las que se ofertan, su precio fijo/por persona/por hora, una descripción, una imagen, el usuario propietario del servicio, el tipo de servicio(Catering, Entretenimiento o Decoración) y la información adicional que se le quiera añadir. |
 | RI-3 | Datos específicos de recintos    | Alta      | De los recintos se almacenarán el nombre, ciudad en la que se encuentra, disponibilidad, tipo de tarifa (fijo/por persona/por hora), foto del local, descripción, código postal, las coordenadas, la dirección, el aforo máximo, la superficie en m<sup>2</sup>, el horario en el que estaría disponible y el usuario que lo crea. |
 | RI-4 | Datos de eventos | Alta | De los eventos se almacenará el nombre, el tipo de evento (Boda, Bautizo o Comunión), el número de invitados estimados, la fecha, el usuario que lo crea, la fecha de pago, el número de invitados confirmados y si está pagado o no. |
 | RI-5 | Invitación | Alta | La invitación constará de nombre, apellidos, número de teléfono, email, número máximo de invitados asociados a la invitación, número de invitados que finalmente van, el evento al que corresponde y el estado de la misma (Enviada, Recibida o Aceptada).|
