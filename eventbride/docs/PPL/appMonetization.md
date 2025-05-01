@@ -183,5 +183,7 @@ Analizando estas tablas, podríamos calcular un beneficio aproximado, en el caso
 ## Bibliografía 
 
 [1] https://www.bodas.net/articulos/cuanto-cuesta-casarse--c841
+
 [2] https://www.cronoshare.com/cuanto-cuesta/primera-comunion-espana
+
 [3] https://www.bankinter.com/blog/finanzas-personales/cuanto-cuesta-un-bautizo-en-espana

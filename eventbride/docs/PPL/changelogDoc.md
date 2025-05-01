@@ -62,15 +62,15 @@ El formato está basado en [Keep a Changelog](https://keepachangelog.com/es/1.0.
 ### [1.4.0] - 2025-05-01
 
 ### Añadido
--Se han implementado mejoras significativas en la interfaz de usuario para una experiencia más intuitiva y atractiva.
--Se ha implementado la funcionalidad de ratings, donde se puede valorar y comentar los servicios contratados.
+- Se han implementado mejoras significativas en la interfaz de usuario para una experiencia más intuitiva y atractiva.
+- Se ha implementado la funcionalidad de ratings, donde se puede valorar y comentar los servicios contratados.
 
 ### Cambiado
--Se ha mejorado la funcionalidad de los modales para una mejor interacción con el usuario.
--Se han actualizado los archivos application-dev.properties para reflejar los nuevos entornos de desarrollo y despliegue.
+- Se ha mejorado la funcionalidad de los modales para una mejor interacción con el usuario.
+- Se han actualizado los archivos application-dev.properties para reflejar los nuevos entornos de desarrollo y despliegue.
 
 ### Corregido
--Corrección en la validación de contraseñas: Se ha solucionado un problema donde se requería ingresar la contraseña dos veces en ciertos formularios.
+- Corrección en la validación de contraseñas: Se ha solucionado un problema donde se requería ingresar la contraseña dos veces en ciertos formularios.
 
 
 ### [1.3.0] - 2025-04-08
