@@ -127,7 +127,7 @@ const config = {
               },
               {
                 label: 'WPL',
-                to: '/docs/intro',
+                to: '/docs/category/wpl',
               },
             ],
           },

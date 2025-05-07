@@ -85,7 +85,7 @@ export default function Home() {
   return (
     <Layout
       title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="Esta es la documentación de Eventbride, una plataforma para la gestión de eventos como Bodas, Bautizos y Comuniones.">
       <HomepageHeader />
       <main>
         <HomepageFeatures/>
