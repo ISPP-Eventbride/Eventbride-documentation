@@ -1,4 +1,4 @@
-# Commitment Agreement v8
+# Commitment Agreement v7
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 08/05/2025
+### Fecha: 08/04/2025
 
-### Entregable: WPL
+### Entregable: Sprint 3
 
 ---
 
@@ -78,13 +78,7 @@ Yo, [Nombre del Usuario], para avanzar en la asignatura de Ingeniería de Softwa
 
 - **Daniel Benito Hidalgo** y **Manuel Pérez Vélez** (Community Managers): Encargarse de la comunicación externa del proyecto, especialmente en redes sociales y otras plataformas públicas. Esto implica difundir avances, novedades y contenido relevante del proyecto. Además, responden dudas y comentarios del público, promoviendo una imagen positiva.
 
-- **Sergio Pons López** y **Lorenzo Torralba Lanzas** (Analistas de Márketing): Estudiar y analizar los contenidos generados y publicados por el Equipo de Márketing y el impacto de éstos sobre la popularidad de Eventbride y las interacciones del público con la plataforma. Para ello, deberán emplear las técnicas vistas en la asignatura, de manera que la evaluación realizada sea exhaustiva y lo más representativa de la realidad posible, puesto que en base a las conclusiones obtenidas el equipo de Eventbride tomará unas decisiones u otras.
-
 En caso de no poder cumplir con sus responsabilidades, se compromete a informar al equipo y buscar soluciones. Los miembros no mencionados asumen el rol de desarrollador.
-
-## Compromiso tras acabar la asignatura
-
-Este Acuerdo de Compromiso sólo aplica a la duración de la asignatura Ingeniería del Software y Práctica Profesional (2024-2025). Si se quisiera continuar con el proyecto Eventbride tras el término de período de evaluación de la asignatura, este Acuerdo no obliga al alumno/a a continuar con su participación en él. Todos aquellos miembros del equipo que deseen seguir desarrollando Eventbride tras la asignatura deberán firmar un nuevo Acuerdo de Compromiso que haga referencia al nuevo contexto del proyecto, expresando explícitamente su compromiso durante éste.
 
 Al firmar este documento, entiendo y acepto las responsabilidades que se me han asignado y me comprometo a cumplirlas según lo establecido en este documento.
 
