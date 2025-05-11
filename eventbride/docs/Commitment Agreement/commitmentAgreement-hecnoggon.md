@@ -1,4 +1,4 @@
-# CA v7 - Gonzalo Navas Remmers
+# CA v8 - Héctor Noguera González
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
 
@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 08/04/2025
+### Fecha: 11/05/2025
 
-### Entregable: Sprint 3
+### Entregable: WPL
 
 ---
 
@@ -34,11 +34,11 @@ Esquema de documento generado con ChatGPT 3.5:
 
 **Compromiso de Participación en la Asignatura ISPP (Ingeniería del Software y Práctica Profesional) - Curso 2024-2025**
 
-**Nombre del Alumno:** Gonzalo Navas Remmers
+**Nombre del Alumno:** Héctor Noguera González
 
 ## Compromiso
 
-Yo, Gonzalo Navas Remmers, para avanzar en la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) del curso 2024-2025, me comprometo a cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo, compuesto por 17 personas:
+Yo, Héctor Noguera González, para avanzar en la asignatura de Ingeniería de Software y Práctica Profesional (ISPP) del curso 2024-2025, me comprometo a cumplir con los siguientes requisitos y condiciones como miembro activo del grupo de trabajo, compuesto por 17 personas:
 
 - **Dedicación de Tiempo:** Destinaré 10 horas semanales a las actividades y tareas asignadas dentro de la asignatura, incluyendo la asistencia a clase y el visualizado de las píldoras teóricas. En caso de que no pueda cumplir con este tiempo debido a un viaje u otra circunstancia, me comprometo a recuperarlo en los días siguientes.
   
@@ -78,10 +78,16 @@ Yo, Gonzalo Navas Remmers, para avanzar en la asignatura de Ingeniería de Softw
 
 - **Daniel Benito Hidalgo** y **Manuel Pérez Vélez** (Community Managers): Encargarse de la comunicación externa del proyecto, especialmente en redes sociales y otras plataformas públicas. Esto implica difundir avances, novedades y contenido relevante del proyecto. Además, responden dudas y comentarios del público, promoviendo una imagen positiva.
 
+- **Sergio Pons López** y **Lorenzo Torralba Lanzas** (Analistas de Márketing): Estudiar y analizar los contenidos generados y publicados por el Equipo de Márketing y el impacto de éstos sobre la popularidad de Eventbride y las interacciones del público con la plataforma. Para ello, deberán emplear las técnicas vistas en la asignatura, de manera que la evaluación realizada sea exhaustiva y lo más representativa de la realidad posible, puesto que en base a las conclusiones obtenidas el equipo de Eventbride tomará unas decisiones u otras.
+
 En caso de no poder cumplir con sus responsabilidades, se compromete a informar al equipo y buscar soluciones. Los miembros no mencionados asumen el rol de desarrollador.
+
+## Compromiso tras acabar la asignatura
+
+Este Acuerdo de Compromiso sólo aplica a la duración de la asignatura Ingeniería del Software y Práctica Profesional (2024-2025). Si se quisiera continuar con el proyecto Eventbride tras el término de período de evaluación de la asignatura, este Acuerdo no obliga al alumno/a a continuar con su participación en él. Todos aquellos miembros del equipo que deseen seguir desarrollando Eventbride tras la asignatura deberán firmar un nuevo Acuerdo de Compromiso que haga referencia al nuevo contexto del proyecto, expresando explícitamente su compromiso durante éste.
 
 Al firmar este documento, entiendo y acepto las responsabilidades que se me han asignado y me comprometo a cumplirlas según lo establecido en este documento.
 
 **Firma del Alumno:**
 
-[![3qQJte4.png](https://iili.io/3qQJte4.png)](https://freeimage.host/es)
+[![3qLPJ07.png](https://iili.io/3qLPJ07.png)](https://freeimage.host/es)

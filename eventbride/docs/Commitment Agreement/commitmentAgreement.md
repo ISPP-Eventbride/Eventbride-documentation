@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 08/05/2025
+### Fecha: 11/05/2025
 
 ### Entregable: WPL
 
@@ -90,4 +90,4 @@ Al firmar este documento, entiendo y acepto las responsabilidades que se me han 
 
 **Firma del Alumno:**
 
-![Imagen de la firma](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AEjemplo.png&psig=AOvVaw2YR0UA-0PxQhH1DGBEfFY6&ust=1744408349894000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCc2dG5zowDFQAAAAAdAAAAABAE)
+![Imagen de la firma](https://fernandoarciniega.com/wp-content/uploads/image-185.png)
