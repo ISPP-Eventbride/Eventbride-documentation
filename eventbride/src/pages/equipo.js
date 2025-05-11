@@ -19,7 +19,7 @@ const teamData = [
       { name: 'María de la Salud Carrera Talaverón', roles: ['Jefa de Documentación', 'Coordinadora de tiempos'], photo: '/img/carrera-maria.png', url: 'https://github.com/maryycarrera' },
       { name: 'Ignacio Blanquero Blanco', roles: ['Secretario'], photo: '/img/blanquero-ignacio.png', url: 'https://github.com/ignblabla' },
       { name: 'Antonio Montero López', roles: [], photo: '/img/montero-antonio.png', url: 'https://github.com/antonio-mz' },
-      { name: 'Sergio Pons López', roles: ['Secretario'], photo: '/img/pons-sergio.png', url: 'https://github.com/sergiopons-1' },
+      { name: 'Sergio Pons López', roles: ['Secretario', 'Analista de Marketing'], photo: '/img/pons-sergio.png', url: 'https://github.com/sergiopons-1' },
     ],
   },
   {
@@ -27,7 +27,7 @@ const teamData = [
     members: [
       { name: 'Adrián Cabello Martín', roles: ['Jefe de Desarrollo'], photo: '/img/cabello-adrian.png', url: 'https://github.com/Adrcabmar' },
       { name: 'Andrés Pizzano Cerrillos', roles: [], photo: '/img/pizzano-andres.png', url: 'https://github.com/andpizcer' },
-      { name: 'Lorenzo Torralba Lanzas', roles: [], photo: '/img/torralba-lorenzo.png', url: 'https://github.com/lorenx16' },
+      { name: 'Lorenzo Torralba Lanzas', roles: ['Analista de Marketing'], photo: '/img/torralba-lorenzo.png', url: 'https://github.com/lorenx16' },
       { name: 'Héctor Noguera González', roles: ['Policy Manager'], photo: '/img/noguera-hector.png', url: 'https://github.com/HectorNG840' },
       { name: 'Gonzalo Navas Remmers', roles: ['Gestor de Usuarios Piloto'], photo: '/img/navas-gonzalo.png', url: 'https://github.com/gonnavrem' },
       { name: 'Miguel Hernández Sánchez', roles: [], photo: '/img/hernandez-miguel.png', url: 'https://github.com/Yato03' },
