@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 01/05/2025
+### Fecha: 15/05/2025
 
-### Entregable: PPL
+### Entregable: WPL
 
 ---
 
@@ -70,6 +70,7 @@
 | 01/05/2025 | v8.3    | Replanificación entregable y análisis cualitativo                             | PPL      | María de la Salud Carrera Talaverón |
 | 01/05/2025 | v8.4    | Análisis cuantitativo                                                         | PPL      | María de la Salud Carrera Talaverón |
 | 01/05/2025 | v8.5    | Conclusiones                                                                  | PPL      | María de la Salud Carrera Talaverón |
+| 11/05/2025 | v9.0    | Actualización del documento para el WPL                                       | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -88,7 +89,7 @@
 
 ## Introducción
 
-El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable PPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del Sprint. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en futuros sprints.
+El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable WPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del Sprint. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en futuros sprints.
 
 <div id='id1'></div>
 
@@ -96,9 +97,9 @@ El presente documento tiene como objetivo realizar un análisis tanto cuantitati
 
 El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Las métricas definidas en el documento `metrics.md` están divididas en específicas a cada subgrupo de trabajo o generales para todos los integrantes de Eventbride. Se analizarán en cada apartado correspondiente. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`.
 
-El final del PPL supone aproximadamente el 86% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en entregables futuros. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
+La primera semana del WPL supone aproximadamente el 93% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en la última semana del proyecto. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
 
-Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la segunda semana del PPL, por tanto, se esperan alrededor de 430 LdC, 6 commits, 13 issues, 4 PRs y 129 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 1 de mayo de 2025 (por la mañana) [^2]:
+Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la primera semana del WPL, por tanto, se esperan alrededor de 465 LdC, 7 commits, 14 issues, 5 PRs y 139.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 14 de mayo de 2025 [^2]:
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
@@ -126,7 +127,7 @@ No se va a reflejar en este documento el análisis de los costes del proyecto ha
 
 ### Grupo de Marketing
 
-Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la segunda semana del PPL, por tanto, se esperan alrededor de 3 reuniones de marketing y 4 publicaciones por persona.
+Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la primera semana del WPL, por tanto, se esperan alrededor de 3 reuniones de marketing y 5 publicaciones por persona.
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
@@ -139,7 +140,7 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del PPL, por tanto, se esperan alrededor de 4 documentos y 3 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del wpl, por tanto, se esperan alrededor de 5 documentos y 3 PRs por persona.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
@@ -152,7 +153,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del PPL, por tanto, se esperan alrededor de 602 LdC, 9 commits y 4 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del wpl, por tanto, se esperan alrededor de 651 LdC, 9 commits y 5 tests por persona.
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
@@ -169,7 +170,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 ### Grupo de Revisión
 
-Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del PPL, por tanto, se esperan alrededor de 17 PRs revisadas por persona.
+Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del wpl, por tanto, se esperan alrededor de 19 PRs revisadas por persona.
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
@@ -180,7 +181,7 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 ## Análisis cualitativo
 
-Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v7, que firmaron todos los desarrolladores durante el Sprint 3, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
+Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v8, que han firmado todos los desarrolladores durante el WPL, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
 
 La labor de los desarrolladores y testers incluye:
 
@@ -221,7 +222,7 @@ En cuanto a los miembros del grupo con roles extra, se van a comentar las respon
 | Pablo Jesús Castellanos Compaña (J. Revisión)          | Sí                   | Sí                                                | Sí                | Sí                                  |
 | Natalia Olmo Villegas (PM y J. Marketing)              | Sí                   | Sí                                                | Sí                | Sí                                  |
 
-Los aseguradores de la calidad (QA) deben velar por la calidad del trabajo entregado, asegurando que los estándares definidos sean cumplidos en cada fase del desarrollo. Esto se traduce en revisar documentación, comprobando que no falta ningún documento y que éstos tienen todo el contenido requerido. Los QA son Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña (el equipo de revisión). Durante el PPL, han estado cumpliendo con su función, revisando documentación y tareas de código y llevando un control de aquellos aspectos a arreglar/mejorar.
+Los aseguradores de la calidad (QA) deben velar por la calidad del trabajo entregado, asegurando que los estándares definidos sean cumplidos en cada fase del desarrollo. Esto se traduce en revisar documentación, comprobando que no falta ningún documento y que éstos tienen todo el contenido requerido. Los QA son Francisco Avilés Carrera y Pablo Jesús Castellanos Compaña (el equipo de revisión). Durante el WPL, han estado cumpliendo con su función, revisando documentación y tareas de código y llevando un control de aquellos aspectos a arreglar/mejorar.
 
 El siguiente rol es el de secretario; esta función la cumplen Ignacio Blanquero Blanco y Sergio Pons López. Se encargan de registrar y documentar reuniones, acuerdos y decisiones clave, manteniendo organizada la información del proyecto. Ambos secretarios han cumplido con sus responsabilidades en este entregable.
 
@@ -229,80 +230,26 @@ Héctor Noguera González es el Policy Manager, que se encarga de garantizar que
 
 Daniel Benito Hidalgo es el encargado de diseño, cuya función es desarrollar y validar aspectos visuales y de experiencia de usuario, asegurando alineación con los requerimientos del equipo. En la práctica, se ha estado encargando de definir la imagen de la marca Eventbride, coordinando el diseño de los mockups y de las presentaciones de clase. Supervisa también que se siga la temática establecida tanto en la aplicación como en las presentaciones. Ha recibido ayuda del grupo de Marketing al completo y de algunos compañeros de Código y Documentación.
 
-En cuanto a la gestión de los usuarios piloto, los miembros encargados de coordinarse con ellos son Daniel Benito Hidalgo, Gonzalo Navas Remmers, Fernando José de Celis y David Godoy. Su responsabilidades incluyen gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones, además de analizar el feedback para mejorar el producto. Durante este entregable, no han sido necesarias sus funciones, ya que no se programó ninguna recogida de feedback para el período que abarca el PPL; la siguiente recogida del feedback será posterior a esta entrega.
+En cuanto a la gestión de los usuarios piloto, los miembros encargados de coordinarse con ellos son Daniel Benito Hidalgo, Gonzalo Navas Remmers, Fernando José de Celis y David Godoy. Su responsabilidades incluyen gestionar la comunicación entre el equipo de desarrollo y los usuarios piloto, recopilando sus comentarios, resolviendo dudas y ayudando a que los usuarios piloto se adapten al software de forma sencilla y sin complicaciones, además de analizar el feedback para mejorar el producto. Durante el WPL, les han hecho llegar la correspondiente encuesta de feedback, dándoles un plazo razonable para contestar, y han analizado las respuestas obtenidas.
 
 María de la Salud Carrera Talaverón es la coordinadora de tiempos. Su labor consiste en revisar que los tiempos asignados a las actividades sean razonables y acordes a las responsabilidades de cada miembro del equipo. Utilizando Clockify, analiza los registros de tiempo para asegurar que los plazos sean realistas y las tareas realizadas correspondan con las que cada miembro del equipo tenga asignadas. En este entregable, ha cumplido con su función adecuadamente. Ha recibido ayuda de los otros Jefes y de la PM, especialmente durante el Sprint Planning.
 
-Por último, Fernando José de Celis Hurtado es el encargado de GDPR. Su responsabilidad reside en asegurar que el diseño, desarrollo y ejecución cumplan con la protección de datos personales, garantizando el principio de "privacidad desde el diseño y por defecto", y que se respeten los derechos de los usuarios en todo momento. Durante el PPL, no ha sido necesaria su intervención directa, pero ha llevado un control sobre las tareas de código, supervisando que no se contradigan las políticas anteriormente redactadas.
+Fernando José de Celis Hurtado es el encargado de GDPR. Su responsabilidad reside en asegurar que el diseño, desarrollo y ejecución cumplan con la protección de datos personales, garantizando el principio de "privacidad desde el diseño y por defecto", y que se respeten los derechos de los usuarios en todo momento. Durante el WPL, no ha sido necesaria su intervención directa, pero ha llevado un control sobre las tareas de código, supervisando que no se contradigan las políticas anteriormente redactadas.
+
+Por último, Sergio Pons López y Lorenzo Torralba Lanzas son los encargados de analizar y evaluar el contenido producido por el equipo de marketing, para que el equipo de Eventbride sepa el alcance que está teniendo en redes sociales y puedan tomar decisiones de negocio en base a las interacciones en dichas redes. Su rol es el de analistas de marketing. Durante el WPL, han ido redactando poco a poco el documento de "Análisis de Estadísticas del Marketing" con los resultados obtenidos tras su evaluación.
 
 
 <div id='id3'></div>
 
 ##  Reestimación del Sprint
 
-La reestimación de la planificación del PPL se realizó el día 26/04/2025. Participaron en ella la Project Manager y todos los Jefes de Subgrupos, aunque de forma más activa los que participaron fueron Pablo Jesús Castellanos y Adrián Cabello. Esta reestimación está sujeta a cambios si surgen conflictos durante el desarrollo del Sprint o si algún miembro del grupo se da cuenta de que falta alguna tarea o requisito pedido por los profesores de la asignatura.
-
-Se reasignaron algunas de las tareas planificadas para la segunda semana, pero la mayoría sufrieron pocos cambios, y se añadieron otras pocas. La nueva distribución de tareas se hizo teniendo en cuenta las horas de trabajo que llevaba cada desarrollador y los roles que desempeña cada uno. De esta forma, el nuevo Sprint Backlog quedó así (a día 30 de abril de 2025):
-
-| Tarea | Tiempo estimado (horas) | Asignados |
-|-------|-------------------------|-----------|
-| [MRKTN] Linkear correo corporativo con gmail | 2 | Antonio Montero, Daniel Benito |
-| [MRKTN] Editar vídeo presentación del equipo y fotos | 2 | Adrián Cabello |
-| [DOC] Alucinaciones de la IA | 0.5 | Ignacio Blanquero |
-| [MRKTN] Subir posts | 1.5 | Manuel Pérez |
-| [CHANGE] Paginar todo | 12 | Héctor Noguera, Andrés Pizzano, Lorenzo Torralba |
-| [MRKTN] Grabar vídeo demo | 1 | Natalia Olmo, Fernando José de Celis |
-| [MRKTN] Editar vídeo demo | 2 | Natalia Olmo, Fernando José de Celis |
-| [FEATURE] Crear pagos cliente | 3 | Andrés Pizzano |
-| [DOC] KB Report | 1 | Ignacio Blanquero |
-| [DOC] Actualizar Manual de Usuario | 3 | Francisco Avilés, Sergio Pons |
-| [DOC] Actas de reuniones PPL | 2 | Sergio Pons, Ignacio Blanquero |
-| [DOC] Feedback Semana 2 | 2 | Ignacio Blanquero |
-| [DOC] Presentación 2 Semana 2 | 4 | Antonio Montero, Daniel Benito, Héctor Noguera, Manuel Pérez, Sergio Pons |
-| [DOC] Análisis Cuantitativo y Cualitativo Final PPL | 2 | María de la Salud Carrera |
-| [MRKTN] Corregir anuncio clientes | 3 | Manuel Pérez, Natalia Olmo |
-| [DOC] Presentación 1 Semana 2 | 6 | Antonio Montero, Daniel Benito, Héctor Noguera, Manuel Pérez, Sergio Pons |
-| [BUG] Corregir Test | 3 | Miguel Hernández |
-| [FEATURE] Mejorar toda la UI/UX | 2 | Andrés Pizzano, Lorenzo Torralba |
-| [DOC] Revisar documentos en Docusaurus | 4 | María de la Salud Carrera |
-| [MRKTN] Post oficial Intagram Lanzamiento de la App | 1 | Manuel Pérez |
-| [FEATURE] Actualizar términos y condiciones | 1 | Héctor Noguera |
-| [MRKTN] Editar y subir posts de relleno | 2 | Fernando José de Celis |
-| [MRKTN] Editar capitulo 2 DivinasTV | 4 | Manuel Pérez, Natalia Olmo, Antonio Montero |
-| [FEATURE] Despliegue | 1 | Pablo Jesús Castellanos, Andrés Pizzano |
-| [DOC] Revisar Deliverable Failure Conditions | 2 | Pablo Jesús Castellanos, Francisco Avilés |
-| [DOC] Hacer release final PPL (docs) | 1 | María de la Salud Carrera |
-| [DOC] Hacer release final PPL | 0.5 | María de la Salud Carrera |
-| [DOC] Actualizar documento de costes final PPL | 2 | Pablo Jesús Castellanos, Francisco Avilés |
-| [DOC] Peformance Evaluation | 2 | Ignacio Blanquero |
-| [DOC] Time Effort Report | 2 | Ignacio Blanquero |
-| [DOC] Changelog | 1 | Lorenzo Torralba |
-| [DOC] Retrospectiva PPL | 1.5 | Sergio Pons |
-| [DOC] Actualizar requisitos | 2 | Francisco Avilés |
-| [FEATURE] Revisar Despliegue completo | 4 | Pablo Jesús Castellanos, Adrián Cabello |
-| [MRKTN] Grabar vídeo demo | 1 | David Godoy |
-| [MRKTN] Editar vídeo demo | 3 | David Godoy, Gonzalo Navas |
-| [FEATURE] Despliegue exclusivo PPL| 1 | Pablo Jesús Castellanos, Andrés Pizzano |
-| [DOC] Problemas Semana 2 | 1.5 | Héctor Noguera |
-| [DOC] Casos de Uso | 1 | Francisco Avilés |
-| [MRKTN] Grabar capítulo 3 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
-| [MRKTN] Grabar capítulo 4 DivinasTV | 15 | David Godoy, Daniel Benito, Héctor Noguera, Natalia Olmo, Fernando José de Celis |
-| [DOC] Plan de Pruebas | 1 | Ignacio Blanquero |
-| [MRKTN] Grabar video tutorial cliente | Sin estimar | Adrián Cabello |
-| [MRKTN] Reel mostrando cómo crear un evento | 1.5 | Adrián Cabello |
-| [MRKTN] Guión anuncio inversores | 2 | Adrián Cabello, Daniel Benito |
-| [MRKTN] Pensar killer opener | 1 | Daniel Benito, Natalia Olmo |
-| [MRKTN] Guión vídeo demo | 1 | Pablo Jesús Castellanos, Gonzalo Navas |
-| [MRKTN] Grabar anuncio inversores | 3 | Daniel Benito, Héctor Noguera, Fernando José de Celis |
-| [MRKTN] Contactar con los usuarios piloto para entrevistas formato tik tok | 2 | Daniel Benito, Héctor Noguera |
-| [MRKTN] Editar anuncio inversores | 3 | Gonzalo Navas |
-| [MRKTN] Editar tutorial 1 cliente | 1 | Fernando José de Celis |
+A día de 15/05/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
 
 <div id='concl'></div>
 
 ## Conclusiones
 
-El desarrollo del entregable PPL ha puesto de manifiesto una evolución positiva y consolidada del equipo Eventbride. El cumplimiento generalizado de las métricas cuantitativas y cualitativas refleja un alto grado de implicación, coordinación y responsabilidad por parte de los integrantes. La planificación ha sido eficaz y la reestimación realizada a mitad del entregable ha permitido adaptarse a nuevas necesidades sin comprometer los objetivos iniciales. La asignación de roles ha funcionado correctamente, con una ejecución efectiva de las funciones de liderazgo, aseguramiento de la calidad, coordinación de tiempos y diseño. Aunque algunos aspectos, como el número de tests o el registro de horas en ciertos casos, son mejorables, el equipo ha respondido con proactividad y compromiso. Esto sitúa al grupo en una posición muy favorable de cara a la última fase del proyecto, con una base sólida para culminarlo con éxito y una dinámica de trabajo madura que ha sabido afrontar los retos surgidos durante el proceso.
+El desarrollo del entregable WPL ha puesto de manifiesto una evolución positiva y consolidada del equipo Eventbride. El cumplimiento generalizado de las métricas cuantitativas y cualitativas refleja un alto grado de implicación, coordinación y responsabilidad por parte de los integrantes. La planificación ha sido eficaz y la reestimación realizada a mitad del entregable ha permitido adaptarse a nuevas necesidades sin comprometer los objetivos iniciales. La asignación de roles ha funcionado correctamente, con una ejecución efectiva de las funciones de liderazgo, aseguramiento de la calidad, coordinación de tiempos y diseño. Aunque algunos aspectos, como el número de tests o el registro de horas en ciertos casos, son mejorables, el equipo ha respondido con proactividad y compromiso. Esto sitúa al grupo en una posición muy favorable de cara a la última fase del proyecto, con una base sólida para culminarlo con éxito y una dinámica de trabajo madura que ha sabido afrontar los retos surgidos durante el proceso.
 
 <div id='bib'></div>
 
@@ -310,8 +257,8 @@ El desarrollo del entregable PPL ha puesto de manifiesto una evolución positiva
 
 No procede.
 
-[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.0.0` del 29 de abril de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
+[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.1.1` del 1 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
-[^2]: Se ha realizado por la mañana del día de la entrega del PPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
+[^2]: Se ha realizado el día anterior a la finalización de la primera semana del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
 [^3]: Manuel Pérez Vélez está contribuyendo al proyecto de GitHub de Eventbride con dos cuentas de GitHub diferentes. Sus métricas de LdC, commits, issues, PRs y tests se calcularán sumando las contribuciones hechas desde ambas cuentas.
