@@ -69,14 +69,14 @@ Comentario:
 ${formData.comentario}`;
         
         // Mailto correo empresa
-        const mailtoLink = `mailto:soporte@eventbride.fun?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+        const mailtoLink = `mailto:eventbride6@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
         
         // Abrir correo electrónico del cliente
         window.location.href = mailtoLink;
         
         // Mensaje confirmación
         console.log('Formulario enviado:', formData);
-        alert('Preparando email para enviar a soporte@eventbride.fun. Se abrirá tu cliente de correo electrónico.');
+        alert('Preparando email para enviar a eventbride6@gmail.com. Se abrirá tu cliente de correo electrónico.');
     };
 
     // Validación del formulario cuando el usuario es una empresa

@@ -50,7 +50,7 @@ function ImportantDoc() {
     },
     {
       name: "Implicaciones legales",
-      url: "docs/S3/legalImplications",
+      url: "docs/WPL/legalImplications",
     },
   ];
   return (
