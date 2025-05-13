@@ -1,6 +1,6 @@
 # Análisis Cuantitativo y Cualitativo del Equipo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Event Image"></img></center>
+<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -71,6 +71,7 @@
 | 01/05/2025 | v8.4    | Análisis cuantitativo                                                         | PPL      | María de la Salud Carrera Talaverón |
 | 01/05/2025 | v8.5    | Conclusiones                                                                  | PPL      | María de la Salud Carrera Talaverón |
 | 11/05/2025 | v9.0    | Actualización del documento para el WPL                                       | WPL      | María de la Salud Carrera Talaverón |
+| 13/05/2025 | v9.1    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -103,23 +104,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 142:03:37 |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | 148:32:22 |
+| Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | 144:12:02 |
+| María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | ✅       |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 120:24:38 |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 145:13:58 |
-| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | 139:36:29 |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 140:04:20 |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 137:50:19 |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | |
+| Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | 145:39:21 |
+| Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 118:55:15 |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
