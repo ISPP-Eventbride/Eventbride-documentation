@@ -51,6 +51,4 @@ Estos son todos los participantes de este proyecto. Gracias a ellos ha sido posi
 
 - Correo de información: info@eventbride.fun
 
-- Correo de soporte: soporte@eventbride.fun
-
 - [Instagram](https://www.instagram.com/eventbride_svq/)
