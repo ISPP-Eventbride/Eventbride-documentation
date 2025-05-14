@@ -81,7 +81,7 @@ La **calidad de las respuestas (Q)** de tipo **comentarios/justificaciones** se 
 
 La fórmula que se usará para calcular la calificación individual de cada usuario será la siguiente: 
 
-***Max(0,(R – 0.3*DR) * Q)***
+***Max(0,(R – 0.3 * DR) * Q)***
 
 Al firmar este documento, confirmo mi compromiso de participar en el Programa de Usuarios Piloto y de cumplir con las responsabilidades aquí descritas, entendiendo que mi colaboración es esencial para la mejora continua de Eventbride.
 
