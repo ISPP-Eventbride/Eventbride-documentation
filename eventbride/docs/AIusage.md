@@ -35,7 +35,7 @@ sidebar_position: 2
 
 ### Historial de versiones
 
-| ****Fecha  |**Versión** |**Descripción**                                     |**Entrega** | **Contribuyente(s)**                |
+| **Fecha**  |**Versión** |**Descripción**                                     |**Entrega** | **Contribuyente(s)**                |
 | - | - | - | - | - |
 | 05/02/2025 | v1.0       | Creación del documento                             | DP         | - |
 | 20/02/2025 | v1.1       | Actualización del documento                        | DP         | - |
