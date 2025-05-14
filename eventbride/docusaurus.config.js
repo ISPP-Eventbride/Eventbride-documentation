@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Eventbride - Documentación',
   tagline: 'Eventos que brillan y recuerdos que perduran',
-  favicon: 'img/Eventbride.png',
+  favicon: 'img/Eventbride2.png',
 
   url: 'https://ispp-2425-g3.ew.r.appspot.com/',
   // Set the /<baseUrl>/ pathname under which your site is served
@@ -77,7 +77,7 @@ const config = {
         title: 'Eventbride',
         logo: {
           alt: 'Eventbride Logo',
-          src: 'img/Eventbride.png',
+          src: 'img/Eventbride2.png',
         },
         items: [
           {

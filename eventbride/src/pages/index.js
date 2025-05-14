@@ -14,7 +14,7 @@ function HomepageHeader() {
       <div className="container">
         <div className={clsx("container-image", styles.containerImage)}>
           <img
-            src="img/Eventbride.png"
+            src="img/Eventbride2.png"
             alt="Eventbride's logo"
             className={clsx("hero-image", styles.heroImage)}
           />
