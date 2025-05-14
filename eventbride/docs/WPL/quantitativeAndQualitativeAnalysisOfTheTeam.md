@@ -143,7 +143,7 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del wpl, por tanto, se esperan alrededor de 5 documentos y 3 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del WPL, por tanto, se esperan alrededor de 5 documentos y 3 PRs por persona.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
@@ -156,7 +156,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del wpl, por tanto, se esperan alrededor de 651 LdC, 9 commits y 5 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del WPL, por tanto, se esperan alrededor de 651 LdC, 9 commits y 5 tests por persona.
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
@@ -173,7 +173,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 ### Grupo de Revisión
 
-Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del wpl, por tanto, se esperan alrededor de 19 PRs revisadas por persona.
+Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del WPL, por tanto, se esperan alrededor de 19 PRs revisadas por persona.
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
