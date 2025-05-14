@@ -1,6 +1,6 @@
 # Análisis Cuantitativo y Cualitativo del Equipo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -74,6 +74,7 @@
 | 13/05/2025 | v9.1    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.2    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.3    | Análisis cualitativo y replanificación del entregable                         | WPL      | María de la Salud Carrera Talaverón |
+| 14/05/2025 | v9.4    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)

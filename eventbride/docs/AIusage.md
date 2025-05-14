@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # AI Usage
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -27,9 +27,9 @@ sidebar_position: 2
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 10/04/2025
+### Fecha: 14/05/2025
 
-### Entregable: Sprint 3
+### Entregable: WPL
 
 ---
 
@@ -46,6 +46,7 @@ sidebar_position: 2
 |25/03/2025 |v1.6 |Actualizar uso de IA del Sprint 2 |Sprint 2 | Daniel Benito Hidalgo |
 |07/04/2025 |v1.7 |Actualizar uso de IA del Sprint 3 |Sprint 3 | Manuel Pérez Vélez |
 |30/04/2025 |v1.8 |Actualizar uso de IA del PPL | PPL | Ignacio Blanquero Blanco |
+| 14/05/2025 | v2.0    | Actualizar logo de Eventbride              | WPL      | María de la Salud Carrera Talaverón |
 ---
 
 ## Contenido
