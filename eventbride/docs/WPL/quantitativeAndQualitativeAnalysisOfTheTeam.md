@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 15/05/2025
+### Fecha: 14/05/2025
 
 ### Entregable: WPL
 
@@ -72,6 +72,7 @@
 | 01/05/2025 | v8.5    | Conclusiones                                                                  | PPL      | María de la Salud Carrera Talaverón |
 | 11/05/2025 | v9.0    | Actualización del documento para el WPL                                       | WPL      | María de la Salud Carrera Talaverón |
 | 13/05/2025 | v9.1    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
+| 14/05/2025 | v9.2    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -104,23 +105,23 @@ Primero, se analizarán los objetivos a alcanzar por todos los integrantes del e
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 148:03:37 |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | ✅       |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 132:28:39 |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 145:38:58 |
 | Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 147:22:49 |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 143:18:19 |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 126:35:11 |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
