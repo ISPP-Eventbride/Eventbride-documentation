@@ -1,6 +1,6 @@
 # Acuerdo de Participación en el Programa de Usuarios Piloto de Eventbride - Hugo Borrego Angulo
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 [Conversación de chatgpt usada en el desarrollo de este documento](https://chatgpt.com/g/g-p-6768021d7dcc8191b0d9ff3e7d086595-daniel/c/67c5b514-0e60-8008-8764-70efc40ab355 )
 
@@ -81,7 +81,7 @@ La **calidad de las respuestas (Q)** de tipo **comentarios/justificaciones** se 
 
 La fórmula que se usará para calcular la calificación individual de cada usuario será la siguiente: 
 
-***Max(0,(R – 0.3*DR) * Q)***
+***Max(0,(R – 0.3 * DR) * Q)***
 
 Al firmar este documento, confirmo mi compromiso de participar en el Programa de Usuarios Piloto y de cumplir con las responsabilidades aquí descritas, entendiendo que mi colaboración es esencial para la mejora continua de Eventbride.
 

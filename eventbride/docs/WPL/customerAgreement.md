@@ -1,6 +1,6 @@
 # Acuerdo de Cliente
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 03/04/2025
+### Fecha: 14/05/2025
 
-### Entregable: Sprint 3
+### Entregable: WPL
 
 ---
 
@@ -41,7 +41,8 @@
 | 02/04/2025 | v3.2    | Política de cancelación y reembolso                                           | Sprint 3 | María de la Salud Carrera Talaverón |
 | 03/04/2025 | v3.3    | Política de cancelación y enlaces arreglados                                  | Sprint 3 | María de la Salud Carrera Talaverón |
 | 03/04/2025 | v3.4    | Actualización plan de precios                                                 | Sprint 3 | Daniel Benito Hidalgo               |
-| 13/05/2025 | v3.5    | Correo de soporte eliminado                | WPL      | María de la Salud Carrera Talaverón |
+| 13/05/2025 | v3.5    | Correo de soporte eliminado                                                   | WPL      | María de la Salud Carrera Talaverón |
+| 14/05/2025 | v3.6    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
 
 ---
 

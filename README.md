@@ -5,7 +5,7 @@
 
 </div>
 <p align="center">
-    <img src="eventbride/docs/img/Eventbride.png" width="225" height="225">
+    <img src="eventbride/static/img/Eventbride2.png" width="225" height="225">
 </p>
 
 ## Introducción

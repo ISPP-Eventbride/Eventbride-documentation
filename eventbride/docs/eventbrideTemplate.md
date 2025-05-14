@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Plantilla de Documentación de Eventbride
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -38,6 +38,7 @@ sidebar_position: 3
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 10/03/2025 | v1.0    | Creación del documento y estructura básica | Sprint 1 | María de la Salud Carrera Talaverón |
+| 14/05/2025 | v1.1    | Actualizar logo de Eventbride              | WPL      | María de la Salud Carrera Talaverón |
 
 ---
 
