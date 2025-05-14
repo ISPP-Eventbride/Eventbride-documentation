@@ -73,6 +73,7 @@
 | 11/05/2025 | v9.0    | Actualización del documento para el WPL                                       | WPL      | María de la Salud Carrera Talaverón |
 | 13/05/2025 | v9.1    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.2    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
+| 14/05/2025 | v9.3    | Análisis cualitativo y replanificación del entregable                         | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -245,7 +246,7 @@ Por último, Sergio Pons López y Lorenzo Torralba Lanzas son los encargados de 
 
 ##  Reestimación del Sprint
 
-A día de 15/05/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
+A día de 14/05/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
 
 <div id='concl'></div>
 
