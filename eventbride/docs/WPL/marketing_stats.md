@@ -203,7 +203,7 @@ Agrupando por videos:
 
 <div id='id212'></div>
 
-#### Video procional plaza de España
+#### Video promocional plaza de España
 
 | Métrica                         | Valor         |
 |---------------------------------|---------------|
@@ -217,7 +217,7 @@ Cabe destacar que este fué el video más exitoso, en el que tuvimos más visual
 
 <div id='id213'></div>
 
-#### Video soliciando feedback
+#### Video solicitando feedback
 
 | Métrica                         | Valor         |
 |---------------------------------|---------------|
