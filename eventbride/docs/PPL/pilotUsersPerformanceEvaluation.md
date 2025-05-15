@@ -122,7 +122,7 @@ Una vez explicados los diferentes criterios y prácticas que rigen el proceso de
 |---|---|---|---|
 |Alba Ramos Vargas |PPL| 9 |Ha aportado algunas propuestas de mejora relacioandas al aspecto visual de la plataforma y respondido todas las preguntas argumentandolas en comentarios.|
 |Felipe Solís Agudo |PPL| 10 | Se ha comunicado con el equipo encargado de gestionar el feedback mediate los medios de comunicación habilitados y a aportado comentarios muy completos en las encuestas |
-|Hugo Borrero Ángulo |PPL| 9 |El feddback aportado ha sido completo y ofrece formas de resolver las cuestiones planteadas|
+|Hugo Borrero Ángulo |PPL| 9 |El feedback aportado ha sido completo y ofrece formas de resolver las cuestiones planteadas|
 |Jorge Muñoz Rodríguez |PPL| 10 | Se ha comunicado con el equipo encargado de gestionar el feedback por correo para aportar comentarios y ha dado respuestas completas y argumentadas en las encuestas |
 |Luis Mellado Díaz |PPL| 9 |Ha realizado la encuesta dando respuestas claras a todos los apartados que lo requerian, aportando comentarios extra en todas las ocasiones |
 |Ramón Vergara Garrido |PPL| 2 | Ha realizado la encuesta aportando respuestas validas, pero ha entregado varios dias tarde |
