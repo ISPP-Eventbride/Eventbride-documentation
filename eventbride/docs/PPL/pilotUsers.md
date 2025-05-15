@@ -672,7 +672,7 @@ Todos estos valores se alinean con lo que se ha buscado representar en la plataf
 - **Comentarios generales sobre el anuncio para usuarios**: La idea y planteamiento del anuncio ha gustado a los usuarios sin embargo, se deja ver que es posible mejorar el planteamiento a nivel técnico y de actuación.
 
 #### Propuestas de mejora
-   - La actuación en el anuncio podría mejorarse un poco, haciendo un poco mas de enfasis enla ilusió de celebrar el evento, para que se pueda diferenciar el objetivo del problema. Debido a que los actores conforman el equipo de EventBride y no se ha recibido formación en este ambito, no se dispone de mucho margen de mejora.
+   - La actuación en el anuncio podría mejorarse un poco, haciendo un poco más de énfasis en la ilusión de celebrar el evento, para que se pueda diferenciar el objetivo del problema. Debido a que los actores conforman el equipo de EventBride y no se ha recibido formación en este ámbito, no se dispone de mucho margen de mejora.
    - Revisar los niveles de audio y la claridad de estos en cada clip.
    - Replantear algunas tomas para darle un acabado más profesional.
 
