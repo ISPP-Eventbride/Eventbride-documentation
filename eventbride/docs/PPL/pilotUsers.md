@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 01/05/2025
+### Fecha: 13/05/2025
 
 ### Entregable: PPL
 
@@ -43,7 +43,7 @@
 |27/03/2025 |v5.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
 |10/04/2025 |v6.0|Resultados de la encuesta de feedback del S3| Sprint 3 | David Godoy Fernández|
 |01/05/2025 |v6.1|Actualización PPL| PPL | María de la Salud Carrera Talaverón|
-
+|13/05/2025 |v7.0|Introducción de resultados de la encuesta de feedback de publicidad (PPL)| WPL | Daniel Benito Hidalgo|
 
 ## Contenido
 1. [Introducción](#intro)
@@ -649,7 +649,45 @@ El equipo aprecia el cuidado en el feedback y valora la transparencia en el proc
 
 ## Resultados encuesta feedback PPL
 
-La encuesta referente a los productos elaborados durante el PPL se ha fijado para una fecha posterior a la finalización de éste para que los usuarios puedan valorar productos completos; es por ello que no hay feedback referente a esta etapa ahora mismo.
+#### calificación general del aspecto visual de la plataforma
+
+- **valoración del aspecto visual e idoneidad de este respecto al sevicio ofrecido**:La nota media obtenida como valoración de los usuarios pilotos ha sido de 4.3 de 5 puntos posibles y mas del 90% de los usuarios considera que el aspecto visual de la plataforma es adecuado para el tipo de servicio ofrecido. Estas valoraciones implican que las bases del aspecto grafico y estilo de diseño de la UI han sido los correctos.
+
+- **Valores de marca identificados en base al aspecto de la plataforma**: Principalmente los usuarios han identificado como valores de marca "profesionalidad", "formalidad", "sencillez" y "transparencia". Como otro valores notables que han sido marcados encontramos "confianza", "calidad" y "accesibilidad" 
+Todos estos valores se alinean con lo que se ha buscado representar en la plataforma con la experiencia de usuario y la interfaz, por lo que este apartado se consideraría validado y aprobado por los usuarios piloto de la plataforma.
+
+- **Comentarios generales sobre el aspecto de la plataforma**: Se menciona la mejora del aspecto visual e interfaz de usuario respecto a sprints anteriores, remarcando la sencillez y limpieza de esta, algunos usuarios han dejado propuestas de mejora para perfeccionar aun más algunas pantallas
+
+#### Propuestas de mejora
+   - Revisar y centrar imágenes, el usuario indica que el banner de la pantalla "Mis Eventos" no lo esta.
+   - Proporcionar enlaces o justificación a los datos mencionados en las pantallas de inicio de usuarios y proveedores.
+   - Revisar e introducir imágenes más variadas y de mayor calidad, un usuario menciona como hay veces que una misma imagen no se ve igual de bien en diferentes pantallas de la plataforma.
+
+#### Publicidad generada - anuncio de usuarios
+
+- **Valoración e ideoneidad del anuncio de usuarios para el publico objetivo**: El anuncio de usuarios ha recibido 3.8 de 5 puntos y todos los encuestados consideran que el anuncio es correcto para el público objetivo, es decir, la idea base del anuncio ha sido correcta.
+
+- **Valores de marca reflejados en el anuncio**: El 87.5% de los encuestados considera que el spot publicitario para usuarios se alinea con los valores que han identificado anteriormente, sin embargo, dicho porcentaje deja a la vista la posibilidad de mejora.
+
+- **Comentarios generales sobre el anuncio para usuarios**: La idea y planteamiento del anuncio ha gustado a los usuarios sin embargo, se deja ver que es posible mejorar el planteamiento a nivel técnico y de actuación.
+
+#### Propuestas de mejora
+   - La actuación en el anuncio podría mejorarse un poco, haciendo un poco más de énfasis en la ilusión de celebrar el evento, para que se pueda diferenciar el objetivo del problema. Debido a que los actores conforman el equipo de EventBride y no se ha recibido formación en este ámbito, no se dispone de mucho margen de mejora.
+   - Revisar los niveles de audio y la claridad de estos en cada clip.
+   - Replantear algunas tomas para darle un acabado más profesional.
+
+#### Publicidad generada - anuncio de inversores
+
+- **Valoración e ideoneidad del anuncio de inversores para el publico objetivo**: El anuncio de inversores ha recibido 3.9 puntos de 5 posibles, mientras que el 93% de los encuestados considera que la información y el tono del video es el correcto.
+
+- **Comentarios generales sobre el anuncio para usuarios**: El anuncio e sconsiderado correcto por los usuarios, debido a que en nuestras encuestas no se considera un perfil inversor las propuestas de mejoras dadas son referentes a aspectos técnicos del video, y aquellas orientadas al contenido e información más específica han ido dirigidas a detalles generales
+
+#### Propuestas de mejora:
+   - Editar los niveles de audio para que no haya cambios en el volumen, detectado por varios usuarios.
+   - Revisar fuentes escogidas para el video, se considera que puede no representar los valores de la marca
+   - Homogeneizar el clip de presentación de la marca (La presentación del logotipo de EventBride)
+   - Introducir de forma más clara cual es el retorno de inversión, dando datos numericos, para esto se puede usar uno de los escenarios definidos en el video
+   - Introducir efectos o elementos visuales más vibrantes, que le aporten "chispa" al anuncio.
 
 
 <div id='concl'></div>

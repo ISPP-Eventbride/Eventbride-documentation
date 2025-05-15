@@ -23,9 +23,9 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 10/04/2025
+### Fecha: 15/05/2025
 
-### Entregable: Sprint 3
+### Entregable: WPL
 
 ---
 
@@ -40,6 +40,8 @@
 |25/03/2025 |v2.1|Estudiantes calificados| Sprint 2 | David Godoy Fernández y Daniel Benito Hidalgo|
 |27/03/2025 |v2.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
 |10/04/2025 |v3.0|Estudiantes calificados| Sprint 3 | David Godoy Fernández|
+|13/05/2025 |v3.1|Primeros estudiantes calificados del PPL| WPL | Daniel Benito Hidalgo|
+|15/05/2025 |v3.2|Calificación completa de los usuarios piloto en el PPL| WPL | Daniel Benito Hidalgo|
 
 ## Contenido
 1. [Introducción](#intro)
@@ -112,9 +114,18 @@ Una vez explicados los diferentes criterios y prácticas que rigen el proceso de
 |Felipe Solís Agudo |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
 |Hugo Borrero Ángulo |Sprint 3| 7 | No se ha comunicado con nosotros, no obstante, ha realizado un buen feedback en las encuestas |
 |Jorge Muñoz Rodríguez |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
-|Luis Mellado Díaz |Sprint 3| 8 | Se ha comunicado mediante el correo corporativo y a aportado buenas respuestas en las encuestas  |
+|Luis Mellado Díaz |Sprint 3| 8 | Se ha comunicado mediante el correo corporativo y ha aportado buenas respuestas en las encuestas  |
 |Ramón Vergara Garrido |Sprint 3| 5 | Ha aportado el feedback mínimo y necesario segun el criterio y no se ha comunicado con nosotros |
 
+
+|Alumno|Sprint|Nota asignada|Justificación|
+|---|---|---|---|
+|Alba Ramos Vargas |PPL| 9 |Ha aportado algunas propuestas de mejora relacioandas al aspecto visual de la plataforma y respondido todas las preguntas argumentandolas en comentarios.|
+|Felipe Solís Agudo |PPL| 10 | Se ha comunicado con el equipo encargado de gestionar el feedback mediate los medios de comunicación habilitados y a aportado comentarios muy completos en las encuestas |
+|Hugo Borrero Ángulo |PPL| 9 |El feedback aportado ha sido completo y ofrece formas de resolver las cuestiones planteadas|
+|Jorge Muñoz Rodríguez |PPL| 10 | Se ha comunicado con el equipo encargado de gestionar el feedback por correo para aportar comentarios y ha dado respuestas completas y argumentadas en las encuestas |
+|Luis Mellado Díaz |PPL| 9 |Ha realizado la encuesta dando respuestas claras a todos los apartados que lo requerian, aportando comentarios extra en todas las ocasiones |
+|Ramón Vergara Garrido |PPL| 2 | Ha realizado la encuesta aportando respuestas validas, pero ha entregado varios dias tarde |
 
 <div id='bib'></div>
 
