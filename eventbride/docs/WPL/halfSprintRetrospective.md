@@ -39,25 +39,33 @@
 
 ## Contenido
 
-1. [Introducción](#intro)
-2. [Evaluación del rendimiento del equipo y productividad individual](#id2)
-   1. [Tiempo estimado vs. tiempo real](#id3)
-   2. [Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo](#id4)
-      1. [Evaluación del rendimiento individual](#id5)
-      2. [Fórmula para el cálculo del porcentaje de completitud](#id6)
-   3. [Ajuste basado en las horas trabajadas](#id7)
-   4. [Horas trabajadas y porcentaje de tareas completadas](#id8)
-3. [Tareas entregadas aplicando las métricas establecidas y con calidad](#id9)
-4. [Utilización de las horas](#id10)
-5. [Feedback de los miembros del equipo](#id11)
-   1. [¿Qué cosas buenas han pasado?](#id12)
-   2. [¿Qué cosas se pueden empezar a hacer?](#id13)
-   3. [¿Qué cosas se pueden mejorar?](#id20)
-   4. [¿Qué cosas malas han pasado?](#id21)
-   5. [¿Qué problemas han surgido?](#id14)
-   6. [Lecciones aprendidas](#id15)
-6. [Conclusiones](#conclusiones)
-7. [Bibliografía](#bibliografía)
+- [Retrospectiva Mitad WPL](#retrospectiva-mitad-wpl)
+  - [Ingeniería del Software y Práctica Profesional (ISPP)](#ingeniería-del-software-y-práctica-profesional-ispp)
+    - [Grupo 3: Eventbride](#grupo-3-eventbride)
+    - [Miembros:](#miembros)
+    - [Fecha: 15/05/2025](#fecha-15052025)
+    - [Entregable: WPL](#entregable-wpl)
+    - [Historial de versiones](#historial-de-versiones)
+  - [Contenido](#contenido)
+  - [Introducción](#introducción)
+  - [Evaluación del rendimiento del equipo y productividad individual](#evaluación-del-rendimiento-del-equipo-y-productividad-individual)
+    - [Tiempo estimado vs. tiempo real](#tiempo-estimado-vs-tiempo-real)
+    - [Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo](#porcentaje-de-tareas-completadas-a-tiempo-y-análisis-de-la-carga-de-trabajo)
+      - [Evaluación del rendimiento individual](#evaluación-del-rendimiento-individual)
+      - [Fórmula para el cálculo del porcentaje de completitud](#fórmula-para-el-cálculo-del-porcentaje-de-completitud)
+    - [Ajuste basado en las horas trabajadas](#ajuste-basado-en-las-horas-trabajadas)
+    - [Horas trabajadas y porcentaje de tareas completadas](#horas-trabajadas-y-porcentaje-de-tareas-completadas)
+  - [Tareas entregadas aplicando las métricas establecidas y con calidad](#tareas-entregadas-aplicando-las-métricas-establecidas-y-con-calidad)
+  - [Utilización de las horas](#utilización-de-las-horas)
+  - [Feedback de los miembros del equipo](#feedback-de-los-miembros-del-equipo)
+    - [¿Qué cosas buenas han pasado?](#qué-cosas-buenas-han-pasado)
+    - [¿Qué cosas se pueden empezar a hacer?](#qué-cosas-se-pueden-empezar-a-hacer)
+    - [¿Qué cosas se pueden mejorar?](#qué-cosas-se-pueden-mejorar)
+    - [¿Qué cosas malas han pasado?](#qué-cosas-malas-han-pasado)
+    - [¿Qué problemas han surgido?](#qué-problemas-han-surgido)
+    - [Lecciones aprendidas](#lecciones-aprendidas)
+  - [Conclusiones](#conclusiones)
+  - [Bibliografía](#bibliografía)
 
 <div id='intro'></div>
 
@@ -138,7 +146,7 @@ La siguiente tabla representa las horas trabajadas por cada uno de los miembros 
 | Francisco Avilés Carrera       | 148h 03min | 6h       | 4h 25min  | 100% |
 | Gonzalo Navas Remmers          | 143h 32min | 4h       | 3h 50min  | 100% |
 | Héctor Noguera González        | 139h 28min | 5h 30min | 6h        | 100% |
-| Ignacio Blanquero Blanco       | 155h 08min | 2h 30min | XXh XXmin | 100% |
+| Ignacio Blanquero Blanco       | 155h 08min | 2h 30min | 2h 11min | 100% |
 | Lorenzo Torralba Lanzas        | 121h 13min | 7h       | 6h 23min  | 100% |
 | Manuel Pérez Vélez             | 148h 01min | 10h 45min| 7h 15min  | 100% |
 | María de la Salud Carrera Talaverón| 147h 25min | 7h       | 9h 44min  | 100% |
