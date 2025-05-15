@@ -47,7 +47,7 @@ sidebar_position: 3
     1. [Resumen](#id11)
         1. [Video de presentación](#id111)
         2. [Video promocional plaza de España](#id112)
-        3. [Video soliciando feedback](#id113)
+        3. [Video solicitando feedback](#id113)
         4. [Video de Semana Santa](#id114)
         5. [Video divinas tv](#id115)
         6. [Publicación meses de esfuerzo](#id116)
@@ -56,7 +56,7 @@ sidebar_position: 3
     1. [Resumen](#id21)
         1. [Video de presentación](#id211)
         2. [Video promocional plaza de España](#id212)
-        3. [Video soliciando feedback](#id213)
+        3. [Video solicitando feedback](#id213)
         4. [Video de Semana Santa](#id214)
         5. [Video promocional cambio de ruedas](#id215)
         6. [Video divinas tv](#id216)
@@ -96,7 +96,7 @@ Agrupando por videos:
 | Me gusta                        | 19            |
 | Comentarios                     | 0             |
 | Nuevos seguidores               | 1             |
-| Veces  guardado                 | 0             |
+| Veces guardado                  | 0             |
 
 <div id='id112'></div>
 
@@ -109,7 +109,7 @@ Agrupando por videos:
 | Me gusta                        | 92            |
 | Comentarios                     | 14            |
 | Nuevos seguidores               | 27            |
-| Veces  guardado                 | 4             |
+| Veces guardado                  | 4             |
 
 <div id='id113'></div>
 
@@ -122,7 +122,7 @@ Agrupando por videos:
 | Me gusta                        | 20            |
 | Comentarios                     | 0             |
 | Nuevos seguidores               | 0             |
-| Veces  guardado                 | 0             |
+| Veces guardado                  | 0             |
 
 <div id='id114'></div>
 
@@ -135,7 +135,7 @@ Agrupando por videos:
 | Me gusta                        | 18            |
 | Comentarios                     | 1             |
 | Nuevos seguidores               | 0             |
-| Veces  guardado                 | 1             |
+| Veces guardado                  | 1             |
 
 <div id='id115'></div>
 
@@ -213,7 +213,7 @@ Agrupando por videos:
 | Vieron el vídeo completo        | 3%          |
 | Nuevos seguidores               | 51             |
 
-Cabe destacar que este fué el video más exitoso, en el que tuvimos más visualizaciones y más comentarios, incluso profesionales ofertando sus servicios de fotografía.
+Cabe destacar que este fue el video más exitoso, en el que tuvimos más visualizaciones y más comentarios, incluso profesionales ofertando sus servicios de fotografía.
 
 <div id='id213'></div>
 
