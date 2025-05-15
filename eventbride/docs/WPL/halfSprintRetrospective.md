@@ -63,7 +63,7 @@
 
 ## Introducción
 
-
+Este documento tiene como finalidad analizar el rendimiento del equipo y la productividad individual alcanzados hasta la mitad del WPL. Para ello, se han establecido indicadores cuantitativos como el tiempo estimado frente al tiempo real trabajado, el porcentaje de tareas completadas y la calidad de las entregas tanto a nivel de código como de documentación. También se ha incluido feedback cualitativo del equipo, destacando logros, áreas de mejora y lecciones aprendidas que servirán para guiar la segunda mitad WPL con mayor eficacia.
 
 <div id='id2'></div>
 
@@ -230,6 +230,11 @@ Para más detalles sobre estos problemas, consultar el documento `problems.md`.
 
 ## Conclusiones
 
+La evaluación intermedia del WPL muestra un equipo comprometido pero con ciertos aspectos mejorables. Aunque el número de tareas completadas está por debajo de lo esperado, la calidad del trabajo entregado y el esfuerzo individual son destacables, con muchos miembros cumpliendo sus objetivos y participando activamente en tareas clave.
+
+La edición de vídeos, la finalización del código y la buena comunicación entre subgrupos han sido puntos fuertes. Sin embargo, la falta de coordinación en la planificación de grabaciones y los retrasos provocados por dependencias entre tareas han afectado al ritmo general del sprint. Además, se han tenido que ajustar decisiones logísticas como la cancelación de un dominio por motivos económicos. 
+
+Las lecciones aprendidas invitan a seguir reforzando la organización interna y a anticiparse en la ejecución de tareas para evitar cuellos de botella en la fase final del proyecto.
 
 <div id='bib'></div>
 
