@@ -279,7 +279,7 @@ Finalmente el 79% de los visionados son desde españa, que es el país que nos i
 
 ## Conclusiones
 
-A través del análisis de los datos que hemos llevado a cabo en este documento hemos podido observar varias datos a tener en cuenta. La plataforma Tik Tok tiene un mayor alcance y nos da una mejor visibilidad de cara al público. Aunque hay que tener en cuenta también la visibilidad de instagram, deberíamos centrarnos más en Tik Tok, ya que por su algoritmo es más fácil llegar a la gente. El claro ejemplo de esto es los comentarios obtenidos en los videos exitosos, donde hay gente dispuesta ya a colaborar antes de que salga la aplicación al mercado.
+A través del análisis de los datos que hemos llevado a cabo en este documento hemos podido observar varios datos a tener en cuenta. La plataforma Tik Tok tiene un mayor alcance y nos da una mejor visibilidad de cara al público. Aunque hay que tener en cuenta también la visibilidad de instagram, deberíamos centrarnos más en Tik Tok, ya que por su algoritmo es más fácil llegar a la gente. El claro ejemplo de esto es los comentarios obtenidos en los videos exitosos, donde hay gente dispuesta ya a colaborar antes de que salga la aplicación al mercado.
 
 <div id='bib'></div>
 
