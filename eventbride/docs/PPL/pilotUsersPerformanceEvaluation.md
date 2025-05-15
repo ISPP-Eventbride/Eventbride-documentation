@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 13/05/2025
+### Fecha: 15/05/2025
 
 ### Entregable: WPL
 
@@ -41,6 +41,7 @@
 |27/03/2025 |v2.2|Inserción del doc en la carpeta correcta| Sprint 2 | Daniel Benito Hidalgo|
 |10/04/2025 |v3.0|Estudiantes calificados| Sprint 3 | David Godoy Fernández|
 |13/05/2025 |v3.1|Primeros estudiantes calificados del PPL| WPL | Daniel Benito Hidalgo|
+|15/05/2025 |v3.2|Calificación completa de los usuarios piloto en el PPL| WPL | Daniel Benito Hidalgo|
 
 ## Contenido
 1. [Introducción](#intro)
