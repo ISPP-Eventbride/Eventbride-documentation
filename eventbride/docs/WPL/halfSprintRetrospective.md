@@ -33,7 +33,8 @@
 
 |Fecha|Versión|Descripción|Entrega|Contribuyentes|
 |---|---|---|---|---|
-|15/05/2025|v1.1| Creación y relleno del documento | WPL | Sergio Pons López |
+|15/05/2025|v1.0| Creación y relleno del documento | WPL | Sergio Pons López |
+|19/05/2025|v1.1| Corrección del índice y actualización en estadísticas | WPL | Sergio Pons López |
 
 
 
