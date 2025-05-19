@@ -39,33 +39,25 @@
 
 ## Contenido
 
-- [Retrospectiva Mitad WPL](#retrospectiva-mitad-wpl)
-  - [Ingeniería del Software y Práctica Profesional (ISPP)](#ingeniería-del-software-y-práctica-profesional-ispp)
-    - [Grupo 3: Eventbride](#grupo-3-eventbride)
-    - [Miembros:](#miembros)
-    - [Fecha: 15/05/2025](#fecha-15052025)
-    - [Entregable: WPL](#entregable-wpl)
-    - [Historial de versiones](#historial-de-versiones)
-  - [Contenido](#contenido)
-  - [Introducción](#introducción)
-  - [Evaluación del rendimiento del equipo y productividad individual](#evaluación-del-rendimiento-del-equipo-y-productividad-individual)
-    - [Tiempo estimado vs. tiempo real](#tiempo-estimado-vs-tiempo-real)
-    - [Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo](#porcentaje-de-tareas-completadas-a-tiempo-y-análisis-de-la-carga-de-trabajo)
-      - [Evaluación del rendimiento individual](#evaluación-del-rendimiento-individual)
-      - [Fórmula para el cálculo del porcentaje de completitud](#fórmula-para-el-cálculo-del-porcentaje-de-completitud)
-    - [Ajuste basado en las horas trabajadas](#ajuste-basado-en-las-horas-trabajadas)
-    - [Horas trabajadas y porcentaje de tareas completadas](#horas-trabajadas-y-porcentaje-de-tareas-completadas)
-  - [Tareas entregadas aplicando las métricas establecidas y con calidad](#tareas-entregadas-aplicando-las-métricas-establecidas-y-con-calidad)
-  - [Utilización de las horas](#utilización-de-las-horas)
-  - [Feedback de los miembros del equipo](#feedback-de-los-miembros-del-equipo)
-    - [¿Qué cosas buenas han pasado?](#qué-cosas-buenas-han-pasado)
-    - [¿Qué cosas se pueden empezar a hacer?](#qué-cosas-se-pueden-empezar-a-hacer)
-    - [¿Qué cosas se pueden mejorar?](#qué-cosas-se-pueden-mejorar)
-    - [¿Qué cosas malas han pasado?](#qué-cosas-malas-han-pasado)
-    - [¿Qué problemas han surgido?](#qué-problemas-han-surgido)
-    - [Lecciones aprendidas](#lecciones-aprendidas)
-  - [Conclusiones](#conclusiones)
-  - [Bibliografía](#bibliografía)
+1. [Introducción](#intro)
+2. [Evaluación del rendimiento del equipo y productividad individual](#id2)
+   1. [Tiempo estimado vs. tiempo real](#id3)
+   2. [Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo](#id4)
+      1. [Evaluación del rendimiento individual](#id5)
+      2. [Fórmula para el cálculo del porcentaje de completitud](#id6)
+   3. [Ajuste basado en las horas trabajadas](#id7)
+   4. [Horas trabajadas y porcentaje de tareas completadas](#id8)
+3. [Tareas entregadas aplicando las métricas establecidas y con calidad](#id9)
+4. [Utilización de las horas](#id10)
+5. [Feedback de los miembros del equipo](#id11)
+   1. [¿Qué cosas buenas han pasado?](#id12)
+   2. [¿Qué cosas se pueden empezar a hacer?](#id13)
+   3. [¿Qué cosas se pueden mejorar?](#id20)
+   4. [¿Qué cosas malas han pasado?](#id21)
+   5. [¿Qué problemas han surgido?](#id14)
+   6. [Lecciones aprendidas](#id15)
+6. [Conclusiones](#conclusiones)
+7. [Bibliografía](#bibliografía)
 
 <div id='intro'></div>
 
@@ -82,15 +74,15 @@ Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicado
 <div id='id3'></div>
 
 ### Tiempo estimado vs. tiempo real
-En esta ocasión, el tiempo estimado de trabajo han sido **177 horas** para la mitad del WPL, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **102 horas**, lo que puede indicar una desviación de las horas de trabajo. 
+En esta ocasión, el tiempo estimado de trabajo han sido **177 horas** para la mitad del WPL, sin tener en cuenta las horas de clase ni las horas de reunión y se han registrado **106 horas**, lo que puede indicar una desviación de las horas de trabajo. 
 
-Contando con las horas de reunión y las horas de clase, el tiempo estimado sería **92 horas** y el trabajo realizado hasta ahora sería **55 horas**.
+Contando con las horas de reunión y las horas de clase, el tiempo estimado sería **92 horas** y el trabajo realizado hasta ahora sería **59 horas**.
 
 <div id='id4'></div>
 
 ### Porcentaje de tareas completadas a tiempo y análisis de la carga de trabajo
 
-Se han completado un total de **14 tareas sobre 32**, lo que supone un **43%** del total de tareas a realizar. 
+Se han completado un total de **23 tareas sobre 32**, lo que supone un **71%** del total de tareas a realizar. 
 
 <div id='id5'></div>
 
@@ -138,7 +130,7 @@ La siguiente tabla representa las horas trabajadas por cada uno de los miembros 
 | Nombre | Horas trabajadas antes del WPL | Horas estimadas hasta la mitad del WPL | Horas trabajadas hasta la mitad del WPL (02/05 - 15/05) | Porcentaje de completitud tareas de mitad del WPL |
 |--|-----|-----|----|------|
 | Adrián Cabello Martín          | 153h 43min | 2h       | 6h 50min  | 100% |
-| Andrés Pizzano Cerrillos       | 153h 23min | 8h       | XXh XXmin | 100% |
+| Andrés Pizzano Cerrillos       | 153h 23min | 8h       | 2h 01min  | 100% |
 | Antonio Montero López          | 151h 02min | 3h 30min | 17h 07min | 83%  |
 | Daniel Benito Hidalgo          | 177h 52min | 8h       | 5h 52min  | 100% |
 | David Godoy Fernández          | 126h 16min | 11h 30min| 9h 35min  | 100% |
