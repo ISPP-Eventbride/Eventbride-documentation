@@ -126,7 +126,7 @@ Se establecerá esta nota en caso de superarse el cálculo obtenido.
 
 ### Horas trabajadas y porcentaje de tareas completadas  
 
-La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del WPL (hecho a las 13:10 del día 15/05/202):  
+La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del WPL (hecho a las 13:10 del día 15/05/2025):  
 
 | Nombre | Horas trabajadas antes del WPL | Horas estimadas hasta la mitad del WPL | Horas trabajadas hasta la mitad del WPL (02/05 - 15/05) | Porcentaje de completitud tareas de mitad del WPL |
 |--|-----|-----|----|------|
