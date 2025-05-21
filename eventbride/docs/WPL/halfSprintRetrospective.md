@@ -1,6 +1,6 @@
 # Retrospectiva Mitad WPL
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 15/05/2025
+### Fecha: 21/05/2025
 
 ### Entregable: WPL
 
@@ -35,6 +35,7 @@
 |---|---|---|---|---|
 |15/05/2025|v1.0| Creación y relleno del documento | WPL | Sergio Pons López |
 |19/05/2025|v1.1| Corrección del índice y actualización en estadísticas | WPL | Sergio Pons López |
+|21/05/2025|v1.2| Cambio del logo de Eventbride | WPL | Sergio Pons López |
 
 
 
