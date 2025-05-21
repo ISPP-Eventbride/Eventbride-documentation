@@ -60,7 +60,7 @@ En este documento se introducirá la **información** referente al **proceso** d
 
 ## Procesos y métricas aplicadas en la evaluación
 
-El proceso de evaluación de los usuarios piloto será **realizado** tras el **recepción y análisis** del feedback aportado por todos y cada uno de los usuarios. Las notas establecidas para cada usuario estaran delimitadas en el **rango 0 a 10**, siendo **0** la nota **mínima** y **10** la **máxima**, el proceso de evaluación **consistirá** en el **análisis** de varias **métricas** que se aplicarán al **feedback** y **actuación** general del usuario a lo largo del sprint.
+El proceso de evaluación de los usuarios piloto será **realizado** tras el **recepción y análisis** del feedback aportado por todos y cada uno de los usuarios. Las notas establecidas para cada usuario estarán delimitadas en el **rango 0 a 10**, siendo **0** la nota **mínima** y **10** la **máxima**, el proceso de evaluación **consistirá** en el **análisis** de varias **métricas** que se aplicarán al **feedback** y **actuación** general del usuario a lo largo del sprint.
 
 Para la **evaluación** de la labor del usuario piloto en relación a las encuestas asignadas se usarán 2 métricas principales:
 
