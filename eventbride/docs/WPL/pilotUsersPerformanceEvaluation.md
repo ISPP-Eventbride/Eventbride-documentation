@@ -115,7 +115,7 @@ Una vez explicados los diferentes criterios y prácticas que rigen el proceso de
 |Alba Ramos Vargas |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
 |Felipe Solís Agudo |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
 |Hugo Borrero Ángulo |Sprint 3| 7 | No se ha comunicado con nosotros, no obstante, ha realizado un buen feedback en las encuestas |
-|Jorge Muñoz Rodríguez |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y a aportado buenas respuestas en las encuestas |
+|Jorge Muñoz Rodríguez |Sprint 3| 9 | Se ha comunicado con el equipo encargado de gestionar el feedback y ha aportado buenas respuestas en las encuestas |
 |Luis Mellado Díaz |Sprint 3| 8 | Se ha comunicado mediante el correo corporativo y ha aportado buenas respuestas en las encuestas  |
 |Ramón Vergara Garrido |Sprint 3| 5 | Ha aportado el feedback mínimo y necesario segun el criterio y no se ha comunicado con nosotros |
 
