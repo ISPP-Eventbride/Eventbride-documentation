@@ -70,7 +70,7 @@ Este documento tiene como finalidad analizar el rendimiento del equipo y la prod
 
 ## Evaluación del rendimiento del equipo y productividad individual
 
-Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicadores:
+Se va a evaluar el rendimiento del equipo en base a los siguientes indicadores:
 
 <div id='id3'></div>
 
