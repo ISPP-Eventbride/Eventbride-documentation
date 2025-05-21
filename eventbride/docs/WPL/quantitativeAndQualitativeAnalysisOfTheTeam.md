@@ -76,6 +76,7 @@
 | 14/05/2025 | v9.3    | Análisis cualitativo y replanificación del entregable                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.4    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.5    | Introducción                                                                  | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.6    | Análisis cuantitativo                                                         | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -102,29 +103,29 @@ El presente documento tiene como objetivo realizar un análisis tanto cuantitati
 
 El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Las métricas definidas en el documento `metrics.md` están divididas en específicas a cada subgrupo de trabajo o generales para todos los integrantes de Eventbride. Se analizarán en cada apartado correspondiente. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`.
 
-La primera semana del WPL supone aproximadamente el 93% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en la última semana del proyecto. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
+La segunda semana del WPL supone la finalización del proyecto. Para esta semana, se deben haber cumplido, si no todas, al menos la mayoría de métricas establecidas. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
 
-Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la primera semana del WPL, por tanto, se esperan alrededor de 465 LdC, 7 commits, 14 issues, 5 PRs y 139.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 14 de mayo de 2025 [^2]:
+Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 21 de mayo de 2025 por la noche [^2]:
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 148:03:37 |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | ✅       |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 132:28:39 |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 145:38:58 |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 147:22:49 |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 143:18:19 |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 126:35:11 |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       4       | ✅       |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -132,7 +133,7 @@ No se va a reflejar en este documento el análisis de los costes del proyecto ha
 
 ### Grupo de Marketing
 
-Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la primera semana del WPL, por tanto, se esperan alrededor de 3 reuniones de marketing y 5 publicaciones por persona.
+Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase.
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
@@ -145,7 +146,7 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del WPL, por tanto, se esperan alrededor de 5 documentos y 3 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
@@ -158,7 +159,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del WPL, por tanto, se esperan alrededor de 651 LdC, 9 commits y 5 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados.
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
@@ -175,7 +176,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 ### Grupo de Revisión
 
-Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del WPL, por tanto, se esperan alrededor de 19 PRs revisadas por persona.
+Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios.
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
@@ -264,6 +265,6 @@ No procede.
 
 [^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.1.1` del 1 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
-[^2]: Se ha realizado el día anterior a la finalización de la primera semana del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
+[^2]: Se ha realizado el día anterior a la finalización del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
 [^3]: Manuel Pérez Vélez está contribuyendo al proyecto de GitHub de Eventbride con dos cuentas de GitHub diferentes. Sus métricas de LdC, commits, issues, PRs y tests se calcularán sumando las contribuciones hechas desde ambas cuentas.
