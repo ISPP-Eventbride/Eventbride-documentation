@@ -70,7 +70,7 @@ Ante **posibles cambios** en las fechas para la entrega se **actualizará** el *
 
 Con estas **2 métricas** expresadas, pasamos a explicar como medimos la **calidad del feedback** proporcionado:
 
-Para evaluar la calidad del feedback recibido hemos establecido 2 tipos de feedback principales que podemos recibir. Esta división ha sido realizada teniendo en cuenta la forma en la que se aporta dicha infromación y el volumen de esta que nos aporta cada respuesta concreta. 
+Para evaluar la calidad del feedback recibido hemos establecido 2 tipos de feedback principales que podemos recibir. Esta división ha sido realizada teniendo en cuenta la forma en la que se aporta dicha información y el volumen de esta que nos aporta cada respuesta concreta. 
 - **Respuestas rapidas**: En esta categoría podemos valorar las **respuestas** de tipo **selección** , todas aquellas que no requieren que el usuario justifique o argumente la selección realizada.
 
 - **Comentarios y justificaciones**: Esta categoria contiene las respuestas de texto largo de las encuestas y posibles comentarios recibidos por otros medios externos a la encuesta ( Reuniones, correos, comunicación informal...). Debido a que este tipo de respuestas puede ser analizada más en profundidad, se **valorará** la **justificación** de los comentarios enviados, así como la introducción de posibles **alternativas** o formas de resolver/mejorar el objeto de comentario. 
