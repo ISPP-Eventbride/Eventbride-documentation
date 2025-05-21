@@ -183,7 +183,7 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 - **El código está finalizado:** Se han implementado todos los casos de uso core.
 
-- **Revisión de las pull request por parte de las IAs:** El uso de herramientas automáticas como Copilot ha sido clave para detectar errores importantes y mantener la calidad del código.
+- **Revisión de las pull requests por parte de las IAs:** El uso de herramientas automáticas como Copilot ha sido clave para detectar errores importantes y mantener la calidad del código.
 
 - **Buen reparto de tareas:** La distribución de las tareas ha sido equilibrada entre los miembros, teniendo en cuenta tanto la horas de trabajo durante todo el proyecto como las habilidades individuales. 
 
