@@ -77,6 +77,7 @@
 | 14/05/2025 | v9.4    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.5    | Introducción                                                                  | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.6    | Análisis cuantitativo                                                         | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.7    | Análisis cualitativo                                                          | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -187,7 +188,7 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 ## Análisis cualitativo
 
-Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v8, que han firmado todos los desarrolladores durante el WPL, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
+Para el análisis cualitativo, se utilizará como base el Commitment Agreement v8, que han firmado todos los desarrolladores durante el WPL, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
 
 La labor de los desarrolladores y testers incluye:
 
@@ -206,11 +207,11 @@ La labor de los desarrolladores y testers incluye:
 | Adrián Cabello Martín               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | María de la Salud Carrera Talaverón | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Fernando José de Celis Hurtado      | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
-| David Godoy Fernández               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Fernando José de Celis Hurtado      | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| David Godoy Fernández               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Antonio Montero López               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
-| Gonzalo Navas Remmers               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Antonio Montero López               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Gonzalo Navas Remmers               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Natalia Olmo Villegas               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 | Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
@@ -218,7 +219,7 @@ La labor de los desarrolladores y testers incluye:
 | Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 
-En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del Sprint y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
+En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del entregable y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
 
 | Jefe                                                   | Gestión del proyecto | Mantiene y facilita la comunicación con el equipo | Coordina al grupo | Supervisa el cumplimiento de plazos |
 |--------------------------------------------------------|----------------------|---------------------------------------------------|-------------------|-------------------------------------|
