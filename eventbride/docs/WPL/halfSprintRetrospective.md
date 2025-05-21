@@ -71,7 +71,7 @@ Este documento tiene como finalidad analizar el rendimiento del equipo y la prod
 
 ## Evaluación del rendimiento del equipo y productividad individual
 
-Se va a evaluar el rendimiento del rendimiento en base a los siguientes indicadores:
+Se va a evaluar el rendimiento del equipo en base a los siguientes indicadores:
 
 <div id='id3'></div>
 
@@ -127,7 +127,7 @@ Se establecerá esta nota en caso de superarse el cálculo obtenido.
 
 ### Horas trabajadas y porcentaje de tareas completadas  
 
-La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del WPL (hecho a las 13:10 del día 15/05/202):  
+La siguiente tabla representa las horas trabajadas por cada uno de los miembros del grupo, así como el porcentaje de tareas completas en la mitad del WPL (hecho a las 13:10 del día 15/05/2025):  
 
 | Nombre | Horas trabajadas antes del WPL | Horas estimadas hasta la mitad del WPL | Horas trabajadas hasta la mitad del WPL (02/05 - 15/05) | Porcentaje de completitud tareas de mitad del WPL |
 |--|-----|-----|----|------|
@@ -184,7 +184,7 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 - **El código está finalizado:** Se han implementado todos los casos de uso core.
 
-- **Revisión de las pull request por parte de las IAs:** El uso de herramientas automáticas como Copilot ha sido clave para detectar errores importantes y mantener la calidad del código.
+- **Revisión de las pull requests por parte de las IAs:** El uso de herramientas automáticas como Copilot ha sido clave para detectar errores importantes y mantener la calidad del código.
 
 - **Buen reparto de tareas:** La distribución de las tareas ha sido equilibrada entre los miembros, teniendo en cuenta tanto la horas de trabajo durante todo el proyecto como las habilidades individuales. 
 
@@ -204,7 +204,7 @@ No procede.
 
 ### ¿Qué cosas se pueden mejorar?
 
-- **Mejorar la organizacion de quedadas para grabar** Se ha detectado cierta falta de coordinación a la hora de planificar las sesiones de grabación, lo que ha generado retrasos y tiempos muertos.
+- **Mejorar la organización de quedadas para grabar** Se ha detectado cierta falta de coordinación a la hora de planificar las sesiones de grabación, lo que ha generado retrasos y tiempos muertos.
 
 - **Empezar a hacer las tareas antes:** Se han producido bloqueos en el avance de ciertas tareas debido a que dependen de entregas previas que no se han completado a tiempo por otros compañeros. 
 
