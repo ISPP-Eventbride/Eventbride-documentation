@@ -75,6 +75,7 @@
 | 14/05/2025 | v9.2    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.3    | Análisis cualitativo y replanificación del entregable                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.4    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.5    | Introducción                                                                  | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -93,7 +94,7 @@
 
 ## Introducción
 
-El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable WPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del Sprint. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en futuros sprints.
+El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable WPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del entregable. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en hipotéticas futuras iteraciones (si se decide continuar con el proyecto Eventbride fuera del contexto de la asignatura ISPP).
 
 <div id='id1'></div>
 
