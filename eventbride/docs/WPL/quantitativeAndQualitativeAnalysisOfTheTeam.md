@@ -78,6 +78,7 @@
 | 21/05/2025 | v9.5    | Introducción                                                                  | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.6    | Análisis cuantitativo                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.7    | Análisis cualitativo                                                          | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.8    | Reestimación del entregable                                                   | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -87,7 +88,7 @@
     3. [Grupo de Código](#id13)
     4. [Grupo de Revisión](#id14)
 3. [Análisis cualitativo](#id2)
-1. [Reestimación del Sprint](#id3)
+1. [Reestimación del Entregable](#id3)
 4. [Conclusiones](#concl)
 5. [Bibliografía](#bib)
 
@@ -248,9 +249,11 @@ Por último, Sergio Pons López y Lorenzo Torralba Lanzas son los encargados de 
 
 <div id='id3'></div>
 
-##  Reestimación del Sprint
+##  Reestimación del Entregable
 
-A día de 14/05/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
+Durante esta segunda semana, no se ha realizado una reestimación formal de las tareas del entregable. La mayoría han sufrido pocos cambios; se han añadido algunas tareas conforme se iban detectando errores o cosas nuevas por hacer/modificar y también se han eliminado algunas otras tareas ya definidas, que se han considerado innecesarias para el proyecto.
+
+Por una falta de coordinación en la ejecución de las tareas correspondientes, el documento de `sprintPlanning.md` no se redactó durante la primera semana del WPL, como estaba planificado. Ha sido redactado durante esta segunda semana, por lo que ya están reflejados en su contenido los cambios añadidos a la planificación del entregable. Es por esto que volver a indicar en este documento las tareas definidas nos parece redundante. Por tanto, se va a omitir este contenido en esta ocasión. Todas las tareas definidas para este entregable se pueden consultar en el documento `sprintPlanning.md`.
 
 <div id='concl'></div>
 
