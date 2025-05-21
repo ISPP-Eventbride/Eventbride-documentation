@@ -1,6 +1,6 @@
 # Análisis de viabilidad y gestión de usuarios pilotos
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -45,6 +45,7 @@
 |01/05/2025 |v6.1|Actualización PPL| PPL | María de la Salud Carrera Talaverón|
 |13/05/2025 |v7.0|Introducción de resultados de la encuesta de feedback de publicidad (PPL)| WPL | Daniel Benito Hidalgo|
 |21/05/2025 |v7.1|Mover documento a carpeta WPL| WPL | María de la Salud Carrera Talaverón|
+|21/05/2025 |v7.2|Actualizar logo de Eventbride| WPL | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
