@@ -203,7 +203,7 @@ No procede.
 
 ### ¿Qué cosas se pueden mejorar?
 
-- **Mejorar la organizacion de quedadas para grabar** Se ha detectado cierta falta de coordinación a la hora de planificar las sesiones de grabación, lo que ha generado retrasos y tiempos muertos.
+- **Mejorar la organización de quedadas para grabar** Se ha detectado cierta falta de coordinación a la hora de planificar las sesiones de grabación, lo que ha generado retrasos y tiempos muertos.
 
 - **Empezar a hacer las tareas antes:** Se han producido bloqueos en el avance de ciertas tareas debido a que dependen de entregas previas que no se han completado a tiempo por otros compañeros. 
 
