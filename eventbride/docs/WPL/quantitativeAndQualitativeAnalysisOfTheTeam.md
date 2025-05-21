@@ -79,6 +79,7 @@
 | 21/05/2025 | v9.6    | Análisis cuantitativo                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.7    | Análisis cualitativo                                                          | WPL      | María de la Salud Carrera Talaverón |
 | 21/05/2025 | v9.8    | Reestimación del entregable                                                   | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.9    | Conclusiones y referencias al pie                                             | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -259,7 +260,15 @@ Por una falta de coordinación en la ejecución de las tareas correspondientes, 
 
 ## Conclusiones
 
-El desarrollo del entregable WPL ha puesto de manifiesto una evolución positiva y consolidada del equipo Eventbride. El cumplimiento generalizado de las métricas cuantitativas y cualitativas refleja un alto grado de implicación, coordinación y responsabilidad por parte de los integrantes. La planificación ha sido eficaz y la reestimación realizada a mitad del entregable ha permitido adaptarse a nuevas necesidades sin comprometer los objetivos iniciales. La asignación de roles ha funcionado correctamente, con una ejecución efectiva de las funciones de liderazgo, aseguramiento de la calidad, coordinación de tiempos y diseño. Aunque algunos aspectos, como el número de tests o el registro de horas en ciertos casos, son mejorables, el equipo ha respondido con proactividad y compromiso. Esto sitúa al grupo en una posición muy favorable de cara a la última fase del proyecto, con una base sólida para culminarlo con éxito y una dinámica de trabajo madura que ha sabido afrontar los retos surgidos durante el proceso.
+Tras el análisis detallado de las métricas cuantitativas y cualitativas recogidas durante la segunda semana del WPL, se puede afirmar que el equipo Eventbride ha demostrado un alto nivel de compromiso, organización y madurez en el desarrollo del proyecto.
+
+Desde el punto de vista **cuantitativo**, todos los miembros han alcanzado o superado los mínimos establecidos para las métricas generales, lo cual refleja una distribución equitativa del esfuerzo y una implicación constante a lo largo del desarrollo. Del mismo modo, los subgrupos de Marketing, Documentación, Código y Revisión han cumplido satisfactoriamente con los objetivos específicos asignados, consolidando el trabajo colaborativo y el reparto efectivo de tareas.
+
+En cuanto al **análisis cualitativo**, se evidencia que el equipo ha respetado los acuerdos establecidos en el *Commitment Agreement*, cumpliendo con los valores de responsabilidad, comunicación, registro del trabajo, calidad y resolución de conflictos. Todos los roles de responsabilidad han sido desempeñados con diligencia, contribuyendo al éxito del entregable desde diferentes ámbitos organizativos y técnicos.
+
+A pesar de pequeños desajustes puntuales, como la redacción tardía del `sprintPlanning.md`, el equipo ha sabido adaptarse y corregir desviaciones sin comprometer la calidad ni los plazos de entrega. Esta capacidad de reacción ante imprevistos refleja una adecuada madurez profesional, así como una gestión del tiempo realista y eficiente.
+
+En definitiva, el equipo Eventbride ha logrado consolidar un entorno de trabajo colaborativo, cumpliendo con los estándares exigidos en la asignatura y asegurando la calidad del producto final. El desempeño observado durante este WPL pone de manifiesto no sólo la competencia técnica del grupo, sino también su capacidad para coordinar esfuerzos, resolver problemas de forma autónoma y avanzar con una visión común, cualidades esenciales en cualquier entorno profesional real.
 
 <div id='bib'></div>
 
@@ -267,7 +276,7 @@ El desarrollo del entregable WPL ha puesto de manifiesto una evolución positiva
 
 No procede.
 
-[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.1.1` del 1 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
+[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v5.0.0` del 17 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
 [^2]: Se ha realizado el día anterior a la finalización del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
