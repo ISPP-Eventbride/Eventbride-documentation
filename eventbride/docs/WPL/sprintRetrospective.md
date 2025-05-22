@@ -1,6 +1,6 @@
 # Retrospectiva del WPL
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
@@ -180,7 +180,7 @@ El feedback sobre cómo perciben el trabajo asignado permitirá medir la product
 
 Durante el WPL, se lograron diversas acciones positivas que contribuyeron al avance y éxito del trabajo en equipo:
 
-- **La redistrubución constante de los equipos ayudó a un mejor clima de trabajo y a la mejor distribución y ejecución del mismo.**
+- **La redistribución constante de los equipos ayudó a un mejor clima de trabajo y a la mejor distribución y ejecución del mismo.**
 
 - **Llevar un guion de los vídeos hecho desde antes de grabar:** Se prepararon guiones previos para las grabaciones, mejorando la eficiencia y calidad del contenido.(este fue un punto a empezar a hacer en la retrospectiva de mitad de sprint)
 
