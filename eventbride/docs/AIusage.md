@@ -27,7 +27,7 @@ sidebar_position: 2
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 14/05/2025
+### Fecha: 22/05/2025
 
 ### Entregable: WPL
 
@@ -47,6 +47,8 @@ sidebar_position: 2
 | 07/04/2025 | v1.7       | Actualizar uso de IA del Sprint 3                  | Sprint 3   | Manuel Pérez Vélez                  |
 | 30/04/2025 | v1.8       | Actualizar uso de IA del PPL                       | PPL        | Ignacio Blanquero Blanco            |
 | 14/05/2025 | v2.0       | Actualizar logo de Eventbride                      | WPL        | María de la Salud Carrera Talaverón |
+| 22/05/2025 | v2.1       | Actualizar alucinaciones de IA del WPL             | WPL        | María de la Salud Carrera Talaverón |
+
 ---
 
 ## Contenido
@@ -229,11 +231,13 @@ Aunque algunas respuestas requirieron múltiples intentos, no las consideramos a
 
 Cabe destacar que en la respuesta correspondiente al ID 25, aunque parcialmente cumple con lo esperado, la falta de concisión en la respuesta puede interpretarse como una falta de coherencia, y por tanto, como una posible alucinación por parte de la IA.
 
-En el caso del PPL, únicamente se ha registrado una conversación, la cual carece de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, al no haberse identificado ninguna alucinación en dicha conversación, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%.
+En el caso del PPL, se han registrado tres conversaciones, de las cuales dos carecen de enlace, por lo que no ha sido posible realizar una evaluación completa. No obstante, se ha indicado que los tres usos han dado el resultado esperado. Por tanto, puede afirmarse que el porcentaje de alucinaciones en este entregable ha sido del 0%.
 
 Adicionalmente, se observa una reducción significativa en el uso de la Inteligencia Artificial en este entregable, lo cual se debe principalmente a que gran parte de las tareas desarrolladas estuvieron enfocadas en el ámbito del marketing.
 
-En resumen, de un total de seis respuestas analizadas, una podría considerarse una alucinación, lo que representa un 1/6 del total.
+Por último, en el WPL únicamente se ha registrado un uso de IA. Esta conversación cumplió con lo que se esperaba, por lo que nuevamente el porcentaje de alucinaciones de la IA en este entregable es del 0%. Se ha continuado con un uso reducido de Inteligencias Artificiales por el mismo motivo que en el PPL: dado que la inmensa mayoría de tareas eran de marketing, se ha necesitado menos ayuda de herramientas como ChatGPT, Copilot, etc.
+
+En resumen, de un total de dieciséis respuestas analizadas, una podría considerarse una alucinación, lo que representa un 6.25% del total de usos analizados.
 
 <div id='concl'></div>
 
@@ -249,7 +253,7 @@ Sin embargo, es importante destacar que prácticamente en todos los casos ha sid
 
 En definitiva, la integración de herramientas de Inteligencia Artificial en el desarrollo del proyecto ha resultado altamente beneficiosa para el equipo. Su uso ha permitido optimizar tiempos, facilitar la generación de contenidos técnicos y apoyar la toma de decisiones en diversas fases del proyecto. A lo largo de los distintos sprints, y especialmente en el Sprint 3, se ha evidenciado una mejora notable en eficiencia, siempre bajo la premisa de que las salidas generadas por la IA fueran revisadas y ajustadas por los miembros del equipo.
 
-Si bien se identificó una posible alucinación a lo largo del proceso, el bajo porcentaje de incidencias demuestra que, con un uso responsable y crítico, la IA puede integrarse de forma segura y eficaz en entornos colaborativos de desarrollo. La reducción del uso en el PPL, motivada por la naturaleza más creativa y estratégica de las tareas, también pone de relieve que la IA no es un sustituto universal, sino una herramienta complementaria cuyo valor depende del contexto en que se aplique.
+Si bien se identificó una posible alucinación a lo largo del proceso, el bajo porcentaje de incidencias demuestra que, con un uso responsable y crítico, la IA puede integrarse de forma segura y eficaz en entornos colaborativos de desarrollo. La reducción del uso en el PPL y el WPL, motivada por la naturaleza más creativa y estratégica de las tareas, también pone de relieve que la IA no es un sustituto universal, sino una herramienta complementaria cuyo valor depende del contexto en que se aplique.
 
 Por tanto, se concluye que el empleo de Inteligencia Artificial en este proyecto ha sido una decisión acertada, que ha contribuido a mejorar el rendimiento del equipo sin comprometer la calidad del producto final. Su utilización, regulada por las políticas aquí establecidas, ha marcado un precedente positivo para futuros desarrollos en los que se contemple la colaboración entre humanos y sistemas inteligentes.
 
