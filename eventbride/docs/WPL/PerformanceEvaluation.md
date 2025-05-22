@@ -43,6 +43,7 @@
 | 10/04/2025 | v3.0    | Actualización de apartados para el Sprint 3 | Sprint 3 | Antonio Montero López |
 | 01/05/2025 | v4.0    | Actualización de apartados para el PPL | PPL | Ignacio Blanquero Blanco |
 | 22/05/2025 | v5.0    | Actualización de apartados para el WPL | WPL | Ignacio Blanquero Blanco |
+| 22/05/2025 | v5.1    | Notas totales y pesos | WPL | María de la Salud Carrera Talaverón |
 
 
 ---
@@ -66,24 +67,24 @@
 
 | Alumno                                | #DP1 | #S1 | #S2 | #S3 | #PPL | #WPL | Total | Peso |
 |---------------------------------------|------|-----|-----|-----|------|------|-------|------|
-| Avilés Carrera, Francisco             | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Benito Hidalgo, Daniel                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Blanquero Blanco, Ignacio             | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Cabello Martín, Adrián                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Carrera Talaverón, María de la Salud  | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Castellanos Campaña, Pablo Jesús      | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| De Celis Hurtado, Fernando José       | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Godoy Fernández, David                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Hernández Sánchez, Miguel             | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Montero López, Antonio                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Navas Remmers, Gonzalo                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Noguera González, Héctor              | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Olmo Villegas, Natalia                | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Pérez Vélez, Manuel                   | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Pizzano Cerrillos, Andrés             | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Pons López, Sergio                    | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| Torralba Lanzas, Lorenzo              | 10   | 10  | 10  | 10  | 10   | 10   |       |      |
-| **TOTAL**                             | 170  | 170 | 170 | 170 | 170  | 170  |       |      |
+| Avilés Carrera, Francisco             | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Benito Hidalgo, Daniel                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Blanquero Blanco, Ignacio             | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Cabello Martín, Adrián                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Carrera Talaverón, María de la Salud  | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Castellanos Campaña, Pablo Jesús      | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| De Celis Hurtado, Fernando José       | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Godoy Fernández, David                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Hernández Sánchez, Miguel             | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Montero López, Antonio                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Navas Remmers, Gonzalo                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Noguera González, Héctor              | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Olmo Villegas, Natalia                | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Pérez Vélez, Manuel                   | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Pizzano Cerrillos, Andrés             | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Pons López, Sergio                    | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| Torralba Lanzas, Lorenzo              | 10   | 10  | 10  | 10  | 10   | 10   | 60    | 100% |
+| **TOTAL**                             | 170  | 170 | 170 | 170 | 170  | 170  | 1020  | 100% |
 
 Como se mencionó previamente en el documento titulado *retrospectiva-mitad-sprint-S1*, "todos aquellos cuyo porcentaje de completitud sea **mayor al 80%** se considerará que han rendido bien y recibirán un **10** como nota en la retrospectiva."
 
