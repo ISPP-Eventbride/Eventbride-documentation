@@ -171,6 +171,7 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 | 29 | Creación índice de contenido | María de la Salud Carrera Talaverón | 21/04/2025 | Chat con GitHub Copilot --> No procede | PPL |
 | 30 | Conclusiones análisis equipo | María de la Salud Carrera Talaverón | 01/05/2025 | [Conclusiones](https://chatgpt.com/share/68134d48-b780-8008-b0a3-5a6076f8ba8d) | PPL |
 | 31 | SEO | María de la Salud Carrera Talaverón | 01/05/2025 | No se puede enlazar un chat con ChatGPT en el que se han compartido imágenes por parte del usuario | PPL |
+| 32 | Conclusiones análisis equipo | María de la Salud Carrera Talaverón | 21/05/2025 | [Conclusiones](https://chatgpt.com/share/682e1b8a-6c24-8008-8734-fbf07cb649df) | WPL |
 
 
 <div id='id8'></div>
@@ -210,6 +211,7 @@ Este análisis permitirá evaluar la eficacia del uso de la IA dentro del proyec
 |29 |2 |Sí |No | 10 minutos|
 |30 |1 |Sí |No | 10 minutos|
 |31 |1 |Sí |Sí | 40 minutos|
+|32 |1 |Sí |Sí | 10 minutos|
 
 <div id='alucinaciones'></div>
 

@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 15/05/2025
+### Fecha: 22/05/2025
 
 ### Entregable: WPL
 
@@ -34,6 +34,7 @@
 | Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
 |------------|---------|--------------------------------------------|----------|-------------------------------------|
 | 15/05/2025 | v1.0    | Creación del documento y estructura básica | WPL      | Lorenzo Torralba Lanzas             |
+| 22/05/2025 | v1.1    | Bibliografía                               | WPL      | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -282,4 +283,5 @@ A través del análisis de los datos que hemos llevado a cabo en este documento 
 ## Bibliografía
 
 [1] [Instagram.com](https://www.instagram.com/)
+
 [2] https://www.tiktok.com/es/

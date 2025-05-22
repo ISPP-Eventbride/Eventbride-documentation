@@ -23,7 +23,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 14/05/2025
+### Fecha: 21/05/2025
 
 ### Entregable: WPL
 
@@ -75,6 +75,11 @@
 | 14/05/2025 | v9.2    | Horas                                                                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.3    | Análisis cualitativo y replanificación del entregable                         | WPL      | María de la Salud Carrera Talaverón |
 | 14/05/2025 | v9.4    | Actualizar logo de Eventbride                                                 | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.5    | Introducción                                                                  | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.6    | Análisis cuantitativo                                                         | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.7    | Análisis cualitativo                                                          | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.8    | Reestimación del entregable                                                   | WPL      | María de la Salud Carrera Talaverón |
+| 21/05/2025 | v9.9    | Conclusiones y referencias al pie                                             | WPL      | María de la Salud Carrera Talaverón |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -84,7 +89,7 @@
     3. [Grupo de Código](#id13)
     4. [Grupo de Revisión](#id14)
 3. [Análisis cualitativo](#id2)
-1. [Reestimación del Sprint](#id3)
+1. [Reestimación del Entregable](#id3)
 4. [Conclusiones](#concl)
 5. [Bibliografía](#bib)
 
@@ -93,7 +98,7 @@
 
 ## Introducción
 
-El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable WPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del Sprint. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en futuros sprints.
+El presente documento tiene como objetivo realizar un análisis tanto cuantitativo como cualitativo del desempeño y progreso del equipo en el entregable WPL del proyecto "Eventbride". A través de este análisis, se evaluará el cumplimiento de las métricas establecidas, así como el esfuerzo individual y colectivo para alcanzar los objetivos del entregable. Además, se detallará el trabajo de cada miembro en función de sus roles y responsabilidades, asegurando que el proyecto avance conforme a lo planeado. Este análisis servirá como base para identificar áreas de mejora y ajustar la planificación en hipotéticas futuras iteraciones (si se decide continuar con el proyecto Eventbride fuera del contexto de la asignatura ISPP).
 
 <div id='id1'></div>
 
@@ -101,29 +106,29 @@ El presente documento tiene como objetivo realizar un análisis tanto cuantitati
 
 El análisis cuantitativo se va a realizar en base a las métricas establecidas en el documento de Especificaciones métricas de este proyecto. También se comparará el número de horas totales esperadas con las que se llevan actualmente. Las métricas definidas en el documento `metrics.md` están divididas en específicas a cada subgrupo de trabajo o generales para todos los integrantes de Eventbride. Se analizarán en cada apartado correspondiente. Para saber si estas métricas hacen referencia a sólo uno de los repositorios del proyecto o a ambos, consultar el documento `metrics.md`.
 
-La primera semana del WPL supone aproximadamente el 93% del tiempo del proyecto. Si alguna de las métricas analizadas aún no se ha cumplido, hay margen para compensarlas en la última semana del proyecto. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
+La segunda semana del WPL supone la finalización del proyecto. Para esta semana, se deben haber cumplido, si no todas, al menos la mayoría de métricas establecidas. Las métricas cuantitativas del proyecto son objetivos a alcanzar. Para aquellos integrantes que ya hayan alcanzado o superado el objetivo en alguna de ellas, no se indicará el recuento ni por cuánto han superado el valor objetivo, sino que simplemente se indicará con un tick verde (✅).
 
-Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. Para la primera semana del WPL, por tanto, se esperan alrededor de 465 LdC, 7 commits, 14 issues, 5 PRs y 139.5 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 14 de mayo de 2025 [^2]:
+Primero, se analizarán los objetivos a alcanzar por todos los integrantes del equipo de Eventbride. Por persona, se esperan mínimo 500 líneas de código modificadas (LdC), 7 commits, 15 issues completadas con éxito, 5 pull requests (PR) revisadas y 150 horas. En la siguiente tabla se ve el progreso de cada desarrollador[^1], a día de 21 de mayo de 2025 por la noche [^2]:
 
 | Desarrollador/a                     | LdC | Commits | Issues completadas | PR revisadas | Horas     |
 |-------------------------------------|-----|---------|--------------------|--------------|-----------|
-| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | 148:03:37 |
+| Francisco Avilés Carrera            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Daniel Benito Hidalgo               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Ignacio Blanquero Blanco            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Adrián Cabello Martín               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | María de la Salud Carrera Talaverón | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Pablo Jesús Castellanos Compaña     | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Fernando José de Celis Hurtado      | ✅ | ✅      | ✅                | ✅           | ✅       |
-| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | 132:28:39 |
-| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | 145:38:58 |
+| David Godoy Fernández               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Miguel Hernández Sánchez            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Antonio Montero López               | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | 147:22:49 |
-| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | 143:18:19 |
+| Gonzalo Navas Remmers               | ✅ | ✅      | ✅                | ✅           | ✅       |
+| Héctor Noguera González             | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Natalia Olmo Villegas               | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Manuel Pérez Vélez[^3]              | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Andrés Pizzano Cerrillos            | ✅ | ✅      | ✅                | ✅           | ✅       |
 | Sergio Pons López                   | ✅ | ✅      | ✅                | ✅           | ✅       |
-| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       3       | 126:35:11 |
+| Lorenzo Torralba Lanzas             | ✅ | ✅      | ✅                |       4       | ✅       |
 
 No se va a reflejar en este documento el análisis de los costes del proyecto hasta la fecha frente a los planificados para todo el proyecto, debido a que estos están reflejados en el documento correspondiente: `costsAnalysis.md`.
 
@@ -131,7 +136,7 @@ No se va a reflejar en este documento el análisis de los costes del proyecto ha
 
 ### Grupo de Marketing
 
-Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase. Para la primera semana del WPL, por tanto, se esperan alrededor de 3 reuniones de marketing y 5 publicaciones por persona.
+Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones de mínimo 30 minutos de duración en las que se discutan estrategias de marketing y contenido para redes sociales, además de participar en el proceso creativo de al menos 5 publicaciones para redes sociales o para utilizar en las presentaciones de clase.
 
 | Miembro del Subgrupo           | Reuniones | Publicaciones |
 |--------------------------------|-----------|---------------|
@@ -144,7 +149,7 @@ Para este subgrupo, se espera que cada miembro participe en al menos 3 reuniones
 
 ### Grupo de Documentación
 
-Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación. Para la primera semana del WPL, por tanto, se esperan alrededor de 5 documentos y 3 PRs por persona.
+Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 documentos, además de haber revisado 3 PRs, ambas métricas en el repositorio de documentación.
 
 | Desarrollador/a                     | Documentos | PR revisadas |
 |-------------------------------------|------------|--------------|
@@ -157,7 +162,7 @@ Para este subgrupo, se espera que cada miembro cree o modifique al menos 5 docum
 
 ### Grupo de Código
 
-Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados. Para la mitad del WPL, por tanto, se esperan alrededor de 651 LdC, 9 commits y 5 tests por persona.
+Para este subgrupo, se espera que cada persona contribuya con mínimo 700 líneas de código modificadas (LdC), 10 commits y 5 tests implementados.
 
 | Desarrollador/a                     | LdC             | Commits | Tests |
 |-------------------------------------|-----------------|---------|-------|
@@ -174,7 +179,7 @@ Para este subgrupo, se espera que cada persona contribuya con mínimo 700 línea
 
 ### Grupo de Revisión
 
-Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios. Para la primera semana del WPL, por tanto, se esperan alrededor de 19 PRs revisadas por persona.
+Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambos repositorios.
 
 | Desarrollador/a                     | PR revisadas |
 |-------------------------------------|--------------|
@@ -185,7 +190,7 @@ Para este subgrupo, se espera que cada miembro revise al menos 20 PRs entre ambo
 
 ## Análisis cualitativo
 
-Para el análisis cuantitativo, se utilizará como base el Commitment Agreement v8, que han firmado todos los desarrolladores durante el WPL, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
+Para el análisis cualitativo, se utilizará como base el Commitment Agreement v8, que han firmado todos los desarrolladores durante el WPL, y que detalla lo que se espera de cada miembro del grupo según sus roles. En ese documento se mencionan también métricas cuantitativas a cumplir; éstas no serán analizadas en este apartado.
 
 La labor de los desarrolladores y testers incluye:
 
@@ -204,11 +209,11 @@ La labor de los desarrolladores y testers incluye:
 | Adrián Cabello Martín               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | María de la Salud Carrera Talaverón | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Pablo Jesús Castellanos Compaña     | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Fernando José de Celis Hurtado      | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
-| David Godoy Fernández               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Fernando José de Celis Hurtado      | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| David Godoy Fernández               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Miguel Hernández Sánchez            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Antonio Montero López               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
-| Gonzalo Navas Remmers               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
+| Antonio Montero López               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Gonzalo Navas Remmers               | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Natalia Olmo Villegas               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 | Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
@@ -216,7 +221,7 @@ La labor de los desarrolladores y testers incluye:
 | Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 
-En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del Sprint y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
+En cuanto a los miembros del grupo con roles extra, se van a comentar las responsabilidades de cada uno según el rol que tengan. La Project Manager (PM) debe asegurar la correcta gestión del proyecto (lo que se traduce en la planificación del entregable y la asignación de tareas), facilitando la comunicación y coordinación del equipo, así como el cumplimiento de plazos y objetivos. Los Jefes de Marketing, Documentación, Código y Revisión deben cumplir la misma función pero únicamente sobre el subgrupo de trabajo que gestionan, además de apoyar a la PM en su labor.
 
 | Jefe                                                   | Gestión del proyecto | Mantiene y facilita la comunicación con el equipo | Coordina al grupo | Supervisa el cumplimiento de plazos |
 |--------------------------------------------------------|----------------------|---------------------------------------------------|-------------------|-------------------------------------|
@@ -245,15 +250,25 @@ Por último, Sergio Pons López y Lorenzo Torralba Lanzas son los encargados de 
 
 <div id='id3'></div>
 
-##  Reestimación del Sprint
+##  Reestimación del Entregable
 
-A día de 14/05/2025 no se ha llevado a cabo ninguna reestimación de la planificación del entregable.
+Durante esta segunda semana, no se ha realizado una reestimación formal de las tareas del entregable. La mayoría han sufrido pocos cambios; se han añadido algunas tareas conforme se iban detectando errores o cosas nuevas por hacer/modificar y también se han eliminado algunas otras tareas ya definidas, que se han considerado innecesarias para el proyecto.
+
+Por una falta de coordinación en la ejecución de las tareas correspondientes, el documento de `sprintPlanning.md` no se redactó durante la primera semana del WPL, como estaba planificado. Ha sido redactado durante esta segunda semana, por lo que ya están reflejados en su contenido los cambios añadidos a la planificación del entregable. Es por esto que volver a indicar en este documento las tareas definidas nos parece redundante. Por tanto, se va a omitir este contenido en esta ocasión. Todas las tareas definidas para este entregable se pueden consultar en el documento `sprintPlanning.md`.
 
 <div id='concl'></div>
 
 ## Conclusiones
 
-El desarrollo del entregable WPL ha puesto de manifiesto una evolución positiva y consolidada del equipo Eventbride. El cumplimiento generalizado de las métricas cuantitativas y cualitativas refleja un alto grado de implicación, coordinación y responsabilidad por parte de los integrantes. La planificación ha sido eficaz y la reestimación realizada a mitad del entregable ha permitido adaptarse a nuevas necesidades sin comprometer los objetivos iniciales. La asignación de roles ha funcionado correctamente, con una ejecución efectiva de las funciones de liderazgo, aseguramiento de la calidad, coordinación de tiempos y diseño. Aunque algunos aspectos, como el número de tests o el registro de horas en ciertos casos, son mejorables, el equipo ha respondido con proactividad y compromiso. Esto sitúa al grupo en una posición muy favorable de cara a la última fase del proyecto, con una base sólida para culminarlo con éxito y una dinámica de trabajo madura que ha sabido afrontar los retos surgidos durante el proceso.
+Tras el análisis detallado de las métricas cuantitativas y cualitativas recogidas durante la segunda semana del WPL, se puede afirmar que el equipo Eventbride ha demostrado un alto nivel de compromiso, organización y madurez en el desarrollo del proyecto.
+
+Desde el punto de vista **cuantitativo**, todos los miembros han alcanzado o superado los mínimos establecidos para las métricas generales, lo cual refleja una distribución equitativa del esfuerzo y una implicación constante a lo largo del desarrollo. Del mismo modo, los subgrupos de Marketing, Documentación, Código y Revisión han cumplido satisfactoriamente con los objetivos específicos asignados, consolidando el trabajo colaborativo y el reparto efectivo de tareas.
+
+En cuanto al **análisis cualitativo**, se evidencia que el equipo ha respetado los acuerdos establecidos en el *Commitment Agreement*, cumpliendo con los valores de responsabilidad, comunicación, registro del trabajo, calidad y resolución de conflictos. Todos los roles de responsabilidad han sido desempeñados con diligencia, contribuyendo al éxito del entregable desde diferentes ámbitos organizativos y técnicos.
+
+A pesar de pequeños desajustes puntuales, como la redacción tardía del `sprintPlanning.md`, el equipo ha sabido adaptarse y corregir desviaciones sin comprometer la calidad ni los plazos de entrega. Esta capacidad de reacción ante imprevistos refleja una adecuada madurez profesional, así como una gestión del tiempo realista y eficiente.
+
+En definitiva, el equipo Eventbride ha logrado consolidar un entorno de trabajo colaborativo, cumpliendo con los estándares exigidos en la asignatura y asegurando la calidad del producto final. El desempeño observado durante este WPL pone de manifiesto no sólo la competencia técnica del grupo, sino también su capacidad para coordinar esfuerzos, resolver problemas de forma autónoma y avanzar con una visión común, cualidades esenciales en cualquier entorno profesional real.
 
 <div id='bib'></div>
 
@@ -261,8 +276,8 @@ El desarrollo del entregable WPL ha puesto de manifiesto una evolución positiva
 
 No procede.
 
-[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v4.1.1` del 1 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
+[^1]: GitHub no ofrece _insights_ sobre otra rama que no sea la `master` o `main` de un repositorio, por lo que las **LdC** de cada desarrollador reflejadas en la tabla corresponderán a la última _release_ lanzada en el repositorio `Eventbride` anteriormente a la elaboración de este documento, y no a las contribuciones hechas en la rama `develop` de dicho repositorio. En este caso, esta métrica corresponde a la release `v5.0.0` del 17 de mayo de 2025. De manera similar, el número de **commits** se calculará sumando los commits hechos en las ramas principales de ambos repositorios, sin contar las contribuciones hechas a cualquier otra rama de alguno de ellos.
 
-[^2]: Se ha realizado el día anterior a la finalización de la primera semana del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
+[^2]: Se ha realizado el día anterior a la finalización del WPL para poder redactar el documento con margen suficiente antes de la elaboración de la presentación y la entrega del proyecto. Si algún miembro del equipo no cumple con alguno de los mínimos establecidos en ese momento, es posible que se haya puesto al día posteriormente a la elaboración de este documento y antes de la finalización de la semana que se está analizando.
 
 [^3]: Manuel Pérez Vélez está contribuyendo al proyecto de GitHub de Eventbride con dos cuentas de GitHub diferentes. Sus métricas de LdC, commits, issues, PRs y tests se calcularán sumando las contribuciones hechas desde ambas cuentas.
