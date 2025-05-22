@@ -24,7 +24,7 @@
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 21/05/2025
+### Fecha: 22/05/2025
 
 ### Entregable: WPL
 
@@ -46,6 +46,7 @@
 | 01/05/2025 | v4.1    | Adición de nuevas pantallas y cambio de las que se han actualizado | PPL | Sergio Pons López, Pablo Jesús Castellanos Compaña       |
 | 01/05/2025 | v4.2    | Adición de casos de uso al punto 2 | PPL | Francisco Avilés Carrera      |
 | 21/05/2025 | v5.0    | Actualización de las imágenes acordes al WPL | WPL | Sergio Pons López, Héctor Noguera González    |
+| 22/05/2025 | v5.1    | Revisión casos de uso y adición de enlaces de despliegue | WPL | Francisco Avilés Carrera   |
 
 ## Contenido
 1. [Introducción](#intro)
@@ -512,7 +513,11 @@ Administrador:
 
 **URL del despliegue de la aplicación (SPRINT3): https://sprint3-dot-ispp-2425-03.ew.r.appspot.com/login** 
 
-**URL del despliegue de la aplicación (PPL): https://ppl-dot-ispp-2425-03.ew.r.appspot.com** 
+**URL del despliegue de la aplicación (PPL): https://ppl-dot-ispp-2425-03.ew.r.appspot.com**
+
+**URL del despliegue de la aplicación (WPL): https://wpl-dot-ispp-2425-03.ew.r.appspot.com/**
+
+**URL del despliegue de la documentación: https://ispp-2425-g3.ew.r.appspot.com/**
 
 **URL de GitHub: https://github.com/ISPP-Eventbride**
 
