@@ -1027,10 +1027,27 @@ Tras ello, me encargué de la edición del segundo y tercer tutorial de Eventbri
 
 ### Godoy Fernández, David
 
+Durante este Sprint, he participado activamente en la coordinación y ejecución de tareas clave en los ámbitos de documentación y marketing, con un enfoque especial en la comunicación y difusión del proyecto.
+
+En primer lugar, he asistido a las reuniones del equipo, en las que se ha trabajado de forma colaborativa para alinear el avance de los distintos frentes del proyecto. Estas sesiones han sido esenciales para asegurar una correcta distribución de tareas y una visión compartida entre todos los miembros.
+
+En el área documental, he contribuido al desarrollo del Keyword Planner, elaborando tanto el análisis estratégico como el documento correspondiente. Este trabajo ha permitido identificar términos clave para optimizar el posicionamiento del proyecto y sentar las bases de futuras acciones de visibilidad.
+
+Asimismo, he colaborado de manera activa en la grabación y edición de contenido audiovisual orientado a inversores y proveedores, con el objetivo de transmitir de forma clara y atractiva el valor de la plataforma. Esta labor ha resultado fundamental para apoyar los esfuerzos de captación y comunicación externa.
+
+Por último, he realizado la grabación y edición de la serie Divinas TV, contribuyendo a fortalecer la identidad visual del proyecto y generando contenido relevante para la audiencia. Esta tarea ha representado una pieza clave dentro de la estrategia de marketing del equipo.
+
 
 
 ### Hernández Sánchez, Miguel
 
+Durante este Sprint, he centrado mi trabajo en tareas técnicas orientadas a la mejora de la estabilidad y evolución del proyecto.
+
+En primer lugar, he llevado a cabo la resolución de diversos bugs detectados en la implementación, contribuyendo a una mayor solidez del sistema y mejorando la experiencia general del usuario. Estas correcciones han sido fundamentales para garantizar el correcto funcionamiento de la aplicación en distintos escenarios.
+
+Asimismo, me he encargado de arreglar la ejecución secuencial de todos los tests automáticos, asegurando que las pruebas se ejecuten de forma ordenada y sin conflictos, lo cual es esencial para mantener la calidad del software y detectar errores de forma fiable en futuras integraciones.
+
+Finalmente, he liderado la adaptación de la aplicación a un modelo PWA (Progressive Web App), permitiendo su instalación en dispositivos móviles y mejorando su accesibilidad y rendimiento en entornos fuera del navegador convencional. Esta transición ha supuesto un paso importante hacia una experiencia de usuario más moderna y versátil.
 
 
 ### Montero López, Antonio
@@ -1079,6 +1096,11 @@ Finalmente, gestioné la publicación de varias encuestas y otros contenidos en 
 
 ### Pizzano Cerrillos, Andrés
 
+Durante este Sprint, se ha implementado con éxito la funcionalidad de actualización parcial de la entidad Evento, desarrollando tanto la lógica en el backend mediante el método `PATCH` como su correspondiente integración en el frontend. Esta mejora representa un avance significativo en términos de flexibilidad para los usuarios, permitiéndoles editar eventos sin necesidad de modificar todos los campos. La implementación ha requerido una adecuada manipulación del modelo de datos, el establecimiento de validaciones precisas y una optimización de la experiencia de usuario en la interfaz. El resultado ha sido una solución técnica limpia, funcional y plenamente coherente con la arquitectura existente.
+
+Adicionalmente, se ha producido un vídeo de marketing orientado a fomentar el uso de la plataforma por parte de los proveedores. Este material no solo responde a un objetivo estratégico de captación, sino que también demuestra una comprensión clara del público objetivo y refleja una iniciativa proactiva para impulsar la adopción del sistema. La ejecución del vídeo ha combinado creatividad con una intención comercial definida, y ha contado con la colaboración de Lorenzo Torralba y David Godoy, aportando un valor añadido complementario al desarrollo técnico.
+
+Por último, se ha llevado a cabo el despliegue final de la aplicación, bajo el nombre "Deploy WPL". Esta tarea ha implicado la verificación de la estabilidad del entorno, la compatibilidad entre versiones, la realización de pruebas posteriores al despliegue, y la confirmación de que todas las funcionalidades clave se encontraran operativas. El despliegue se completó satisfactoriamente, consolidando el trabajo realizado durante todo el proyecto y permitiendo cerrar el Sprint con una entrega sólida y apta para su puesta en producción.
 
 
 ### Pons López, Sergio
