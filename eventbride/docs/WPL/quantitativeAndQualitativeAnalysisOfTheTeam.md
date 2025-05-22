@@ -217,7 +217,7 @@ La labor de los desarrolladores y testers incluye:
 | Héctor Noguera González             | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Natalia Olmo Villegas               | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 | Manuel Pérez Vélez                  | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
-| Andrés Pizzano Cerrillos            | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
+| Andrés Pizzano Cerrillos            | No procede | Sí                  | No              | Sí           | Sí                        | Sí         |
 | Sergio Pons López                   | No procede | Sí                  | Sí              | Sí           | Sí                        | Sí         |
 | Lorenzo Torralba Lanzas             | No procede | Sí                  | Mejorable       | Sí           | Sí                        | Sí         |
 
