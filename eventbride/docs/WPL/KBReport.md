@@ -31,9 +31,10 @@
 
 ### Historial de versiones
 
-| Fecha      | Versión | Descripción                                | Entrega  | Contribuyente(s)                    |
-|------------|---------|--------------------------------------------|----------|-------------------------------------|
-| 22/05/2025 | v1.0    | Creación del documento y redacción del mismo | WPL | Ignacio Blanquero Blanco |
+| Fecha      | Versión | Descripción                                  | Entrega  | Contribuyente(s)                    |
+|------------|---------|----------------------------------------------|----------|-------------------------------------|
+| 22/05/2025 | v1.0    | Creación del documento y redacción del mismo | WPL      | Ignacio Blanquero Blanco            |
+| 22/05/2025 | v1.1    | Formatos                                     | WPL      | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -51,14 +52,13 @@
 
 ## Introducción
 
-El presente documento recoge el trabajo realizado por el Grupo 3 - Eventbride dentro de la asignatura Ingeniería del Software y Práctica Profesional (ISPP), correspondiente a la entrega del WPL del proyecto. En este informe se detalla el feedback recibido por nuestro equipo, tanto por parte del profesorado como del resto de grupos, así como las aportaciones que hemos realizado a la Base Común de Conocimiento (BCC). Además, se presenta el feedback recopilado de otros equipos y las acciones de consolidación que hemos llevado a cabo para mejorar nuestro proceso de desarrollo. Este ejercicio de reflexión y análisis colectivo no solo nos ha permitido detectar áreas de mejora, sino también reforzar buenas prácticas y fortalecer el compromiso con los objetivos del proyecto.
+El presente documento recoge el trabajo realizado por el Grupo 3 - Eventbride dentro de la asignatura Ingeniería del Software y Práctica Profesional (ISPP), correspondiente a la entrega del WPL del proyecto. En este informe se detalla el feedback recibido por nuestro equipo durante la Semana 12 (02/05/2025), tanto por parte del profesorado como del resto de grupos, así como las aportaciones que hemos realizado a la Base Común de Conocimiento (BCC). Además, se presenta el feedback recopilado de otros equipos durante esa misma semana y las acciones de consolidación que hemos llevado a cabo para mejorar nuestro proceso de desarrollo. Este ejercicio de reflexión y análisis colectivo no solo nos ha permitido detectar áreas de mejora, sino también reforzar buenas prácticas y fortalecer el compromiso con los objetivos del proyecto.
 
 <div id='id1'></div>
 
-# Feedback recibido por nuestro grupo aportado a la Base Común de Conocimiento
+## Feedback recibido por nuestro grupo aportado a la Base Común de Conocimiento
 
-## Semana 12 (02/05/2025)
-#### Feedback relacionado con la presentación
+### Feedback relacionado con la presentación
 
 - El **killer opener fue nuevamente destacado** por su eficacia para captar la atención del público desde el inicio.
 - El equipo realizó una **presentación muy sólida**, con una buena puesta en escena y un **formato de diapositivas visualmente atractivo y claro**.
@@ -70,14 +70,14 @@ El presente documento recoge el trabajo realizado por el Grupo 3 - Eventbride de
 - El **anuncio dirigido a proveedores no logró generar la confianza esperada**. Se sugiere omitirlo si no se mejora su contenido y presentación.
 - Algunas pantallas de la demo se ven ajustadas en tamaño, lo que dificulta su correcta visualización.
 
-#### Feedback relacionado con el desarrollo del proyecto
+### Feedback relacionado con el desarrollo del proyecto
 
 - Se destacó la **necesidad de revisar la terminología técnica utilizada en el análisis financiero**, evitando jergas como “CAPEX” u “OPEX” que pueden no ser comprendidas por todos los públicos. Se recomienda observar cómo lo han abordado otros grupos y adaptar el lenguaje para mejorar la accesibilidad.
 - El **enfoque sobre los paquetes de inversión debería reforzarse en el vídeo**, dándoles más protagonismo y claridad. Actualmente, se menciona poco y su aparición visual es algo confusa.
 - Se sugiere **resumir la información presente en transparencias** y **aprovechar más el vídeo como canal principal de comunicación**, integrando allí los mensajes clave de forma visual y estructurada.
 - Se hizo una pequeña observación sobre el uso reiterado por parte de uno de los presentadores de expresiones como “pequeño evento” o “pequeña semana”. Aunque no afecta gravemente, se recomienda mayor atención al lenguaje para no restar importancia a los elementos del proyecto.
 
-#### Tareas a realizar para la siguiente semana
+### Tareas a realizar para la siguiente semana
 
 Intencionalmente en blanco.
 
@@ -85,11 +85,10 @@ Intencionalmente en blanco.
 
 <div id='id2'></div>
 
-# Feedback de otros equipos recopilado por nuestro grupo
+## Feedback de otros equipos recopilado por nuestro grupo
 
-## Grupo 1 - Holos
+### Grupo 1 - Holos
 
-## Semana 12 (02/05/2025)
 #### Feedback relacionado con la presentación
 
 - Se valoró positivamente la **mejora en la calidad del audio**, ya que en presentaciones anteriores no se escuchaba con claridad desde el fondo. En esta ocasión, las voces fueron nítidas y comprensibles.
@@ -117,9 +116,8 @@ Intencionalmente en blanco.
 
 ---
 
-## Grupo 2 -  GastroStock
+### Grupo 2 -  GastroStock
 
-## Semana 12 (02/05/2025)
 #### Feedback relacionado con la presentación
 
 - El **killer opener fue especialmente efectivo y refinado**, logrando captar la atención del público desde el inicio. Incluso se valora que supera propuestas anteriores, manteniendo un tono original y coherente.
@@ -149,9 +147,8 @@ Intencionalmente en blanco.
 
 ---
 
-## Grupo 4 - BORROO
+### Grupo 4 - BORROO
 
-## Semana 12 (02/05/2025)
 #### Feedback relacionado con la presentación
 
 - El **killer opener fue especialmente celebrado**, aprovechando con acierto eventos recientes como el apagón y la Feria de Sevilla, lo que generó una fuerte conexión con el público desde el inicio.
@@ -184,9 +181,8 @@ Intencionalmente en blanco.
 
 ---
 
-## Grupo 5 -  CAMYO
+### Grupo 5 -  CAMYO
 
-## Semana 12 (02/05/2025)
 #### Feedback relacionado con la presentación
 
 - El **killer opener fue altamente valorado** por su calidad de edición, claridad en las voces y capacidad para captar la atención desde el primer momento. Se percibió como un comienzo profesional y bien ejecutado.
@@ -217,9 +213,8 @@ Intencionalmente en blanco.
 
 ---
 
-## Grupo 6 -  FisioFind
+### Grupo 6 -  FisioFind
 
-## Semana 12 (02/05/2025)
 #### Feedback relacionado con la presentación
 
 - El equipo ha realizado una **presentación muy sólida y bien ejecutada**, destacando por su dinamismo, claridad en la exposición y calidad audiovisual.
@@ -255,7 +250,7 @@ Intencionalmente en blanco.
 
 <div id='id3'></div>
 
-# Anotaciones del feedback general aportado a la BCC
+## Anotaciones del feedback general aportado a la BCC
 
 Según se refleja en la imagen adjunta, a nuestro grupo le fue asignada la tarea de recopilar y aportar feedback general durante la semana del 5 de mayo, concretamente en la sesión correspondiente al día 9 del mismo mes. No obstante, debido a que dicha semana coincidió con la celebración de la Feria de Sevilla y no se impartieron clases, esta sección permanece vacía.
 
@@ -269,7 +264,7 @@ Según se refleja en la imagen adjunta, a nuestro grupo le fue asignada la tarea
 
 <div id='id4'></div>
 
-# Acciones de consolidación llevadas a cabo por nuestro equipo
+## Acciones de consolidación llevadas a cabo por nuestro equipo
 
 Desde **EVENTBRIDE**, hemos analizado cuidadosamente el feedback recibido durante la semana 12 y hemos implementado las siguientes acciones de mejora:
 
