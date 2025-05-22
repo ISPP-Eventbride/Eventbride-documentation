@@ -428,8 +428,6 @@ También ha participado en tareas documentales como la redacción de changelogs 
 
 ## Conclusiones
 
-## Conclusiones
-
 El desarrollo del **World Project Launch (WPL)** ha representado la culminación del proyecto ISPP, siendo una etapa clave donde se ha consolidado el trabajo técnico, organizativo y comunicativo llevado a cabo durante los meses previos. A lo largo del periodo analizado, el equipo ha demostrado un elevado grado de implicación y madurez, traducido en más de **209 horas de trabajo colaborativo**, una intensa producción de entregables, y una ejecución técnica precisa.
 
 Desde un punto de vista integral, los miembros del grupo han desempeñado roles diversos que se han complementado de forma eficaz: desde el desarrollo y estabilización del sistema hasta el diseño de estrategias de marketing, pasando por la documentación técnica y la atención a la experiencia del usuario. Las tareas realizadas no solo han respondido a los objetivos establecidos, sino que han contribuido activamente a posicionar el producto con una imagen profesional, funcional y atractiva.
