@@ -279,8 +279,11 @@ Después, se puede ver los servicios que se han contratado. De cada servicio apa
 
 Finalmente, debajo del todo, te aparece un desglose del pago de las señales, incluyendo la comisión por gastos de gestión del 5%, dando la opción de pagarlas a través de PayPal o de una tarjeta de débito o crédito.
 
-<img src="https://iili.io/3hTPTt1.png"></img> 
-<img src="https://iili.io/3hTi4II.png"></img> 
+<img src="https://iili.io/3Z2HC3Q.png"></img> 
+<img src="https://iili.io/3hTi4II.png"></img>
+
+Se podrán actualizar detalles del evento, como el nombre, los invitados y el tipo de evento.
+<img src="https://iili.io/3Z2FYkQ.png"></img>
 
 Si clicas sobre la cifra que aparece en azul de ***COSTE ACUMULADO*** (en este caso 6300€), se te abre la siguiente pestaña en la que se pueden observar el coste total y el coste de las señales.
 
