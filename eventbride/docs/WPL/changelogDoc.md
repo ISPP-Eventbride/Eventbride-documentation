@@ -1,6 +1,6 @@
 # Changelog
 ## Ingeniería del Software y Práctica Profesional (ISPP)
-<center><img src="https://iili.io/3BcQ3YJ.md.png" alt="Eventbride Logo"></img></center>
+<center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
 
 ### Grupo 3: Eventbride
 
