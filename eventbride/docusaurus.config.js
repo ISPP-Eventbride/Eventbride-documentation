@@ -147,6 +147,10 @@ const config = {
                 href: 'https://www.tiktok.com/@eventbride',
               },
               {
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@EventBride',
+              },
+              {
                 label: 'Equipo',
                 to: '/equipo',
               },
