@@ -1,7 +1,3 @@
----
-sidebar_position: 3
----
-
 # Estrategia Lead Magnets
 ## Ingeniería del Software y Práctica Profesional (ISPP)
 <center><img src="https://iili.io/3Uvkqe2.png" alt="Eventbride Logo" width="300" height="300"></img></center>
@@ -27,7 +23,7 @@ sidebar_position: 3
 - Sergio Pons López
 - Lorenzo Torralba Lanzas
 
-### Fecha: 19/05/2025
+### Fecha: 21/05/2025
 
 ### Entregable: Sprint WPL
 
@@ -35,9 +31,10 @@ sidebar_position: 3
 
 ### Historial de versiones
 
-| Fecha      | Versión | Descripción                       | Entrega | Contribuyente(s)   |
-|------------|---------|-----------------------------------|---------|--------------------|
-| 19/05/2025 | v1.0    | Creación y relleno del documento  | WPL     | Sergio Pons López  |
+| Fecha      | Versión | Descripción                      | Entrega | Contribuyente(s)                    |
+|------------|---------|----------------------------------|---------|-------------------------------------|
+| 19/05/2025 | v1.0    | Creación y relleno del documento | WPL     | Sergio Pons López                   |
+| 21/05/2025 | v1.1    | Bibliografía                     | WPL     | María de la Salud Carrera Talaverón |
 
 ---
 
@@ -176,4 +173,4 @@ Los lead magnets presentados en este documento están orientados a posicionar a 
 
 ## Bibliografía
 
-Bibliografía.
+No procede.
