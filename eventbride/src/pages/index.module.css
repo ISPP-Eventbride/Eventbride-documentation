@@ -33,14 +33,10 @@
   margin-bottom: 1rem;
 }
 
-.document-link {
-  text-decoration: none;
-  color: #333;
-}
-
-.document-title {
+.documentTitle {
   font-size: 1.2rem;
   margin-bottom: 0.5rem;
+  font-weight: bold;
 }
 
 .importantDoc {

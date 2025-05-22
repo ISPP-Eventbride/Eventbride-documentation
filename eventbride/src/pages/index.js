@@ -66,12 +66,12 @@ function ImportantDoc() {
               key={index}
               className={clsx("document-card", styles.documentCard)}
             >
-              <a
-                href={document.url}
-                className="document-link"
+              <Link
+                className={clsx("document-title", styles.documentTitle)}
+                to={document.url}
               >
-                <h3 className="document-title">{document.name}</h3>
-              </a>
+                {document.name}
+              </Link>
             </div>
           ))}
         </div>
