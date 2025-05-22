@@ -1,0 +1,8 @@
+{
+  "label": "Actas de reuniones",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Actas de reuniones del entregable PPL."
+  }
+}
