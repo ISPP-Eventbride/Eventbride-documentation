@@ -356,7 +356,7 @@ Además, ha participado activamente en la planificación interna del proyecto, d
 **Periodo de análisis:** 02/05/2025 – 23/05/2025  
 **Horas totales registradas:** 11 horas, 58 minutos y 13 segundos
 
-<center><img src="https://iili.io/3ZlG8Yl.md.png"></img></center
+<center><img src="https://iili.io/3ZlG8Yl.md.png"></img></center>
 
 Durante el desarrollo del World Project Launch (WPL) del proyecto ISPP, Manuel Pérez Vélez ha contribuido principalmente en tareas de marketing digital, diseño gráfico y gestión de redes sociales, complementadas con su participación en sesiones formativas clave.
 
